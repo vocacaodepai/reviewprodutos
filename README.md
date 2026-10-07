@@ -31,6 +31,7 @@ Validar conteúdo:
 npm run validate:content           # schema + regras editoriais
 npm run images:check               # idem + checa URLs/dimensões das imagens
 node scripts/find-image.mjs ASIN   # descobre a imagem real de um produto pelo ASIN
+node scripts/update-queue.mjs <id> published <slug>   # marca um tema da fila (atômico, seguro em paralelo)
 ```
 
 ## Configuração obrigatória antes de ir ao ar

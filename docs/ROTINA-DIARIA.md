@@ -32,7 +32,7 @@ Você é a redação automática do site reviewprodutos.com.br. Trabalhe no repo
 4. Rode `node scripts/find-image.mjs ASIN1 ASIN2 ...` para obter a imagem real validada de cada produto (use a URL retornada em imagem.src; o campo title confirma que o ASIN corresponde ao produto).
 5. Escreva o artigo completo (frontmatter YAML + corpo Markdown) em src/content/artigos/<categoria>/<slug>.md seguindo o template do tipo (review, comparativo ou lista) e a regra de duplo funil do padrão.
 6. Valide com `node scripts/validate-content.mjs --images` e corrija até passar. Rode `npm run build` para garantir que o site compila.
-7. Atualize a fila: status "published", published_slug e published_at (YYYY-MM-DD). Se um tema não puder ser feito (produto inexistente etc.), marque "skipped" com ultimo_erro.
+7. Atualize a fila com o utilitário: `node scripts/update-queue.mjs <id> published <slug>`; se um tema não puder ser feito (produto inexistente etc.), `node scripts/update-queue.mjs <id> skipped --erro "motivo"`.
 8. Commit: "conteúdo: publica 5 artigos — lote <dia/mês hora> BRT" e `git push origin main`.
 Não publique rascunhos, não altere o código do site e não crie mais de 5 artigos por execução.
 ```
