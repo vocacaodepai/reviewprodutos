@@ -305,7 +305,7 @@ Esta análise se baseia em especificações oficiais dos fabricantes e das ficha
 | Samsonite Brasil | Ótimo | 8,3/10 | 87,3% | mar–ago/2026 |
 | Swiss Move | Ótimo | 8,0/10 | 93,9% | fev–jul/2026 |
 | Sestini (loja física) | Regular | 6,9/10 | 68,4% | jan–jun/2026 |
-| Jacki Design | Sem reputação definida (menos de 10 avaliações) | — | tempo médio de resposta de 37 dias | jan–jun/2026 |
+| Jacki Design | Sem reputação definida (poucas reclamações avaliadas) | — | tempo médio de resposta de 37 dias | jan–jun/2026 |
 | Swissland | Sem página consolidada | — | — | — |
 
 ## 1. Samsonite Bahia Lite: melhor para quem viaja com frequência
