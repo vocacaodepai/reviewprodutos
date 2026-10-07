@@ -41,9 +41,8 @@ export default defineConfig({
   prefetch: { prefetchAll: false, defaultStrategy: 'hover' },
   build: { format: 'directory', inlineStylesheets: 'auto' },
   image: {
-    // Imagens de produto vêm da CDN da Amazon e são otimizadas/convertidas para WebP no build
-    domains: ['m.media-amazon.com', 'images-na.ssl-images-amazon.com', 'images-amazon.com'],
-    remotePatterns: [{ protocol: 'https', hostname: '**.media-amazon.com' }, { protocol: 'https', hostname: '**.ssl-images-amazon.com' }],
+    // Imagens da Amazon NÃO são otimizadas/copiadas (exibidas por link direto). Só fontes próprias/fabricantes passam pelo serviço de imagens.
+    remotePatterns: [{ protocol: 'https' }],
   },
   integrations: [
     sitemap({
@@ -60,5 +59,9 @@ export default defineConfig({
     { name: 'Inter', cssVariable: '--font-inter', provider: fontProviders.google(), weights: [400, 500, 600, 700], styles: ['normal'], subsets: ['latin', 'latin-ext'], fallbacks: ['system-ui', 'sans-serif'] },
     { name: 'Sora', cssVariable: '--font-sora', provider: fontProviders.google(), weights: [600, 700, 800], styles: ['normal'], subsets: ['latin', 'latin-ext'], fallbacks: ['Inter', 'system-ui', 'sans-serif'] },
   ],
-  vite: { plugins: [tailwindcss()] },
+  vite: {
+    plugins: [tailwindcss()],
+    // satori/resvg trazem WASM e binários nativos: deixar o Node resolvê-los em vez de empacotar no prerender
+    ssr: { external: ['satori', '@resvg/resvg-js', 'sharp'] },
+  },
 });

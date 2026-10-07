@@ -2,15 +2,19 @@
  * Descoberta e validação de imagens reais de produtos da Amazon.com.br a partir do ASIN.
  *
  * Ordem de preferência (ver docs/PADRAO-EDITORIAL.md → Política de imagens):
- *  1. PA-API 5 (se AMAZON_PAAPI_* estiverem configuradas) — ainda não implementado aqui (exige 3 vendas).
- *  2. Página do produto (amazon.com.br/dp/ASIN) — costuma bloquear datacenters; tentamos uma vez.
- *  3. Snapshot da Wayback Machine da página do produto → URLs "hiRes" (m.media-amazon.com/images/I/...).
- *  4. Miniatura por ASIN (images-na.ssl-images-amazon.com/images/P/ASIN.01._SL500_.jpg) — baixa resolução (~160px).
- * Toda URL retornada é validada (HTTP 200, image/*, tamanho mínimo, dimensões via sharp).
+ *  1. Creators API da Amazon (quando a conta atingir 10 vendas/30 dias) — a implementar em scripts/lib/creators-api.mjs.
+ *  2. Snapshot público da Wayback Machine da página do produto → URL "hiRes" (m.media-amazon.com/images/I/...),
+ *     exibida por LINK DIRETO no site (nunca baixada, cacheada ou derivada).
+ *  3. Página do produto ao vivo, com user-agent identificado "Agent/reviewprodutos" (sem burlar bloqueios; se a Amazon negar, desistimos).
+ *  4. Miniatura por ASIN (images/P/ASIN.01._SL500_.jpg) — baixa resolução (~160px), último recurso.
+ * A validação baixa a imagem apenas em memória para checar HTTP 200/dimensões; nada é gravado em disco.
+ * AVISO: o Contrato Operacional só autoriza imagens via API/links fornecidos pela Amazon. Enquanto a API não estiver
+ * disponível, prefira imagens oficiais do fabricante (imagem.fonte: fabricante) sempre que o redator encontrar.
  */
 import sharp from 'sharp';
 
-const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36 ReviewProdutosBot/1.0 (+https://reviewprodutos.com.br)';
+// Licença de PI do Programa de Associados BR: agentes automatizados devem se identificar como "Agent/<nome>" e nunca burlar CAPTCHA.
+const UA = 'Agent/reviewprodutos (+https://reviewprodutos.com.br; contato@reviewprodutos.com.br)';
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 async function fetchText(url, { timeout = 25000, headers = {} } = {}) {
@@ -61,7 +65,8 @@ function extractTitle(html) {
 async function fromLivePage(asin) {
   try {
     const r = await fetchText(`https://www.amazon.com.br/dp/${asin}`);
-    if (!r.ok || r.text.length < 50000 || /api-services-support@amazon\.com/.test(r.text)) return null;
+    // Página de bloqueio/CAPTCHA: não insistimos nem contornamos.
+    if (!r.ok || r.text.length < 50000 || /api-services-support@amazon\.com|validateCaptcha/.test(r.text)) return null;
     return { images: extractAmazonImages(r.text), title: extractTitle(r.text), source: 'amazon-live' };
   } catch { return null; }
 }
@@ -92,7 +97,7 @@ function thumbnailByAsin(asin) {
  */
 export async function resolveProductImage(asin, { allowLowRes = true } = {}) {
   if (!/^[A-Z0-9]{10}$/.test(asin)) throw new Error(`ASIN inválido: ${asin}`);
-  const attempts = [fromLivePage, fromWayback];
+  const attempts = [fromWayback, fromLivePage];
   for (const fn of attempts) {
     const r = await fn(asin);
     if (!r) continue;

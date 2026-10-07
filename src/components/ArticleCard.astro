@@ -25,7 +25,7 @@ const tipoIcon = a.data.tipo === 'review' ? 'star' : a.data.tipo === 'comparativ
 ) : (
   <article class={`card group flex h-full flex-col overflow-hidden transition hover:-translate-y-0.5 hover:shadow-lg ${variant === 'featured' ? 'md:flex-row' : ''}`} data-tipo={a.data.tipo} data-sub={a.data.subcategoria} data-cat={a.data.categoria.id}>
     <a href={url} class={`block bg-white p-4 ${variant === 'featured' ? 'md:w-5/12 md:shrink-0' : ''}`} tabindex="-1" aria-hidden="true">
-      <ProductImage src={a.data.imagem.src} alt={a.data.imagem.alt} class={`mx-auto aspect-[4/3] w-full object-contain ${variant === 'featured' ? 'max-h-72' : 'max-h-48'}`} sizes="(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw" loading={eager ? 'eager' : 'lazy'} fetchpriority={eager ? 'high' : 'auto'} />
+      <ProductImage src={a.data.imagem.src} alt={a.data.imagem.alt} width={a.data.imagem.largura} height={a.data.imagem.altura} class={`mx-auto aspect-[4/3] w-full object-contain ${variant === 'featured' ? 'max-h-72' : 'max-h-48'}`} sizes="(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw" loading={eager ? 'eager' : 'lazy'} fetchpriority={eager ? 'high' : 'auto'} />
     </a>
     <div class="flex flex-1 flex-col p-5">
       <div class="flex flex-wrap items-center gap-2 text-[11px] font-bold uppercase tracking-wide">

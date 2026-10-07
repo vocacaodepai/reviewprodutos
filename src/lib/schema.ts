@@ -94,7 +94,7 @@ export function articleSchema(artigo: Artigo, autor: Autor, categoria: Categoria
       headline: d.seoTitle ?? d.title,
       alternativeHeadline: d.title,
       description: d.description,
-      image: [d.imagem.src],
+      image: [absoluteUrl(`/og/${artigo.id}.png`), d.imagem.src],
       datePublished: d.pubDate.toISOString(),
       dateModified: (d.updatedDate ?? d.pubDate).toISOString(),
       author: { '@id': `${SITE.url}${autorUrl(autor.id)}#person` },

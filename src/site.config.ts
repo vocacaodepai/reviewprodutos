@@ -28,9 +28,11 @@ export const SITE = {
   },
   themeColor: '#0B3C5D',
   // Texto de divulgação exigido pelo Programa de Associados da Amazon (Brasil)
+  // Frase exata exigida pela cláusula 5 do Contrato Operacional do Programa de Associados da Amazon (Brasil)
+  affiliateDisclosureOfficial: 'Como participante do Programa de Associados da Amazon, sou remunerado pelas compras qualificadas efetuadas.',
   affiliateDisclosure:
-    'Como Associado da Amazon, o Review Produtos recebe por compras qualificadas feitas pelos links deste site, sem custo adicional para você. Isso não influencia nossas análises e notas.',
-  affiliateDisclosureShort: 'Como Associado da Amazon, recebemos por compras qualificadas.',
+    'Publicidade (links de afiliado): como participante do Programa de Associados da Amazon, sou remunerado pelas compras qualificadas efetuadas. Você não paga nada a mais por isso e as comissões não influenciam nossas análises e notas.',
+  affiliateDisclosureShort: 'Publicidade: como participante do Programa de Associados da Amazon, sou remunerado pelas compras qualificadas efetuadas.',
 } as const;
 
 export const ARTICLE_TYPES = {

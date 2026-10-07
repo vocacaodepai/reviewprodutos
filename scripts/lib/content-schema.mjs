@@ -36,6 +36,7 @@ export function validateImagem(img, path, errs) {
   if (!img || typeof img !== 'object') return errs.push(`${path}: imagem ausente`);
   if (!isUrl(img.src)) errs.push(`${path}.src: URL inválida`);
   if (!isStr(img.alt, 8, 160)) errs.push(`${path}.alt: alt text precisa ter 8-160 caracteres`);
+  if (img.fonte !== undefined && !['amazon', 'fabricante', 'propria', 'api', 'outra'].includes(img.fonte)) errs.push(`${path}.fonte: amazon | fabricante | propria | api | outra`);
 }
 
 export function validateFrontmatter(data, { categorias = loadCategorias(), autores = loadAutores() } = {}) {
@@ -84,10 +85,11 @@ export function validateFrontmatter(data, { categorias = loadCategorias(), autor
       if (p.especificacoes !== undefined && (typeof p.especificacoes !== 'object' || Array.isArray(p.especificacoes))) errs.push(`${path}.especificacoes: objeto chave/valor`);
       else if (p.especificacoes) for (const [k, v] of Object.entries(p.especificacoes)) if (typeof v !== 'string') errs.push(`${path}.especificacoes.${k}: valor deve ser string (use aspas)`);
       if (p.faixaPreco !== undefined && !['$', '$$', '$$$', '$$$$'].includes(p.faixaPreco)) errs.push(`${path}.faixaPreco: $ | $$ | $$$ | $$$$`);
+      if (p.linksAlternativos !== undefined) { if (!Array.isArray(p.linksAlternativos) || p.linksAlternativos.length > 3) errs.push(`${path}.linksAlternativos: lista de até 3`); else p.linksAlternativos.forEach((l, j) => { if (!isStr(l.loja, 2, 40) || !isUrl(l.url) || /amazon\.com\.br/.test(l.url)) errs.push(`${path}.linksAlternativos[${j}]: loja e url válidas (não Amazon)`); }); }
       if (p.voltagem !== undefined && !isStr(p.voltagem, 2, 20)) errs.push(`${path}.voltagem: texto curto (127V, 220V, Bivolt)`);
       if (p.variantes !== undefined) { if (!Array.isArray(p.variantes) || p.variantes.length > 4) errs.push(`${path}.variantes: lista de até 4`); else p.variantes.forEach((v, j) => { if (!isStr(v.rotulo, 2, 40) || !/^[A-Z0-9]{10}$/.test(v.asin ?? '')) errs.push(`${path}.variantes[${j}]: rotulo e asin válidos`); }); }
       if (p.notasCriterios) for (const [k, v] of Object.entries(p.notasCriterios)) if (!isNum(v, 0, 10)) errs.push(`${path}.notasCriterios.${k}: 0-10`);
-      if (p.avaliacaoConsumidores) { const a = p.avaliacaoConsumidores; if (!isNum(a.media, 0, 5)) errs.push(`${path}.avaliacaoConsumidores.media: 0-5`); if (a.quantidade !== undefined && !Number.isInteger(a.quantidade)) errs.push(`${path}.avaliacaoConsumidores.quantidade: inteiro`); }
+      if (p.avaliacaoConsumidores) { const a = p.avaliacaoConsumidores; if (!isNum(a.media, 0, 5)) errs.push(`${path}.avaliacaoConsumidores.media: 0-5`); if (a.quantidade !== undefined && !Number.isInteger(a.quantidade)) errs.push(`${path}.avaliacaoConsumidores.quantidade: inteiro`); if (!isStr(a.fonte, 2) || /amazon/i.test(a.fonte)) errs.push(`${path}.avaliacaoConsumidores.fonte: obrigatória e não pode ser Amazon (estrelas da Amazon só via Creators API)`); }
     });
   }
   if (data.criterios !== undefined) {
@@ -114,6 +116,9 @@ export function validateBody(body, data) {
   if (/https?:\/\/(www\.)?amazon\.com\.br\/[^\s)]+/.test(body)) errs.push('corpo: não coloque links da Amazon no texto; os botões de afiliado são gerados automaticamente');
   if (/\b(testamos|testei|nosso teste|em nossos testes)\b/i.test(body) && data && !data.testadoFisicamente) errs.push('corpo: afirma teste físico mas testadoFisicamente=false; reescreva como análise ou marque o teste');
   if (/\b(amzn\.to|bit\.ly|tinyurl)\b/i.test(body)) errs.push('corpo: não use encurtadores de link');
+  if (/\b(\d[\d.,]*\s*(estrelas|avaliações)|avaliad[oa]s? (por|com)\s*\d|nota\s*\d[.,]\d\s*(na|da) amazon)\b/i.test(body)) errs.push('corpo: não cite notas/estrelas/quantidade de avaliações da Amazon (proibido sem a Creators API)');
+  if (/\b(cupom|frete gr[áa]tis|menor pre[çc]o|\d+\s?% de desconto|em promo[çc][ãa]o|pre[çc]o promocional)\b/i.test(body)) errs.push('corpo: não prometa promoções, cupons, descontos ou frete (preço/disponibilidade só via API com data/hora)');
+  if (/(segundo|conforme|de acordo com) (as )?avalia[çc][õo]es (da|na) amazon|clientes da amazon (dizem|relatam|elogiam|reclamam)/i.test(body)) errs.push('corpo: não parafraseie avaliações de clientes da Amazon; use fontes próprias/terceiros (Reclame Aqui, testes especializados)');
   if (/<(script|iframe|img)\b/i.test(body)) errs.push('corpo: HTML bruto não permitido');
   return errs;
 }

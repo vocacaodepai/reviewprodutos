@@ -10,6 +10,9 @@ pubDate: 2026-10-07
 autor: equipe
 imagem:
   src: "https://m.media-amazon.com/images/I/71b0CNvU85S._AC_SL1500_.jpg"
+  fonte: amazon
+  largura: 1055
+  altura: 1500
   alt: "Air fryer Mondial Family AFN-40-BI preta com detalhes em inox, cesto quadrado de 4 litros"
 funil:
   estagio: fundo
@@ -33,7 +36,7 @@ produtos:
       - "1.500 W aquece rápido e doura bem batatas, frango e legumes"
       - "Controles analógicos simples: qualquer pessoa usa sem manual"
       - "Preço entre os mais baixos da categoria, com 12 meses de garantia"
-      - "Mais de 11 mil avaliações com média 4,7 de 5 estrelas na Amazon"
+      - "Rede de assistência técnica Mondial ampla no Brasil"
     contras:
       - "Timer mecânico de 60 minutos sem painel digital nem presets"
       - "Antiaderente exige cuidado: relatos de descascamento com esponjas abrasivas"
@@ -62,10 +65,6 @@ produtos:
       "Durabilidade e acabamento": 7.0
       "Ruído": 7.0
       "Custo-benefício": 9.5
-    avaliacaoConsumidores:
-      media: 4.7
-      quantidade: 11600
-      fonte: "Amazon.com.br"
 criterios:
   - nome: "Desempenho de cozimento"
     peso: 30
@@ -97,7 +96,7 @@ faq:
   - pergunta: "Vale mais a pena a Mondial analógica ou a digital (AFN-40-DI)?"
     resposta: "Se você quer praticidade e preço mínimo, a analógica AFN-40-BI resolve. A digital AFN-40-DI tem o mesmo cesto de 4 litros e 1.500 W, mas adiciona painel touch com 10 presets, útil para quem não quer pensar em tempo e temperatura. A diferença de preço costuma ser pequena; vale pagar se os presets fizerem diferença no seu dia a dia."
 fontes:
-  - nome: "Página do produto na Amazon.com.br (especificações e avaliações)"
+  - nome: "Página do produto na Amazon.com.br (especificações do fabricante)"
     url: "https://www.amazon.com.br/dp/B093M9941C"
   - nome: "Mondial — site oficial da linha Air Fryer"
     url: "https://www.mondial.com.br/"
@@ -150,7 +149,7 @@ A Mondial tem rede de assistência técnica ampla no Brasil e **12 meses de gara
 
 ## O que dizem os consumidores
 
-Com mais de **11 mil avaliações** e média de **4,7 de 5 estrelas** na Amazon.com.br, o retrato é consistente: elogios à praticidade, ao preço e ao tamanho "na medida" para famílias pequenas; críticas ao barulho e ao antiaderente quando mal cuidado. Muitos donos relatam que a air fryer substituiu o forno no dia a dia.
+Nos relatos públicos de donos em fóruns, grupos de cozinha e no Reclame Aqui, o retrato é consistente: elogios à praticidade, ao preço e ao tamanho "na medida" para famílias pequenas; críticas ao barulho e ao antiaderente quando mal cuidado. Muitos donos relatam que a air fryer substituiu o forno no dia a dia. As reclamações formais contra a marca giram em torno de prazo de assistência técnica, não de defeitos recorrentes deste modelo.
 
 ## Dicas para tirar o máximo da sua Mondial
 

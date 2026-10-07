@@ -5,6 +5,8 @@ import { z } from 'astro/zod';
 /** Imagem remota (CDN da Amazon ou fabricante) com alt obrigatório para SEO/acessibilidade. */
 const imagem = z.object({
   src: z.url(),
+  /** Origem da imagem: amazon (link direto, sem cópia), fabricante (site oficial), propria, api (Creators API), outra. */
+  fonte: z.enum(['amazon', 'fabricante', 'propria', 'api', 'outra']).default('amazon'),
   alt: z.string().min(8, { error: 'alt text precisa descrever o produto (mín. 8 caracteres)' }).max(160),
   credito: z.string().optional(),
   largura: z.number().int().positive().optional(),
@@ -46,14 +48,19 @@ const produto = z.object({
   voltagem: z.string().optional(),
   /** Variantes com ASIN próprio (ex.: outra voltagem ou cor), viram botões adicionais. */
   variantes: z.array(z.object({ rotulo: z.string().min(2).max(40), asin: z.string().regex(/^[A-Z0-9]{10}$/) })).max(4).default([]),
+  /** Outros vendedores (Mercado Livre, loja oficial...), recomendados pelo Google para reviews. */
+  linksAlternativos: z.array(z.object({ loja: z.string().min(2).max(40), url: z.url() })).max(3).default([]),
   /** Faixa de preço indicativa (nunca exibimos preço exato sem a API da Amazon). */
   faixaPreco: z.enum(['$', '$$', '$$$', '$$$$']).optional(),
   idealPara: z.string().optional(),
   naoIndicadoPara: z.string().optional(),
   /** Notas por critério (0-10), usadas em tabelas e gráficos. */
   notasCriterios: z.record(z.string(), z.number().min(0).max(10)).optional(),
-  /** Avaliação média de consumidores informada publicamente (ex.: 4.6) e quantidade aproximada. */
-  avaliacaoConsumidores: z.object({ media: z.number().min(0).max(5), quantidade: z.number().int().nonnegative().optional(), fonte: z.string().optional() }).optional(),
+  /**
+   * Avaliação de consumidores de fonte NÃO-Amazon (ex.: Reclame Aqui, Buscapé). Notas/estrelas da Amazon só podem ser
+   * exibidas via Creators API (Contrato Operacional do Programa de Associados BR).
+   */
+  avaliacaoConsumidores: z.object({ media: z.number().min(0).max(5), quantidade: z.number().int().nonnegative().optional(), fonte: z.string().min(2).refine((f) => !/amazon/i.test(f), { error: 'Notas de clientes da Amazon só via Creators API' }) }).optional(),
 });
 
 const artigos = defineCollection({

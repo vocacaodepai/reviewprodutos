@@ -47,7 +47,7 @@ const tocExtras = [
   title={d.seoTitle ?? d.title}
   description={d.description}
   canonical={url}
-  ogImage={d.imagem.src}
+  ogImage={`/og/${artigo.id}.png`}
   ogType="article"
   publishedTime={d.pubDate}
   modifiedTime={d.updatedDate ?? d.pubDate}
@@ -56,11 +56,11 @@ const tocExtras = [
   tags={[...d.tags, ...d.funil.palavrasChave]}
   jsonLd={jsonLd}
 >
-  <article class="container-site py-6 sm:py-8" data-pagefind-body data-pagefind-filter={`Categoria:${categoria.data.nome}`} data-pagefind-meta={`image:${d.imagem.src}, image_alt:${d.imagem.alt}`}>
+  <article class="container-site py-6 sm:py-8" data-pagefind-body data-pagefind-filter={`Categoria:${categoria.data.nome}`}>
     <Breadcrumbs items={[{ name: categoria.data.nome, url: categoriaUrl(categoria.id) }, ...(sub ? [{ name: sub.nome, url: categoriaUrl(categoria.id, sub.slug) }] : []), { name: d.title }]} />
-    <span class="hidden" data-pagefind-filter="Tipo">{tipo.label}</span>
-    {sub && <span class="hidden" data-pagefind-filter="Subcategoria">{sub.nome}</span>}
-    <span class="hidden" data-pagefind-sort="data">{(d.updatedDate ?? d.pubDate).toISOString()}</span>
+    <span class="hidden" data-pagefind-filter={`Tipo:${tipo.label}`}></span>
+    {sub && <span class="hidden" data-pagefind-filter={`Subcategoria:${sub.nome}`}></span>}
+    <span class="hidden" data-pagefind-sort={`data:${(d.updatedDate ?? d.pubDate).toISOString().slice(0, 10)}`}></span>
 
     <header class="mt-5 max-w-4xl">
       <div class="flex flex-wrap items-center gap-2 text-xs font-bold uppercase tracking-wide">
@@ -77,6 +77,7 @@ const tocExtras = [
         </span>
         <span class="inline-flex items-center gap-1"><Icon name="calendar" size={15} /> {d.updatedDate ? `Atualizado em ${formatDate(d.updatedDate)}` : `Publicado em ${formatDate(d.pubDate)}`}</span>
         <span class="inline-flex items-center gap-1"><Icon name="clock" size={15} /> {minutos} min de leitura</span>
+        <a href="/politica-editorial/" class="inline-flex items-center gap-1 underline decoration-dotted underline-offset-2" title="Como produzimos este conteúdo"><Icon name="info" size={15} /> {d.testadoFisicamente ? 'Testado por nós' : 'Análise com apoio de IA e verificação de dados'}</a>
       </div>
     </header>
 
@@ -85,7 +86,7 @@ const tocExtras = [
     <div class="mt-8 grid gap-10 lg:grid-cols-[minmax(0,1fr)_300px]">
       <div class="min-w-0">
         <figure class="card overflow-hidden bg-white">
-          <ProductImage src={d.imagem.src} alt={d.imagem.alt} class="mx-auto max-h-[420px] w-full object-contain p-6" sizes="(min-width: 1024px) 800px, 100vw" loading="eager" fetchpriority="high" />
+          <ProductImage src={d.imagem.src} alt={d.imagem.alt} width={d.imagem.largura} height={d.imagem.altura} class="mx-auto max-h-[420px] w-full object-contain p-6" sizes="(min-width: 1024px) 800px, 100vw" loading="eager" fetchpriority="high" data-pagefind-meta="image[src], image_alt[alt]" />
           {d.imagem.credito && <figcaption class="border-t border-soft px-4 py-2 text-xs muted">{d.imagem.credito}</figcaption>}
         </figure>
 

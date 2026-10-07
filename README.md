@@ -60,6 +60,17 @@ Custo estimado por artigo com `claude-opus-5-5` e busca na web: algo entre US$ 0
 
 O Google trata conteúdo em escala sem valor agregado como spam ("scaled content abuse"). O pipeline mitiga isso com pesquisa real, dados únicos por produto, estrutura rica e validação, mas recomendamos começar com 2 lotes/dia (10 artigos) nas primeiras semanas, acompanhar o Search Console e só então subir para 4 lotes. Basta comentar linhas de `cron` no workflow.
 
+## Conformidade com o Programa de Associados da Amazon (Brasil)
+
+Regras do Contrato Operacional que o site e o gerador seguem (detalhes em `docs/PESQUISA-REFERENCIAS.md`):
+
+- **Divulgação**: a frase oficial "Como participante do Programa de Associados da Amazon, sou remunerado pelas compras qualificadas efetuadas" aparece no topo e no fim de cada artigo e no rodapé.
+- **Links**: sempre `https://www.amazon.com.br/dp/ASIN?tag=SUA-TAG`, com `rel="sponsored nofollow"`, sem encurtadores ou redirecionamentos.
+- **Preços**: nunca em texto. Só faixa qualitativa ($ a $$$$) e o botão "Ver preço na Amazon". Quando a Creators API estiver liberada (10 vendas em 30 dias), preços poderão ser exibidos com data/hora.
+- **Avaliações de clientes**: notas, estrelas e quantidade de avaliações da Amazon **não** são exibidas nem parafraseadas (o validador bloqueia). Percepção de consumidores vem de fontes como Reclame Aqui e veículos especializados.
+- **Imagens**: as imagens de produto são exibidas por **link direto** (nunca baixadas, cacheadas ou alteradas). Até a Creators API estar disponível, isso é uma zona cinzenta do contrato: prefira `imagem.fonte: fabricante` (site oficial) sempre que possível e migre para a API assim que elegível.
+- **Agentes automatizados**: qualquer acesso a domínios Amazon usa o user-agent `Agent/reviewprodutos` e não contorna bloqueios.
+
 ## Deploy
 
 - **Vercel (recomendado):** importe o repositório, framework *Astro*, defina as variáveis `PUBLIC_*`. `vercel.json` já traz cache e headers de segurança. Aponte o domínio em *Settings → Domains* e crie no [registro.br](https://registro.br) os registros `A 76.76.21.21` (apex) e `CNAME cname.vercel-dns.com` (www), ou use os valores que a Vercel indicar.

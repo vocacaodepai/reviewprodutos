@@ -97,7 +97,8 @@ REGRAS INEGOCIÁVEIS
 - Produtos REAIS vendidos na Amazon.com.br, com ASIN real de 10 caracteres encontrado na busca (URLs amazon.com.br/.../dp/ASIN). Nunca invente ASIN. Se não encontrar ASIN para um produto, troque por outro que encontre.
 - Nunca cite preços exatos em reais; use faixaPreco ($ a $$$$) e expressões como "faixa de entrada".
 - Não coloque links da Amazon no corpo; os botões são gerados pelo site. Não use encurtadores.
-- Não afirme teste físico (testadoFisicamente: false) — escreva como análise baseada em especificações, avaliações agregadas e fontes especializadas, com transparência.
+- Não afirme teste físico (testadoFisicamente: false) — escreva como análise baseada em especificações, fontes especializadas e relatos públicos fora da Amazon, com transparência.
+- PROIBIDO (Contrato do Programa de Associados BR): citar notas, estrelas ou quantidade de avaliações da Amazon; copiar ou parafrasear avaliações de clientes da Amazon; prometer promoção, cupom, desconto, frete grátis ou "menor preço". Para percepção de consumidores use Reclame Aqui, fóruns, YouTube e testes de veículos especializados, citando a fonte.
 - Dados numéricos (potência, capacidade, bateria, avaliações) devem vir das buscas; quando incerto, use "aproximadamente" ou omita.
 - Imagens: preencha imagem.src com qualquer URL plausível (será SUBSTITUÍDA automaticamente por uma imagem real validada a partir do ASIN); capriche no alt text descritivo.
 - Saída: APENAS o arquivo Markdown completo entre as linhas =====ARTIGO-INICIO===== e =====ARTIGO-FIM=====, começando por "---" (frontmatter YAML válido, strings com caracteres especiais entre aspas duplas, especificações como strings) e seguido do corpo em Markdown (sem H1; use H2/H3). Nada fora dos marcadores.`;
@@ -187,8 +188,9 @@ async function processTopic(t, index) {
     const img = await resolveProductImage(p.asin);
     if (!img) { removidos.push(p.nome); continue; }
     if (img.title && similarity(img.title, p.nome) < 0.2 && similarity(img.title, p.marca ?? '') < 0.5) log({ evento: 'aviso', tema: t.id, asin: p.asin, msg: `título na Amazon ("${img.title}") pouco parecido com "${p.nome}"` });
-    p.imagem = { src: img.src, alt: p.imagem?.alt ?? `${p.nome}`, largura: img.width, altura: img.height };
+    p.imagem = { src: img.src, fonte: 'amazon', alt: p.imagem?.alt ?? `${p.nome}`, largura: img.width, altura: img.height };
     if (img.quality === 'baixa') p.imagem.credito = 'Imagem: Amazon.com.br (miniatura)';
+    if (p.avaliacaoConsumidores && /amazon/i.test(p.avaliacaoConsumidores.fonte ?? '')) delete p.avaliacaoConsumidores; // nunca exibir notas da Amazon
   }
   if (removidos.length) throw new Error(`Sem imagem/ASIN inválido para: ${removidos.join(', ')}`);
   const hero = data.produtos.find((p) => p.selo === 'escolha-do-editor') ?? data.produtos[0];
