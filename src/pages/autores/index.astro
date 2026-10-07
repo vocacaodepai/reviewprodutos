@@ -1,0 +1,28 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumbs from '@/components/Breadcrumbs.astro';
+import { getCollection } from 'astro:content';
+import { getArtigos, autorUrl } from '@/lib/articles';
+const autores = await getCollection('autores');
+const artigos = await getArtigos();
+const count = (id: string) => artigos.filter((a) => a.data.autor.id === id).length;
+---
+<BaseLayout title="Quem escreve no Review Produtos" description="Conheça a equipe que pesquisa, analisa e escreve os reviews, comparativos e guias de compra do Review Produtos." canonical="/autores/">
+  <div class="container-site py-8">
+    <Breadcrumbs items={[{ name: 'Autores' }]} />
+    <h1 class="mt-4 text-3xl font-extrabold sm:text-4xl">Quem escreve aqui</h1>
+    <p class="mt-2 max-w-2xl muted">Toda análise segue a mesma <a href="/metodologia/" class="underline">metodologia</a> e a <a href="/politica-editorial/" class="underline">política editorial</a>. Fabricantes não pagam por avaliações.</p>
+    <ul class="mt-8 grid gap-6 sm:grid-cols-2">
+      {autores.map((a) => (
+        <li class="card flex gap-4 p-5">
+          <img src={a.data.avatar} alt={`Foto de ${a.data.nome}`} width="72" height="72" class="h-18 w-18 shrink-0 rounded-full bg-soft object-cover" loading="lazy" />
+          <div>
+            <h2 class="text-xl font-bold"><a href={autorUrl(a.id)} class="hover:underline">{a.data.nome}</a></h2>
+            <p class="text-sm muted">{a.data.cargo} · {count(a.id)} {count(a.id) === 1 ? 'artigo' : 'artigos'}</p>
+            <p class="mt-2 text-sm">{a.data.bioCurta}</p>
+          </div>
+        </li>
+      ))}
+    </ul>
+  </div>
+</BaseLayout>
