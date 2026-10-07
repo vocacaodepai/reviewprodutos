@@ -82,6 +82,12 @@ const tocExtras = [
     </header>
 
     <div class="mt-6"><Disclosure compact /></div>
+    {['saude-e-bem-estar', 'bebes-e-criancas'].includes(categoria.id) && (
+      <aside class="mt-3 flex items-start gap-3 rounded-xl border border-star-500/40 bg-star-400/10 p-4 text-sm" role="note" aria-label="Aviso de saúde">
+        <Icon name="shield" size={18} class="mt-0.5 shrink-0 text-star-600" />
+        <p><strong>Este conteúdo é informativo e não substitui avaliação médica ou profissional.</strong> Produtos para dor, sono, postura ou cuidados com bebês devem ser usados conforme orientação do fabricante; em caso de sintomas persistentes, procure um profissional de saúde.</p>
+      </aside>
+    )}
 
     <div class="mt-8 grid gap-10 lg:grid-cols-[minmax(0,1fr)_300px]">
       <div class="min-w-0">
