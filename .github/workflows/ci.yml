@@ -3,9 +3,10 @@ name: CI (build e validação)
 on:
   pull_request:
   push:
-    branches: [main]
+    branches: ['**']
     paths-ignore:
       - 'content/queue/**'
+      - 'docs/**'
 
 permissions:
   contents: read

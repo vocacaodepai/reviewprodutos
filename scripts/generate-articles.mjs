@@ -55,12 +55,17 @@ function loadQueue() {
 function saveQueue(q) { if (!DRY_RUN) writeFileSync(QUEUE_PATH, JSON.stringify(q, null, 2) + '\n'); }
 
 function existingIndex() {
-  const slugs = new Set(); const asinKeys = new Set(); const titles = [];
+  const slugs = new Set(); const asinKeys = new Set(); const titles = []; const artigos = [];
   for (const f of listArticleFiles()) {
-    try { const { data } = parseArticle(f); slugs.add(slugFromPath(f)); titles.push(data.title); asinKeys.add(`${data.tipo}:${(data.produtos ?? []).map((p) => p.asin).sort().join(',')}`); } catch { /* ignora */ }
+    try {
+      const { data } = parseArticle(f); const slug = slugFromPath(f);
+      slugs.add(slug); titles.push(data.title); asinKeys.add(`${data.tipo}:${(data.produtos ?? []).map((p) => p.asin).sort().join(',')}`);
+      artigos.push({ slug, title: data.title, tipo: data.tipo, categoria: data.categoria, subcategoria: data.subcategoria });
+    } catch { /* ignora */ }
   }
-  return { slugs, asinKeys, titles };
+  return { slugs, asinKeys, titles, artigos };
 }
+const TIPO_PATH = { review: 'reviews', comparativo: 'comparativos', lista: 'melhores' };
 
 function pickTopics(queue, n) {
   const pend = queue.temas.filter((t) => t.status === 'pending' && (!ONLY_TOPIC || t.id === ONLY_TOPIC));
@@ -104,6 +109,10 @@ REGRAS INEGOCIÁVEIS
 - Saída: APENAS o arquivo Markdown completo entre as linhas =====ARTIGO-INICIO===== e =====ARTIGO-FIM=====, começando por "---" (frontmatter YAML válido, strings com caracteres especiais entre aspas duplas, especificações como strings) e seguido do corpo em Markdown (sem H1; use H2/H3). Nada fora dos marcadores.`;
 
 function userPrompt(t) {
+  const irmaos = existingIndex().artigos.filter((a) => a.categoria === t.categoria).slice(0, 12);
+  const linksInternos = irmaos.length
+    ? irmaos.map((a) => `- [${a.title}](/${TIPO_PATH[a.tipo]}/${a.slug}/) (${a.tipo}, ${a.subcategoria})`).join('\n')
+    : '(ainda não há artigos nesta categoria; linke para /categoria/' + t.categoria + '/)';
   return `TEMA DA FILA EDITORIAL
 id: ${t.id}
 tipo: ${t.tipo}  (review = 1 produto | comparativo = 2 | lista = 3 a 7)
@@ -114,6 +123,9 @@ problema/dor do leitor: ${t.problema ?? '(não informado)'}
 palavras-chave alvo: ${(t.palavras_chave ?? []).join('; ')}
 produtos candidatos (confirme na Amazon.com.br; substitua se não existirem): ${(t.produtos_candidatos ?? []).join('; ') || '(pesquise os mais vendidos/mais bem avaliados)'}
 ${t.sazonal ? `gancho sazonal: ${t.sazonal}` : ''}
+
+ARTIGOS JÁ PUBLICADOS NA MESMA CATEGORIA (use 2-3 como links internos contextuais em Markdown, com caminho relativo exatamente como abaixo; preencha também "relacionados" com os slugs):
+${linksInternos}
 
 PASSOS
 1. Pesquise na web (inclua "amazon.com.br" nas buscas) para confirmar os produtos, obter o ASIN (do URL /dp/ASIN), especificações, média e quantidade aproximada de avaliações, e os pontos recorrentes de elogio e reclamação dos consumidores. Faça buscas adicionais em fontes especializadas quando útil.
