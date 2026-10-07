@@ -1,0 +1,4337 @@
+{
+  "versao": 1,
+  "gerado_em": "2026-10-07",
+  "instrucoes": "Fila editorial consumida por scripts/generate-articles.mjs e pelas Routines. status: pending|in_progress|published|skipped.",
+  "temas": [
+    {
+      "id": "tecnologia-review-001",
+      "tipo": "review",
+      "categoria": "tecnologia",
+      "subcategoria": "casa-inteligente",
+      "funil": "fundo",
+      "titulo_sugerido": "Echo Pop é bom? Review completo: vale a pena em 2026?",
+      "problema": "Querer uma Alexa barata para começar a casa inteligente sem errar na compra",
+      "palavras_chave": [
+        "echo pop é bom",
+        "echo pop review",
+        "echo pop vale a pena",
+        "alexa barata",
+        "echo pop ou echo dot"
+      ],
+      "produtos_candidatos": [
+        "Amazon Echo Pop"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-review-001",
+      "tipo": "review",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "limpeza",
+      "funil": "fundo",
+      "titulo_sugerido": "Robô aspirador WAP Robot W100 vale a pena? Review completo em 2026",
+      "problema": "Querer um robô aspirador barato e saber se o modelo mais vendido realmente limpa",
+      "palavras_chave": [
+        "wap robot w100 vale a pena",
+        "wap robot w100 review",
+        "robô aspirador wap é bom",
+        "robô aspirador barato",
+        "wap w100 limpa bem"
+      ],
+      "produtos_candidatos": [
+        "WAP Robot W100",
+        "WAP Robot W100C"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-review-001",
+      "tipo": "review",
+      "categoria": "cozinha",
+      "subcategoria": "air-fryer",
+      "funil": "fundo",
+      "titulo_sugerido": "Air fryer Philips Walita Série 3000 é boa? Review completo: vale a pena em 2026?",
+      "problema": "Saber se vale pagar mais pela Philips Walita em vez de uma air fryer de entrada",
+      "palavras_chave": [
+        "air fryer philips walita é boa",
+        "philips walita série 3000 review",
+        "airfryer philips walita vale a pena",
+        "melhor air fryer premium",
+        "philips walita ou mondial"
+      ],
+      "produtos_candidatos": [
+        "Philips Walita Airfryer Série 3000 Grill Edition HD9202",
+        "Philips Walita Airfryer Série 1000 XL NA130"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-review-001",
+      "tipo": "review",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "higiene-bucal",
+      "funil": "fundo",
+      "titulo_sugerido": "Oral-B iO Series 2 é boa? Review completo: vale a pena em 2026?",
+      "problema": "Querer trocar a escova manual pela elétrica sem gastar em modelo caro demais",
+      "palavras_chave": [
+        "oral-b io series 2 é boa",
+        "oral-b io 2 review",
+        "escova elétrica oral-b vale a pena",
+        "melhor escova de dente elétrica",
+        "oral-b io ou pro"
+      ],
+      "produtos_candidatos": [
+        "Oral-B Escova Elétrica iO Series 2"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-review-001",
+      "tipo": "review",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "cabelo",
+      "funil": "fundo",
+      "titulo_sugerido": "Secador Taiff Fox Ion é bom? Review completo: vale a pena em 2026?",
+      "problema": "Querer um secador profissional e durável sem pagar o preço dos importados",
+      "palavras_chave": [
+        "secador taiff fox ion é bom",
+        "taiff fox ion review",
+        "secador taiff vale a pena",
+        "melhor secador de cabelo profissional",
+        "taiff fox ion ou fox ion s"
+      ],
+      "produtos_candidatos": [
+        "Secador Taiff Fox Ion 2000W",
+        "Secador Taiff Fox Ion S 2100W"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "bebes-e-criancas-review-001",
+      "tipo": "review",
+      "categoria": "bebes-e-criancas",
+      "subcategoria": "seguranca-e-monitoramento",
+      "funil": "fundo",
+      "titulo_sugerido": "Babá eletrônica Motorola VM34 é boa? Review completo: vale a pena em 2026?",
+      "problema": "Querer ouvir e ver o bebê de outro cômodo com segurança e sem depender de internet",
+      "palavras_chave": [
+        "babá eletrônica motorola vm34 é boa",
+        "babá eletrônica motorola review",
+        "babá eletrônica motorola vale a pena",
+        "melhor babá eletrônica com câmera",
+        "babá eletrônica sem wifi"
+      ],
+      "produtos_candidatos": [
+        "Motorola Babá Eletrônica VM34",
+        "Motorola Babá Eletrônica PIP1500"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-review-001",
+      "tipo": "review",
+      "categoria": "pets",
+      "subcategoria": "alimentacao-e-comedouros",
+      "funil": "fundo",
+      "titulo_sugerido": "Fonte bebedouro Petlon 2L é boa? Review completo: vale a pena em 2026?",
+      "problema": "Gato que bebe pouca água e dono em dúvida se a fonte mais vendida resolve",
+      "palavras_chave": [
+        "fonte petlon é boa",
+        "bebedouro petlon review",
+        "fonte para gatos vale a pena",
+        "melhor fonte para gatos",
+        "fonte petlon barulho"
+      ],
+      "produtos_candidatos": [
+        "Petlon Fonte Bebedouro 2L",
+        "Petlon Fonte Bebedouro Premium 2,5L"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-review-001",
+      "tipo": "review",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "camping-e-aventura",
+      "funil": "fundo",
+      "titulo_sugerido": "Garrafa térmica Stanley Adventure 1L vale a pena? Review completo em 2026",
+      "problema": "Querer bebida gelada ou quente o dia inteiro e saber se a Stanley justifica o preço",
+      "palavras_chave": [
+        "garrafa stanley vale a pena",
+        "stanley adventure review",
+        "garrafa térmica stanley é boa",
+        "stanley original ou réplica",
+        "melhor garrafa térmica"
+      ],
+      "produtos_candidatos": [
+        "Stanley Garrafa Térmica Adventure 2.0 1L",
+        "Stanley Quick Flip 710ml"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-review-001",
+      "tipo": "review",
+      "categoria": "automotivo",
+      "subcategoria": "eletronicos-automotivos",
+      "funil": "fundo",
+      "titulo_sugerido": "Câmera veicular 70mai A800S é boa? Review completo: vale a pena em 2026?",
+      "problema": "Ter prova em vídeo em caso de acidente ou batida no estacionamento",
+      "palavras_chave": [
+        "70mai a800s é boa",
+        "câmera veicular 70mai review",
+        "dash cam 70mai vale a pena",
+        "melhor câmera veicular",
+        "70mai a800s 4k"
+      ],
+      "produtos_candidatos": [
+        "70mai Dash Cam A800S",
+        "70mai A800SE"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-review-001",
+      "tipo": "review",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "papelaria-e-organizacao",
+      "funil": "fundo",
+      "titulo_sugerido": "Kindle Paperwhite 16GB vale a pena? Review completo em 2026",
+      "problema": "Querer ler mais e saber se o Kindle justifica o preço frente ao celular e ao livro físico",
+      "palavras_chave": [
+        "kindle paperwhite vale a pena",
+        "kindle paperwhite review",
+        "kindle paperwhite 16gb é bom",
+        "kindle vale a pena 2026",
+        "kindle paperwhite 2024"
+      ],
+      "produtos_candidatos": [
+        "Amazon Kindle Paperwhite 16GB (modelo 2024)",
+        "Amazon Kindle Paperwhite Signature Edition"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-review-001",
+      "tipo": "review",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "relogios-e-oculos",
+      "funil": "fundo",
+      "titulo_sugerido": "Relógio Casio F-91W vale a pena? Review completo em 2026",
+      "problema": "Querer um relógio barato, confiável e com bateria longa para o dia a dia",
+      "palavras_chave": [
+        "casio f-91w vale a pena",
+        "casio f-91w review",
+        "relógio casio barato",
+        "casio f91w é original",
+        "melhor relógio casio barato"
+      ],
+      "produtos_candidatos": [
+        "Casio Relógio Digital F-91W-1DG"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-review-002",
+      "tipo": "review",
+      "categoria": "tecnologia",
+      "subcategoria": "celulares-e-acessorios",
+      "funil": "fundo",
+      "titulo_sugerido": "Galaxy A56 5G é bom? Review completo: vale a pena em 2026?",
+      "problema": "Decidir se o intermediário da Samsung ainda compensa frente ao A57 e aos rivais chineses",
+      "palavras_chave": [
+        "galaxy a56 é bom",
+        "galaxy a56 review",
+        "galaxy a56 vale a pena",
+        "celular samsung intermediário",
+        "galaxy a56 ou a57"
+      ],
+      "produtos_candidatos": [
+        "Samsung Galaxy A56 5G 128GB",
+        "Samsung Galaxy A56 5G 256GB"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-review-002",
+      "tipo": "review",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "climatizacao",
+      "funil": "fundo",
+      "titulo_sugerido": "Ventilador Arno Silence Force é bom? Review completo: vale a pena em 2026?",
+      "problema": "Precisar de um ventilador potente e silencioso para dormir no calor",
+      "palavras_chave": [
+        "arno silence force é bom",
+        "ventilador arno silence force review",
+        "ventilador silencioso",
+        "melhor ventilador para dormir",
+        "arno silence force 40cm"
+      ],
+      "produtos_candidatos": [
+        "Arno Ventilador Silence Force 40cm",
+        "Arno Ultra Silence Force Coluna VD52"
+      ],
+      "prioridade": 1,
+      "sazonal": "verao",
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-review-002",
+      "tipo": "review",
+      "categoria": "cozinha",
+      "subcategoria": "cafeteiras",
+      "funil": "fundo",
+      "titulo_sugerido": "Dolce Gusto Genio S é boa? Review completo: vale a pena em 2026?",
+      "problema": "Querer café de cápsula rápido em casa sem errar no modelo de máquina",
+      "palavras_chave": [
+        "dolce gusto genio s é boa",
+        "dolce gusto genio s review",
+        "cafeteira dolce gusto vale a pena",
+        "melhor máquina dolce gusto",
+        "genio s ou genio s plus"
+      ],
+      "produtos_candidatos": [
+        "Arno Nescafé Dolce Gusto Genio S Basic DGS1",
+        "Arno Dolce Gusto Genio S Plus"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-lista-001",
+      "tipo": "lista",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "sono-e-descanso",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor travesseiro para dor no pescoço 2026: 6 modelos para comprar",
+      "problema": "Acordar com o pescoço travado e não saber qual altura e material de travesseiro escolher",
+      "palavras_chave": [
+        "melhor travesseiro para dor no pescoço",
+        "travesseiro cervical vale a pena",
+        "travesseiro nasa é bom",
+        "travesseiro para quem dorme de lado",
+        "melhor travesseiro viscoelástico"
+      ],
+      "produtos_candidatos": [
+        "Travesseiro Nasa-X Duoflex",
+        "Travesseiro Nasa Viva Conforto D40",
+        "Travesseiro cervical ortopédico Fibrasca",
+        "Travesseiro Z Pass Sleep Nasa Alto",
+        "Travesseiro Nap Space 12cm",
+        "Travesseiro Master Comfort Nasa"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-review-002",
+      "tipo": "review",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "barbear-e-depilacao",
+      "funil": "fundo",
+      "titulo_sugerido": "Philips OneBlade é bom? Review completo: vale a pena em 2026?",
+      "problema": "Aparar e fazer a barba sem irritar a pele e sem gastar com lâminas toda semana",
+      "palavras_chave": [
+        "philips oneblade é bom",
+        "oneblade review",
+        "philips oneblade vale a pena",
+        "melhor aparador de barba",
+        "oneblade lâmina dura quanto tempo"
+      ],
+      "produtos_candidatos": [
+        "Philips OneBlade QP1424/10",
+        "Philips OneBlade Face & Body QP2630"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "bebes-e-criancas-review-002",
+      "tipo": "review",
+      "categoria": "bebes-e-criancas",
+      "subcategoria": "higiene-e-banho",
+      "funil": "fundo",
+      "titulo_sugerido": "Fralda Pampers Premium Care vale a pena? Review completo em 2026",
+      "problema": "Fralda que vaza ou assa o bebê e dúvida se a mais cara compensa no custo por unidade",
+      "palavras_chave": [
+        "pampers premium care vale a pena",
+        "fralda pampers premium care review",
+        "pampers premium care é boa",
+        "melhor fralda para recém-nascido",
+        "pampers premium care ou confort sec"
+      ],
+      "produtos_candidatos": [
+        "Pampers Premium Care Tamanho M 80 unidades",
+        "Pampers Premium Care RN+"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-comparativo-001",
+      "tipo": "comparativo",
+      "categoria": "pets",
+      "subcategoria": "alimentacao-e-comedouros",
+      "funil": "fundo",
+      "titulo_sugerido": "Ração Golden ou Premier: qual vale mais a pena para o seu cachorro em 2026?",
+      "problema": "Escolher entre as duas rações premium mais populares pensando em qualidade e custo mensal",
+      "palavras_chave": [
+        "ração golden ou premier",
+        "golden vs premier",
+        "ração golden é boa",
+        "ração premier é boa",
+        "melhor ração premium para cachorro"
+      ],
+      "produtos_candidatos": [
+        "Ração Golden Special Cães Adultos",
+        "Ração Premier Fórmula Cães Adultos"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-comparativo-001",
+      "tipo": "comparativo",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "fitness-e-musculacao",
+      "funil": "meio",
+      "titulo_sugerido": "Esteira ou bicicleta ergométrica: qual comprar para treinar em casa em 2026?",
+      "problema": "Querer fazer cardio em casa e não saber qual aparelho usa de verdade e cabe no espaço",
+      "palavras_chave": [
+        "esteira ou bicicleta ergométrica",
+        "bicicleta ergométrica ou esteira qual é melhor",
+        "bicicleta ergométrica vale a pena",
+        "esteira para casa vale a pena",
+        "aparelho de cardio para casa"
+      ],
+      "produtos_candidatos": [
+        "Esteira Dream Fitness Concept 2.1",
+        "Bicicleta ergométrica Dream Fitness"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-review-002",
+      "tipo": "review",
+      "categoria": "automotivo",
+      "subcategoria": "conforto-e-postura-ao-dirigir",
+      "funil": "fundo",
+      "titulo_sugerido": "Almofada lombar para carro Dreamer Car é boa? Review completo em 2026",
+      "problema": "Dor nas costas ao dirigir por horas e dúvida se a almofada mais vendida resolve",
+      "palavras_chave": [
+        "almofada lombar dreamer car é boa",
+        "dreamer car review",
+        "almofada lombar para carro vale a pena",
+        "apoio lombar para carro",
+        "melhor encosto lombar para carro"
+      ],
+      "produtos_candidatos": [
+        "Dreamer Car Almofada de Suporte Lombar para Carro"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-review-002",
+      "tipo": "review",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "iluminacao-e-ergonomia",
+      "funil": "fundo",
+      "titulo_sugerido": "Suporte para notebook Octoo Uptable vale a pena? Review completo em 2026",
+      "problema": "Dor no pescoço de olhar para baixo no notebook e dúvida se o suporte mais vendido resolve",
+      "palavras_chave": [
+        "suporte octoo uptable vale a pena",
+        "octoo uptable review",
+        "suporte para notebook octoo é bom",
+        "melhor suporte para notebook",
+        "suporte para notebook ergonômico"
+      ],
+      "produtos_candidatos": [
+        "Octoo Suporte para Notebook Uptable",
+        "Octoo LiteStand Note"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-lista-001",
+      "tipo": "lista",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "malas-e-viagem",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor mala de viagem 2026: 6 modelos para comprar por tipo de viagem",
+      "problema": "Mala que quebra a rodinha na primeira viagem ou não cabe na cabine do avião",
+      "palavras_chave": [
+        "melhor mala de viagem 2026",
+        "mala de viagem resistente",
+        "mala de bordo boa",
+        "samsonite ou american tourister",
+        "mala de viagem custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Samsonite Fiero 3.0",
+        "American Tourister Mala",
+        "Samsonite Octolite",
+        "Mala Sestini",
+        "Mala Swiss Move",
+        "Samsonite Bahia Lite"
+      ],
+      "prioridade": 1,
+      "sazonal": "verao",
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-comparativo-001",
+      "tipo": "comparativo",
+      "categoria": "tecnologia",
+      "subcategoria": "casa-inteligente",
+      "funil": "fundo",
+      "titulo_sugerido": "Echo Dot 5ª geração vs Echo Pop: qual Alexa vale mais a pena em 2026?",
+      "problema": "Não saber qual Echo comprar como primeiro dispositivo Alexa da casa",
+      "palavras_chave": [
+        "echo dot ou echo pop",
+        "echo dot vs echo pop",
+        "diferença echo dot e echo pop",
+        "qual alexa comprar",
+        "echo dot 5 geração"
+      ],
+      "produtos_candidatos": [
+        "Amazon Echo Dot 5ª geração",
+        "Amazon Echo Pop"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-comparativo-001",
+      "tipo": "comparativo",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "climatizacao",
+      "funil": "meio",
+      "titulo_sugerido": "Ventilador de teto ou ar-condicionado: qual gasta menos luz e refresca mais em 2026?",
+      "problema": "Querer refrescar a casa no verão sem assustar com a conta de luz",
+      "palavras_chave": [
+        "ventilador de teto ou ar condicionado",
+        "ventilador gasta muita energia",
+        "ar condicionado gasta muita luz",
+        "qual gasta menos ventilador ou ar",
+        "ventilador de teto vale a pena"
+      ],
+      "produtos_candidatos": [
+        "Ventilador de teto Ventisol Fênix",
+        "Ar-condicionado split inverter Elgin Eco 9000 BTUs"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-comparativo-001",
+      "tipo": "comparativo",
+      "categoria": "cozinha",
+      "subcategoria": "air-fryer",
+      "funil": "meio",
+      "titulo_sugerido": "Air fryer oven ou tradicional: qual comprar em 2026?",
+      "problema": "Família grande ou cozinha pequena sem saber se compensa a air fryer tipo forno",
+      "palavras_chave": [
+        "air fryer oven ou tradicional",
+        "air fryer oven vale a pena",
+        "air fryer forno ou cesto",
+        "air fryer 12 litros vale a pena",
+        "qual air fryer comprar"
+      ],
+      "produtos_candidatos": [
+        "Electrolux Air Fryer Forno EAF90 12L",
+        "Mondial Air Fryer Grand Family 5L AFN-50-BI"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-lista-002",
+      "tipo": "lista",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "dor-e-postura",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor almofada de assento ortopédica 2026: 6 modelos para quem passa horas sentado",
+      "problema": "Dor no cóccix e nas costas de quem fica o dia inteiro sentado no trabalho ou no carro",
+      "palavras_chave": [
+        "melhor almofada de assento ortopédica",
+        "almofada para cóccix",
+        "almofada ortopédica para cadeira",
+        "almofada de assento viscoelástica",
+        "dor no cóccix ao sentar"
+      ],
+      "produtos_candidatos": [
+        "Almofada ortopédica de assento viscoelástica",
+        "Almofada de assento em gel",
+        "Almofada de assento Fibrasca",
+        "Assento ortopédico Ortho Pauher",
+        "Almofada de gel para cadeira",
+        "Almofada de assento com encosto"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-comparativo-001",
+      "tipo": "comparativo",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "pele-e-skincare",
+      "funil": "fundo",
+      "titulo_sugerido": "Cicaplast B5 vs Bepantol Derma: qual creme reparador vale mais a pena?",
+      "problema": "Pele ressecada e irritada sem saber se compensa pagar mais pelo Cicaplast",
+      "palavras_chave": [
+        "cicaplast ou bepantol",
+        "cicaplast b5 vs bepantol derma",
+        "bepantol derma ou cicaplast qual melhor",
+        "creme reparador para pele irritada",
+        "cicaplast vale a pena"
+      ],
+      "produtos_candidatos": [
+        "La Roche-Posay Cicaplast Baume B5 40ml",
+        "Bepantol Derma Creme Multirrestaurador"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "bebes-e-criancas-comparativo-001",
+      "tipo": "comparativo",
+      "categoria": "bebes-e-criancas",
+      "subcategoria": "carrinhos-e-cadeirinhas",
+      "funil": "meio",
+      "titulo_sugerido": "Bebê conforto ou cadeirinha: qual comprar primeiro em 2026?",
+      "problema": "Pais de primeira viagem confusos com as faixas de peso e o que a lei exige no carro",
+      "palavras_chave": [
+        "bebê conforto ou cadeirinha",
+        "cadeirinha de carro para recém-nascido",
+        "bebê conforto até quantos kg",
+        "cadeirinha 0 a 36 kg vale a pena",
+        "qual cadeirinha comprar"
+      ],
+      "produtos_candidatos": [
+        "Bebê Conforto Burigotto Touring X",
+        "Cadeirinha Chicco Seat4Fix 0 a 36 kg"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-lista-001",
+      "tipo": "lista",
+      "categoria": "pets",
+      "subcategoria": "alimentacao-e-comedouros",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor fonte bebedouro para gatos 2026: 6 modelos para comprar",
+      "problema": "Estimular o gato a beber mais água com uma fonte silenciosa e fácil de limpar",
+      "palavras_chave": [
+        "melhor fonte para gatos 2026",
+        "fonte bebedouro para gatos",
+        "fonte de água para gato silenciosa",
+        "bebedouro automático para gatos",
+        "fonte petlon ou inox"
+      ],
+      "produtos_candidatos": [
+        "Petlon Fonte 2L",
+        "Fonte bebedouro inox 3L",
+        "Fonte para gatos com sensor",
+        "Fonte Pet Fountain USB",
+        "Petlon Fonte Premium",
+        "Fonte de água para gatos de cerâmica"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-lista-001",
+      "tipo": "lista",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "fitness-e-musculacao",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor esteira para casa 2026: 6 modelos para comprar",
+      "problema": "Caminhar ou correr em casa com uma esteira que aguente o uso e caiba no apartamento",
+      "palavras_chave": [
+        "melhor esteira para casa 2026",
+        "esteira dobrável para apartamento",
+        "esteira custo-benefício",
+        "esteira dream fitness ou movement",
+        "esteira para caminhada"
+      ],
+      "produtos_candidatos": [
+        "Dream Fitness Concept 2.1",
+        "Esteira Movement",
+        "Esteira Kikos",
+        "Esteira dobrável elétrica",
+        "Esteira Mormaii",
+        "Esteira Polimet"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-lista-001",
+      "tipo": "lista",
+      "categoria": "automotivo",
+      "subcategoria": "conforto-e-postura-ao-dirigir",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor almofada lombar para carro 2026: 6 modelos para comprar",
+      "problema": "Encosto do carro sem apoio lombar e dor depois de 30 minutos ao volante",
+      "palavras_chave": [
+        "melhor almofada lombar para carro",
+        "apoio lombar para carro",
+        "encosto lombar para banco de carro",
+        "almofada lombar viscoelástica carro",
+        "suporte lombar para motorista de aplicativo"
+      ],
+      "produtos_candidatos": [
+        "Dreamer Car Almofada Lombar",
+        "Lebogner Almofada Lombar",
+        "Almofada lombar viscoelástica com alças",
+        "Encosto lombar de malha",
+        "Almofada lombar Vasiumic",
+        "Almofada lombar SPRFUFLY"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-comparativo-001",
+      "tipo": "comparativo",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "papelaria-e-organizacao",
+      "funil": "fundo",
+      "titulo_sugerido": "Kindle básico ou Kindle Paperwhite: qual Kindle comprar em 2026?",
+      "problema": "Não saber se a tela maior e à prova d'água do Paperwhite valem a diferença de preço",
+      "palavras_chave": [
+        "kindle ou kindle paperwhite",
+        "qual kindle comprar",
+        "kindle básico vs paperwhite",
+        "diferença kindle e paperwhite",
+        "kindle 16gb é bom"
+      ],
+      "produtos_candidatos": [
+        "Amazon Kindle 16GB (modelo mais recente)",
+        "Amazon Kindle Paperwhite 16GB"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-lista-002",
+      "tipo": "lista",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "mochilas-e-bolsas",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor mochila escolar 2026: 7 modelos para comprar na volta às aulas",
+      "problema": "Mochila que rasga em meio ano ou pesa demais nas costas da criança",
+      "palavras_chave": [
+        "melhor mochila escolar 2026",
+        "mochila escolar resistente",
+        "mochila escolar com rodinhas",
+        "mochila escolar juvenil",
+        "mochila olympikus ou sestini"
+      ],
+      "produtos_candidatos": [
+        "Mochila Olympikus Essential",
+        "Mochila Sestini",
+        "Mochila Dermiwil",
+        "Mochila Xeryus",
+        "Mochila com rodinhas Sestini",
+        "Mochila Puma",
+        "Mochila Adidas"
+      ],
+      "prioridade": 1,
+      "sazonal": "volta-as-aulas",
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-lista-001",
+      "tipo": "lista",
+      "categoria": "tecnologia",
+      "subcategoria": "fones-de-ouvido",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor fone Bluetooth barato 2026: 7 modelos de entrada que valem a pena",
+      "problema": "Querer um fone sem fio barato que tenha bateria, conexão estável e som decente",
+      "palavras_chave": [
+        "melhor fone bluetooth até 200 reais",
+        "fone bluetooth barato",
+        "melhor fone sem fio custo-benefício",
+        "fone bluetooth bom e barato",
+        "qcy ou baseus"
+      ],
+      "produtos_candidatos": [
+        "QCY T13",
+        "QCY T13 ANC",
+        "Baseus Bowie",
+        "Samsung Galaxy Buds FE",
+        "JBL Wave Buds",
+        "Xiaomi Redmi Buds 6"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-lista-001",
+      "tipo": "lista",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "climatizacao",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor ventilador de coluna 2026: 7 modelos para comprar",
+      "problema": "Encontrar um ventilador de coluna forte, silencioso e durável para o verão",
+      "palavras_chave": [
+        "melhor ventilador de coluna 2026",
+        "ventilador de coluna silencioso",
+        "melhor ventilador de coluna custo-benefício",
+        "ventilador de coluna 40cm",
+        "arno ou mondial ventilador"
+      ],
+      "produtos_candidatos": [
+        "Arno Ultra Silence Force Coluna VD52",
+        "Mondial Turbo Coluna NVT-40C-8P",
+        "Arno Turbo Force Coluna",
+        "Mondial Super Turbo 8 pás",
+        "Britânia Ventilador de Coluna",
+        "Ventisol Notos Coluna"
+      ],
+      "prioridade": 1,
+      "sazonal": "verao",
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-comparativo-002",
+      "tipo": "comparativo",
+      "categoria": "cozinha",
+      "subcategoria": "cafeteiras",
+      "funil": "meio",
+      "titulo_sugerido": "Dolce Gusto ou Nespresso: qual máquina de cápsulas vale mais a pena em 2026?",
+      "problema": "Escolher o sistema de cápsulas pensando no preço do café mês a mês, não só da máquina",
+      "palavras_chave": [
+        "dolce gusto ou nespresso",
+        "nespresso ou dolce gusto qual melhor",
+        "cápsula nespresso preço",
+        "nespresso essenza mini vale a pena",
+        "máquina de café em cápsula"
+      ],
+      "produtos_candidatos": [
+        "Arno Dolce Gusto Genio S",
+        "Nespresso Essenza Mini"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-lista-003",
+      "tipo": "lista",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "suplementos-e-vitaminas",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor whey protein 2026: 6 marcas para comprar por custo-benefício",
+      "problema": "Querer começar a tomar whey sem pagar caro nem cair em produto de baixa qualidade",
+      "palavras_chave": [
+        "melhor whey protein 2026",
+        "whey protein custo-benefício",
+        "melhor whey barato",
+        "whey concentrado bom",
+        "whey dux ou growth"
+      ],
+      "produtos_candidatos": [
+        "Whey Protein Dux Nutrition",
+        "Whey Protein Max Titanium",
+        "Whey Protein Integralmédica",
+        "Whey Protein Probiótica",
+        "Whey Protein Black Skull",
+        "Whey Protein Optimum Nutrition Gold Standard"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-lista-001",
+      "tipo": "lista",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "cabelo",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor secador de cabelo 2026: 7 modelos para comprar por tipo de cabelo",
+      "problema": "Secador que demora, resseca ou queima o cabelo, sem saber qual potência e tecnologia escolher",
+      "palavras_chave": [
+        "melhor secador de cabelo 2026",
+        "secador de cabelo profissional",
+        "melhor secador custo-benefício",
+        "secador com íons vale a pena",
+        "taiff ou mondial secador"
+      ],
+      "produtos_candidatos": [
+        "Taiff Fox Ion",
+        "Taiff Fox Ion S",
+        "Mondial Secador Black Rose",
+        "Philco Secador Ceramic Ion",
+        "Gama Italy Secador",
+        "Britânia Secador BSC",
+        "Taiff Secador Style"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "bebes-e-criancas-lista-001",
+      "tipo": "lista",
+      "categoria": "bebes-e-criancas",
+      "subcategoria": "seguranca-e-monitoramento",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor babá eletrônica 2026: 6 modelos para comprar",
+      "problema": "Escolher uma babá eletrônica confiável, com bom alcance e sem falhas de sinal",
+      "palavras_chave": [
+        "melhor babá eletrônica 2026",
+        "babá eletrônica com câmera",
+        "babá eletrônica custo-benefício",
+        "babá eletrônica wifi ou sem wifi",
+        "motorola ou multikids babá eletrônica"
+      ],
+      "produtos_candidatos": [
+        "Motorola VM34",
+        "Motorola PIP1500",
+        "Motorola VM482",
+        "Multikids Baby Sound BB002",
+        "Câmera Wi-Fi Intelbras iM3 (uso como babá)",
+        "Babá eletrônica Chicco"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-lista-002",
+      "tipo": "lista",
+      "categoria": "pets",
+      "subcategoria": "alimentacao-e-comedouros",
+      "funil": "topo",
+      "titulo_sugerido": "Gato bebe pouca água: como estimular e 5 produtos que ajudam de verdade",
+      "problema": "Preocupação com os rins do gato que quase não bebe água",
+      "palavras_chave": [
+        "gato bebe pouca água",
+        "como fazer o gato beber água",
+        "fonte para gato vale a pena",
+        "gato não bebe água o que fazer",
+        "alimento úmido para gato"
+      ],
+      "produtos_candidatos": [
+        "Petlon Fonte Bebedouro",
+        "Fonte inox para gatos",
+        "Sachê Whiskas",
+        "Comedouro elevado para gatos",
+        "Bebedouro de cerâmica largo"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-lista-002",
+      "tipo": "lista",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "fitness-e-musculacao",
+      "funil": "topo",
+      "titulo_sugerido": "Sem tempo nem dinheiro para academia: 6 equipamentos para treinar em casa",
+      "problema": "Querer começar a treinar em casa sem gastar com equipamentos caros ou inúteis",
+      "palavras_chave": [
+        "como começar a treinar em casa",
+        "equipamentos para treinar em casa",
+        "treino em casa o que comprar",
+        "kit de musculação para casa",
+        "elástico de resistência vale a pena"
+      ],
+      "produtos_candidatos": [
+        "Kit halteres ajustáveis",
+        "Kit elásticos de resistência",
+        "Tapete de exercícios",
+        "Kettlebell",
+        "Barra de porta para flexões",
+        "Corda de pular com rolamento"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-lista-002",
+      "tipo": "lista",
+      "categoria": "automotivo",
+      "subcategoria": "eletronicos-automotivos",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor câmera veicular custo-benefício 2026: 6 modelos para comprar",
+      "problema": "Querer registrar o trânsito e proteger-se de golpes sem gastar mais de R$ 500",
+      "palavras_chave": [
+        "melhor câmera veicular até 500 reais",
+        "câmera veicular custo-benefício",
+        "dash cam barata boa",
+        "70mai 1s ou m310",
+        "câmera veicular com visão noturna"
+      ],
+      "produtos_candidatos": [
+        "70mai Dash Cam 1S",
+        "70mai M310 Plus",
+        "70mai A500S",
+        "Xiaomi 70mai Pro",
+        "Câmera veicular Multilaser",
+        "Dash Cam Full HD com tela"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-comparativo-002",
+      "tipo": "comparativo",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "cadeiras-e-mesas",
+      "funil": "meio",
+      "titulo_sugerido": "Cadeira gamer ou cadeira de escritório: qual comprar para o home office em 2026?",
+      "problema": "Passar 8 horas sentado e não saber se a cadeira gamer é confortável ou só bonita",
+      "palavras_chave": [
+        "cadeira gamer ou cadeira de escritório",
+        "cadeira gamer é boa para trabalhar",
+        "cadeira de escritório ergonômica vale a pena",
+        "cadeira gamer ou ergonômica",
+        "melhor cadeira para home office"
+      ],
+      "produtos_candidatos": [
+        "ThunderX3 Cadeira Gamer TGC12",
+        "ThunderX3 Cadeira Ergonômica XTC Mesh"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-lista-003",
+      "tipo": "lista",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "tenis-e-calcados",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor tênis para caminhar e ficar em pé o dia todo 2026: 6 modelos confortáveis",
+      "problema": "Trabalhar em pé ou caminhar muito e terminar o dia com os pés doloridos",
+      "palavras_chave": [
+        "melhor tênis para ficar em pé o dia todo",
+        "tênis confortável para caminhar",
+        "tênis para trabalhar em pé",
+        "olympikus ou mizuno conforto",
+        "tênis para caminhada barato"
+      ],
+      "produtos_candidatos": [
+        "Tênis Olympikus Atmos",
+        "Tênis Olympikus Ultraleve",
+        "Tênis Mizuno Wave",
+        "Tênis Fila Racer",
+        "Tênis Skechers Go Walk",
+        "Tênis Adidas Duramo"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-lista-002",
+      "tipo": "lista",
+      "categoria": "tecnologia",
+      "subcategoria": "celulares-e-acessorios",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor celular custo-benefício 2026: 7 modelos para comprar por faixa de preço",
+      "problema": "Trocar de celular gastando o mínimo possível sem se arrepender em 6 meses",
+      "palavras_chave": [
+        "melhor celular custo-benefício 2026",
+        "melhor celular até 1500",
+        "celular bom e barato",
+        "melhor celular intermediário",
+        "galaxy a56 ou redmi note"
+      ],
+      "produtos_candidatos": [
+        "Samsung Galaxy A56 5G",
+        "Samsung Galaxy A57 5G",
+        "Xiaomi Redmi Note 15 Pro",
+        "POCO X7 Pro",
+        "Motorola Moto G",
+        "Apple iPhone 16"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-lista-002",
+      "tipo": "lista",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "limpeza",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor robô aspirador custo-benefício 2026: 6 modelos de entrada para comprar",
+      "problema": "Querer automatizar a limpeza do chão sem gastar milhares de reais",
+      "palavras_chave": [
+        "melhor robô aspirador até 1000 reais",
+        "robô aspirador custo-benefício",
+        "melhor robô aspirador barato",
+        "robô aspirador que passa pano",
+        "wap ou xiaomi robô aspirador"
+      ],
+      "produtos_candidatos": [
+        "WAP Robot W100",
+        "Xiaomi Robot Vacuum S40C",
+        "Xiaomi Robot Vacuum E10",
+        "Multilaser Robô Aspirador",
+        "Electrolux Robô Aspirador ERB10",
+        "Kabum Smart 700"
+      ],
+      "prioridade": 1,
+      "sazonal": "black-friday",
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-lista-001",
+      "tipo": "lista",
+      "categoria": "cozinha",
+      "subcategoria": "air-fryer",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor air fryer 2026: 7 modelos para comprar por tamanho de família",
+      "problema": "Escolher a air fryer certa para a quantidade de pessoas sem pagar por capacidade que não usa",
+      "palavras_chave": [
+        "melhor air fryer 2026",
+        "qual a melhor air fryer",
+        "air fryer custo-benefício",
+        "air fryer 5 litros ou 4 litros",
+        "melhor marca de air fryer"
+      ],
+      "produtos_candidatos": [
+        "Mondial Grand Family 5L AFN-50-BI",
+        "Philips Walita Série 3000",
+        "Electrolux EAF51 5L",
+        "Mondial Digital AF-50-DV",
+        "Electrolux EAF90 12L",
+        "Philips Walita Série 1000 XL NA130",
+        "Britânia Air Fryer 5L"
+      ],
+      "prioridade": 1,
+      "sazonal": "black-friday",
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-lista-004",
+      "tipo": "lista",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "dor-e-postura",
+      "funil": "topo",
+      "titulo_sugerido": "Dor nas costas no home office: ergonomia e 5 produtos que ajudam de verdade",
+      "problema": "Dor lombar e nas costas de quem trabalha o dia todo na cadeira errada em casa",
+      "palavras_chave": [
+        "dor nas costas home office",
+        "dor nas costas de ficar sentado",
+        "como melhorar postura no trabalho",
+        "apoio lombar para cadeira",
+        "suporte para notebook ergonômico"
+      ],
+      "produtos_candidatos": [
+        "Almofada de apoio lombar viscoelástica",
+        "Suporte para notebook Octoo Uptable",
+        "Apoio para os pés ergonômico",
+        "Corretor postural Ortho Pauher",
+        "Almofada de assento ortopédica"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-lista-002",
+      "tipo": "lista",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "perfumes",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor perfume masculino custo-benefício 2026: 6 opções para dar de presente",
+      "problema": "Escolher um perfume masculino que dure e agrade sem gastar com importado caro",
+      "palavras_chave": [
+        "melhor perfume masculino até 200 reais",
+        "perfume masculino barato que dura",
+        "perfume masculino para presente",
+        "perfume árabe masculino",
+        "lattafa ou antonio banderas"
+      ],
+      "produtos_candidatos": [
+        "Lattafa Asad",
+        "Antonio Banderas Blue Seduction",
+        "Ferrari Black",
+        "Lattafa Khamrah",
+        "Nautica Voyage",
+        "Adidas Dynamic Pulse"
+      ],
+      "prioridade": 1,
+      "sazonal": "natal",
+      "status": "pending"
+    },
+    {
+      "id": "bebes-e-criancas-lista-002",
+      "tipo": "lista",
+      "categoria": "bebes-e-criancas",
+      "subcategoria": "quarto-e-sono-do-bebe",
+      "funil": "topo",
+      "titulo_sugerido": "Bebê não dorme a noite toda: o que fazer e 5 produtos que ajudam de verdade",
+      "problema": "Pais exaustos com bebê acordando várias vezes por noite sem saber como ajudar",
+      "palavras_chave": [
+        "bebê não dorme a noite toda",
+        "como fazer o bebê dormir",
+        "ruído branco para bebê",
+        "ninho para bebê dormir vale a pena",
+        "produtos para o sono do bebê"
+      ],
+      "produtos_candidatos": [
+        "Aparelho de ruído branco para bebê",
+        "Ninho redutor para bebê",
+        "Saco de dormir para bebê",
+        "Luminária noturna com dimmer",
+        "Umidificador de ar ultrassônico"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-lista-003",
+      "tipo": "lista",
+      "categoria": "pets",
+      "subcategoria": "brinquedos-e-enriquecimento",
+      "funil": "topo",
+      "titulo_sugerido": "Cachorro destruindo a casa quando fica sozinho: 6 produtos que ajudam de verdade",
+      "problema": "Chegar em casa e encontrar sofá, sapato e porta destruídos pelo cachorro ansioso",
+      "palavras_chave": [
+        "cachorro destruindo a casa",
+        "cachorro destrói tudo quando fica sozinho",
+        "ansiedade de separação cachorro",
+        "brinquedo para cachorro sozinho",
+        "kong vale a pena"
+      ],
+      "produtos_candidatos": [
+        "Kong Classic",
+        "Tapete de lamber para cães",
+        "Brinquedo recheável Pet Games",
+        "Comedouro lento interativo",
+        "Mordedor de corda",
+        "Câmera Wi-Fi para pet"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-lista-003",
+      "tipo": "lista",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "piscina-e-praia",
+      "funil": "topo",
+      "titulo_sugerido": "O que levar para a praia: 7 itens que fazem diferença de verdade no verão",
+      "problema": "Chegar à praia sem sombra, sem gelo e sem onde guardar as coisas",
+      "palavras_chave": [
+        "o que levar para a praia",
+        "itens para praia",
+        "melhor caixa térmica para praia",
+        "guarda-sol de praia resistente",
+        "cadeira de praia alumínio"
+      ],
+      "produtos_candidatos": [
+        "Caixa térmica Coleman 28L",
+        "Guarda-sol Mor Bagum 2m",
+        "Cadeira de praia Mor alumínio",
+        "Caixa de som JBL Go 4",
+        "Garrafa Stanley Quick Flip",
+        "Bolsa térmica dobrável",
+        "Esteira de praia dobrável"
+      ],
+      "prioridade": 1,
+      "sazonal": "verao",
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-lista-003",
+      "tipo": "lista",
+      "categoria": "automotivo",
+      "subcategoria": "conforto-e-postura-ao-dirigir",
+      "funil": "topo",
+      "titulo_sugerido": "Dor nas costas ao dirigir: causas e 5 produtos que ajudam de verdade",
+      "problema": "Dor lombar e no pescoço em viagens longas ou no trabalho de motorista",
+      "palavras_chave": [
+        "dor nas costas ao dirigir",
+        "dor lombar dirigindo o que fazer",
+        "como ajustar o banco do carro",
+        "almofada lombar para carro",
+        "apoio de pescoço para carro"
+      ],
+      "produtos_candidatos": [
+        "Dreamer Car Almofada Lombar",
+        "Apoio de pescoço viscoelástico para carro",
+        "Almofada de assento ortopédica",
+        "Capa de banco massageadora",
+        "Apoio de braço para console"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-lista-001",
+      "tipo": "lista",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "cadeiras-e-mesas",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor cadeira ergonômica custo-benefício 2026: 6 modelos para comprar",
+      "problema": "Dor nas costas no trabalho e orçamento limitado para uma cadeira decente",
+      "palavras_chave": [
+        "melhor cadeira ergonômica até 1000 reais",
+        "cadeira de escritório custo-benefício",
+        "melhor cadeira para home office barata",
+        "cadeira presidente ou ergonômica",
+        "cadeira de escritório com apoio lombar"
+      ],
+      "produtos_candidatos": [
+        "ThunderX3 XTC Mesh",
+        "ThunderX3 Yama1",
+        "Cadeira Elements Magna",
+        "Cadeira DT3 Office",
+        "Cadeira Flexform",
+        "Cadeira Mymax"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-lista-004",
+      "tipo": "lista",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "relogios-e-oculos",
+      "funil": "topo",
+      "titulo_sugerido": "Presente de Natal para homem: 7 relógios e óculos acessíveis que agradam",
+      "problema": "Não saber o que dar de Natal para pai, marido ou irmão sem errar no gosto",
+      "palavras_chave": [
+        "presente de natal para homem até 300 reais",
+        "relógio para presente masculino",
+        "presente para pai natal",
+        "óculos de sol para presente",
+        "casio para presente"
+      ],
+      "produtos_candidatos": [
+        "Casio A158WA",
+        "Casio G-Shock GD-010",
+        "Casio W59",
+        "Óculos Ray-Ban Justin",
+        "Relógio Orient Masculino",
+        "Relógio Technos",
+        "Óculos de sol Oakley Holbrook"
+      ],
+      "prioridade": 1,
+      "sazonal": "natal",
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-review-003",
+      "tipo": "review",
+      "categoria": "tecnologia",
+      "subcategoria": "fones-de-ouvido",
+      "funil": "fundo",
+      "titulo_sugerido": "Fone QCY T13 é bom? Review completo: vale a pena em 2026?",
+      "problema": "Encontrar um fone Bluetooth barato que não falhe na conexão nem na bateria",
+      "palavras_chave": [
+        "qcy t13 é bom",
+        "qcy t13 review",
+        "qcy t13 vale a pena",
+        "fone bluetooth barato",
+        "qcy t13 anc"
+      ],
+      "produtos_candidatos": [
+        "QCY T13 TWS",
+        "QCY T13 ANC"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-review-003",
+      "tipo": "review",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "ferramentas",
+      "funil": "fundo",
+      "titulo_sugerido": "Lavadora de alta pressão Kärcher K2 vale a pena? Review completo em 2026",
+      "problema": "Lavar carro, quintal e calçada com menos água e esforço sem comprar máquina fraca",
+      "palavras_chave": [
+        "karcher k2 vale a pena",
+        "karcher k2 review",
+        "lavadora de alta pressão karcher é boa",
+        "melhor lavadora de alta pressão",
+        "karcher k2 ou k3"
+      ],
+      "produtos_candidatos": [
+        "Kärcher K2 Standard",
+        "Kärcher K3"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-review-003",
+      "tipo": "review",
+      "categoria": "cozinha",
+      "subcategoria": "air-fryer",
+      "funil": "fundo",
+      "titulo_sugerido": "Air fryer oven Electrolux EAF90 vale a pena? Review completo em 2026",
+      "problema": "Família grande que quer assar frango inteiro e duas bandejas de uma vez",
+      "palavras_chave": [
+        "electrolux eaf90 vale a pena",
+        "air fryer oven electrolux review",
+        "air fryer 12 litros electrolux",
+        "eaf90 é boa",
+        "air fryer forno electrolux"
+      ],
+      "produtos_candidatos": [
+        "Electrolux Air Fryer Forno EAF90 12L",
+        "Electrolux Air Fryer Oven EAF91 Rita Lobo"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-review-002",
+      "tipo": "review",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "massagem-e-relaxamento",
+      "funil": "fundo",
+      "titulo_sugerido": "Massageador de pescoço Relaxmedic é bom? Review completo: vale a pena em 2026?",
+      "problema": "Tensão no pescoço e ombros no fim do dia e vontade de alívio sem sair de casa",
+      "palavras_chave": [
+        "massageador de pescoço relaxmedic é bom",
+        "massageador relaxmedic review",
+        "massageador de pescoço vale a pena",
+        "melhor massageador de pescoço",
+        "relaxmedic é boa marca"
+      ],
+      "produtos_candidatos": [
+        "Relaxmedic Massageador de Pescoço Neck Massager",
+        "Relaxmedic Massageador Portátil sem fio"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-review-003",
+      "tipo": "review",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "pele-e-skincare",
+      "funil": "fundo",
+      "titulo_sugerido": "Cicaplast Baume B5 La Roche-Posay vale a pena? Review completo em 2026",
+      "problema": "Pele ressecada, irritada ou descamando e dúvida se o creme famoso vale o preço",
+      "palavras_chave": [
+        "cicaplast b5 vale a pena",
+        "cicaplast baume b5 review",
+        "cicaplast para que serve",
+        "cicaplast é bom",
+        "cicaplast b5 ou b5+"
+      ],
+      "produtos_candidatos": [
+        "La Roche-Posay Cicaplast Baume B5 40ml",
+        "La Roche-Posay Cicaplast Baume B5+"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "bebes-e-criancas-review-003",
+      "tipo": "review",
+      "categoria": "bebes-e-criancas",
+      "subcategoria": "carrinhos-e-cadeirinhas",
+      "funil": "fundo",
+      "titulo_sugerido": "Carrinho de bebê Burigotto Ecco é bom? Review completo: vale a pena em 2026?",
+      "problema": "Precisar de um carrinho leve e com bom custo-benefício para o dia a dia na cidade",
+      "palavras_chave": [
+        "carrinho burigotto ecco é bom",
+        "carrinho burigotto review",
+        "carrinho de bebê burigotto vale a pena",
+        "melhor carrinho de bebê custo-benefício",
+        "burigotto ou galzerano"
+      ],
+      "produtos_candidatos": [
+        "Carrinho de bebê Burigotto Ecco",
+        "Carrinho Burigotto Travel System"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-review-002",
+      "tipo": "review",
+      "categoria": "pets",
+      "subcategoria": "alimentacao-e-comedouros",
+      "funil": "fundo",
+      "titulo_sugerido": "Ração Golden Special para cães adultos é boa? Review completo em 2026",
+      "problema": "Querer uma ração premium acessível sem comprometer a saúde do cachorro",
+      "palavras_chave": [
+        "ração golden special é boa",
+        "ração golden review",
+        "golden special vale a pena",
+        "ração golden cães adultos",
+        "golden é premium ou super premium"
+      ],
+      "produtos_candidatos": [
+        "Ração Golden Special Cães Adultos 15kg",
+        "Ração Golden Fórmula Cães Adultos"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-review-002",
+      "tipo": "review",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "fitness-e-musculacao",
+      "funil": "fundo",
+      "titulo_sugerido": "Esteira Dream Fitness Concept 2.1 é boa? Review completo: vale a pena em 2026?",
+      "problema": "Comprar a esteira dobrável mais vendida sem saber se aguenta o uso diário",
+      "palavras_chave": [
+        "esteira dream fitness concept 2.1 é boa",
+        "dream fitness review",
+        "esteira dream fitness vale a pena",
+        "esteira dobrável barata",
+        "dream fitness é boa marca"
+      ],
+      "produtos_candidatos": [
+        "Dream Fitness Esteira Eletrônica Concept 2.1 Bivolt"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-review-003",
+      "tipo": "review",
+      "categoria": "automotivo",
+      "subcategoria": "acessorios-internos",
+      "funil": "fundo",
+      "titulo_sugerido": "Suporte veicular magnético Baseus é bom? Review completo: vale a pena em 2026?",
+      "problema": "Suporte de celular que cai no primeiro buraco ou solta do painel no calor",
+      "palavras_chave": [
+        "suporte baseus magnético é bom",
+        "suporte veicular baseus review",
+        "suporte magnético para celular carro",
+        "melhor suporte de celular para carro",
+        "suporte magsafe para carro"
+      ],
+      "produtos_candidatos": [
+        "Baseus Suporte Veicular Magnético MagSafe",
+        "Baseus Suporte para Saída de Ar"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-review-003",
+      "tipo": "review",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "cadeiras-e-mesas",
+      "funil": "fundo",
+      "titulo_sugerido": "Cadeira gamer ThunderX3 TGC12 é boa? Review completo: vale a pena em 2026?",
+      "problema": "Querer uma cadeira gamer resistente para trabalhar e jogar sem gastar mais de R$ 1.000",
+      "palavras_chave": [
+        "thunderx3 tgc12 é boa",
+        "cadeira thunderx3 review",
+        "cadeira gamer thunderx3 vale a pena",
+        "melhor cadeira gamer custo-benefício",
+        "thunderx3 tgc12 ou ec3"
+      ],
+      "produtos_candidatos": [
+        "ThunderX3 Cadeira Gamer Profissional TGC12",
+        "ThunderX3 Cadeira Gamer EC3"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-review-002",
+      "tipo": "review",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "malas-e-viagem",
+      "funil": "fundo",
+      "titulo_sugerido": "Mala Samsonite Fiero 3.0 vale a pena? Review completo em 2026",
+      "problema": "Investir em uma mala rígida de marca e saber se ela aguenta aeroporto e rodoviária",
+      "palavras_chave": [
+        "samsonite fiero vale a pena",
+        "mala samsonite fiero 3.0 review",
+        "mala samsonite é boa",
+        "melhor mala rígida",
+        "samsonite fiero tamanho médio"
+      ],
+      "produtos_candidatos": [
+        "Samsonite Mala de Viagem Fiero 3.0 Média",
+        "Samsonite Fiero 3.0 Pequena"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-review-004",
+      "tipo": "review",
+      "categoria": "tecnologia",
+      "subcategoria": "smartwatches-e-wearables",
+      "funil": "fundo",
+      "titulo_sugerido": "Amazfit Bip 6 é bom? Review completo: vale a pena em 2026?",
+      "problema": "Querer um smartwatch com GPS e bateria longa sem pagar o preço de Apple ou Samsung",
+      "palavras_chave": [
+        "amazfit bip 6 é bom",
+        "amazfit bip 6 review",
+        "amazfit bip 6 vale a pena",
+        "smartwatch barato com gps",
+        "amazfit bip 6 ou xiaomi band"
+      ],
+      "produtos_candidatos": [
+        "Amazfit Bip 6"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-review-004",
+      "tipo": "review",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "climatizacao",
+      "funil": "fundo",
+      "titulo_sugerido": "Climatizador Elgin 7,5 litros vale a pena? Review completo em 2026",
+      "problema": "Entender se climatizador refresca de verdade ou se é só um ventilador caro",
+      "palavras_chave": [
+        "climatizador elgin vale a pena",
+        "climatizador elgin 7,5 litros review",
+        "climatizador refresca mesmo",
+        "climatizador ou ventilador",
+        "climatizador de ar é bom"
+      ],
+      "produtos_candidatos": [
+        "Elgin Climatizador FCE 3 em 1 7,5L",
+        "Elgin Climatizador Smart 3,5L"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-review-004",
+      "tipo": "review",
+      "categoria": "cozinha",
+      "subcategoria": "purificadores-e-filtros",
+      "funil": "fundo",
+      "titulo_sugerido": "Purificador de água Electrolux PE11 é bom? Review completo: vale a pena em 2026?",
+      "problema": "Ter água gelada e filtrada em casa sem comprar galão toda semana",
+      "palavras_chave": [
+        "purificador electrolux pe11 é bom",
+        "purificador de água electrolux review",
+        "melhor purificador de água",
+        "purificador electrolux vale a pena",
+        "refil pe11 preço"
+      ],
+      "produtos_candidatos": [
+        "Electrolux Purificador de Água PE11B",
+        "Electrolux Purificador PE11X"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-review-003",
+      "tipo": "review",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "monitoramento-de-saude",
+      "funil": "fundo",
+      "titulo_sugerido": "Balança de bioimpedância Relaxmedic Smart Neo é boa? Review completo em 2026",
+      "problema": "Acompanhar peso e composição corporal em casa sem gastar com balança profissional",
+      "palavras_chave": [
+        "balança relaxmedic smart neo é boa",
+        "balança de bioimpedância relaxmedic review",
+        "balança de bioimpedância vale a pena",
+        "melhor balança de bioimpedância",
+        "balança com aplicativo"
+      ],
+      "produtos_candidatos": [
+        "Relaxmedic Balança Digital Bioimpedância Smart Neo",
+        "Relaxmedic Balança Biolife"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-review-005",
+      "tipo": "review",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "pele-e-skincare",
+      "funil": "fundo",
+      "titulo_sugerido": "Protetor solar Anthelios Airlicium La Roche-Posay vale a pena? Review em 2026",
+      "problema": "Pele oleosa que não aguenta protetor solar pesado e brilha ao longo do dia",
+      "palavras_chave": [
+        "anthelios airlicium vale a pena",
+        "anthelios airlicium review",
+        "protetor solar para pele oleosa",
+        "anthelios é bom",
+        "protetor solar la roche-posay"
+      ],
+      "produtos_candidatos": [
+        "La Roche-Posay Anthelios Airlicium FPS 70",
+        "La Roche-Posay Anthelios XL Protect"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "bebes-e-criancas-review-004",
+      "tipo": "review",
+      "categoria": "bebes-e-criancas",
+      "subcategoria": "brinquedos",
+      "funil": "fundo",
+      "titulo_sugerido": "LEGO Classic Peças Criativas vale a pena? Review completo em 2026",
+      "problema": "Querer um presente que dure anos e estimule a criatividade, sem comprar brinquedo descartável",
+      "palavras_chave": [
+        "lego classic vale a pena",
+        "lego classic peças criativas review",
+        "lego classic caixa média é bom",
+        "melhor lego para começar",
+        "lego para presente de natal"
+      ],
+      "produtos_candidatos": [
+        "LEGO Classic Caixa Média de Peças Criativas 10696",
+        "LEGO Classic Caixa Grande 10698"
+      ],
+      "prioridade": 2,
+      "sazonal": "natal",
+      "status": "pending"
+    },
+    {
+      "id": "pets-review-003",
+      "tipo": "review",
+      "categoria": "pets",
+      "subcategoria": "higiene-e-cuidados",
+      "funil": "fundo",
+      "titulo_sugerido": "Tapete higiênico Super Secão é bom? Review completo: vale a pena em 2026?",
+      "problema": "Tapete que vaza, rasga e cheira mal, encarecendo a rotina do cachorro em apartamento",
+      "palavras_chave": [
+        "tapete higiênico super secão é bom",
+        "super secão review",
+        "melhor tapete higiênico",
+        "tapete higiênico que não vaza",
+        "tapete higiênico custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Tapete Higiênico Petix Super Secão 30 unidades",
+        "Tapete Higiênico Super Secão 50 unidades"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-review-003",
+      "tipo": "review",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "corrida-e-caminhada",
+      "funil": "fundo",
+      "titulo_sugerido": "Tênis Olympikus Ultraleve é bom para correr? Review completo em 2026",
+      "problema": "Começar a correr com um tênis nacional barato e saber se ele protege de verdade",
+      "palavras_chave": [
+        "olympikus ultraleve é bom",
+        "tênis olympikus ultraleve review",
+        "olympikus para corrida vale a pena",
+        "tênis de corrida barato",
+        "olympikus ultraleve ou corre"
+      ],
+      "produtos_candidatos": [
+        "Tênis Olympikus Ultraleve 130G",
+        "Tênis Olympikus Corre"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-review-004",
+      "tipo": "review",
+      "categoria": "automotivo",
+      "subcategoria": "ferramentas-e-emergencia",
+      "funil": "fundo",
+      "titulo_sugerido": "Compressor de ar portátil Xiaomi é bom? Review completo: vale a pena em 2026?",
+      "problema": "Pneu murcho sem posto por perto e dúvida se o calibrador portátil dá conta",
+      "palavras_chave": [
+        "compressor xiaomi é bom",
+        "calibrador xiaomi review",
+        "compressor de ar portátil xiaomi vale a pena",
+        "melhor calibrador de pneu portátil",
+        "mi portable air pump"
+      ],
+      "produtos_candidatos": [
+        "Xiaomi Compressor de Ar Portátil Mi Portable Electric Air Compressor 2",
+        "Xiaomi Mi Portable Air Pump 1S"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-review-004",
+      "tipo": "review",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "monitores",
+      "funil": "fundo",
+      "titulo_sugerido": "Monitor LG UltraGear 24G411A é bom? Review completo: vale a pena em 2026?",
+      "problema": "Querer um monitor de 144 Hz barato que sirva para trabalhar de dia e jogar à noite",
+      "palavras_chave": [
+        "lg ultragear 24g411a é bom",
+        "monitor lg ultragear 24 review",
+        "monitor 144hz barato",
+        "lg ultragear vale a pena",
+        "monitor gamer 24 polegadas"
+      ],
+      "produtos_candidatos": [
+        "LG UltraGear 24G411A",
+        "LG UltraGear 24GN60R"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-review-003",
+      "tipo": "review",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "tenis-e-calcados",
+      "funil": "fundo",
+      "titulo_sugerido": "Tênis Olympikus Atmos é bom? Review completo: vale a pena em 2026?",
+      "problema": "Querer um tênis casual confortável e barato para usar todo dia",
+      "palavras_chave": [
+        "olympikus atmos é bom",
+        "tênis olympikus atmos review",
+        "olympikus atmos vale a pena",
+        "tênis olympikus confortável",
+        "tênis casual barato bom"
+      ],
+      "produtos_candidatos": [
+        "Tênis Olympikus Atmos Feminino",
+        "Tênis Olympikus Atmos Masculino"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-comparativo-002",
+      "tipo": "comparativo",
+      "categoria": "tecnologia",
+      "subcategoria": "tvs-e-video",
+      "funil": "fundo",
+      "titulo_sugerido": "Fire TV Stick 4K vs Fire TV Stick HD: qual comprar em 2026?",
+      "problema": "Deixar a TV antiga smart sem pagar por recursos que a TV não aproveita",
+      "palavras_chave": [
+        "fire tv stick 4k ou hd",
+        "fire tv stick 4k vs hd",
+        "qual fire tv stick comprar",
+        "fire tv stick vale a pena",
+        "como deixar tv smart"
+      ],
+      "produtos_candidatos": [
+        "Amazon Fire TV Stick 4K",
+        "Amazon Fire TV Stick HD"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-comparativo-002",
+      "tipo": "comparativo",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "limpeza",
+      "funil": "meio",
+      "titulo_sugerido": "Robô aspirador ou aspirador vertical: qual comprar em 2026?",
+      "problema": "Ter pouco tempo para limpar e não saber qual tipo de aspirador resolve mais",
+      "palavras_chave": [
+        "robô aspirador ou aspirador vertical",
+        "aspirador vertical vale a pena",
+        "robô aspirador vale a pena",
+        "qual aspirador comprar",
+        "aspirador vertical ou robô"
+      ],
+      "produtos_candidatos": [
+        "WAP Robot W100",
+        "Aspirador vertical WAP High Speed"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-comparativo-003",
+      "tipo": "comparativo",
+      "categoria": "cozinha",
+      "subcategoria": "air-fryer",
+      "funil": "fundo",
+      "titulo_sugerido": "Mondial Grand Family 5L vs Electrolux EAF51: qual air fryer de 5 litros vale mais a pena?",
+      "problema": "Decidir entre as duas air fryers de 5 litros mais vendidas para família de 4 a 5 pessoas",
+      "palavras_chave": [
+        "mondial ou electrolux air fryer",
+        "mondial grand family vs electrolux eaf51",
+        "air fryer 5 litros melhor",
+        "electrolux eaf51 é boa",
+        "mondial afn-50 é boa"
+      ],
+      "produtos_candidatos": [
+        "Mondial Air Fryer Grand Family 5L AFN-50-BI",
+        "Electrolux Air Fryer EAF51 5L"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-review-004",
+      "tipo": "review",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "sono-e-descanso",
+      "funil": "fundo",
+      "titulo_sugerido": "Travesseiro Nasa-X Duoflex é bom? Review completo: vale a pena em 2026?",
+      "problema": "Querer um travesseiro viscoelástico que não afunde nem esquente a cabeça",
+      "palavras_chave": [
+        "travesseiro nasa duoflex é bom",
+        "travesseiro nasa-x review",
+        "travesseiro nasa vale a pena",
+        "travesseiro viscoelástico esquenta",
+        "duoflex é boa marca"
+      ],
+      "produtos_candidatos": [
+        "Travesseiro Nasa-X Alto Duoflex",
+        "Travesseiro Nasa Viva Conforto D40"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-comparativo-002",
+      "tipo": "comparativo",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "barbear-e-depilacao",
+      "funil": "fundo",
+      "titulo_sugerido": "Philips OneBlade vs OneBlade Pro: qual vale mais a pena em 2026?",
+      "problema": "Não saber se o OneBlade comum já resolve ou se o Pro justifica o preço mais alto",
+      "palavras_chave": [
+        "oneblade ou oneblade pro",
+        "oneblade vs oneblade pro",
+        "diferença oneblade e pro",
+        "oneblade pro vale a pena",
+        "qual oneblade comprar"
+      ],
+      "produtos_candidatos": [
+        "Philips OneBlade QP2630",
+        "Philips OneBlade Pro QP6530"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "bebes-e-criancas-comparativo-002",
+      "tipo": "comparativo",
+      "categoria": "bebes-e-criancas",
+      "subcategoria": "higiene-e-banho",
+      "funil": "fundo",
+      "titulo_sugerido": "Pampers Premium Care vs Huggies Supreme Care: qual fralda vale mais a pena?",
+      "problema": "Comparar as duas fraldas premium mais vendidas pelo custo por fralda e por noite seca",
+      "palavras_chave": [
+        "pampers ou huggies",
+        "pampers premium care vs huggies supreme care",
+        "qual fralda é melhor",
+        "melhor fralda premium",
+        "fralda que não vaza à noite"
+      ],
+      "produtos_candidatos": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-review-004",
+      "tipo": "review",
+      "categoria": "pets",
+      "subcategoria": "brinquedos-e-enriquecimento",
+      "funil": "fundo",
+      "titulo_sugerido": "Brinquedo Kong Classic vale a pena? Review completo em 2026",
+      "problema": "Cachorro que destrói qualquer brinquedo em minutos e dono cansado de gastar",
+      "palavras_chave": [
+        "kong classic vale a pena",
+        "kong classic review",
+        "kong é bom para cachorro",
+        "brinquedo indestrutível para cachorro",
+        "como rechear o kong"
+      ],
+      "produtos_candidatos": [
+        "Kong Classic Vermelho",
+        "Kong Extreme Preto"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-comparativo-002",
+      "tipo": "comparativo",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "fitness-e-musculacao",
+      "funil": "meio",
+      "titulo_sugerido": "Halteres ajustáveis ou kit de anilhas: qual vale mais a pena para treinar em casa?",
+      "problema": "Pouco espaço em casa e dúvida entre halteres ajustáveis caros e o kit de anilhas tradicional",
+      "palavras_chave": [
+        "halteres ajustáveis ou anilhas",
+        "halter ajustável vale a pena",
+        "kit de anilhas para casa",
+        "melhor halter ajustável",
+        "peso para treinar em casa"
+      ],
+      "produtos_candidatos": [
+        "Kit halteres ajustáveis 20kg",
+        "Kit anilhas com barras 30kg"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-comparativo-001",
+      "tipo": "comparativo",
+      "categoria": "automotivo",
+      "subcategoria": "eletronicos-automotivos",
+      "funil": "fundo",
+      "titulo_sugerido": "70mai A500S vs 70mai A800S: qual câmera veicular vale mais a pena em 2026?",
+      "problema": "Decidir se vale pagar mais pelo 4K da A800S ou se a A500S já resolve",
+      "palavras_chave": [
+        "70mai a500s ou a800s",
+        "70mai a500s vs a800s",
+        "qual 70mai comprar",
+        "70mai a500s review",
+        "câmera veicular frontal e traseira"
+      ],
+      "produtos_candidatos": [
+        "70mai Dash Cam A500S",
+        "70mai Dash Cam A800S"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-review-005",
+      "tipo": "review",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "teclados-e-mouses",
+      "funil": "fundo",
+      "titulo_sugerido": "Mouse Logitech M170 é bom? Review completo: vale a pena em 2026?",
+      "problema": "Mouse sem fio barato que não falhe e dure para trabalhar e estudar",
+      "palavras_chave": [
+        "logitech m170 é bom",
+        "mouse logitech m170 review",
+        "mouse sem fio barato bom",
+        "logitech m170 vale a pena",
+        "logitech m170 ou m185"
+      ],
+      "produtos_candidatos": [
+        "Logitech Mouse sem fio M170",
+        "Logitech Mouse M185"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-review-004",
+      "tipo": "review",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "relogios-e-oculos",
+      "funil": "fundo",
+      "titulo_sugerido": "Óculos Ray-Ban Justin vale a pena? Review completo em 2026",
+      "problema": "Comprar um óculos de sol de marca que dure e proteja sem pagar preço de ótica",
+      "palavras_chave": [
+        "ray-ban justin vale a pena",
+        "ray-ban justin review",
+        "ray-ban justin original",
+        "óculos ray-ban masculino",
+        "ray-ban justin ou wayfarer"
+      ],
+      "produtos_candidatos": [
+        "Óculos de Sol Ray-Ban Justin RB4165"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-comparativo-003",
+      "tipo": "comparativo",
+      "categoria": "tecnologia",
+      "subcategoria": "notebooks-e-computadores",
+      "funil": "meio",
+      "titulo_sugerido": "Notebook ou tablet para estudar: qual comprar em 2026?",
+      "problema": "Estudante com orçamento limitado sem saber se um tablet dá conta ou se precisa de notebook",
+      "palavras_chave": [
+        "notebook ou tablet para estudar",
+        "tablet ou notebook",
+        "notebook para estudar",
+        "tablet para estudar",
+        "qual comprar para faculdade"
+      ],
+      "produtos_candidatos": [
+        "Samsung Galaxy Tab A9+",
+        "Notebook Lenovo IdeaPad Slim 3"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-comparativo-003",
+      "tipo": "comparativo",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "climatizacao",
+      "funil": "fundo",
+      "titulo_sugerido": "Arno Silence Force vs Mondial Super Turbo: qual ventilador vale mais a pena?",
+      "problema": "Escolher entre o ventilador mais silencioso e o mais barato sem se arrepender",
+      "palavras_chave": [
+        "arno ou mondial ventilador",
+        "arno silence force vs mondial",
+        "ventilador arno ou mondial qual melhor",
+        "ventilador 40cm silencioso",
+        "mondial super turbo é bom"
+      ],
+      "produtos_candidatos": [
+        "Arno Ventilador Silence Force 40cm",
+        "Mondial Ventilador Super Turbo 8 pás VTX-40-8P"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-lista-002",
+      "tipo": "lista",
+      "categoria": "cozinha",
+      "subcategoria": "panelas-e-frigideiras",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor frigideira antiaderente 2026: 6 modelos para comprar",
+      "problema": "Frigideira que gruda e descasca em poucos meses, sem saber qual marca dura mais",
+      "palavras_chave": [
+        "melhor frigideira antiaderente",
+        "frigideira antiaderente que dura",
+        "frigideira tramontina ou brinox",
+        "frigideira de cerâmica vale a pena",
+        "frigideira para indução"
+      ],
+      "produtos_candidatos": [
+        "Tramontina Frigideira Paris",
+        "Tramontina Frigideira Lyon",
+        "Brinox Frigideira Ceramic Life",
+        "Tefal Frigideira Expertise",
+        "Tramontina Frigideira Loreto",
+        "Panelux Frigideira Antiaderente"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-comparativo-001",
+      "tipo": "comparativo",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "higiene-bucal",
+      "funil": "fundo",
+      "titulo_sugerido": "Oral-B iO Series 2 vs Oral-B Pro Series 2: qual escova elétrica vale mais a pena?",
+      "problema": "Não entender a diferença entre as linhas iO e Pro da Oral-B e pagar a mais sem precisar",
+      "palavras_chave": [
+        "oral-b io ou pro",
+        "oral-b io series 2 vs pro series 2",
+        "diferença oral-b io e pro",
+        "qual oral-b comprar",
+        "escova oral-b custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Oral-B iO Series 2",
+        "Oral-B Pro Series 2"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-comparativo-003",
+      "tipo": "comparativo",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "cabelo",
+      "funil": "meio",
+      "titulo_sugerido": "Prancha ou escova secadora: qual comprar para alisar o cabelo em casa em 2026?",
+      "problema": "Querer cabelo liso e com brilho em casa sem danificar os fios nem perder tempo",
+      "palavras_chave": [
+        "prancha ou escova secadora",
+        "escova secadora vale a pena",
+        "escova secadora ou chapinha",
+        "melhor escova secadora",
+        "prancha de cabelo profissional"
+      ],
+      "produtos_candidatos": [
+        "Taiff Prancha Titanium Colors",
+        "Philco Escova Secadora Soft Brush"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "bebes-e-criancas-comparativo-003",
+      "tipo": "comparativo",
+      "categoria": "bebes-e-criancas",
+      "subcategoria": "alimentacao-e-amamentacao",
+      "funil": "fundo",
+      "titulo_sugerido": "Mamadeira Philips Avent vs MAM Easy Start: qual vale mais a pena?",
+      "problema": "Bebê que recusa mamadeira ou tem cólica e pais em dúvida entre as duas marcas mais indicadas",
+      "palavras_chave": [
+        "mamadeira avent ou mam",
+        "philips avent vs mam",
+        "melhor mamadeira anticólica",
+        "mamadeira para bebê que recusa",
+        "qual mamadeira comprar"
+      ],
+      "produtos_candidatos": [
+        "Philips Avent Mamadeira Pétala Anticólica",
+        "MAM Mamadeira Easy Start Anti-Colic"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-comparativo-002",
+      "tipo": "comparativo",
+      "categoria": "pets",
+      "subcategoria": "alimentacao-e-comedouros",
+      "funil": "meio",
+      "titulo_sugerido": "Comedouro automático ou manual: qual vale mais a pena para quem trabalha fora?",
+      "problema": "Passar o dia fora e não conseguir manter os horários de alimentação do pet",
+      "palavras_chave": [
+        "comedouro automático vale a pena",
+        "comedouro automático ou comum",
+        "alimentador automático para gatos",
+        "comedouro automático para cachorro",
+        "melhor comedouro automático"
+      ],
+      "produtos_candidatos": [
+        "Alimentador automático 5L com temporizador",
+        "Comedouro de inox elevado"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-comparativo-003",
+      "tipo": "comparativo",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "camping-e-aventura",
+      "funil": "fundo",
+      "titulo_sugerido": "Stanley Adventure vs Stanley Quick Flip: qual garrafa térmica vale mais a pena?",
+      "problema": "Escolher entre a garrafa clássica de 1 litro e a versão de bico para o dia a dia",
+      "palavras_chave": [
+        "stanley adventure ou quick flip",
+        "stanley adventure vs quick flip",
+        "qual garrafa stanley comprar",
+        "stanley quick flip review",
+        "stanley 1 litro ou 710ml"
+      ],
+      "produtos_candidatos": [
+        "Stanley Adventure 2.0 1L",
+        "Stanley Quick Flip 710ml"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-comparativo-002",
+      "tipo": "comparativo",
+      "categoria": "automotivo",
+      "subcategoria": "acessorios-internos",
+      "funil": "meio",
+      "titulo_sugerido": "Suporte de celular magnético ou de garra: qual vale mais a pena no carro?",
+      "problema": "Celular caindo do suporte e dúvida entre ímã e garra para usar GPS com segurança",
+      "palavras_chave": [
+        "suporte de celular magnético ou garra",
+        "suporte magnético para carro é seguro",
+        "suporte de celular para carro saída de ar",
+        "melhor tipo de suporte veicular",
+        "suporte de celular com ventosa"
+      ],
+      "produtos_candidatos": [
+        "Baseus Suporte Magnético",
+        "Suporte veicular de garra com trava automática"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-lista-002",
+      "tipo": "lista",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "monitores",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor monitor para home office 2026: 6 modelos para comprar",
+      "problema": "Trabalhar o dia todo com a tela pequena do notebook e cansar os olhos",
+      "palavras_chave": [
+        "melhor monitor para home office 2026",
+        "monitor para trabalhar",
+        "monitor 24 ou 27 polegadas",
+        "monitor ips para home office",
+        "melhor monitor custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "LG UltraGear 24G411A",
+        "LG 24MR400",
+        "Samsung Monitor 27\" T350",
+        "AOC 24B2XH",
+        "Dell SE2422H",
+        "LG 29\" Ultrawide 29WQ600"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-comparativo-001",
+      "tipo": "comparativo",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "relogios-e-oculos",
+      "funil": "fundo",
+      "titulo_sugerido": "Casio F-91W vs Casio A158WA: qual relógio digital clássico vale mais a pena?",
+      "problema": "Escolher entre o Casio de resina e o de aço sem saber a diferença real",
+      "palavras_chave": [
+        "casio f-91w ou a158wa",
+        "casio f91w vs a158wa",
+        "casio a158wa é bom",
+        "qual casio digital comprar",
+        "casio vintage prata"
+      ],
+      "produtos_candidatos": [
+        "Casio F-91W-1DG",
+        "Casio A158WA-1DF"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-lista-003",
+      "tipo": "lista",
+      "categoria": "tecnologia",
+      "subcategoria": "tvs-e-video",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor smart TV 50 polegadas 2026: 6 modelos para comprar na Black Friday",
+      "problema": "Escolher uma TV 4K de 50 polegadas boa para filmes e jogos sem cair em modelo defasado",
+      "palavras_chave": [
+        "melhor tv 50 polegadas 2026",
+        "smart tv 50 polegadas custo-benefício",
+        "melhor tv 4k 50",
+        "tv 50 polegadas black friday",
+        "samsung crystal uhd 50 é boa"
+      ],
+      "produtos_candidatos": [
+        "Samsung Smart TV 50\" Crystal UHD U8600F",
+        "Samsung 50DU7700",
+        "LG 50UR8750",
+        "TCL 50P7K",
+        "Philco 50\" 4K",
+        "Samsung 50\" QLED"
+      ],
+      "prioridade": 2,
+      "sazonal": "black-friday",
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-lista-003",
+      "tipo": "lista",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "cama-mesa-e-banho",
+      "funil": "topo",
+      "titulo_sugerido": "Calor para dormir: 5 itens de cama que ajudam a passar o verão com conforto",
+      "problema": "Noites mal dormidas no verão por causa do calor, sem querer ligar o ar-condicionado a noite toda",
+      "palavras_chave": [
+        "calor para dormir o que fazer",
+        "como dormir no calor",
+        "lençol fresco para o verão",
+        "travesseiro gelado",
+        "colchão esquenta muito"
+      ],
+      "produtos_candidatos": [
+        "Lençol de percal 400 fios",
+        "Travesseiro gel refrescante",
+        "Protetor de colchão impermeável respirável",
+        "Edredom leve de verão",
+        "Pijama de algodão"
+      ],
+      "prioridade": 2,
+      "sazonal": "verao",
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-lista-003",
+      "tipo": "lista",
+      "categoria": "cozinha",
+      "subcategoria": "geladeiras-fogoes-e-micro-ondas",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor micro-ondas 2026: 6 modelos para comprar por tamanho de cozinha",
+      "problema": "Trocar o micro-ondas sem errar no tamanho, na potência e na facilidade de limpar",
+      "palavras_chave": [
+        "melhor micro-ondas 2026",
+        "micro-ondas 20 litros ou 30 litros",
+        "melhor micro-ondas custo-benefício",
+        "micro-ondas de embutir",
+        "micro-ondas electrolux ou lg"
+      ],
+      "produtos_candidatos": [
+        "Electrolux Micro-ondas 31L MI41S",
+        "LG Micro-ondas 30L MS3091BCA",
+        "Panasonic Micro-ondas 21L",
+        "Consul Micro-ondas 32L CMS45",
+        "Brastemp Micro-ondas 32L",
+        "Philco Micro-ondas 20L"
+      ],
+      "prioridade": 2,
+      "sazonal": "black-friday",
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-lista-005",
+      "tipo": "lista",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "sono-e-descanso",
+      "funil": "topo",
+      "titulo_sugerido": "Como dormir melhor: hábitos que funcionam e 5 produtos que ajudam de verdade",
+      "problema": "Dificuldade para pegar no sono e acordar cansado mesmo dormindo as horas certas",
+      "palavras_chave": [
+        "como dormir melhor",
+        "não consigo dormir o que fazer",
+        "produtos para dormir melhor",
+        "máscara de dormir vale a pena",
+        "luz para dormir melhor"
+      ],
+      "produtos_candidatos": [
+        "Máscara de dormir 3D",
+        "Tampão de ouvido de silicone",
+        "Luminária de luz quente com dimmer",
+        "Travesseiro Nasa Duoflex",
+        "Protetor auricular Moldex",
+        "Difusor de aromas elétrico"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-lista-003",
+      "tipo": "lista",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "pele-e-skincare",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor protetor solar facial para pele oleosa 2026: 6 opções para o verão",
+      "problema": "Protetor solar que deixa a pele brilhando e espinhas piores no calor",
+      "palavras_chave": [
+        "melhor protetor solar facial para pele oleosa",
+        "protetor solar toque seco",
+        "protetor solar com cor para pele oleosa",
+        "protetor solar facial barato",
+        "anthelios ou episol"
+      ],
+      "produtos_candidatos": [
+        "La Roche-Posay Anthelios Airlicium",
+        "Episol Sec OC",
+        "Neutrogena Sun Fresh Toque Seco",
+        "Bioré UV Aqua Rich",
+        "Isdin Fusion Water",
+        "Nivea Sun Beauty Expert"
+      ],
+      "prioridade": 2,
+      "sazonal": "verao",
+      "status": "pending"
+    },
+    {
+      "id": "bebes-e-criancas-lista-003",
+      "tipo": "lista",
+      "categoria": "bebes-e-criancas",
+      "subcategoria": "carrinhos-e-cadeirinhas",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor cadeirinha de carro 2026: 6 modelos por faixa de idade e peso",
+      "problema": "Escolher a cadeirinha certa para a idade do filho e dentro da lei sem gastar demais",
+      "palavras_chave": [
+        "melhor cadeirinha de carro 2026",
+        "cadeirinha de carro 9 a 36 kg",
+        "cadeirinha isofix vale a pena",
+        "melhor cadeirinha custo-benefício",
+        "cadeirinha chicco ou burigotto"
+      ],
+      "produtos_candidatos": [
+        "Chicco Seat4Fix",
+        "Burigotto Matrix Evolution",
+        "Cosco Kids Cadeirinha",
+        "Chicco Unico Plus",
+        "Tutti Baby Cadeirinha",
+        "Multikids Baby Cadeirinha Poltrona"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-comparativo-003",
+      "tipo": "comparativo",
+      "categoria": "pets",
+      "subcategoria": "higiene-e-cuidados",
+      "funil": "meio",
+      "titulo_sugerido": "Tapete higiênico ou sanitário canino: qual vale mais a pena em 2026?",
+      "problema": "Gasto mensal alto com tapete e dúvida se o sanitário reutilizável compensa",
+      "palavras_chave": [
+        "tapete higiênico ou sanitário canino",
+        "sanitário canino vale a pena",
+        "tapete higiênico custo mensal",
+        "banheiro para cachorro apartamento",
+        "sanitário canino com grama"
+      ],
+      "produtos_candidatos": [
+        "Tapete Higiênico Super Secão",
+        "Sanitário Canino com grama sintética"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-lista-004",
+      "tipo": "lista",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "camping-e-aventura",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor barraca de camping 2026: 6 modelos para 2 a 6 pessoas",
+      "problema": "Primeira barraca para acampar sem passar frio, molhar ou sofrer para montar",
+      "palavras_chave": [
+        "melhor barraca de camping 2026",
+        "barraca para 4 pessoas",
+        "barraca de camping impermeável",
+        "barraca nautika ou guepardo",
+        "barraca para iniciantes"
+      ],
+      "produtos_candidatos": [
+        "Barraca Nautika Indy",
+        "Barraca Guepardo Zeus",
+        "Barraca Mor Luna",
+        "Barraca Nautika Falcon",
+        "Barraca Azteq Minipack",
+        "Barraca Coleman"
+      ],
+      "prioridade": 2,
+      "sazonal": "verao",
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-lista-004",
+      "tipo": "lista",
+      "categoria": "automotivo",
+      "subcategoria": "acessorios-internos",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor suporte de celular para carro 2026: 7 modelos para comprar",
+      "problema": "Usar o GPS no carro com segurança sem suporte que solta ou bloqueia a visão",
+      "palavras_chave": [
+        "melhor suporte de celular para carro 2026",
+        "suporte de celular para carro",
+        "suporte veicular magnético",
+        "suporte de celular para painel",
+        "suporte para carro baseus"
+      ],
+      "produtos_candidatos": [
+        "Baseus Suporte Magnético MagSafe",
+        "Suporte de garra com trava automática UTBRX",
+        "Suporte para saída de ar universal",
+        "Suporte magnético 360°",
+        "Suporte com ventosa extra forte",
+        "Baseus Suporte Gravitacional",
+        "Suporte com carregador sem fio"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-lista-003",
+      "tipo": "lista",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "iluminacao-e-ergonomia",
+      "funil": "topo",
+      "titulo_sugerido": "Olhos cansados de tanta tela: causas e 5 produtos que ajudam de verdade",
+      "problema": "Vista cansada, dor de cabeça e olhos secos depois de horas no computador",
+      "palavras_chave": [
+        "olhos cansados de tela o que fazer",
+        "vista cansada computador",
+        "luminária para home office",
+        "óculos com filtro de luz azul vale a pena",
+        "ergonomia da tela"
+      ],
+      "produtos_candidatos": [
+        "Luminária de mesa LED com dimmer",
+        "Suporte para monitor ergonômico",
+        "Óculos com filtro de luz azul",
+        "Suporte Octoo Uptable",
+        "Monitor LG com Reader Mode"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-comparativo-002",
+      "tipo": "comparativo",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "malas-e-viagem",
+      "funil": "meio",
+      "titulo_sugerido": "Mala de bordo ou mala média: qual comprar primeiro para viajar em 2026?",
+      "problema": "Primeira mala de verdade sem saber qual tamanho serve para a maioria das viagens",
+      "palavras_chave": [
+        "mala de bordo ou mala média",
+        "tamanho de mala para viagem de 7 dias",
+        "mala de bordo medidas",
+        "mala média medidas",
+        "qual tamanho de mala comprar"
+      ],
+      "produtos_candidatos": [
+        "Samsonite Fiero 3.0 Pequena (bordo)",
+        "Samsonite Fiero 3.0 Média"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-lista-004",
+      "tipo": "lista",
+      "categoria": "tecnologia",
+      "subcategoria": "audio-e-caixas-de-som",
+      "funil": "topo",
+      "titulo_sugerido": "Som da TV baixo e diálogos difíceis de entender: 5 soluções que funcionam",
+      "problema": "Não conseguir entender as falas na TV e precisar aumentar o volume o tempo todo",
+      "palavras_chave": [
+        "som da tv baixo",
+        "não entendo os diálogos da tv",
+        "soundbar vale a pena",
+        "melhor soundbar barata",
+        "como melhorar o som da tv"
+      ],
+      "produtos_candidatos": [
+        "JBL Cinema SB180",
+        "JBL Cinema SB170",
+        "Samsung HW-B450F",
+        "JBL Cinema SB580",
+        "Caixa de som Bluetooth JBL"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-lista-004",
+      "tipo": "lista",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "festas-e-eventos",
+      "funil": "topo",
+      "titulo_sugerido": "Ceia de Natal para muita gente: 6 produtos que facilitam receber em casa",
+      "problema": "Receber a família no Natal e sofrer com falta de louça, espaço e organização",
+      "palavras_chave": [
+        "ceia de natal o que precisa",
+        "como organizar ceia de natal",
+        "produtos para receber visitas",
+        "jogo de taças para festa",
+        "mesa de natal decoração"
+      ],
+      "produtos_candidatos": [
+        "Jogo de taças de vidro Nadir",
+        "Réchaud para buffet",
+        "Travessa de vidro Marinex",
+        "Jogo americano natalino",
+        "Pisca-pisca LED 100 lâmpadas",
+        "Garrafa térmica para café Termolar"
+      ],
+      "prioridade": 2,
+      "sazonal": "natal",
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-lista-005",
+      "tipo": "lista",
+      "categoria": "cozinha",
+      "subcategoria": "purificadores-e-filtros",
+      "funil": "topo",
+      "titulo_sugerido": "Água com gosto de cloro: causas e 5 produtos que resolvem de verdade",
+      "problema": "Água da torneira com cheiro e gosto ruim, sem saber se precisa de filtro ou purificador",
+      "palavras_chave": [
+        "água com gosto de cloro",
+        "água da torneira com cheiro",
+        "filtro de água ou purificador",
+        "filtro de barro vale a pena",
+        "melhor filtro de água para torneira"
+      ],
+      "produtos_candidatos": [
+        "Electrolux Purificador PE11B",
+        "Filtro de barro Stéfani",
+        "Filtro para torneira Lorenzetti",
+        "Purificador Consul CPB35",
+        "Jarra filtrante Brita"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-lista-006",
+      "tipo": "lista",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "massagem-e-relaxamento",
+      "funil": "topo",
+      "titulo_sugerido": "Tensão no pescoço e ombros depois do trabalho: 5 produtos que aliviam de verdade",
+      "problema": "Chegar do trabalho com pescoço e ombros travados de tanto celular e computador",
+      "palavras_chave": [
+        "tensão no pescoço e ombros",
+        "pescoço travado o que fazer",
+        "massageador de pescoço vale a pena",
+        "pistola de massagem vale a pena",
+        "alívio para dor no pescoço"
+      ],
+      "produtos_candidatos": [
+        "Relaxmedic Massageador de Pescoço",
+        "Pistola de massagem Relaxmedic",
+        "Bolsa térmica de gel",
+        "Travesseiro cervical de viagem",
+        "Rolo de liberação miofascial"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-lista-006",
+      "tipo": "lista",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "maquiagem",
+      "funil": "topo",
+      "titulo_sugerido": "Presente de Natal para quem ama maquiagem: 6 kits que agradam de verdade",
+      "problema": "Não entender de maquiagem e precisar presentear alguém que adora sem errar",
+      "palavras_chave": [
+        "presente para quem gosta de maquiagem",
+        "kit de maquiagem para presente",
+        "presente de natal para mulher maquiagem",
+        "paleta de sombras boa",
+        "kit de pincéis de maquiagem"
+      ],
+      "produtos_candidatos": [
+        "Ruby Rose Paleta de Sombras",
+        "Kit de pincéis Macrilan",
+        "Maybelline Máscara de Cílios Sky High",
+        "Batom Vult Matte",
+        "Espelho de maquiagem com LED",
+        "Kit skincare Cerave"
+      ],
+      "prioridade": 2,
+      "sazonal": "natal",
+      "status": "pending"
+    },
+    {
+      "id": "bebes-e-criancas-lista-004",
+      "tipo": "lista",
+      "categoria": "bebes-e-criancas",
+      "subcategoria": "brinquedos",
+      "funil": "topo",
+      "titulo_sugerido": "Presente de Natal para criança: 7 brinquedos baratos que agradam de verdade",
+      "problema": "Precisar presentear várias crianças no Natal sem estourar o orçamento e sem comprar bobagem",
+      "palavras_chave": [
+        "presente de natal para criança até 100 reais",
+        "brinquedo até 100 reais",
+        "presente barato para criança",
+        "brinquedo para menino de 5 anos",
+        "brinquedo para menina de 4 anos"
+      ],
+      "produtos_candidatos": [
+        "Hot Wheels Kit 5 carrinhos",
+        "Jogo Uno Mattel",
+        "Jogo Dobble",
+        "LEGO Classic 11001",
+        "Massinha Play-Doh kit",
+        "Pista Hot Wheels",
+        "Quebra-cabeça Grow 100 peças"
+      ],
+      "prioridade": 2,
+      "sazonal": "natal",
+      "status": "pending"
+    },
+    {
+      "id": "pets-lista-004",
+      "tipo": "lista",
+      "categoria": "pets",
+      "subcategoria": "caminhas-e-casinhas",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor caminha para cachorro 2026: 6 modelos por porte e clima",
+      "problema": "Cachorro que não usa a cama ou destrói a caminha em poucas semanas",
+      "palavras_chave": [
+        "melhor caminha para cachorro 2026",
+        "caminha para cachorro grande",
+        "cama para cachorro lavável",
+        "caminha para cachorro pequeno",
+        "cama ortopédica para cachorro idoso"
+      ],
+      "produtos_candidatos": [
+        "Cama ortopédica para cachorro",
+        "Caminha iglu para pet",
+        "Cama pet elevada",
+        "Caminha redonda de pelúcia",
+        "Cama impermeável para cachorro grande",
+        "Colchonete pet lavável"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-lista-005",
+      "tipo": "lista",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "ciclismo",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor bicicleta custo-benefício 2026: 6 modelos de entrada para comprar",
+      "problema": "Voltar a pedalar com uma bike confiável sem gastar com modelo profissional",
+      "palavras_chave": [
+        "melhor bicicleta até 2000 reais",
+        "bicicleta aro 29 custo-benefício",
+        "melhor bicicleta para iniciante",
+        "caloi ou krw bicicleta",
+        "bicicleta urbana boa e barata"
+      ],
+      "produtos_candidatos": [
+        "Caloi Explorer Sport",
+        "Caloi Andes",
+        "Bicicleta KRW Aro 29",
+        "Caloi Vulcan",
+        "Bicicleta Houston",
+        "Bicicleta Dropp Aro 29"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-lista-005",
+      "tipo": "lista",
+      "categoria": "automotivo",
+      "subcategoria": "acessorios-internos",
+      "funil": "topo",
+      "titulo_sugerido": "Viagem de carro no fim do ano com crianças: 6 itens que deixam tudo mais tranquilo",
+      "problema": "Viagem longa de fim de ano com crianças entediadas, bagunça e paradas demais",
+      "palavras_chave": [
+        "viagem de carro com crianças",
+        "o que levar em viagem de carro",
+        "organizador de banco de carro",
+        "suporte de tablet para banco traseiro",
+        "acessórios para viagem de carro"
+      ],
+      "produtos_candidatos": [
+        "Organizador de banco traseiro",
+        "Suporte de tablet para encosto de cabeça",
+        "Almofada de pescoço infantil",
+        "Protetor de banco impermeável",
+        "Carregador veicular com 4 portas USB",
+        "Lixeira para carro"
+      ],
+      "prioridade": 2,
+      "sazonal": "natal",
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-lista-004",
+      "tipo": "lista",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "teclados-e-mouses",
+      "funil": "topo",
+      "titulo_sugerido": "Dor no punho de quem usa notebook: causas e 5 produtos que ajudam de verdade",
+      "problema": "Punho e dedos doloridos por digitar no notebook o dia inteiro",
+      "palavras_chave": [
+        "dor no punho ao usar o computador",
+        "mouse ergonômico vale a pena",
+        "apoio de punho para teclado",
+        "mouse vertical é bom",
+        "teclado ergonômico"
+      ],
+      "produtos_candidatos": [
+        "Mouse vertical Logitech Lift",
+        "Apoio de punho em gel para teclado",
+        "Mouse Logitech M170",
+        "Teclado sem fio Logitech K380",
+        "Suporte Octoo Uptable"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-lista-005",
+      "tipo": "lista",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "tenis-e-calcados",
+      "funil": "topo",
+      "titulo_sugerido": "Pés doloridos no fim do dia: 5 calçados e palmilhas que ajudam de verdade",
+      "problema": "Dor nos pés e nos calcanhares de quem passa horas em pé ou andando",
+      "palavras_chave": [
+        "pés doloridos no fim do dia",
+        "palmilha para dor no pé",
+        "tênis confortável para pé dolorido",
+        "palmilha de gel vale a pena",
+        "calçado confortável para trabalhar"
+      ],
+      "produtos_candidatos": [
+        "Palmilha de gel Dr. Scholl",
+        "Tênis Skechers Go Walk",
+        "Tênis Olympikus Atmos",
+        "Palmilha ortopédica Ortho Pauher",
+        "Chinelo ortopédico Usaflex"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-review-005",
+      "tipo": "review",
+      "categoria": "tecnologia",
+      "subcategoria": "audio-e-caixas-de-som",
+      "funil": "fundo",
+      "titulo_sugerido": "JBL Go 4 vale a pena? Review completo da caixa de som portátil em 2026",
+      "problema": "Escolher uma caixinha de som pequena, resistente e com som decente para levar a qualquer lugar",
+      "palavras_chave": [
+        "jbl go 4 vale a pena",
+        "jbl go 4 review",
+        "jbl go 4 é boa",
+        "caixa de som portátil pequena",
+        "jbl go 4 ou go 3"
+      ],
+      "produtos_candidatos": [
+        "JBL Go 4",
+        "JBL Go 3"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-review-005",
+      "tipo": "review",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "iluminacao",
+      "funil": "fundo",
+      "titulo_sugerido": "Lâmpada inteligente Positivo Casa Inteligente é boa? Review completo em 2026",
+      "problema": "Querer luz colorida e controle por voz no quarto sem gastar com instalação",
+      "palavras_chave": [
+        "lâmpada inteligente positivo é boa",
+        "lâmpada smart positivo review",
+        "lâmpada inteligente alexa",
+        "melhor lâmpada inteligente barata",
+        "lâmpada wifi vale a pena"
+      ],
+      "produtos_candidatos": [
+        "Positivo Casa Inteligente Smart Lâmpada Wi-Fi RGB",
+        "Positivo Smart Lâmpada Branca"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-lista-004",
+      "tipo": "lista",
+      "categoria": "cozinha",
+      "subcategoria": "eletroportateis",
+      "funil": "topo",
+      "titulo_sugerido": "Sem tempo para cozinhar na semana: 5 eletroportáteis que agilizam de verdade",
+      "problema": "Chegar cansado do trabalho e acabar pedindo delivery por falta de praticidade na cozinha",
+      "palavras_chave": [
+        "eletroportáteis que facilitam a vida",
+        "como cozinhar rápido na semana",
+        "panela elétrica de arroz vale a pena",
+        "panela de pressão elétrica vale a pena",
+        "o que comprar para cozinhar rápido"
+      ],
+      "produtos_candidatos": [
+        "Panela de pressão elétrica Electrolux PCC20",
+        "Panela de arroz elétrica Mondial",
+        "Mixer Philips Walita",
+        "Sanduicheira grill Mondial",
+        "Chaleira elétrica Cadence"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-review-005",
+      "tipo": "review",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "dor-e-postura",
+      "funil": "fundo",
+      "titulo_sugerido": "Corretor postural Ortho Pauher é bom? Review completo: vale a pena em 2026?",
+      "problema": "Postura curvada no computador e dúvida se cinta postural ajuda ou atrapalha",
+      "palavras_chave": [
+        "corretor postural ortho pauher é bom",
+        "corretor postural funciona",
+        "cinta postural vale a pena",
+        "melhor corretor de postura",
+        "ortho pauher é boa marca"
+      ],
+      "produtos_candidatos": [
+        "Ortho Pauher Corretor Postural",
+        "Ortho Pauher Cinta Postural Magnética"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-review-004",
+      "tipo": "review",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "perfumes",
+      "funil": "fundo",
+      "titulo_sugerido": "Lattafa Asad é bom? Review completo: o perfume árabe vale a pena em 2026?",
+      "problema": "Querer um perfume árabe que dure o dia inteiro sem pagar preço de grife",
+      "palavras_chave": [
+        "lattafa asad é bom",
+        "lattafa asad review",
+        "perfume árabe vale a pena",
+        "lattafa asad fixação",
+        "melhor perfume árabe masculino"
+      ],
+      "produtos_candidatos": [
+        "Lattafa Asad Eau de Parfum 100ml"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "bebes-e-criancas-review-005",
+      "tipo": "review",
+      "categoria": "bebes-e-criancas",
+      "subcategoria": "alimentacao-e-amamentacao",
+      "funil": "fundo",
+      "titulo_sugerido": "Esterilizador Multikids Baby Clean & Dry vale a pena? Review completo em 2026",
+      "problema": "Esterilizar mamadeiras rápido no micro-ondas sem ferver tudo todo dia",
+      "palavras_chave": [
+        "esterilizador multikids vale a pena",
+        "esterilizador de mamadeira micro-ondas review",
+        "esterilizador clean dry é bom",
+        "melhor esterilizador de mamadeira",
+        "como esterilizar mamadeira"
+      ],
+      "produtos_candidatos": [
+        "Multikids Baby Esterilizador Clean & Dry BB1137",
+        "Multikids Baby Esterilizador a Vapor para Micro-ondas"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-review-005",
+      "tipo": "review",
+      "categoria": "pets",
+      "subcategoria": "passeio-e-transporte",
+      "funil": "fundo",
+      "titulo_sugerido": "Guia retrátil Flexi é boa? Review completo: vale a pena em 2026?",
+      "problema": "Passeio com cachorro que puxa e guia que trava ou arrebenta",
+      "palavras_chave": [
+        "guia retrátil flexi é boa",
+        "guia flexi review",
+        "guia retrátil vale a pena",
+        "melhor guia retrátil para cachorro",
+        "guia flexi ou comum"
+      ],
+      "produtos_candidatos": [
+        "Guia retrátil Flexi New Classic",
+        "Guia retrátil Flexi New Comfort"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-review-004",
+      "tipo": "review",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "ciclismo",
+      "funil": "fundo",
+      "titulo_sugerido": "Bicicleta Caloi Explorer Sport é boa? Review completo: vale a pena em 2026?",
+      "problema": "Querer uma mountain bike de entrada confiável para trilhas leves e cidade",
+      "palavras_chave": [
+        "caloi explorer sport é boa",
+        "caloi explorer review",
+        "bicicleta caloi vale a pena",
+        "caloi explorer ou andes",
+        "bicicleta aro 29 iniciante"
+      ],
+      "produtos_candidatos": [
+        "Caloi Explorer Sport Aro 29",
+        "Caloi Andes Aro 29"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-review-005",
+      "tipo": "review",
+      "categoria": "automotivo",
+      "subcategoria": "limpeza-e-estetica",
+      "funil": "fundo",
+      "titulo_sugerido": "Aspirador portátil Baseus A2 é bom para carro? Review completo em 2026",
+      "problema": "Carro cheio de farelo e areia e aspirador doméstico que não alcança os cantos",
+      "palavras_chave": [
+        "aspirador baseus a2 é bom",
+        "aspirador portátil baseus review",
+        "aspirador de pó para carro vale a pena",
+        "melhor aspirador portátil para carro",
+        "aspirador baseus a2 ou a3"
+      ],
+      "produtos_candidatos": [
+        "Baseus Aspirador Portátil A2",
+        "Baseus Aspirador A3"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-comparativo-003",
+      "tipo": "comparativo",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "teclados-e-mouses",
+      "funil": "meio",
+      "titulo_sugerido": "Teclado mecânico ou de membrana: qual comprar para trabalhar e estudar em 2026?",
+      "problema": "Teclado barulhento ou mole demais e dúvida se o mecânico compensa para digitar muito",
+      "palavras_chave": [
+        "teclado mecânico ou membrana",
+        "teclado mecânico vale a pena para trabalhar",
+        "teclado mecânico silencioso",
+        "melhor teclado para digitar",
+        "teclado de membrana bom"
+      ],
+      "produtos_candidatos": [
+        "Teclado mecânico Redragon Kumara",
+        "Teclado Logitech K120"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-review-005",
+      "tipo": "review",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "mochilas-e-bolsas",
+      "funil": "fundo",
+      "titulo_sugerido": "Mochila Olympikus Essential é boa? Review completo: vale a pena em 2026?",
+      "problema": "Mochila barata para escola, academia e dia a dia que não rasgue em poucos meses",
+      "palavras_chave": [
+        "mochila olympikus essential é boa",
+        "mochila olympikus review",
+        "mochila olympikus vale a pena",
+        "mochila barata resistente",
+        "mochila escolar olympikus"
+      ],
+      "produtos_candidatos": [
+        "Mochila Olympikus Essential",
+        "Mochila Olympikus Basic"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-comparativo-004",
+      "tipo": "comparativo",
+      "categoria": "tecnologia",
+      "subcategoria": "games",
+      "funil": "meio",
+      "titulo_sugerido": "PS5 Slim ou Xbox Series S: qual console vale mais a pena em 2026?",
+      "problema": "Escolher o console certo para a família ou para presentear sem gastar além do necessário",
+      "palavras_chave": [
+        "ps5 ou xbox series s",
+        "ps5 slim vale a pena",
+        "xbox series s ainda vale a pena",
+        "qual console comprar 2026",
+        "console para presente de natal"
+      ],
+      "produtos_candidatos": [
+        "PlayStation 5 Slim Edição Digital",
+        "Xbox Series S"
+      ],
+      "prioridade": 3,
+      "sazonal": "natal",
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-comparativo-004",
+      "tipo": "comparativo",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "ferramentas",
+      "funil": "meio",
+      "titulo_sugerido": "Furadeira ou parafusadeira: qual comprar para usar em casa em 2026?",
+      "problema": "Montar móvel e pendurar prateleira sem saber qual ferramenta resolve o básico",
+      "palavras_chave": [
+        "furadeira ou parafusadeira",
+        "parafusadeira serve para furar parede",
+        "furadeira parafusadeira qual comprar",
+        "melhor parafusadeira a bateria",
+        "furadeira de impacto para casa"
+      ],
+      "produtos_candidatos": [
+        "Parafusadeira WAP 12V",
+        "Furadeira de impacto Bosch GSB 13 RE"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-review-005",
+      "tipo": "review",
+      "categoria": "cozinha",
+      "subcategoria": "liquidificadores-e-processadores",
+      "funil": "fundo",
+      "titulo_sugerido": "Liquidificador Oster 1400 Full é bom? Review completo: vale a pena em 2026?",
+      "problema": "Querer um liquidificador potente que triture gelo e não queime em poucos meses",
+      "palavras_chave": [
+        "liquidificador oster 1400 full é bom",
+        "oster 1400 full review",
+        "liquidificador oster vale a pena",
+        "liquidificador potente",
+        "melhor liquidificador oster"
+      ],
+      "produtos_candidatos": [
+        "Oster Liquidificador 1400 Full OLIQ610",
+        "Oster Liquidificador Oster Pro"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-comparativo-002",
+      "tipo": "comparativo",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "suplementos-e-vitaminas",
+      "funil": "meio",
+      "titulo_sugerido": "Whey concentrado ou isolado: qual vale mais a pena para o seu objetivo em 2026?",
+      "problema": "Não saber se vale pagar o dobro pelo whey isolado ou se o concentrado resolve",
+      "palavras_chave": [
+        "whey concentrado ou isolado",
+        "diferença whey concentrado e isolado",
+        "whey isolado vale a pena",
+        "whey concentrado é bom",
+        "qual whey comprar"
+      ],
+      "produtos_candidatos": [
+        "Whey Protein Concentrado Dux Nutrition",
+        "Whey Protein Isolado Max Titanium Iso Whey"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-comparativo-004",
+      "tipo": "comparativo",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "unhas-e-maos",
+      "funil": "meio",
+      "titulo_sugerido": "Esmalte em gel ou esmalte comum: qual vale mais a pena para fazer em casa?",
+      "problema": "Esmalte que descasca em dois dias e vontade de durar mais sem ir ao salão toda semana",
+      "palavras_chave": [
+        "esmalte em gel ou comum",
+        "esmalte em gel em casa vale a pena",
+        "kit esmalte em gel com cabine",
+        "cabine led para unhas",
+        "esmalte que dura mais"
+      ],
+      "produtos_candidatos": [
+        "Kit esmalte em gel com cabine LED UV",
+        "Esmalte Risqué Cremoso"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "bebes-e-criancas-comparativo-004",
+      "tipo": "comparativo",
+      "categoria": "bebes-e-criancas",
+      "subcategoria": "seguranca-e-monitoramento",
+      "funil": "meio",
+      "titulo_sugerido": "Babá eletrônica ou câmera Wi-Fi: qual vale mais a pena para monitorar o bebê?",
+      "problema": "Dúvida entre uma câmera Wi-Fi barata e uma babá eletrônica dedicada para vigiar o bebê",
+      "palavras_chave": [
+        "babá eletrônica ou câmera wifi",
+        "câmera wifi como babá eletrônica",
+        "babá eletrônica sem wifi é melhor",
+        "câmera para monitorar bebê",
+        "babá eletrônica vale a pena"
+      ],
+      "produtos_candidatos": [
+        "Motorola Babá Eletrônica VM34",
+        "Câmera Wi-Fi Intelbras iM3"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-comparativo-004",
+      "tipo": "comparativo",
+      "categoria": "pets",
+      "subcategoria": "higiene-e-cuidados",
+      "funil": "meio",
+      "titulo_sugerido": "Caixa de areia fechada ou aberta: qual é melhor para o gato e para a casa?",
+      "problema": "Cheiro de areia pela casa e gato que espalha areia ou recusa a caixa",
+      "palavras_chave": [
+        "caixa de areia fechada ou aberta",
+        "caixa de areia fechada é boa",
+        "melhor caixa de areia para gatos",
+        "caixa de areia que não espalha",
+        "furba caixa de areia"
+      ],
+      "produtos_candidatos": [
+        "Caixa de areia fechada Furba",
+        "Bandeja higiênica aberta com borda alta"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-review-005",
+      "tipo": "review",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "yoga-e-pilates",
+      "funil": "fundo",
+      "titulo_sugerido": "Tapete de yoga Acte Sports é bom? Review completo: vale a pena em 2026?",
+      "problema": "Tapete que escorrega e machuca o joelho, sem saber se vale pagar mais pelo Acte",
+      "palavras_chave": [
+        "tapete de yoga acte é bom",
+        "tapete acte sports review",
+        "melhor tapete de yoga",
+        "tapete de yoga antiderrapante",
+        "tapete de yoga 6mm ou 10mm"
+      ],
+      "produtos_candidatos": [
+        "Acte Sports Tapete de Yoga T53",
+        "Acte Sports Tapete PVC"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-comparativo-003",
+      "tipo": "comparativo",
+      "categoria": "automotivo",
+      "subcategoria": "limpeza-e-estetica",
+      "funil": "meio",
+      "titulo_sugerido": "Cera líquida ou cera em pasta: qual vale mais a pena para o carro em 2026?",
+      "problema": "Pintura opaca e dúvida sobre o que dá brilho e proteção com menos trabalho",
+      "palavras_chave": [
+        "cera líquida ou pasta",
+        "melhor cera para carro",
+        "cera automotiva vale a pena",
+        "cera de carnaúba ou sintética",
+        "como encerar o carro em casa"
+      ],
+      "produtos_candidatos": [
+        "Cera Líquida Vonixx Blend",
+        "Cera em Pasta Grand Prix"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-comparativo-004",
+      "tipo": "comparativo",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "monitores",
+      "funil": "fundo",
+      "titulo_sugerido": "LG UltraGear 24G411A vs Samsung Odyssey G3: qual monitor 144 Hz vale mais a pena?",
+      "problema": "Escolher entre os dois monitores gamer de entrada mais vendidos para trabalho e jogos",
+      "palavras_chave": [
+        "lg ultragear ou samsung odyssey",
+        "lg 24g411a vs odyssey g3",
+        "monitor 144hz qual comprar",
+        "samsung odyssey g3 é bom",
+        "monitor gamer 24 polegadas barato"
+      ],
+      "produtos_candidatos": [
+        "LG UltraGear 24G411A",
+        "Samsung Odyssey G3 24\" 144Hz"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-comparativo-003",
+      "tipo": "comparativo",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "mochilas-e-bolsas",
+      "funil": "meio",
+      "titulo_sugerido": "Mochila ou bolsa para notebook: qual vale mais a pena para o trabalho?",
+      "problema": "Carregar notebook todo dia sem dor nas costas e sem parecer que vai para a escola",
+      "palavras_chave": [
+        "mochila ou bolsa para notebook",
+        "mochila para notebook executiva",
+        "bolsa para notebook feminina",
+        "melhor mochila para notebook",
+        "mochila antifurto"
+      ],
+      "produtos_candidatos": [
+        "Mochila para notebook Targus",
+        "Bolsa para notebook Samsonite"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-lista-005",
+      "tipo": "lista",
+      "categoria": "tecnologia",
+      "subcategoria": "casa-inteligente",
+      "funil": "topo",
+      "titulo_sugerido": "Como automatizar a casa gastando pouco: 6 produtos inteligentes que resolvem de verdade",
+      "problema": "Querer casa inteligente, mas achar que tudo é caro ou complicado de instalar",
+      "palavras_chave": [
+        "como automatizar a casa",
+        "casa inteligente barata",
+        "o que comprar para casa inteligente",
+        "lâmpada inteligente alexa",
+        "tomada inteligente vale a pena"
+      ],
+      "produtos_candidatos": [
+        "Amazon Echo Pop",
+        "Lâmpada inteligente Positivo Casa Inteligente",
+        "Tomada inteligente Positivo",
+        "Fire TV Stick HD",
+        "Câmera Wi-Fi Intelbras iM3",
+        "Controle universal Positivo Smart"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-lista-005",
+      "tipo": "lista",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "organizacao",
+      "funil": "meio",
+      "titulo_sugerido": "Melhores organizadores de armário 2026: 7 itens para acabar com a bagunça",
+      "problema": "Armário pequeno e bagunçado onde nada cabe e nada é encontrado",
+      "palavras_chave": [
+        "organizador de armário",
+        "como organizar guarda-roupa pequeno",
+        "melhores organizadores de closet",
+        "colmeia organizadora",
+        "cabide fino antideslizante"
+      ],
+      "produtos_candidatos": [
+        "Kit cabides finos de veludo",
+        "Colmeia organizadora de gavetas",
+        "Caixa organizadora transparente",
+        "Organizador de sapatos",
+        "Prateleira divisória de armário",
+        "Saco a vácuo para roupas",
+        "Organizador de bolsas"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-comparativo-004",
+      "tipo": "comparativo",
+      "categoria": "cozinha",
+      "subcategoria": "panelas-e-frigideiras",
+      "funil": "meio",
+      "titulo_sugerido": "Panela de pressão elétrica ou convencional: qual vale mais a pena em 2026?",
+      "problema": "Ter medo da panela de pressão comum e não saber se a elétrica compensa",
+      "palavras_chave": [
+        "panela de pressão elétrica ou comum",
+        "panela de pressão elétrica vale a pena",
+        "panela elétrica de pressão é segura",
+        "melhor panela de pressão elétrica",
+        "panela de pressão tramontina"
+      ],
+      "produtos_candidatos": [
+        "Panela de pressão elétrica Electrolux PCC20",
+        "Panela de pressão Tramontina Vancouver 4,5L"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-comparativo-003",
+      "tipo": "comparativo",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "monitoramento-de-saude",
+      "funil": "meio",
+      "titulo_sugerido": "Medidor de pressão de braço ou de pulso: qual comprar para usar em casa em 2026?",
+      "problema": "Acompanhar a pressão de alguém da família em casa sem errar no tipo de aparelho",
+      "palavras_chave": [
+        "medidor de pressão de braço ou de pulso",
+        "medidor de pressão digital qual comprar",
+        "aparelho de pressão de pulso é confiável",
+        "melhor medidor de pressão",
+        "omron ou g-tech"
+      ],
+      "produtos_candidatos": [
+        "Omron Medidor de Pressão de Braço HEM-7122",
+        "G-Tech Medidor de Pressão de Pulso"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-lista-004",
+      "tipo": "lista",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "cabelo",
+      "funil": "topo",
+      "titulo_sugerido": "Cabelo com frizz no calor: o que fazer e 5 produtos que ajudam de verdade",
+      "problema": "Cabelo armado e com frizz nos dias quentes e úmidos, sem saber o que usar",
+      "palavras_chave": [
+        "cabelo com frizz o que fazer",
+        "como acabar com o frizz",
+        "produto para frizz",
+        "óleo elseve óleo extraordinário é bom",
+        "leave-in para frizz"
+      ],
+      "produtos_candidatos": [
+        "Elseve Óleo Extraordinário",
+        "Lola Cosmetics Óleo Capilar",
+        "Leave-in Kérastase Elixir Ultime",
+        "Creme para pentear Salon Line",
+        "Secador Taiff Fox Ion"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "bebes-e-criancas-lista-005",
+      "tipo": "lista",
+      "categoria": "bebes-e-criancas",
+      "subcategoria": "brinquedos",
+      "funil": "meio",
+      "titulo_sugerido": "Melhores brinquedos educativos 2026: 7 opções por idade para dar de presente",
+      "problema": "Querer presentes que ensinem algo e não sejam esquecidos em uma semana",
+      "palavras_chave": [
+        "melhores brinquedos educativos",
+        "brinquedo educativo por idade",
+        "brinquedo montessori",
+        "brinquedo educativo 3 anos",
+        "brinquedo educativo 6 anos"
+      ],
+      "produtos_candidatos": [
+        "LEGO Classic",
+        "Blocos de montar Mega Bloks",
+        "Jogo Dobble",
+        "Quebra-cabeça Grow",
+        "Kit de massinha Play-Doh",
+        "Brinquedo de encaixe Fisher-Price",
+        "Kit ciência Grow"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-lista-005",
+      "tipo": "lista",
+      "categoria": "pets",
+      "subcategoria": "passeio-e-transporte",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor caixa de transporte para gatos e cães 2026: 6 modelos para viagem e veterinário",
+      "problema": "Levar o pet ao veterinário ou viajar sem estresse e sem caixa que quebra",
+      "palavras_chave": [
+        "melhor caixa de transporte para gatos",
+        "caixa de transporte para cachorro",
+        "caixa de transporte para avião",
+        "bolsa de transporte para gato",
+        "caixa de transporte número 2"
+      ],
+      "produtos_candidatos": [
+        "Caixa de transporte Furacão Pet",
+        "Caixa de transporte Durapets Falcon",
+        "Bolsa de transporte para gatos",
+        "Caixa de transporte Mec Pet",
+        "Mochila de transporte para gatos",
+        "Caixa de transporte Pet Flex"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-comparativo-004",
+      "tipo": "comparativo",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "piscina-e-praia",
+      "funil": "fundo",
+      "titulo_sugerido": "Caixa térmica Coleman vs Mor: qual vale mais a pena para praia e piscina?",
+      "problema": "Gelo derretendo em uma hora e caixa térmica pesada demais para carregar",
+      "palavras_chave": [
+        "caixa térmica coleman ou mor",
+        "coleman vs mor caixa térmica",
+        "melhor caixa térmica",
+        "caixa térmica que conserva gelo",
+        "caixa térmica 28 litros"
+      ],
+      "produtos_candidatos": [
+        "Caixa térmica Coleman 28QT",
+        "Caixa térmica Mor Glacial 34L"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-comparativo-004",
+      "tipo": "comparativo",
+      "categoria": "automotivo",
+      "subcategoria": "conforto-e-postura-ao-dirigir",
+      "funil": "fundo",
+      "titulo_sugerido": "Dreamer Car vs Lebogner: qual almofada lombar para carro vale mais a pena?",
+      "problema": "Comparar as duas almofadas lombares importadas mais vendidas para dirigir sem dor",
+      "palavras_chave": [
+        "dreamer car ou lebogner",
+        "dreamer car vs lebogner",
+        "almofada lombar carro melhor",
+        "lebogner é boa",
+        "almofada lombar viscoelástica ou inflável"
+      ],
+      "produtos_candidatos": [
+        "Dreamer Car Almofada Lombar",
+        "Lebogner Almofada Lombar com Ar"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-lista-005",
+      "tipo": "lista",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "papelaria-e-organizacao",
+      "funil": "meio",
+      "titulo_sugerido": "Melhor planner 2027: 6 agendas e planners para organizar o ano",
+      "problema": "Começar o ano sem organização e abandonar a agenda em fevereiro",
+      "palavras_chave": [
+        "melhor planner 2027",
+        "planner ou agenda",
+        "agenda 2027 bonita",
+        "planner semanal",
+        "planner para estudar"
+      ],
+      "produtos_candidatos": [
+        "Planner Tilibra",
+        "Agenda Tilibra Pepper 2027",
+        "Planner Cicero",
+        "Agenda Moleskine 2027",
+        "Planner de mesa semanal",
+        "Caderno inteligente Caderno Inteligente"
+      ],
+      "prioridade": 3,
+      "sazonal": "volta-as-aulas",
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-comparativo-004",
+      "tipo": "comparativo",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "tenis-e-calcados",
+      "funil": "meio",
+      "titulo_sugerido": "Olympikus ou Mizuno: qual marca de tênis vale mais a pena em 2026?",
+      "problema": "Escolher entre o tênis nacional barato e o japonês mais caro para o dia a dia e para correr",
+      "palavras_chave": [
+        "olympikus ou mizuno",
+        "mizuno ou olympikus qual melhor",
+        "tênis olympikus é bom",
+        "mizuno wave vale a pena",
+        "marca de tênis custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Tênis Olympikus Ultraleve",
+        "Tênis Mizuno Wave Prorunner"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-lista-006",
+      "tipo": "lista",
+      "categoria": "tecnologia",
+      "subcategoria": "celulares-e-acessorios",
+      "funil": "topo",
+      "titulo_sugerido": "Celular descarrega rápido: causas e 5 acessórios que ajudam de verdade",
+      "problema": "A bateria do celular não aguenta o dia e a pessoa não sabe se é defeito ou uso",
+      "palavras_chave": [
+        "celular descarrega rápido",
+        "bateria do celular acabando rápido",
+        "melhor power bank",
+        "carregador rápido para celular",
+        "power bank vale a pena"
+      ],
+      "produtos_candidatos": [
+        "Power bank Baseus 20000mAh",
+        "Power bank Anker",
+        "Carregador Samsung 25W",
+        "Carregador Baseus GaN",
+        "Cabo USB-C Baseus"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-lista-006",
+      "tipo": "lista",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "jardinagem",
+      "funil": "topo",
+      "titulo_sugerido": "Plantas morrendo no apartamento: causas e 5 produtos que ajudam de verdade",
+      "problema": "Perder plantas em casa por erro de rega, luz ou substrato e não saber o que mudar",
+      "palavras_chave": [
+        "plantas morrendo em casa o que fazer",
+        "por que minhas plantas morrem",
+        "vaso autoirrigável vale a pena",
+        "luz para plantas apartamento",
+        "como cuidar de plantas em apartamento"
+      ],
+      "produtos_candidatos": [
+        "Vaso autoirrigável Raiz",
+        "Lâmpada de cultivo LED para plantas",
+        "Regador com bico fino",
+        "Medidor de umidade do solo",
+        "Substrato para plantas Tropstrato"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-lista-006",
+      "tipo": "lista",
+      "categoria": "cozinha",
+      "subcategoria": "utensilios",
+      "funil": "topo",
+      "titulo_sugerido": "Cozinha pequena e bagunçada: 6 utensílios que organizam e economizam espaço",
+      "problema": "Cozinha de apartamento sem espaço para nada e armários sempre cheios",
+      "palavras_chave": [
+        "como organizar cozinha pequena",
+        "utensílios para cozinha pequena",
+        "potes herméticos empilháveis",
+        "organizador de armário de cozinha",
+        "escorredor de louça dobrável"
+      ],
+      "produtos_candidatos": [
+        "Kit 12 potes herméticos Electrolux",
+        "Escorredor de louça dobrável",
+        "Organizador de talheres extensível",
+        "Suporte para tampas de panela",
+        "Porta-temperos giratório",
+        "Tábua de corte com gaveta"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-comparativo-004",
+      "tipo": "comparativo",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "massagem-e-relaxamento",
+      "funil": "meio",
+      "titulo_sugerido": "Pistola de massagem ou massageador de pescoço: qual comprar para aliviar tensão?",
+      "problema": "Querer um aparelho de massagem para o dia a dia e não saber qual tipo resolve mais",
+      "palavras_chave": [
+        "pistola de massagem ou massageador",
+        "pistola de massagem vale a pena",
+        "massageador de pescoço ou pistola",
+        "melhor pistola de massagem",
+        "aparelho de massagem para casa"
+      ],
+      "produtos_candidatos": [
+        "Pistola de massagem Relaxmedic",
+        "Relaxmedic Massageador de Pescoço"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-lista-005",
+      "tipo": "lista",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "pele-e-skincare",
+      "funil": "topo",
+      "titulo_sugerido": "Pele oleosa no verão: rotina simples e 5 produtos que funcionam de verdade",
+      "problema": "Rosto brilhando e espinhas piorando no calor, sem saber por onde começar o skincare",
+      "palavras_chave": [
+        "pele oleosa no verão",
+        "rotina de skincare para pele oleosa",
+        "produtos para pele oleosa",
+        "gel de limpeza para pele oleosa",
+        "hidratante para pele oleosa"
+      ],
+      "produtos_candidatos": [
+        "La Roche-Posay Effaclar Gel de Limpeza",
+        "Cerave Loção Hidratante",
+        "Neutrogena Hydro Boost",
+        "Episol Sec OC",
+        "Água termal Avène"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "bebes-e-criancas-lista-006",
+      "tipo": "lista",
+      "categoria": "bebes-e-criancas",
+      "subcategoria": "alimentacao-e-amamentacao",
+      "funil": "topo",
+      "titulo_sugerido": "Introdução alimentar bagunçada: 6 produtos que facilitam a hora da papinha",
+      "problema": "Começo da introdução alimentar com sujeira, bebê recusando e pais perdidos",
+      "palavras_chave": [
+        "introdução alimentar o que comprar",
+        "kit introdução alimentar",
+        "cadeira de alimentação vale a pena",
+        "babador impermeável",
+        "prato de silicone com ventosa"
+      ],
+      "produtos_candidatos": [
+        "Cadeira de alimentação Multikids Baby",
+        "Prato de silicone com ventosa",
+        "Babador impermeável com bolso",
+        "Kit colheres de silicone",
+        "Alimentador de frutas de silicone",
+        "Processador de papinha"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-lista-006",
+      "tipo": "lista",
+      "categoria": "pets",
+      "subcategoria": "higiene-e-cuidados",
+      "funil": "topo",
+      "titulo_sugerido": "Pelos de pet no sofá e na roupa: 5 produtos que resolvem de verdade",
+      "problema": "Casa tomada por pelos de cachorro e gato que nenhuma vassoura resolve",
+      "palavras_chave": [
+        "pelos de pet no sofá como tirar",
+        "como tirar pelo de cachorro da roupa",
+        "escova para tirar pelo de pet",
+        "rasqueadeira vale a pena",
+        "aspirador para pelos de pet"
+      ],
+      "produtos_candidatos": [
+        "Rasqueadeira autolimpante",
+        "Rolo adesivo tira-pelos",
+        "Luva de silicone para pelos",
+        "Escova Furminator",
+        "Aspirador portátil para pelos de pet"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-lista-006",
+      "tipo": "lista",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "corrida-e-caminhada",
+      "funil": "topo",
+      "titulo_sugerido": "Dor no joelho ao correr: causas e 5 produtos que ajudam de verdade",
+      "problema": "Começou a correr e sente dor no joelho, sem saber se é tênis, técnica ou excesso",
+      "palavras_chave": [
+        "dor no joelho ao correr",
+        "joelheira para corrida vale a pena",
+        "tênis para quem tem dor no joelho",
+        "palmilha para corrida",
+        "rolo de liberação miofascial"
+      ],
+      "produtos_candidatos": [
+        "Joelheira de compressão",
+        "Tênis de corrida Mizuno Wave",
+        "Palmilha de gel esportiva",
+        "Rolo de liberação miofascial",
+        "Faixa patelar"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-lista-006",
+      "tipo": "lista",
+      "categoria": "automotivo",
+      "subcategoria": "ferramentas-e-emergencia",
+      "funil": "topo",
+      "titulo_sugerido": "Pneu furado ou bateria arriada na estrada: 6 itens de emergência que todo carro deveria ter",
+      "problema": "Ficar na mão na estrada sem ferramenta, luz ou jeito de ligar o carro",
+      "palavras_chave": [
+        "kit de emergência para carro",
+        "o que ter no carro para emergência",
+        "auxiliar de partida portátil vale a pena",
+        "compressor de ar portátil para carro",
+        "lanterna para carro"
+      ],
+      "produtos_candidatos": [
+        "Compressor de ar portátil Xiaomi",
+        "Auxiliar de partida portátil",
+        "Cabo de chupeta 300A",
+        "Lanterna LED recarregável",
+        "Kit de ferramentas Tramontina",
+        "Triângulo e colete refletivo"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-lista-006",
+      "tipo": "lista",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "papelaria-e-organizacao",
+      "funil": "topo",
+      "titulo_sugerido": "Lista de material escolar 2027: o que realmente precisa e 7 itens que valem a pena",
+      "problema": "Lista da escola enorme e cara, sem saber o que é essencial e o que é supérfluo",
+      "palavras_chave": [
+        "lista de material escolar 2027",
+        "material escolar o que comprar",
+        "material escolar barato",
+        "estojo escolar bom",
+        "caderno universitário 10 matérias"
+      ],
+      "produtos_candidatos": [
+        "Caderno Tilibra 10 matérias",
+        "Estojo escolar grande",
+        "Lapiseira Pentel",
+        "Kit canetas BIC Cristal",
+        "Marca-texto Stabilo Boss",
+        "Mochila Olympikus Essential",
+        "Garrafa térmica infantil"
+      ],
+      "prioridade": 3,
+      "sazonal": "volta-as-aulas",
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-lista-006",
+      "tipo": "lista",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "malas-e-viagem",
+      "funil": "topo",
+      "titulo_sugerido": "Mala estourando e bagagem extra cara: 6 itens que facilitam a viagem de verdade",
+      "problema": "Pagar bagagem extra e viajar com mala desorganizada por não saber otimizar o espaço",
+      "palavras_chave": [
+        "como organizar a mala de viagem",
+        "organizador de mala vale a pena",
+        "balança para mala",
+        "itens para viagem de avião",
+        "saco a vácuo para viagem"
+      ],
+      "produtos_candidatos": [
+        "Kit organizadores de mala",
+        "Balança digital para bagagem",
+        "Saco a vácuo para viagem",
+        "Necessaire de viagem",
+        "Travesseiro de pescoço viscoelástico",
+        "Cadeado TSA"
+      ],
+      "prioridade": 3,
+      "sazonal": "verao",
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-lista-007",
+      "tipo": "lista",
+      "categoria": "tecnologia",
+      "subcategoria": "cameras-e-fotografia",
+      "funil": "topo",
+      "titulo_sugerido": "Fotos tremidas e vídeos escuros no celular: 5 acessórios que ajudam de verdade",
+      "problema": "Querer fotos e vídeos melhores para redes sociais sem comprar uma câmera profissional",
+      "palavras_chave": [
+        "como tirar fotos melhores com o celular",
+        "acessórios para fotografar com celular",
+        "melhor tripé para celular",
+        "ring light vale a pena",
+        "estabilizador para celular"
+      ],
+      "produtos_candidatos": [
+        "Tripé para celular com controle Bluetooth",
+        "Ring light 10 polegadas",
+        "Estabilizador gimbal DJI Osmo Mobile",
+        "Microfone de lapela sem fio",
+        "Lente macro para celular"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-lista-007",
+      "tipo": "lista",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "decoracao",
+      "funil": "topo",
+      "titulo_sugerido": "Sala sem personalidade: 6 itens de decoração baratos que transformam o ambiente",
+      "problema": "Achar a sala sem graça e não saber por onde começar a decorar sem gastar muito",
+      "palavras_chave": [
+        "como decorar sala gastando pouco",
+        "itens de decoração baratos",
+        "decoração de sala simples",
+        "tapete para sala",
+        "luminária de chão para sala"
+      ],
+      "produtos_candidatos": [
+        "Fita LED RGB com controle",
+        "Tapete geométrico para sala",
+        "Luminária de chão tripé",
+        "Quadros decorativos kit",
+        "Almofadas decorativas kit",
+        "Vaso de plantas artificiais"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-lista-007",
+      "tipo": "lista",
+      "categoria": "cozinha",
+      "subcategoria": "liquidificadores-e-processadores",
+      "funil": "topo",
+      "titulo_sugerido": "Liquidificador que não tritura gelo: o que fazer e 5 modelos que dão conta",
+      "problema": "Vitamina com pedaços e liquidificador que trava ao bater gelo ou frutas congeladas",
+      "palavras_chave": [
+        "liquidificador que tritura gelo",
+        "liquidificador não bate gelo",
+        "melhor liquidificador para gelo",
+        "liquidificador potente custo-benefício",
+        "liquidificador oster ou philips walita"
+      ],
+      "produtos_candidatos": [
+        "Oster 1400 Full",
+        "Philips Walita Liquidificador Série 5000",
+        "Mondial Turbo Power 1200W",
+        "Arno Power Mix Limpa Fácil",
+        "Britânia Liquidificador Diamante"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-lista-007",
+      "tipo": "lista",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "primeiros-socorros",
+      "funil": "topo",
+      "titulo_sugerido": "Pequenos acidentes em casa: como montar o kit de primeiros socorros com 5 produtos",
+      "problema": "Cortes, queimaduras leves e torções em casa sem ter o básico à mão para cuidar",
+      "palavras_chave": [
+        "kit de primeiros socorros para casa",
+        "o que ter no kit de primeiros socorros",
+        "maleta de primeiros socorros",
+        "termômetro digital bom",
+        "bolsa térmica para lesão"
+      ],
+      "produtos_candidatos": [
+        "Maleta de primeiros socorros completa",
+        "Termômetro digital infravermelho G-Tech",
+        "Bolsa térmica de gel quente e frio",
+        "Kit curativos Band-Aid variados",
+        "Tesoura e pinça para primeiros socorros"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-lista-007",
+      "tipo": "lista",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "barbear-e-depilacao",
+      "funil": "topo",
+      "titulo_sugerido": "Barba irritada e pelos encravados: como evitar e 5 produtos que ajudam",
+      "problema": "Vermelhidão, coceira e pelos encravados depois de fazer a barba ou depilar",
+      "palavras_chave": [
+        "barba irritada o que fazer",
+        "pelos encravados como evitar",
+        "pós-barba para pele sensível",
+        "aparador de barba para pele sensível",
+        "philips oneblade irrita a pele"
+      ],
+      "produtos_candidatos": [
+        "Philips OneBlade",
+        "Gillette Pós-Barba Gel",
+        "Nivea Men Bálsamo Pós-Barba",
+        "Esfoliante corporal para pelos encravados",
+        "Barbeador elétrico Philips Série 1000"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "bebes-e-criancas-lista-007",
+      "tipo": "lista",
+      "categoria": "bebes-e-criancas",
+      "subcategoria": "higiene-e-banho",
+      "funil": "topo",
+      "titulo_sugerido": "Hora do banho do bebê estressante: 5 produtos que deixam tudo mais seguro e fácil",
+      "problema": "Medo de escorregar o bebê no banho e dor nas costas de quem dá banho agachado",
+      "palavras_chave": [
+        "banho do bebê como dar",
+        "banheira para bebê vale a pena",
+        "suporte para banheira de bebê",
+        "termômetro de banho",
+        "produtos para banho do bebê"
+      ],
+      "produtos_candidatos": [
+        "Banheira para bebê com suporte",
+        "Rede de banho para bebê",
+        "Termômetro de banho digital",
+        "Toalha de banho com capuz",
+        "Sabonete líquido Johnson's Baby"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-lista-007",
+      "tipo": "lista",
+      "categoria": "pets",
+      "subcategoria": "higiene-e-cuidados",
+      "funil": "topo",
+      "titulo_sugerido": "Cheiro de xixi de gato na casa: como eliminar e 5 produtos que funcionam",
+      "problema": "Cheiro forte de urina de gato que não sai e volta mesmo depois de limpar",
+      "palavras_chave": [
+        "cheiro de xixi de gato como tirar",
+        "eliminador de odores pet",
+        "como tirar cheiro de urina de gato do sofá",
+        "areia para gato que não cheira",
+        "caixa de areia fechada ajuda no cheiro"
+      ],
+      "produtos_candidatos": [
+        "Eliminador de odores Pet Clean",
+        "Areia sílica para gatos",
+        "Caixa de areia fechada Furba",
+        "Tapete para caixa de areia",
+        "Spray neutralizador de odor Sanol"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-lista-007",
+      "tipo": "lista",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "yoga-e-pilates",
+      "funil": "topo",
+      "titulo_sugerido": "Dor nas costas e corpo travado: 5 itens de yoga e pilates para começar em casa",
+      "problema": "Sedentarismo, corpo rígido e vontade de começar yoga ou pilates em casa sem gastar muito",
+      "palavras_chave": [
+        "como começar yoga em casa",
+        "itens para yoga iniciante",
+        "bola de pilates vale a pena",
+        "bloco de yoga para que serve",
+        "pilates em casa o que comprar"
+      ],
+      "produtos_candidatos": [
+        "Tapete de yoga Acte Sports",
+        "Bola de pilates 65cm",
+        "Bloco de yoga EVA",
+        "Faixa elástica para alongamento",
+        "Rolo de pilates"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-lista-007",
+      "tipo": "lista",
+      "categoria": "automotivo",
+      "subcategoria": "motos",
+      "funil": "topo",
+      "titulo_sugerido": "Chuva e frio na moto: 5 acessórios que fazem diferença de verdade no dia a dia",
+      "problema": "Chegar molhado e com as mãos congeladas no trabalho por andar de moto no inverno e na chuva",
+      "palavras_chave": [
+        "capa de chuva para motoqueiro",
+        "luva para moto frio",
+        "acessórios para moto chuva",
+        "balaclava para moto",
+        "bolsa impermeável para moto"
+      ],
+      "produtos_candidatos": [
+        "Capa de chuva para motociclista Alba",
+        "Luva de moto impermeável X11",
+        "Balaclava térmica",
+        "Capacete Pro Tork",
+        "Bolsa impermeável para moto"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-lista-007",
+      "tipo": "lista",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "impressoras-e-suprimentos",
+      "funil": "topo",
+      "titulo_sugerido": "Tinta de impressora acabando toda hora: causas e 5 impressoras que resolvem de verdade",
+      "problema": "Gasto alto com cartucho e impressora que seca quando fica parada",
+      "palavras_chave": [
+        "tinta de impressora acaba rápido",
+        "impressora tanque de tinta vale a pena",
+        "melhor impressora para casa",
+        "impressora que não gasta tinta",
+        "epson ecotank ou hp smart tank"
+      ],
+      "produtos_candidatos": [
+        "Epson EcoTank L3250",
+        "HP Smart Tank 584",
+        "Epson EcoTank L3210",
+        "Canon Mega Tank G3110",
+        "HP DeskJet Ink Advantage"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-lista-007",
+      "tipo": "lista",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "mochilas-e-bolsas",
+      "funil": "topo",
+      "titulo_sugerido": "Dor nas costas por causa da mochila pesada: 5 mochilas e acessórios que ajudam",
+      "problema": "Estudante ou trabalhador com dor nas costas e ombros por carregar mochila pesada",
+      "palavras_chave": [
+        "mochila pesada dor nas costas",
+        "mochila ergonômica",
+        "como escolher mochila para não dar dor nas costas",
+        "mochila com rodinhas vale a pena",
+        "mochila com alças acolchoadas"
+      ],
+      "produtos_candidatos": [
+        "Mochila com rodinhas Sestini",
+        "Mochila ergonômica Targus",
+        "Mochila Olympikus Essential",
+        "Mochila Dermiwil acolchoada",
+        "Organizador de mochila"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    }
+  ]
+}
