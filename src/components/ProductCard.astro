@@ -1,0 +1,75 @@
+---
+/** Caixa completa de produto dentro de um artigo (review, comparativo ou lista). */
+import Icon from './Icon.astro';
+import Stars from './Stars.astro';
+import ScoreBadge from './ScoreBadge.astro';
+import ProsCons from './ProsCons.astro';
+import AffiliateButton from './AffiliateButton.astro';
+import ProductImage from './ProductImage.astro';
+import { BADGES } from '@/site.config';
+import { slugify, type Produto } from '@/lib/articles';
+interface Props { produto: Produto; posicao?: number; headingLevel?: 'h2' | 'h3'; mostrarEspecificacoes?: boolean; }
+const { produto: p, posicao, headingLevel = 'h3', mostrarEspecificacoes = true } = Astro.props;
+const Heading = headingLevel;
+const selo = p.selo ? BADGES[p.selo] : null;
+const id = `produto-${slugify(p.nome)}`;
+const specs = Object.entries(p.especificacoes).slice(0, 8);
+---
+<article id={id} class="card overflow-hidden scroll-mt-24" data-asin={p.asin}>
+  <div class="grid gap-6 p-5 sm:p-6 md:grid-cols-[260px_1fr]">
+    <div class="relative">
+      {typeof posicao === 'number' && <span class="absolute -left-2 -top-2 z-10 flex h-9 w-9 items-center justify-center rounded-full bg-brand-800 font-display text-base font-extrabold text-white shadow">{posicao}</span>}
+      <a href={p.url ?? `https://www.amazon.com.br/dp/${p.asin}`} rel="sponsored nofollow noopener" target="_blank" class="block rounded-xl bg-white p-3" aria-label={`Ver ${p.nome} na Amazon`}>
+        <ProductImage src={p.imagem.src} alt={p.imagem.alt} class="mx-auto aspect-square w-full max-w-[240px] object-contain" sizes="(min-width: 768px) 260px, 80vw" />
+      </a>
+      <div class="mt-3 flex items-center justify-center md:hidden"><ScoreBadge nota={p.nota} size="md" /></div>
+    </div>
+    <div class="min-w-0">
+      <div class="flex flex-wrap items-start gap-2">
+        {selo && <span class={`badge ${selo.color}`}><Icon name="trophy" size={12} /> {selo.label}</span>}
+        {p.faixaPreco && <span class="badge bg-soft border border-soft muted" title="Faixa de preço indicativa">{p.faixaPreco}</span>}
+      </div>
+      <div class="mt-2 flex items-start justify-between gap-4">
+        <Heading class="text-xl font-bold leading-tight sm:text-2xl">{p.nome}</Heading>
+        <span class="hidden md:block"><ScoreBadge nota={p.nota} size="md" /></span>
+      </div>
+      {(p.marca || p.voltagem) && <p class="mt-1 text-sm muted">{p.marca && <span>Marca: <span class="font-medium text-[var(--fg)]">{p.marca}</span></span>}{p.modelo && <span> · Modelo: {p.modelo}</span>}{p.voltagem && <span> · <span class="font-medium text-[var(--fg)]">{p.voltagem}</span></span>}</p>}
+      <div class="mt-2 flex flex-wrap items-center gap-x-4 gap-y-1">
+        <Stars nota={p.nota} showLabel />
+        {p.avaliacaoConsumidores && (
+          <span class="text-xs muted">Consumidores: <strong class="text-[var(--fg)]">{p.avaliacaoConsumidores.media.toFixed(1).replace('.', ',')}/5</strong>{p.avaliacaoConsumidores.quantidade ? ` (${p.avaliacaoConsumidores.quantidade.toLocaleString('pt-BR')}+ avaliações)` : ''}{p.avaliacaoConsumidores.fonte ? ` · ${p.avaliacaoConsumidores.fonte}` : ''}</span>
+        )}
+      </div>
+      <p class="mt-3 text-[1.02rem] leading-relaxed">{p.resumo}</p>
+      {(p.idealPara || p.naoIndicadoPara) && (
+        <dl class="mt-3 grid gap-2 text-sm sm:grid-cols-2">
+          {p.idealPara && <div class="rounded-lg bg-soft p-3"><dt class="font-bold text-check-700 dark:text-check-300">Ideal para</dt><dd class="mt-0.5">{p.idealPara}</dd></div>}
+          {p.naoIndicadoPara && <div class="rounded-lg bg-soft p-3"><dt class="font-bold text-danger-600">Não indicado para</dt><dd class="mt-0.5">{p.naoIndicadoPara}</dd></div>}
+        </dl>
+      )}
+      <div class="mt-4"><ProsCons pros={p.pros} contras={p.contras} /></div>
+      {mostrarEspecificacoes && specs.length > 0 && (
+        <details class="mt-4 rounded-xl border border-soft">
+          <summary class="cursor-pointer select-none px-4 py-2.5 text-sm font-semibold">Especificações principais</summary>
+          <dl class="grid grid-cols-1 gap-x-6 border-t border-soft px-4 py-3 text-sm sm:grid-cols-2">
+            {specs.map(([k, v]) => <div class="flex justify-between gap-3 border-b border-soft py-1.5 last:border-0 sm:[&:nth-last-child(2)]:border-0"><dt class="muted">{k}</dt><dd class="text-right font-medium">{v}</dd></div>)}
+          </dl>
+        </details>
+      )}
+      {p.notasCriterios && Object.keys(p.notasCriterios).length > 0 && (
+        <div class="mt-4 grid gap-2 sm:grid-cols-2">
+          {Object.entries(p.notasCriterios).map(([k, v]) => (
+            <div>
+              <div class="flex justify-between text-xs"><span class="muted">{k}</span><span class="font-semibold tabular-nums">{v.toFixed(1).replace('.', ',')}</span></div>
+              <div class="score-bar mt-1"><span style={`width:${Math.max(4, v * 10)}%`}></span></div>
+            </div>
+          ))}
+        </div>
+      )}
+      <div class="mt-5 flex flex-wrap items-center gap-3">
+        <AffiliateButton produto={p} />
+        <span class="text-xs muted">Preço e disponibilidade atualizados na Amazon.{p.voltagem ? ' Confira a voltagem da sua região antes de comprar.' : ''}</span>
+      </div>
+    </div>
+  </div>
+</article>

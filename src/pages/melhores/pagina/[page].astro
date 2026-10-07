@@ -1,0 +1,15 @@
+---
+import ListingPage from '@/components/ListingPage.astro';
+import { getArtigos, paginate } from '@/lib/articles';
+import { ARTICLE_TYPES } from '@/site.config';
+export async function getStaticPaths() {
+  const all = await getArtigos((a) => a.data.tipo === 'lista');
+  const totalPages = Math.max(1, Math.ceil(all.length / 18));
+  return Array.from({ length: Math.max(0, totalPages - 1) }, (_, i) => ({ params: { page: String(i + 2) } }));
+}
+const page = Number(Astro.params.page);
+const t = ARTICLE_TYPES['lista'];
+const all = await getArtigos((a) => a.data.tipo === 'lista');
+const pg = paginate(all, page, 18);
+---
+<ListingPage title={t.labelPlural} description={`${t.description} Página ${page}.`} base={`/melhores/`} page={pg.current} totalPages={pg.totalPages} items={pg.items} total={pg.total} crumbs={[{ name: t.labelPlural, url: `/melhores/` }, { name: `Página ${page}` }]} />

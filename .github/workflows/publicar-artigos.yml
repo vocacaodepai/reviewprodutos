@@ -1,0 +1,102 @@
+name: Publicar artigos (lotes diários)
+
+# Horários em UTC. Brasília (BRT) = UTC-3 o ano todo (sem horário de verão desde 2019).
+#   07:00 BRT -> 10:00 UTC | 10:00 BRT -> 13:00 UTC   (manhã: 2 lotes de 5)
+#   19:00 BRT -> 22:00 UTC | 22:00 BRT -> 01:00 UTC   (noite:  2 lotes de 5)
+# O GitHub pode atrasar crons em alguns minutos em horários de pico.
+on:
+  schedule:
+    - cron: '0 10 * * *'
+    - cron: '0 13 * * *'
+    - cron: '0 22 * * *'
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+    inputs:
+      batch:
+        description: 'Quantidade de artigos neste lote'
+        required: false
+        default: '5'
+      topic:
+        description: 'ID de um tema específico da fila (opcional)'
+        required: false
+        default: ''
+      dry_run:
+        description: 'Somente gerar sem gravar/commitar (true/false)'
+        required: false
+        default: 'false'
+
+concurrency:
+  group: publicar-artigos
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  gerar-e-publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    # Só roda se a chave da API estiver configurada nos Secrets do repositório.
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      GENERATOR_MODEL: ${{ vars.GENERATOR_MODEL || 'claude-opus-5-5' }}
+      GENERATOR_BATCH_SIZE: ${{ github.event.inputs.batch || vars.GENERATOR_BATCH_SIZE || '5' }}
+      GENERATOR_TOPIC_ID: ${{ github.event.inputs.topic }}
+      GENERATOR_DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
+      PUBLIC_AMAZON_TAG: ${{ vars.PUBLIC_AMAZON_TAG || 'reviewprodutos-20' }}
+      PUBLIC_ADSENSE_CLIENT: ${{ vars.PUBLIC_ADSENSE_CLIENT }}
+    steps:
+      - name: Verificar chave da API
+        run: |
+          if [ -z "$ANTHROPIC_API_KEY" ]; then
+            echo "::error::Defina o secret ANTHROPIC_API_KEY em Settings > Secrets and variables > Actions."
+            exit 1
+          fi
+
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Instalar dependências
+        run: npm ci
+
+      - name: Restaurar cache de imagens otimizadas
+        uses: actions/cache@v4
+        with:
+          path: node_modules/.astro
+          key: astro-assets-${{ runner.os }}-${{ hashFiles('src/content/artigos/**/*.md') }}
+          restore-keys: |
+            astro-assets-${{ runner.os }}-
+
+      - name: Gerar lote de artigos
+        run: node scripts/generate-articles.mjs
+
+      - name: Validar conteúdo (schema + imagens)
+        run: node scripts/validate-content.mjs --images
+
+      - name: Build de verificação
+        run: npm run build
+
+      - name: Commitar e publicar
+        if: env.GENERATOR_DRY_RUN == ''
+        run: |
+          git config user.name "reviewprodutos-bot"
+          git config user.email "contato@reviewprodutos.com.br"
+          git add src/content/artigos content/queue
+          if git diff --cached --quiet; then
+            echo "Nenhum artigo novo para publicar."
+            exit 0
+          fi
+          N=$(git diff --cached --name-only -- src/content/artigos | wc -l | tr -d ' ')
+          git commit -m "conteúdo: publica ${N} artigo(s) — lote $(TZ=America/Sao_Paulo date '+%d/%m/%Y %H:%M') BRT"
+          for i in 1 2 3 4; do
+            git pull --rebase origin ${{ github.ref_name }} && git push origin HEAD:${{ github.ref_name }} && exit 0
+            echo "Push falhou (tentativa $i); aguardando..."; sleep $((i * 10))
+          done
+          exit 1

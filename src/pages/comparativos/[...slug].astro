@@ -1,0 +1,10 @@
+---
+import ArticleLayout from '@/layouts/ArticleLayout.astro';
+import { getArtigos } from '@/lib/articles';
+export async function getStaticPaths() {
+  const artigos = await getArtigos((a) => a.data.tipo === 'comparativo');
+  return artigos.map((artigo) => ({ params: { slug: artigo.id }, props: { artigo } }));
+}
+const { artigo } = Astro.props;
+---
+<ArticleLayout artigo={artigo} />

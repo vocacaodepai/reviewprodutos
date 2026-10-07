@@ -1,0 +1,25 @@
+---
+/** Layout para páginas institucionais (texto longo). */
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumbs from '@/components/Breadcrumbs.astro';
+import { SITE } from '@/site.config';
+import { graph, organizationSchema, websiteSchema, breadcrumbSchema } from '@/lib/schema';
+interface Props { title: string; description: string; canonical: string; updated?: string; noindex?: boolean; }
+const { title, description, canonical, updated, noindex = false } = Astro.props;
+const jsonLd = graph([organizationSchema(), websiteSchema(), breadcrumbSchema([{ name: 'Início', url: '/' }, { name: title, url: canonical }]), { '@type': 'WebPage', '@id': `${SITE.url}${canonical}`, name: title, description, url: `${SITE.url}${canonical}`, inLanguage: 'pt-BR', isPartOf: { '@id': `${SITE.url}/#website` } }]);
+---
+<BaseLayout title={title} description={description} canonical={canonical} noindex={noindex} jsonLd={jsonLd}>
+  <div class="container-site py-8">
+    <Breadcrumbs items={[{ name: title }]} />
+    <article class="mx-auto mt-6 max-w-3xl">
+      <header>
+        <h1 class="text-3xl font-extrabold sm:text-4xl">{title}</h1>
+        <p class="mt-3 text-lg muted">{description}</p>
+        {updated && <p class="mt-2 text-sm muted">Última atualização: {updated}</p>}
+      </header>
+      <div class="prose-article mt-8">
+        <slot />
+      </div>
+    </article>
+  </div>
+</BaseLayout>

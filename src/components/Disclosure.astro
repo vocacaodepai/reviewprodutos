@@ -1,0 +1,13 @@
+---
+import Icon from './Icon.astro';
+import { SITE } from '@/site.config';
+interface Props { compact?: boolean; }
+const { compact = false } = Astro.props;
+---
+<aside class={`flex items-start gap-3 rounded-xl border border-soft bg-soft ${compact ? 'p-3 text-xs' : 'p-4 text-sm'} muted`} aria-label="Divulgação de afiliados">
+  <Icon name="info" size={compact ? 16 : 18} class="mt-0.5 shrink-0 text-brand-500" />
+  <p>
+    {compact ? SITE.affiliateDisclosureShort : SITE.affiliateDisclosure}
+    {' '}<a href="/divulgacao-de-afiliados/" class="underline">Saiba mais</a>.
+  </p>
+</aside>

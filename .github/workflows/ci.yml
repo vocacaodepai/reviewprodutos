@@ -1,0 +1,42 @@
+name: CI (build e validação)
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'content/queue/**'
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Validar artigos (schema e regras editoriais)
+        run: node scripts/validate-content.mjs
+      - name: Cache de imagens otimizadas
+        uses: actions/cache@v4
+        with:
+          path: node_modules/.astro
+          key: astro-assets-${{ runner.os }}-${{ hashFiles('src/content/artigos/**/*.md') }}
+          restore-keys: |
+            astro-assets-${{ runner.os }}-
+      - name: Build
+        run: npm run build
+        env:
+          PUBLIC_AMAZON_TAG: ${{ vars.PUBLIC_AMAZON_TAG || 'reviewprodutos-20' }}
+      - name: Verificar páginas essenciais
+        run: |
+          for f in index.html sitemap-index.xml rss.xml robots.txt ads.txt sobre/index.html contato/index.html politica-de-privacidade/index.html busca/index.html pagefind/pagefind.js; do
+            test -f "dist/$f" || { echo "::error::dist/$f não foi gerado"; exit 1; }
+          done
+          echo "OK: $(find dist -name index.html | wc -l) páginas"

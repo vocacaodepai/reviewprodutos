@@ -1,0 +1,43 @@
+---
+/** Card de artigo para listagens (home, categorias, busca). Indexável pelo Pagefind via data-pagefind-*. */
+import Icon from './Icon.astro';
+import ProductImage from './ProductImage.astro';
+import { ARTICLE_TYPES } from '@/site.config';
+import { articleUrl, formatDate, getCategoria, formatNota, type Artigo } from '@/lib/articles';
+interface Props { artigo: Artigo; variant?: 'default' | 'compact' | 'featured'; eager?: boolean; }
+const { artigo: a, variant = 'default', eager = false } = Astro.props;
+const cat = await getCategoria(a.data.categoria.id);
+const url = articleUrl(a);
+const tipo = ARTICLE_TYPES[a.data.tipo];
+const date = a.data.updatedDate ?? a.data.pubDate;
+const topNota = Math.max(...a.data.produtos.map((p) => p.nota));
+const tipoIcon = a.data.tipo === 'review' ? 'star' : a.data.tipo === 'comparativo' ? 'scale' : 'trophy';
+---
+{variant === 'compact' ? (
+  <a href={url} class="group flex gap-3 rounded-xl p-2 transition hover:bg-soft" data-tipo={a.data.tipo} data-sub={a.data.subcategoria}>
+    <ProductImage src={a.data.imagem.src} alt={a.data.imagem.alt} class="h-16 w-16 shrink-0 rounded-lg bg-white object-contain p-1" width={128} height={128} />
+    <span class="min-w-0">
+      <span class="text-[11px] font-bold uppercase tracking-wide text-brand-600">{tipo.label}</span>
+      <span class="mt-0.5 block text-sm font-semibold leading-snug group-hover:underline line-clamp-2">{a.data.title}</span>
+      <span class="text-xs muted">{formatDate(date, { day: '2-digit', month: 'short', year: 'numeric' })}</span>
+    </span>
+  </a>
+) : (
+  <article class={`card group flex h-full flex-col overflow-hidden transition hover:-translate-y-0.5 hover:shadow-lg ${variant === 'featured' ? 'md:flex-row' : ''}`} data-tipo={a.data.tipo} data-sub={a.data.subcategoria} data-cat={a.data.categoria.id}>
+    <a href={url} class={`block bg-white p-4 ${variant === 'featured' ? 'md:w-5/12 md:shrink-0' : ''}`} tabindex="-1" aria-hidden="true">
+      <ProductImage src={a.data.imagem.src} alt={a.data.imagem.alt} class={`mx-auto aspect-[4/3] w-full object-contain ${variant === 'featured' ? 'max-h-72' : 'max-h-48'}`} sizes="(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw" loading={eager ? 'eager' : 'lazy'} fetchpriority={eager ? 'high' : 'auto'} />
+    </a>
+    <div class="flex flex-1 flex-col p-5">
+      <div class="flex flex-wrap items-center gap-2 text-[11px] font-bold uppercase tracking-wide">
+        <span class="inline-flex items-center gap-1 rounded-md px-2 py-0.5 text-white" style={`background:${cat.data.cor}`}>{cat.data.nome}</span>
+        <span class="inline-flex items-center gap-1 text-brand-600"><Icon name={tipoIcon} size={12} /> {tipo.label}</span>
+      </div>
+      <h3 class={`mt-2 font-bold leading-snug ${variant === 'featured' ? 'text-2xl' : 'text-lg'}`}><a href={url} class="group-hover:underline">{a.data.title}</a></h3>
+      <p class={`mt-2 text-sm leading-relaxed muted ${variant === 'featured' ? 'line-clamp-4' : 'line-clamp-3'}`}>{a.data.description}</p>
+      <div class="mt-auto flex items-center justify-between gap-3 pt-4 text-xs muted">
+        <span class="inline-flex items-center gap-1"><Icon name="calendar" size={13} /> {formatDate(date, { day: '2-digit', month: 'short', year: 'numeric' })}</span>
+        <span class="inline-flex items-center gap-1 font-semibold text-[var(--fg)]"><Icon name="star" size={13} class="text-star-500" /> {a.data.tipo === 'review' ? `Nota ${formatNota(topNota)}` : `${a.data.produtos.length} produtos`}</span>
+      </div>
+    </div>
+  </article>
+)}

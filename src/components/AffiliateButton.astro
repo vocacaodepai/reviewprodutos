@@ -1,0 +1,20 @@
+---
+import Icon from './Icon.astro';
+import { produtoUrl, type Produto } from '@/lib/articles';
+import { amazonUrl } from '@/site.config';
+interface Props { produto: Produto; label?: string; class?: string; size?: 'sm' | 'md' | 'lg'; }
+const { produto, label = 'Ver preço na Amazon', class: className = '', size = 'md' } = Astro.props;
+const sz = { sm: 'px-3 py-2 text-sm', md: 'px-4 py-2.5', lg: 'px-6 py-3 text-lg' }[size];
+---
+<span class={`inline-flex flex-col items-start gap-1 ${className}`}>
+  <a href={produtoUrl(produto)} class={`btn-buy ${sz}`} rel="sponsored nofollow noopener" target="_blank" data-asin={produto.asin} data-track="affiliate-click">
+    <Icon name="cart" size={size === 'lg' ? 20 : 18} /> {label}{produto.voltagem ? ` (${produto.voltagem})` : ''}
+    <Icon name="external-link" size={14} class="opacity-70" />
+  </a>
+  {produto.variantes?.length > 0 && (
+    <span class="flex flex-wrap gap-1">
+      {produto.variantes.map((v) => <a href={amazonUrl(v.asin)} class="btn-ghost h-8 px-3 text-xs" rel="sponsored nofollow noopener" target="_blank" data-asin={v.asin} data-track="affiliate-click">{v.rotulo}</a>)}
+    </span>
+  )}
+  <span class="text-[11px] uppercase tracking-wide muted">Link de afiliado · Publicidade</span>
+</span>

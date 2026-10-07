@@ -1,0 +1,12 @@
+[
+  {
+    "id": "equipe",
+    "nome": "Equipe Review Produtos",
+    "cargo": "Redação e análise de produtos",
+    "bio": "A Equipe Review Produtos é formada por redatores e analistas que pesquisam especificações técnicas, cruzam milhares de avaliações reais de consumidores brasileiros e, sempre que possível, testam os produtos no dia a dia. Nosso compromisso é simples: dizer com clareza o que vale a pena comprar, para quem e por quê. Não aceitamos pagamento de fabricantes por avaliações e as notas não são influenciadas por comissões de afiliados.",
+    "bioCurta": "Analistas e redatores que pesquisam especificações, avaliações reais e testes para indicar o que vale a pena comprar.",
+    "avatar": "/icons/avatar-equipe.png",
+    "especialidades": ["Guias de compra", "Comparativos", "Tecnologia", "Casa"],
+    "links": { "site": "https://reviewprodutos.com.br/sobre/" }
+  }
+]

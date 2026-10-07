@@ -1,0 +1,36 @@
+---
+/** Chips de filtro: subcategorias (links) + tipo de artigo (filtro client-side nos cards da página). */
+import type { Categoria } from '@/lib/articles';
+import { categoriaUrl } from '@/lib/articles';
+interface Props { categoria: Categoria; subAtual?: string; counts?: Record<string, number>; }
+const { categoria, subAtual, counts = {} } = Astro.props;
+---
+<div class="space-y-3">
+  <div class="flex flex-wrap gap-2" role="navigation" aria-label="Subcategorias">
+    <a href={categoriaUrl(categoria.id)} class={`chip ${!subAtual ? 'chip-active' : ''}`}>Tudo</a>
+    {categoria.data.subcategorias.map((s) => (
+      <a href={categoriaUrl(categoria.id, s.slug)} class={`chip ${subAtual === s.slug ? 'chip-active' : ''}`}>{s.nome}{counts[s.slug] ? <span class="ml-1 text-xs opacity-70">({counts[s.slug]})</span> : null}</a>
+    ))}
+  </div>
+  <div class="flex flex-wrap items-center gap-2" role="group" aria-label="Filtrar por tipo de artigo" id="filtro-tipo">
+    <span class="text-xs font-bold uppercase tracking-wider muted mr-1">Tipo:</span>
+    <button type="button" class="chip chip-active" data-filter="todos" aria-pressed="true">Todos</button>
+    <button type="button" class="chip" data-filter="lista" aria-pressed="false">Melhores</button>
+    <button type="button" class="chip" data-filter="review" aria-pressed="false">Reviews</button>
+    <button type="button" class="chip" data-filter="comparativo" aria-pressed="false">Comparativos</button>
+  </div>
+</div>
+<script>
+  const group = document.getElementById('filtro-tipo');
+  group?.addEventListener('click', (e) => {
+    const btn = (e.target as HTMLElement).closest('button[data-filter]') as HTMLButtonElement | null;
+    if (!btn) return;
+    const f = btn.dataset.filter!;
+    group.querySelectorAll('button').forEach((b) => { b.classList.toggle('chip-active', b === btn); b.setAttribute('aria-pressed', String(b === btn)); });
+    const cards = document.querySelectorAll<HTMLElement>('[data-grid-artigos] [data-tipo]');
+    let visible = 0;
+    cards.forEach((c) => { const show = f === 'todos' || c.dataset.tipo === f; c.classList.toggle('hidden', !show); if (show) visible++; });
+    const empty = document.getElementById('filtro-vazio');
+    if (empty) empty.classList.toggle('hidden', visible > 0);
+  });
+</script>

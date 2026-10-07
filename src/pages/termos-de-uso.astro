@@ -1,0 +1,27 @@
+---
+import PageLayout from '@/layouts/PageLayout.astro';
+import { SITE } from '@/site.config';
+---
+<PageLayout title="Termos de Uso" description="Condições para uso do site Review Produtos: natureza informativa do conteúdo, links de afiliados, propriedade intelectual, limitação de responsabilidade e legislação aplicável." canonical="/termos-de-uso/" updated="7 de outubro de 2026">
+  <h2>1. Aceitação</h2>
+  <p>Ao acessar {SITE.domain}, você concorda com estes Termos de Uso e com a <a href="/politica-de-privacidade/">Política de Privacidade</a>. Se não concordar, não utilize o site.</p>
+  <h2>2. Natureza do conteúdo</h2>
+  <p>O conteúdo tem caráter <strong>informativo e opinativo</strong>. Reviews, notas e rankings refletem a avaliação da nossa equipe com base na metodologia publicada e podem não corresponder à sua experiência pessoal. Especificações, preços e disponibilidade são informados pelos fabricantes e lojas e podem mudar sem aviso; confirme sempre na página da loja antes de comprar.</p>
+  <p>Conteúdos sobre saúde, bem-estar, bebês ou segurança <strong>não substituem orientação médica ou profissional</strong>. Consulte um profissional habilitado antes de usar produtos com finalidade terapêutica.</p>
+  <h2>3. Links de afiliados e publicidade</h2>
+  <p>O site participa do Programa de Associados da Amazon e exibe anúncios do Google AdSense. Ao comprar por nossos links, podemos receber comissão sem custo adicional para você. Detalhes na <a href="/divulgacao-de-afiliados/">Divulgação de Afiliados</a>. Não somos responsáveis por transações, entregas, garantias ou atendimento das lojas parceiras.</p>
+  <h2>4. Propriedade intelectual</h2>
+  <p>Textos, logotipo, identidade visual e organização do conteúdo são de titularidade do Review Produtos e protegidos pela Lei nº 9.610/1998. É permitido citar trechos com link para a fonte. É proibida a reprodução integral sem autorização. Imagens de produtos pertencem aos respectivos fabricantes e lojas e são usadas para fins informativos de identificação do produto analisado; marcas citadas pertencem aos seus titulares.</p>
+  <h2>5. Uso permitido</h2>
+  <p>Você se compromete a não utilizar o site para fins ilícitos, não tentar acessar áreas restritas, não sobrecarregar a infraestrutura (scraping abusivo, bots) e não reproduzir o conteúdo em massa.</p>
+  <h2>6. Limitação de responsabilidade</h2>
+  <p>O site é disponibilizado "como está". Não garantimos ausência de erros ou disponibilidade ininterrupta. Na extensão permitida pela lei, não nos responsabilizamos por danos decorrentes do uso das informações ou de produtos adquiridos em terceiros. Nada nestes termos exclui direitos garantidos pelo Código de Defesa do Consumidor nas relações em que ele se aplique.</p>
+  <h2>7. Links externos</h2>
+  <p>Links para sites de terceiros são fornecidos por conveniência. Não controlamos nem endossamos seu conteúdo ou práticas de privacidade.</p>
+  <h2>8. Alterações</h2>
+  <p>Podemos alterar estes termos a qualquer momento; a versão vigente é a publicada nesta página.</p>
+  <h2>9. Legislação e foro</h2>
+  <p>Aplica-se a legislação brasileira. Fica eleito o foro do domicílio do consumidor, quando aplicável, ou da comarca da sede do Review Produtos.</p>
+  <h2>10. Contato</h2>
+  <p><a href={`mailto:${SITE.email}`}>{SITE.email}</a></p>
+</PageLayout>

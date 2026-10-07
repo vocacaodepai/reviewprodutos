@@ -1,0 +1,64 @@
+---
+/**
+ * Aviso de cookies no padrão ANPD/LGPD em dois níveis:
+ *  1º nível: "Aceitar todos" e "Rejeitar não necessários" com o mesmo destaque + "Gerenciar".
+ *  2º nível: categorias (Necessários sempre ativos; Analíticos e Publicidade desativados por padrão).
+ * Registra consentimento (versão, data, escolhas) em localStorage e atualiza o Google Consent Mode v2.
+ * O link "Gerenciar cookies" do rodapé reabre o aviso (evento rp:open-cookies).
+ */
+const VERSION = '2026-10-07';
+---
+<div id="cookie-banner" class="fixed inset-x-3 bottom-3 z-[90] mx-auto hidden max-w-2xl card p-4 shadow-xl sm:inset-x-6" role="dialog" aria-modal="false" aria-live="polite" aria-labelledby="cookie-title" data-version={VERSION}>
+  <div id="cookie-level-1">
+    <p id="cookie-title" class="font-bold">Cookies e privacidade</p>
+    <p class="mt-1 text-sm leading-snug muted">
+      Usamos cookies necessários para o site funcionar e, com a sua permissão, cookies de análise de audiência e de publicidade (Google AdSense), que podem personalizar anúncios. Saiba mais na <a href="/politica-de-cookies/" class="underline">política de cookies</a> e na <a href="/politica-de-privacidade/" class="underline">política de privacidade</a>.
+    </p>
+    <div class="mt-3 flex flex-wrap gap-2">
+      <button type="button" id="cookie-accept" class="btn-primary text-sm">Aceitar todos</button>
+      <button type="button" id="cookie-reject" class="btn-primary text-sm !bg-ink-700 hover:!bg-ink-900">Rejeitar não necessários</button>
+      <button type="button" id="cookie-manage" class="btn-ghost text-sm">Gerenciar</button>
+    </div>
+  </div>
+  <form id="cookie-level-2" class="hidden" aria-label="Preferências de cookies">
+    <p class="font-bold">Preferências de cookies</p>
+    <ul class="mt-2 space-y-2 text-sm">
+      <li class="flex items-start justify-between gap-3 rounded-lg bg-soft p-3"><span><strong>Necessários</strong><span class="block text-xs muted">Tema, consentimento e segurança. Sempre ativos.</span></span><input type="checkbox" checked disabled aria-label="Necessários (sempre ativos)" /></li>
+      <li class="flex items-start justify-between gap-3 rounded-lg bg-soft p-3"><span><strong>Analíticos</strong><span class="block text-xs muted">Medir páginas visitadas de forma agregada (Google Analytics).</span></span><input type="checkbox" name="analitica" aria-label="Cookies analíticos" /></li>
+      <li class="flex items-start justify-between gap-3 rounded-lg bg-soft p-3"><span><strong>Publicidade</strong><span class="block text-xs muted">Anúncios personalizados e medição (Google AdSense).</span></span><input type="checkbox" name="publicidade" aria-label="Cookies de publicidade" /></li>
+    </ul>
+    <div class="mt-3 flex flex-wrap gap-2">
+      <button type="submit" class="btn-primary text-sm">Salvar preferências</button>
+      <button type="button" id="cookie-back" class="btn-ghost text-sm">Voltar</button>
+    </div>
+  </form>
+</div>
+<script>
+  const KEY = 'rp-cookie-consent';
+  const banner = document.getElementById('cookie-banner')!;
+  const version = banner.dataset.version;
+  const l1 = document.getElementById('cookie-level-1')!;
+  const l2 = document.getElementById('cookie-level-2') as HTMLFormElement;
+  const read = () => { try { return JSON.parse(localStorage.getItem(KEY) || 'null'); } catch { return null; } };
+  const show = () => { banner.classList.remove('hidden'); l1.classList.remove('hidden'); l2.classList.add('hidden'); };
+  const save = (escolhas: { analitica: boolean; publicidade: boolean }) => {
+    const record = { versao: version, data: new Date().toISOString(), escolhas };
+    try { localStorage.setItem(KEY, JSON.stringify(record)); } catch {}
+    const g = (window as any).gtag;
+    if (typeof g === 'function') g('consent', 'update', {
+      ad_storage: escolhas.publicidade ? 'granted' : 'denied', ad_user_data: escolhas.publicidade ? 'granted' : 'denied',
+      ad_personalization: escolhas.publicidade ? 'granted' : 'denied', analytics_storage: escolhas.analitica ? 'granted' : 'denied',
+    });
+    banner.classList.add('hidden');
+    document.dispatchEvent(new CustomEvent('rp:consent', { detail: record }));
+  };
+  const current = read();
+  if (!current || current.versao !== version) show();
+  document.getElementById('cookie-accept')?.addEventListener('click', () => save({ analitica: true, publicidade: true }));
+  document.getElementById('cookie-reject')?.addEventListener('click', () => save({ analitica: false, publicidade: false }));
+  document.getElementById('cookie-manage')?.addEventListener('click', () => { l1.classList.add('hidden'); l2.classList.remove('hidden'); const c = read(); if (c?.escolhas) { (l2.elements.namedItem('analitica') as HTMLInputElement).checked = !!c.escolhas.analitica; (l2.elements.namedItem('publicidade') as HTMLInputElement).checked = !!c.escolhas.publicidade; } });
+  document.getElementById('cookie-back')?.addEventListener('click', () => { l2.classList.add('hidden'); l1.classList.remove('hidden'); });
+  l2.addEventListener('submit', (e) => { e.preventDefault(); save({ analitica: (l2.elements.namedItem('analitica') as HTMLInputElement).checked, publicidade: (l2.elements.namedItem('publicidade') as HTMLInputElement).checked }); });
+  document.addEventListener('rp:open-cookies', show);
+  document.querySelectorAll('[data-open-cookies]').forEach((el) => el.addEventListener('click', (e) => { e.preventDefault(); show(); }));
+</script>

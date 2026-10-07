@@ -1,0 +1,23 @@
+---
+import PageLayout from '@/layouts/PageLayout.astro';
+import { SITE } from '@/site.config';
+---
+<PageLayout title="Política Editorial e de Correções" description="Princípios editoriais do Review Produtos: independência, transparência sobre método e uso de IA, atualização de conteúdo e como tratamos erros e correções." canonical="/politica-editorial/" updated="7 de outubro de 2026">
+  <h2>Princípios</h2>
+  <ul>
+    <li><strong>Utilidade em primeiro lugar:</strong> cada artigo precisa ajudar uma pessoa real a decidir. Sem enrolação, sem repetir a descrição do fabricante.</li>
+    <li><strong>Honestidade:</strong> apontamos defeitos, limitações e para quem o produto não serve.</li>
+    <li><strong>Independência:</strong> nenhuma marca ou loja paga por avaliação, posição ou nota.</li>
+    <li><strong>Transparência de método:</strong> indicamos quando houve teste físico e quando a análise se baseia em especificações, avaliações agregadas e fontes especializadas.</li>
+  </ul>
+  <h2>Uso de inteligência artificial</h2>
+  <p>Utilizamos ferramentas de IA para pesquisa, organização de especificações, análise de grandes volumes de avaliações e elaboração de rascunhos, seguindo um padrão editorial definido por pessoas. Toda publicação passa por verificações automáticas (dados do produto, links, imagens, estrutura) e por revisão editorial contínua. Conteúdo com erro é corrigido assim que identificado.</p>
+  <h2>Fontes</h2>
+  <p>Usamos documentação oficial dos fabricantes, páginas das lojas, avaliações públicas de consumidores, órgãos reguladores (Inmetro, Anvisa, Anatel) e veículos especializados, citados no fim de cada artigo quando relevantes.</p>
+  <h2>Atualização</h2>
+  <p>Revisamos artigos quando há novos lançamentos, mudanças relevantes ou alertas de leitores. A data de atualização fica visível no topo de cada página.</p>
+  <h2>Correções</h2>
+  <p>Erros factuais são corrigidos no próprio artigo, com nota de correção quando a mudança for relevante. Para reportar um erro, escreva para <a href={`mailto:${SITE.email}`}>{SITE.email}</a> com o link da página e a informação correta. Respondemos em até 5 dias úteis.</p>
+  <h2>Comentários e sugestões</h2>
+  <p>Sugestões de produtos e temas são bem-vindas pelo mesmo e-mail. Não publicamos avaliações pagas, "publieditoriais" disfarçados ou textos fornecidos por marcas.</p>
+</PageLayout>

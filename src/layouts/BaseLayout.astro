@@ -1,0 +1,148 @@
+---
+import '@/styles/global.css';
+import { Font } from 'astro:assets';
+import { SITE } from '@/site.config';
+import Header from '@/components/Header.astro';
+import Footer from '@/components/Footer.astro';
+import CookieBanner from '@/components/CookieBanner.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  /** Caminho canônico (ex.: /reviews/slug/). Default: URL atual. */
+  canonical?: string;
+  ogImage?: string;
+  ogType?: 'website' | 'article';
+  noindex?: boolean;
+  jsonLd?: Record<string, unknown> | Record<string, unknown>[];
+  publishedTime?: Date;
+  modifiedTime?: Date;
+  authorName?: string;
+  section?: string;
+  tags?: string[];
+  /** Título completo já formatado (sem sufixo do site). */
+  rawTitle?: boolean;
+  bodyClass?: string;
+}
+
+const {
+  title,
+  description,
+  canonical,
+  ogImage = '/og-default.png',
+  ogType = 'website',
+  noindex = false,
+  jsonLd,
+  publishedTime,
+  modifiedTime,
+  authorName,
+  section,
+  tags = [],
+  rawTitle = false,
+  bodyClass = '',
+} = Astro.props;
+
+const canonicalPath = canonical ?? Astro.url.pathname;
+const canonicalUrl = new URL(canonicalPath, SITE.url).toString();
+const ogImageUrl = new URL(ogImage, SITE.url).toString();
+const fullTitle = rawTitle ? title : `${title} | ${SITE.name}`;
+const jsonLdList = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
+---
+<!doctype html>
+<html lang="pt-BR" class="scroll-smooth">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
+    {noindex ? <meta name="robots" content="noindex, follow" /> : <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />}
+    <meta name="generator" content={Astro.generator} />
+    <meta name="theme-color" content={SITE.themeColor} />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="author" content={authorName ?? SITE.name} />
+    {SITE.gscVerification && <meta name="google-site-verification" content={SITE.gscVerification} />}
+
+    <link rel="icon" href="/favicon.ico" sizes="32x32" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="alternate" type="application/rss+xml" title={`${SITE.name} — RSS`} href="/rss.xml" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+
+    <Font cssVariable="--font-inter" preload />
+    <Font cssVariable="--font-sora" />
+
+    <!-- Open Graph / Twitter -->
+    <meta property="og:type" content={ogType} />
+    <meta property="og:site_name" content={SITE.name} />
+    <meta property="og:locale" content="pt_BR" />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:image" content={ogImageUrl} />
+    <meta property="og:image:alt" content={title} />
+    {ogType === 'article' && publishedTime && <meta property="article:published_time" content={publishedTime.toISOString()} />}
+    {ogType === 'article' && modifiedTime && <meta property="article:modified_time" content={modifiedTime.toISOString()} />}
+    {ogType === 'article' && section && <meta property="article:section" content={section} />}
+    {ogType === 'article' && tags.map((t) => <meta property="article:tag" content={t} />)}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImageUrl} />
+
+    {jsonLdList.map((ld) => <script type="application/ld+json" set:html={JSON.stringify(ld)}></script>)}
+
+    <!-- Tema: aplica .dark antes do primeiro paint para evitar flash -->
+    <script is:inline>
+      (function () {
+        try {
+          var t = localStorage.getItem('rp-theme');
+          var dark = t ? t === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches;
+          if (dark) document.documentElement.classList.add('dark');
+        } catch (e) {}
+      })();
+    </script>
+
+    {SITE.adsenseClient && <meta name="google-adsense-account" content={SITE.adsenseClient} />}
+    <!-- Google Consent Mode v2: tudo negado até o visitante aceitar no aviso de cookies -->
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('consent', 'default', { ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied', analytics_storage: 'denied', wait_for_update: 500 });
+      try {
+        var c = JSON.parse(localStorage.getItem('rp-cookie-consent') || 'null');
+        if (c && c.escolhas) {
+          gtag('consent', 'update', {
+            ad_storage: c.escolhas.publicidade ? 'granted' : 'denied',
+            ad_user_data: c.escolhas.publicidade ? 'granted' : 'denied',
+            ad_personalization: c.escolhas.publicidade ? 'granted' : 'denied',
+            analytics_storage: c.escolhas.analitica ? 'granted' : 'denied'
+          });
+        }
+      } catch (e) {}
+    </script>
+    {SITE.adsenseClient && import.meta.env.PROD && (
+      <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${SITE.adsenseClient}`} crossorigin="anonymous"></script>
+    )}
+    {SITE.ga4Id && (
+      <Fragment>
+        <script async src={`https://www.googletagmanager.com/gtag/js?id=${SITE.ga4Id}`}></script>
+        <script is:inline define:vars={{ id: SITE.ga4Id }}>
+          gtag('js', new Date());
+          gtag('config', id, { anonymize_ip: true });
+        </script>
+      </Fragment>
+    )}
+    <slot name="head" />
+  </head>
+  <body class={`min-h-dvh flex flex-col antialiased ${bodyClass}`}>
+    <a href="#conteudo" class="skip-link">Pular para o conteúdo</a>
+    <Header />
+    <main id="conteudo" class="flex-1">
+      <slot />
+    </main>
+    <Footer />
+    <CookieBanner />
+  </body>
+</html>

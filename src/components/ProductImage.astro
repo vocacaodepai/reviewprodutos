@@ -1,0 +1,18 @@
+---
+/**
+ * Imagem de produto (remota, CDN Amazon/fabricante). Otimizada no build via astro:assets.
+ * Defina IMAGES_PASSTHROUGH=true para servir a URL original sem processar (builds de emergência).
+ */
+import { Image } from 'astro:assets';
+interface Props { src: string; alt: string; width?: number; height?: number; class?: string; sizes?: string; loading?: 'lazy' | 'eager'; fetchpriority?: 'high' | 'low' | 'auto'; }
+const { src, alt, width, height, class: className = '', sizes, loading = 'lazy', fetchpriority = 'auto' } = Astro.props;
+const passthrough = import.meta.env.IMAGES_PASSTHROUGH === 'true';
+const w = width ?? 800;
+---
+{passthrough ? (
+  <img src={src} alt={alt} class={className} loading={loading} decoding="async" fetchpriority={fetchpriority} width={width} height={height} />
+) : width && height ? (
+  <Image src={src} alt={alt} width={width} height={height} class={className} loading={loading} decoding="async" fetchpriority={fetchpriority} sizes={sizes} quality={78} format="webp" />
+) : (
+  <Image src={src} alt={alt} inferSize width={w} class={className} loading={loading} decoding="async" fetchpriority={fetchpriority} sizes={sizes} quality={78} format="webp" />
+)}

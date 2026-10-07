@@ -1,0 +1,29 @@
+---
+/**
+ * Bloco de anúncio AdSense com espaço reservado (evita CLS). Só renderiza quando PUBLIC_ADSENSE_CLIENT está
+ * definido E o build é de produção. Use apenas em páginas com conteúdo editorial substancial
+ * (nunca em busca, 404, páginas institucionais ou categorias vazias).
+ * slot: ID do bloco criado no painel do AdSense. format: auto | rectangle | horizontal | fluid.
+ */
+import { SITE } from '@/site.config';
+interface Props { slot?: string; format?: 'auto' | 'fluid' | 'rectangle' | 'horizontal'; class?: string; label?: boolean; }
+const { slot, format = 'auto', class: className = '', label = true } = Astro.props;
+const enabled = Boolean(SITE.adsenseClient) && import.meta.env.PROD;
+const minH = format === 'rectangle' ? 'min-h-[250px]' : format === 'horizontal' ? 'min-h-[90px]' : 'min-h-[280px] sm:min-h-[250px]';
+---
+{enabled && (
+  <div class={`ad-slot my-8 ${className}`} data-ad-slot-container>
+    {label && <p class="mb-1 text-center text-[10px] uppercase tracking-widest muted">Publicidade</p>}
+    <div class={`${minH} overflow-hidden rounded-xl bg-soft/60`}>
+      <ins class="adsbygoogle block" style="display:block" data-ad-client={SITE.adsenseClient} data-ad-slot={slot} data-ad-format={format} data-full-width-responsive="true"></ins>
+    </div>
+  </div>
+)}
+<script is:inline>
+  // Um único push por bloco ainda não carregado (evita erro "already have ads").
+  (function () {
+    document.querySelectorAll('ins.adsbygoogle:not([data-adsbygoogle-status])').forEach(function () {
+      try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch (e) {}
+    });
+  })();
+</script>

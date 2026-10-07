@@ -1,0 +1,143 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleCard from '@/components/ArticleCard.astro';
+import Icon from '@/components/Icon.astro';
+import AdSlot from '@/components/AdSlot.astro';
+import { SITE, ARTICLE_TYPES } from '@/site.config';
+import { getArtigos, getCategorias, categoriaUrl, tipoUrl } from '@/lib/articles';
+import { graph, organizationSchema, websiteSchema } from '@/lib/schema';
+
+const artigos = await getArtigos();
+const categorias = await getCategorias();
+const destaque = artigos.find((a) => a.data.destaque) ?? artigos[0];
+const recentes = artigos.filter((a) => a.id !== destaque?.id).slice(0, 6);
+const melhores = artigos.filter((a) => a.data.tipo === 'lista').slice(0, 4);
+const reviews = artigos.filter((a) => a.data.tipo === 'review').slice(0, 4);
+const comparativos = artigos.filter((a) => a.data.tipo === 'comparativo').slice(0, 4);
+const solucoes = artigos.filter((a) => a.data.funil.estagio !== 'fundo' && a.data.funil.problema).slice(0, 6);
+const countByCat = (id: string) => artigos.filter((a) => a.data.categoria.id === id).length;
+const totalProdutos = artigos.reduce((n, a) => n + a.data.produtos.length, 0);
+---
+<BaseLayout title={`${SITE.name}: reviews honestos, comparativos e os melhores produtos do Brasil`} description={SITE.description} rawTitle canonical="/" jsonLd={graph([organizationSchema(), websiteSchema()])}>
+  <!-- Hero -->
+  <section class="relative overflow-hidden border-b border-soft bg-gradient-to-b from-brand-50 to-[var(--bg)] dark:from-brand-950 dark:to-[var(--bg)]">
+    <div class="container-site grid items-center gap-10 py-14 lg:grid-cols-2 lg:py-20">
+      <div>
+        <p class="inline-flex items-center gap-2 rounded-full border border-brand-200 bg-white/70 px-3 py-1 text-xs font-bold uppercase tracking-wider text-brand-700 dark:border-brand-800 dark:bg-brand-900/40 dark:text-brand-200"><Icon name="shield" size={14} /> Independente · Sem pagamento de fabricantes</p>
+        <h1 class="mt-4 text-4xl font-extrabold leading-[1.1] sm:text-5xl lg:text-6xl">Compre certo na primeira vez.</h1>
+        <p class="mt-5 max-w-xl text-lg leading-relaxed muted">Reviews honestos, comparativos lado a lado e listas dos melhores produtos vendidos no Brasil. Cruzamos especificações, milhares de avaliações reais e testes para dizer o que vale a pena e para quem.</p>
+        <form action="/busca/" method="get" role="search" class="mt-7 flex max-w-xl gap-2">
+          <label for="q-hero" class="sr-only">Buscar produto, marca ou problema</label>
+          <div class="relative flex-1">
+            <input id="q-hero" name="q" type="search" placeholder="Ex.: air fryer, fone bluetooth, dor nas costas…" class="w-full rounded-xl border border-soft bg-card py-3.5 pl-11 pr-4 text-base shadow-sm outline-none focus:border-brand-400" />
+            <span class="pointer-events-none absolute left-4 top-1/2 -translate-y-1/2 muted"><Icon name="search" /></span>
+          </div>
+          <button type="submit" class="btn-primary px-5">Buscar</button>
+        </form>
+        <ul class="mt-6 flex flex-wrap gap-x-6 gap-y-2 text-sm muted">
+          <li class="inline-flex items-center gap-1.5"><Icon name="check" size={16} class="text-check-600" /> {artigos.length} guias publicados</li>
+          <li class="inline-flex items-center gap-1.5"><Icon name="check" size={16} class="text-check-600" /> {totalProdutos} produtos analisados</li>
+          <li class="inline-flex items-center gap-1.5"><Icon name="check" size={16} class="text-check-600" /> Atualizado diariamente</li>
+        </ul>
+      </div>
+      {destaque && (
+        <div>
+          <p class="mb-3 text-xs font-bold uppercase tracking-wider muted">Em destaque</p>
+          <ArticleCard artigo={destaque} variant="featured" eager />
+        </div>
+      )}
+    </div>
+  </section>
+
+  <!-- Categorias -->
+  <section class="container-site py-12" aria-labelledby="cats">
+    <div class="flex items-end justify-between gap-4">
+      <h2 id="cats" class="text-2xl font-bold sm:text-3xl">Explore por categoria</h2>
+    </div>
+    <ul class="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-6">
+      {categorias.map((c) => (
+        <li>
+          <a href={categoriaUrl(c.id)} class="card flex h-full flex-col items-start gap-3 p-4 transition hover:-translate-y-0.5 hover:shadow-lg">
+            <span class="inline-flex h-11 w-11 items-center justify-center rounded-xl text-white" style={`background:${c.data.cor}`}><Icon name={c.data.icone} size={22} /></span>
+            <span class="font-bold leading-tight">{c.data.nome}</span>
+            <span class="mt-auto text-xs muted">{countByCat(c.id)} {countByCat(c.id) === 1 ? 'guia' : 'guias'}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+
+  <!-- Recentes -->
+  {recentes.length > 0 && (
+    <section class="container-site pb-12" aria-labelledby="recentes">
+      <div class="flex items-end justify-between gap-4">
+        <h2 id="recentes" class="text-2xl font-bold sm:text-3xl">Últimas análises</h2>
+        <a href="/melhores/" class="hidden items-center gap-1 text-sm font-semibold text-brand-600 hover:underline sm:inline-flex">Ver tudo <Icon name="arrow-right" size={16} /></a>
+      </div>
+      <div class="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">{recentes.map((a) => <ArticleCard artigo={a} />)}</div>
+    </section>
+  )}
+
+  {artigos.length >= 9 && <AdSlot class="container-site" />}
+
+  <!-- Soluções (topo de funil) -->
+  {solucoes.length > 0 && (
+    <section class="border-y border-soft bg-soft py-12" aria-labelledby="solucoes">
+      <div class="container-site">
+        <div class="max-w-2xl">
+          <p class="text-xs font-bold uppercase tracking-wider text-brand-600">Comece pelo problema</p>
+          <h2 id="solucoes" class="mt-2 text-2xl font-bold sm:text-3xl">Qual é a sua dor hoje? A gente mostra o que resolve.</h2>
+          <p class="mt-2 muted">Dor nas costas ao dirigir, casa cheia de mosquitos, café sem sabor, bebê que não dorme: guias práticos com os produtos que realmente ajudam.</p>
+        </div>
+        <ul class="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+          {solucoes.map((a) => (
+            <li>
+              <a href={`/${ARTICLE_TYPES[a.data.tipo].slug}/${a.id}/`} class="card flex h-full items-start gap-3 p-4 transition hover:shadow-lg">
+                <span class="mt-0.5 inline-flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-brand-100 text-brand-700 dark:bg-brand-900/50 dark:text-brand-200"><Icon name="sparkles" size={18} /></span>
+                <span><span class="block text-sm font-semibold capitalize text-brand-700 dark:text-brand-200">{a.data.funil.problema}</span><span class="mt-1 block text-sm leading-snug">{a.data.title}</span></span>
+              </a>
+            </li>
+          ))}
+        </ul>
+        <a href="/solucoes/" class="btn-ghost mt-6">Ver todas as soluções <Icon name="arrow-right" size={16} /></a>
+      </div>
+    </section>
+  )}
+
+  <!-- Por formato -->
+  <section class="container-site py-12 space-y-12">
+    {[{ key: 'lista', items: melhores }, { key: 'review', items: reviews }, { key: 'comparativo', items: comparativos }].map(({ key, items }) => items.length > 0 && (
+      <div>
+        <div class="flex items-end justify-between gap-4">
+          <div>
+            <h2 class="text-2xl font-bold sm:text-3xl">{ARTICLE_TYPES[key as keyof typeof ARTICLE_TYPES].labelPlural}</h2>
+            <p class="mt-1 text-sm muted">{ARTICLE_TYPES[key as keyof typeof ARTICLE_TYPES].description}</p>
+          </div>
+          <a href={tipoUrl(key as keyof typeof ARTICLE_TYPES)} class="inline-flex shrink-0 items-center gap-1 text-sm font-semibold text-brand-600 hover:underline">Ver todos <Icon name="arrow-right" size={16} /></a>
+        </div>
+        <div class="mt-5 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">{items.map((a) => <ArticleCard artigo={a} />)}</div>
+      </div>
+    ))}
+  </section>
+
+  <!-- Confiança -->
+  <section class="container-site pb-16" aria-labelledby="como">
+    <div class="card grid gap-8 p-8 md:grid-cols-3">
+      <div class="md:col-span-1">
+        <h2 id="como" class="text-2xl font-bold">Como avaliamos</h2>
+        <p class="mt-2 text-sm muted">Nosso processo é o mesmo em todas as categorias, e você pode conferir cada passo.</p>
+        <a href="/metodologia/" class="btn-primary mt-4">Conheça a metodologia</a>
+      </div>
+      <ul class="grid gap-4 sm:grid-cols-2 md:col-span-2">
+        {[
+          ['search', 'Pesquisa profunda', 'Especificações oficiais, manuais e comparação com concorrentes diretos.'],
+          ['user', 'Milhares de avaliações reais', 'Cruzamos o que consumidores brasileiros relatam depois de meses de uso.'],
+          ['scale', 'Critérios com peso', 'Cada produto recebe nota por critério; a nota final é ponderada e explicada.'],
+          ['shield', 'Independência', 'Fabricantes não pagam por avaliações. Comissões de afiliado não mudam notas.'],
+        ].map(([icon, t, d]) => (
+          <li class="flex gap-3"><span class="inline-flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-brand-100 text-brand-700 dark:bg-brand-900/50 dark:text-brand-200"><Icon name={icon} size={20} /></span><span><span class="block font-semibold">{t}</span><span class="text-sm muted">{d}</span></span></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+</BaseLayout>

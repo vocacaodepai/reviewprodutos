@@ -1,0 +1,40 @@
+---
+/** Página de listagem genérica (tipo, categoria, subcategoria) com grid + paginação. */
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumbs from '@/components/Breadcrumbs.astro';
+import ArticleCard from '@/components/ArticleCard.astro';
+import Pagination from '@/components/Pagination.astro';
+import AdSlot from '@/components/AdSlot.astro';
+import { collectionPageSchema, graph } from '@/lib/schema';
+import type { Artigo } from '@/lib/articles';
+interface Props {
+  title: string; seoTitle?: string; description: string; intro?: string; base: string; page: number; totalPages: number; items: Artigo[]; total: number;
+  crumbs: { name: string; url?: string }[]; noindex?: boolean;
+}
+const { title, seoTitle, description, intro, base, page, totalPages, items, total, crumbs, noindex = false } = Astro.props;
+const canonical = page === 1 ? base : `${base}pagina/${page}/`;
+const pageTitle = page > 1 ? `${seoTitle ?? title} (página ${page})` : (seoTitle ?? title);
+---
+<BaseLayout title={pageTitle} description={description} canonical={canonical} noindex={noindex || (page > 1 && items.length === 0)} jsonLd={page === 1 ? graph(collectionPageSchema(title, description, base, items)) : undefined}>
+  <Fragment slot="head">
+    {page > 1 && <link rel="prev" href={page === 2 ? base : `${base}pagina/${page - 1}/`} />}
+    {page < totalPages && <link rel="next" href={`${base}pagina/${page + 1}/`} />}
+  </Fragment>
+  <div class="container-site py-8">
+    <Breadcrumbs items={crumbs} />
+    <header class="mt-4 max-w-3xl">
+      <h1 class="text-3xl font-extrabold sm:text-4xl">{title}</h1>
+      <p class="mt-3 text-lg muted">{intro ?? description}</p>
+      <p class="mt-2 text-sm muted">{total} {total === 1 ? 'artigo' : 'artigos'}</p>
+    </header>
+    <slot name="filters" />
+    <div class="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3" data-grid-artigos>
+      {items.map((a, i) => <ArticleCard artigo={a} eager={i < 3} />)}
+    </div>
+    <p id="filtro-vazio" class="hidden mt-6 rounded-xl border border-dashed border-soft p-6 text-center muted">Nenhum artigo deste tipo aqui ainda. Em breve!</p>
+    {items.length === 0 && <p class="mt-6 rounded-xl border border-dashed border-soft p-8 text-center muted">Ainda não publicamos artigos aqui. Novos reviews entram todos os dias — volte em breve ou <a href="/busca/" class="underline">busque um produto</a>.</p>}
+    {items.length >= 6 && <AdSlot />}
+    <Pagination current={page} totalPages={totalPages} base={base} />
+    <slot />
+  </div>
+</BaseLayout>

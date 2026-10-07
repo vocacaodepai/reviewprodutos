@@ -1,0 +1,15 @@
+---
+import { toStars, formatNota, notaLabel } from '@/lib/articles';
+interface Props { nota: number; size?: number; showNumber?: boolean; showLabel?: boolean; class?: string; }
+const { nota, size = 16, showNumber = true, showLabel = false, class: className = '' } = Astro.props;
+const s = toStars(nota);
+---
+<span class={`inline-flex items-center gap-1.5 ${className}`} role="img" aria-label={`Nota ${formatNota(nota)} de 10`}>
+  <span class="inline-flex text-star-500" aria-hidden="true">
+    {Array.from({ length: s.full }).map(() => <svg width={size} height={size} viewBox="0 0 24 24" fill="currentColor"><path d="m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z"/></svg>)}
+    {s.half && <svg width={size} height={size} viewBox="0 0 24 24"><defs><linearGradient id="half"><stop offset="50%" stop-color="currentColor"/><stop offset="50%" stop-color="transparent"/></linearGradient></defs><path d="m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z" fill="url(#half)" stroke="currentColor" stroke-width="1.5"/></svg>}
+    {Array.from({ length: s.empty }).map(() => <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z"/></svg>)}
+  </span>
+  {showNumber && <span class="text-sm font-bold tabular-nums">{formatNota(nota)}<span class="muted font-normal">/10</span></span>}
+  {showLabel && <span class="text-xs muted">{notaLabel(nota)}</span>}
+</span>

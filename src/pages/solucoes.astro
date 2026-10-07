@@ -1,0 +1,33 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumbs from '@/components/Breadcrumbs.astro';
+import Icon from '@/components/Icon.astro';
+import { getArtigos, getCategorias, articleUrl } from '@/lib/articles';
+import { collectionPageSchema, graph } from '@/lib/schema';
+const artigos = await getArtigos((a) => Boolean(a.data.funil.problema));
+const categorias = await getCategorias();
+const grupos = categorias.map((c) => ({ c, itens: artigos.filter((a) => a.data.categoria.id === c.id) })).filter((g) => g.itens.length > 0);
+const title = 'Soluções: o produto certo para cada problema do dia a dia';
+const description = 'Guias organizados pelo problema que você quer resolver: dor nas costas, sono ruim, casa quente, bebê que não dorme, carro bagunçado. Mostramos os produtos que realmente ajudam, com reviews honestos.';
+---
+<BaseLayout title={title} description={description} canonical="/solucoes/" jsonLd={graph(collectionPageSchema(title, description, '/solucoes/', artigos))}>
+  <div class="container-site py-8">
+    <Breadcrumbs items={[{ name: 'Soluções' }]} />
+    <header class="mt-4 max-w-3xl">
+      <p class="text-xs font-bold uppercase tracking-wider text-brand-600">Comece pelo problema, não pelo produto</p>
+      <h1 class="mt-2 text-3xl font-extrabold sm:text-4xl">Qual problema você quer resolver hoje?</h1>
+      <p class="mt-3 text-lg muted">{description}</p>
+    </header>
+    {grupos.length === 0 && <p class="mt-8 rounded-xl border border-dashed border-soft p-8 text-center muted">Os primeiros guias por problema estão a caminho.</p>}
+    {grupos.map(({ c, itens }) => (
+      <section class="mt-12" aria-labelledby={`sol-${c.id}`}>
+        <h2 id={`sol-${c.id}`} class="flex items-center gap-2 text-2xl font-bold"><span class="inline-flex h-9 w-9 items-center justify-center rounded-lg text-white" style={`background:${c.data.cor}`}><Icon name={c.data.icone} size={18} /></span>{c.data.nome}</h2>
+        <ul class="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+          {itens.map((a) => (
+            <li><a href={articleUrl(a)} class="card flex h-full flex-col p-4 transition hover:shadow-lg"><span class="text-sm font-semibold capitalize text-brand-700 dark:text-brand-200">{a.data.funil.problema}</span><span class="mt-1 text-sm leading-snug">{a.data.title}</span></a></li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </div>
+</BaseLayout>

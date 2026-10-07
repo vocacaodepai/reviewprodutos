@@ -1,0 +1,28 @@
+---
+import PageLayout from '@/layouts/PageLayout.astro';
+import { SITE } from '@/site.config';
+---
+<PageLayout title="Divulgação de Afiliados" description="Como o Review Produtos ganha comissões de afiliados (Amazon Associados), o que isso significa para você e por que não influencia nossas notas." canonical="/divulgacao-de-afiliados/" updated="7 de outubro de 2026">
+  <div class="not-prose card border-brand-200 bg-brand-50 p-5 dark:border-brand-800 dark:bg-brand-900/30"><p class="font-semibold">{SITE.affiliateDisclosure}</p></div>
+  <h2>O que é um link de afiliado</h2>
+  <p>Quando você clica em um botão como "Ver preço na Amazon" e compra algo, a loja identifica que a visita veio do nosso site e nos paga uma pequena porcentagem da venda. <strong>Você paga exatamente o mesmo preço</strong> que pagaria entrando direto na loja.</p>
+  <h2>De quais programas participamos</h2>
+  <ul>
+    <li><strong>Programa de Associados da Amazon (Amazon.com.br):</strong> o Review Produtos é participante do Programa de Associados da Amazon, um programa de publicidade afiliada projetado para oferecer um meio de sites ganharem taxas de publicidade ao anunciar e vincular-se a amazon.com.br.</li>
+    <li>Podemos incluir outros programas no futuro (como Mercado Livre, Magazine Luiza ou Shopee); se isso acontecer, esta página será atualizada.</li>
+  </ul>
+  <h2>Como isso não afeta as análises</h2>
+  <ul>
+    <li>As comissões de uma categoria são iguais para produtos bons e ruins, então não há incentivo para favorecer um produto específico.</li>
+    <li>As notas seguem a <a href="/metodologia/">metodologia pública</a>, com critérios e pesos informados em cada artigo.</li>
+    <li>Fabricantes e lojas não pagam por avaliações, não escolhem produtos e não aprovam textos.</li>
+    <li>Quando um produto não vale a pena, dizemos isso, mesmo que ele tenha link de compra.</li>
+  </ul>
+  <h2>Preços e disponibilidade</h2>
+  <p>Não exibimos preços exatos porque mudam constantemente. As informações de preço e disponibilidade que você vê ao clicar são da própria loja no momento da sua visita.</p>
+  <h2>Identificação dos links</h2>
+  <p>Todos os links de afiliados são marcados tecnicamente com o atributo <code>rel="sponsored"</code> e os botões de compra são claramente identificados. Cada artigo exibe este aviso no início e no fim.</p>
+  <h2>Publicidade</h2>
+  <p>Também exibimos anúncios do Google AdSense, sempre identificados como "Publicidade". Os anunciantes não têm influência sobre o conteúdo editorial.</p>
+  <p>Dúvidas? <a href={`mailto:${SITE.email}`}>{SITE.email}</a></p>
+</PageLayout>

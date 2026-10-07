@@ -1,0 +1,23 @@
+---
+import PageLayout from '@/layouts/PageLayout.astro';
+import { SITE } from '@/site.config';
+---
+<PageLayout title="Sobre o Review Produtos" description="Quem somos, por que existimos e como ganhamos dinheiro sem comprometer a honestidade das análises." canonical="/sobre/" updated="outubro de 2026">
+  <h2>Nossa missão</h2>
+  <p>O <strong>{SITE.name}</strong> nasceu de uma frustração comum: na hora de comprar, a internet está cheia de páginas que só repetem a descrição do fabricante ou empurram o produto com a maior comissão. Nossa missão é ajudar você a <strong>comprar certo na primeira vez</strong>: dizer com clareza o que vale a pena, para quem e por quê, em qualquer categoria de produto.</p>
+  <h2>O que fazemos</h2>
+  <ul>
+    <li><strong>Reviews individuais:</strong> uma análise completa de um produto, com nota por critério, prós, contras e para quem ele é (ou não é) indicado.</li>
+    <li><strong>Comparativos:</strong> dois produtos frente a frente, para você decidir entre as opções que já está considerando.</li>
+    <li><strong>Listas dos melhores:</strong> rankings por categoria e por necessidade (melhor custo-benefício, melhor premium, melhor para iniciantes).</li>
+    <li><strong>Guias por problema:</strong> você chega com uma dor ("dor nas costas dirigindo", "casa cheia de mosquitos", "café sem sabor") e sai com as soluções que realmente funcionam.</li>
+  </ul>
+  <h2>Como avaliamos</h2>
+  <p>Cada artigo segue a mesma <a href="/metodologia/">metodologia pública</a>: pesquisa de especificações oficiais, comparação com concorrentes diretos, análise de milhares de avaliações de consumidores brasileiros e, quando indicado no artigo, testes práticos. Somos transparentes sobre o que foi testado fisicamente e o que foi analisado a partir de dados.</p>
+  <h2>Como ganhamos dinheiro</h2>
+  <p>Mantemos o site com dois tipos de receita: <strong>comissões de afiliado</strong> (principalmente do Programa de Associados da Amazon) e <strong>publicidade</strong> (Google AdSense). Quando você compra por um link nosso, a loja nos paga uma pequena comissão, <strong>sem custo adicional para você</strong>. Isso nunca influencia nossas notas: produtos ruins recebem notas ruins, mesmo que paguem comissão. Fabricantes e lojas não pagam para aparecer aqui nem revisam nossos textos antes da publicação. Leia nossa <a href="/divulgacao-de-afiliados/">divulgação de afiliados</a> completa.</p>
+  <h2>Uso de tecnologia na redação</h2>
+  <p>Usamos ferramentas de inteligência artificial para acelerar etapas repetitivas do trabalho, como organizar especificações, cruzar avaliações públicas e estruturar rascunhos. Todo conteúdo segue nosso padrão editorial, com critérios de qualidade e verificação definidos por pessoas, e é revisado conforme nossa <a href="/politica-editorial/">política editorial e de correções</a>. Se você encontrar um erro, <a href="/contato/">fale conosco</a>: corrigimos e registramos a correção.</p>
+  <h2>Fale com a gente</h2>
+  <p>Sugestões de produtos, correções, parcerias ou imprensa: <a href={`mailto:${SITE.email}`}>{SITE.email}</a>.</p>
+</PageLayout>

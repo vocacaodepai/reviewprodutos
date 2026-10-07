@@ -1,0 +1,50 @@
+---
+import Logo from './Logo.astro';
+import Icon from './Icon.astro';
+import { SITE } from '@/site.config';
+import { getCategorias, categoriaUrl } from '@/lib/articles';
+const categorias = await getCategorias();
+const year = new Date().getFullYear();
+---
+<footer class="mt-16 border-t border-soft bg-soft">
+  <div class="container-site py-12">
+    <div class="grid gap-10 md:grid-cols-12">
+      <div class="md:col-span-4">
+        <Logo height={40} />
+        <p class="mt-4 text-sm leading-relaxed muted">{SITE.description}</p>
+        <p class="mt-4 flex items-center gap-2 text-sm"><Icon name="mail" size={16} /><a href={`mailto:${SITE.email}`} class="hover:underline">{SITE.email}</a></p>
+        <div class="mt-4 flex items-center gap-2">
+          <a href="/rss.xml" class="btn-ghost h-9 w-9 !p-0" aria-label="Feed RSS"><Icon name="rss" size={16} /></a>
+          {SITE.social.instagram && <a href={SITE.social.instagram} rel="noopener me" target="_blank" class="btn-ghost h-9 px-3 text-sm">Instagram</a>}
+        </div>
+      </div>
+      <div class="md:col-span-5">
+        <h2 class="text-sm font-bold uppercase tracking-wider muted">Categorias</h2>
+        <ul class="mt-3 grid grid-cols-2 gap-x-6 gap-y-2 text-sm">
+          {categorias.map((c) => <li><a href={categoriaUrl(c.id)} class="hover:underline">{c.data.nome}</a></li>)}
+        </ul>
+      </div>
+      <div class="md:col-span-3">
+        <h2 class="text-sm font-bold uppercase tracking-wider muted">Institucional</h2>
+        <ul class="mt-3 space-y-2 text-sm">
+          <li><a href="/sobre/" class="hover:underline">Sobre nós</a></li>
+          <li><a href="/metodologia/" class="hover:underline">Como avaliamos</a></li>
+          <li><a href="/divulgacao-de-afiliados/" class="hover:underline">Divulgação de afiliados</a></li>
+          <li><a href="/politica-editorial/" class="hover:underline">Política editorial e correções</a></li>
+          <li><a href="/politica-de-privacidade/" class="hover:underline">Política de privacidade</a></li>
+          <li><a href="/politica-de-cookies/" class="hover:underline">Política de cookies</a></li>
+          <li><a href="/politica-de-cookies/" class="hover:underline" data-open-cookies>Gerenciar cookies</a></li>
+          <li><a href="/termos-de-uso/" class="hover:underline">Termos de uso</a></li>
+          <li><a href="/contato/" class="hover:underline">Contato</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="mt-10 rounded-2xl border border-soft bg-card p-4 text-xs leading-relaxed muted">
+      <p><strong class="font-semibold">Transparência:</strong> {SITE.affiliateDisclosure} Os preços e a disponibilidade dos produtos podem mudar a qualquer momento; confira sempre na página da loja antes de comprar. Nossas análises são baseadas em especificações oficiais, avaliações públicas de consumidores e, quando indicado, testes práticos. Este site não substitui orientação médica ou profissional.</p>
+    </div>
+    <div class="mt-6 flex flex-col items-start justify-between gap-2 text-xs muted sm:flex-row sm:items-center">
+      <p>© {year} {SITE.name} · {SITE.domain}. Todos os direitos reservados.</p>
+      <p>Amazon e o logotipo Amazon são marcas da Amazon.com, Inc. ou de suas afiliadas.</p>
+    </div>
+  </div>
+</footer>

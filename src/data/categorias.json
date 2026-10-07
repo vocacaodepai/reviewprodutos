@@ -1,0 +1,206 @@
+[
+  {
+    "id": "tecnologia",
+    "nome": "Tecnologia",
+    "descricao": "Celulares, fones, notebooks, TVs, smartwatches e casa inteligente: analisamos especificações, desempenho real e custo-benefício para você escolher sem dor de cabeça.",
+    "seoTitle": "Reviews e Melhores Produtos de Tecnologia",
+    "seoDescription": "Reviews, comparativos e listas dos melhores celulares, fones de ouvido, notebooks, TVs e gadgets vendidos no Brasil. Análises honestas e atualizadas.",
+    "icone": "sparkles",
+    "cor": "#1F6F9F",
+    "ordem": 1,
+    "subcategorias": [
+      { "slug": "celulares-e-acessorios", "nome": "Celulares e acessórios" },
+      { "slug": "fones-de-ouvido", "nome": "Fones de ouvido" },
+      { "slug": "notebooks-e-computadores", "nome": "Notebooks e computadores" },
+      { "slug": "tvs-e-video", "nome": "TVs e vídeo" },
+      { "slug": "casa-inteligente", "nome": "Casa inteligente" },
+      { "slug": "smartwatches-e-wearables", "nome": "Smartwatches e wearables" },
+      { "slug": "audio-e-caixas-de-som", "nome": "Áudio e caixas de som" },
+      { "slug": "games", "nome": "Games" },
+      { "slug": "cameras-e-fotografia", "nome": "Câmeras e fotografia" }
+    ]
+  },
+  {
+    "id": "casa-e-jardim",
+    "nome": "Casa e Jardim",
+    "descricao": "Limpeza, organização, clima, iluminação, ferramentas e jardim: os produtos que realmente facilitam a rotina da casa, testados contra o que prometem.",
+    "seoTitle": "Reviews e Melhores Produtos para Casa e Jardim",
+    "seoDescription": "Os melhores aspiradores, ventiladores, ferramentas, itens de organização e jardinagem vendidos no Brasil, com reviews e comparativos honestos.",
+    "icone": "home",
+    "cor": "#0E9150",
+    "ordem": 2,
+    "subcategorias": [
+      { "slug": "limpeza", "nome": "Limpeza" },
+      { "slug": "organizacao", "nome": "Organização" },
+      { "slug": "climatizacao", "nome": "Climatização" },
+      { "slug": "iluminacao", "nome": "Iluminação" },
+      { "slug": "ferramentas", "nome": "Ferramentas" },
+      { "slug": "jardinagem", "nome": "Jardinagem" },
+      { "slug": "cama-mesa-e-banho", "nome": "Cama, mesa e banho" },
+      { "slug": "decoracao", "nome": "Decoração" },
+      { "slug": "festas-e-eventos", "nome": "Festas e eventos" }
+    ]
+  },
+  {
+    "id": "cozinha",
+    "nome": "Cozinha",
+    "descricao": "Air fryers, cafeteiras, liquidificadores, panelas e utensílios: o que vale a pena ter na cozinha, do básico ao premium.",
+    "seoTitle": "Reviews e Melhores Produtos para Cozinha",
+    "seoDescription": "Melhores air fryers, cafeteiras, liquidificadores, panelas e eletroportáteis do Brasil. Reviews honestos, comparativos e guias de compra.",
+    "icone": "flame",
+    "cor": "#D97706",
+    "ordem": 3,
+    "subcategorias": [
+      { "slug": "air-fryer", "nome": "Air fryer" },
+      { "slug": "cafeteiras", "nome": "Cafeteiras" },
+      { "slug": "liquidificadores-e-processadores", "nome": "Liquidificadores e processadores" },
+      { "slug": "panelas-e-frigideiras", "nome": "Panelas e frigideiras" },
+      { "slug": "utensilios", "nome": "Utensílios" },
+      { "slug": "eletroportateis", "nome": "Eletroportáteis" },
+      { "slug": "geladeiras-fogoes-e-micro-ondas", "nome": "Geladeiras, fogões e micro-ondas" },
+      { "slug": "purificadores-e-filtros", "nome": "Purificadores e filtros de água" }
+    ]
+  },
+  {
+    "id": "saude-e-bem-estar",
+    "nome": "Saúde e Bem-estar",
+    "descricao": "Produtos para dor, postura, sono, massagem e cuidados diários. Avaliamos o que realmente ajuda, com base em evidências e na experiência de milhares de consumidores.",
+    "seoTitle": "Melhores Produtos para Saúde e Bem-estar",
+    "seoDescription": "Massageadores, travesseiros, suportes para postura, aparelhos de medição e itens de bem-estar: reviews honestos e comparativos dos melhores do Brasil.",
+    "icone": "shield",
+    "cor": "#16B364",
+    "ordem": 4,
+    "subcategorias": [
+      { "slug": "dor-e-postura", "nome": "Dor e postura" },
+      { "slug": "sono-e-descanso", "nome": "Sono e descanso" },
+      { "slug": "massagem-e-relaxamento", "nome": "Massagem e relaxamento" },
+      { "slug": "monitoramento-de-saude", "nome": "Monitoramento de saúde" },
+      { "slug": "higiene-bucal", "nome": "Higiene bucal" },
+      { "slug": "suplementos-e-vitaminas", "nome": "Suplementos e vitaminas" },
+      { "slug": "primeiros-socorros", "nome": "Primeiros socorros e cuidados" }
+    ]
+  },
+  {
+    "id": "beleza-e-cuidados-pessoais",
+    "nome": "Beleza e Cuidados Pessoais",
+    "descricao": "Secadores, barbeadores, skincare, perfumes e maquiagem: analisamos resultados, durabilidade e custo por uso.",
+    "seoTitle": "Reviews e Melhores Produtos de Beleza e Cuidados Pessoais",
+    "seoDescription": "Melhores secadores, chapinhas, barbeadores, produtos de skincare e perfumes vendidos no Brasil. Reviews honestos e comparativos.",
+    "icone": "star",
+    "cor": "#C2410C",
+    "ordem": 5,
+    "subcategorias": [
+      { "slug": "cabelo", "nome": "Cabelo" },
+      { "slug": "pele-e-skincare", "nome": "Pele e skincare" },
+      { "slug": "barbear-e-depilacao", "nome": "Barbear e depilação" },
+      { "slug": "maquiagem", "nome": "Maquiagem" },
+      { "slug": "perfumes", "nome": "Perfumes" },
+      { "slug": "unhas-e-maos", "nome": "Unhas e mãos" }
+    ]
+  },
+  {
+    "id": "bebes-e-criancas",
+    "nome": "Bebês e Crianças",
+    "descricao": "Carrinhos, cadeirinhas, mamadeiras, babás eletrônicas e brinquedos educativos: segurança e praticidade em primeiro lugar.",
+    "seoTitle": "Melhores Produtos para Bebês e Crianças",
+    "seoDescription": "Reviews e comparativos dos melhores carrinhos, cadeirinhas, babás eletrônicas, mamadeiras e brinquedos vendidos no Brasil, com foco em segurança.",
+    "icone": "package",
+    "cor": "#7C3AED",
+    "ordem": 6,
+    "subcategorias": [
+      { "slug": "carrinhos-e-cadeirinhas", "nome": "Carrinhos e cadeirinhas" },
+      { "slug": "alimentacao-e-amamentacao", "nome": "Alimentação e amamentação" },
+      { "slug": "higiene-e-banho", "nome": "Higiene e banho" },
+      { "slug": "quarto-e-sono-do-bebe", "nome": "Quarto e sono do bebê" },
+      { "slug": "brinquedos", "nome": "Brinquedos" },
+      { "slug": "seguranca-e-monitoramento", "nome": "Segurança e monitoramento" }
+    ]
+  },
+  {
+    "id": "pets",
+    "nome": "Pets",
+    "descricao": "Rações, comedouros, fontes, caminhas, brinquedos e higiene para cães e gatos: o que faz diferença de verdade para o seu pet.",
+    "seoTitle": "Melhores Produtos para Cães e Gatos",
+    "seoDescription": "Reviews e comparativos dos melhores comedouros automáticos, fontes, caminhas, brinquedos, rações e produtos de higiene para pets no Brasil.",
+    "icone": "thumbs-up",
+    "cor": "#B45309",
+    "ordem": 7,
+    "subcategorias": [
+      { "slug": "alimentacao-e-comedouros", "nome": "Alimentação e comedouros" },
+      { "slug": "higiene-e-cuidados", "nome": "Higiene e cuidados" },
+      { "slug": "caminhas-e-casinhas", "nome": "Caminhas e casinhas" },
+      { "slug": "brinquedos-e-enriquecimento", "nome": "Brinquedos e enriquecimento" },
+      { "slug": "passeio-e-transporte", "nome": "Passeio e transporte" }
+    ]
+  },
+  {
+    "id": "esportes-e-lazer",
+    "nome": "Esportes e Lazer",
+    "descricao": "Equipamentos de treino, corrida, ciclismo, camping e praia: avaliamos durabilidade, conforto e resultado por real investido.",
+    "seoTitle": "Melhores Produtos de Esportes e Lazer",
+    "seoDescription": "Reviews e comparativos dos melhores equipamentos fitness, acessórios de corrida, ciclismo, camping e lazer vendidos no Brasil.",
+    "icone": "trophy",
+    "cor": "#0F766E",
+    "ordem": 8,
+    "subcategorias": [
+      { "slug": "fitness-e-musculacao", "nome": "Fitness e musculação" },
+      { "slug": "corrida-e-caminhada", "nome": "Corrida e caminhada" },
+      { "slug": "ciclismo", "nome": "Ciclismo" },
+      { "slug": "camping-e-aventura", "nome": "Camping e aventura" },
+      { "slug": "piscina-e-praia", "nome": "Piscina e praia" },
+      { "slug": "yoga-e-pilates", "nome": "Yoga e pilates" }
+    ]
+  },
+  {
+    "id": "automotivo",
+    "nome": "Automotivo",
+    "descricao": "Conforto ao dirigir, acessórios, eletrônicos, limpeza e emergência: produtos que melhoram a vida de quem passa horas no carro.",
+    "seoTitle": "Melhores Produtos e Acessórios Automotivos",
+    "seoDescription": "Reviews e comparativos de suportes de celular, encostos lombares, aspiradores, câmeras veiculares e acessórios automotivos vendidos no Brasil.",
+    "icone": "arrow-right",
+    "cor": "#334155",
+    "ordem": 9,
+    "subcategorias": [
+      { "slug": "conforto-e-postura-ao-dirigir", "nome": "Conforto e postura ao dirigir" },
+      { "slug": "eletronicos-automotivos", "nome": "Eletrônicos automotivos" },
+      { "slug": "acessorios-internos", "nome": "Acessórios internos" },
+      { "slug": "limpeza-e-estetica", "nome": "Limpeza e estética" },
+      { "slug": "ferramentas-e-emergencia", "nome": "Ferramentas e emergência" },
+      { "slug": "motos", "nome": "Motos" }
+    ]
+  },
+  {
+    "id": "escritorio-e-estudos",
+    "nome": "Escritório e Estudos",
+    "descricao": "Cadeiras, mesas, monitores, periféricos e papelaria para trabalhar e estudar com conforto e produtividade, em casa ou na empresa.",
+    "seoTitle": "Melhores Produtos para Escritório, Home Office e Estudos",
+    "seoDescription": "Reviews e comparativos das melhores cadeiras de escritório, mesas, monitores, teclados, mouses e itens de papelaria vendidos no Brasil.",
+    "icone": "list",
+    "cor": "#4338CA",
+    "ordem": 10,
+    "subcategorias": [
+      { "slug": "cadeiras-e-mesas", "nome": "Cadeiras e mesas" },
+      { "slug": "monitores", "nome": "Monitores" },
+      { "slug": "teclados-e-mouses", "nome": "Teclados e mouses" },
+      { "slug": "papelaria-e-organizacao", "nome": "Papelaria e organização" },
+      { "slug": "iluminacao-e-ergonomia", "nome": "Iluminação e ergonomia" },
+      { "slug": "impressoras-e-suprimentos", "nome": "Impressoras e suprimentos" }
+    ]
+  },
+  {
+    "id": "moda-e-acessorios",
+    "nome": "Moda e Acessórios",
+    "descricao": "Tênis, mochilas, relógios, óculos e malas: avaliamos conforto, durabilidade e acabamento dos itens mais buscados.",
+    "seoTitle": "Reviews dos Melhores Tênis, Mochilas, Malas e Acessórios",
+    "seoDescription": "Reviews e comparativos dos melhores tênis, mochilas, malas de viagem, relógios e óculos vendidos no Brasil.",
+    "icone": "tag",
+    "cor": "#BE185D",
+    "ordem": 11,
+    "subcategorias": [
+      { "slug": "tenis-e-calcados", "nome": "Tênis e calçados" },
+      { "slug": "mochilas-e-bolsas", "nome": "Mochilas e bolsas" },
+      { "slug": "malas-e-viagem", "nome": "Malas e viagem" },
+      { "slug": "relogios-e-oculos", "nome": "Relógios e óculos" }
+    ]
+  }
+]

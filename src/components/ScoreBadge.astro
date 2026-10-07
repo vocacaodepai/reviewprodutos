@@ -1,0 +1,11 @@
+---
+import { formatNota, notaLabel } from '@/lib/articles';
+interface Props { nota: number; size?: 'sm' | 'md' | 'lg'; class?: string; }
+const { nota, size = 'md', class: className = '' } = Astro.props;
+const dims = { sm: 'h-10 w-10 text-sm', md: 'h-14 w-14 text-lg', lg: 'h-20 w-20 text-2xl' }[size];
+const tone = nota >= 8 ? 'bg-check-600' : nota >= 6.5 ? 'bg-brand-600' : nota >= 5 ? 'bg-star-500 text-ink-900' : 'bg-danger-500';
+---
+<div class={`inline-flex flex-col items-center ${className}`}>
+  <div class={`flex ${dims} items-center justify-center rounded-2xl font-extrabold text-white tabular-nums ${tone}`} aria-label={`Nota ${formatNota(nota)} de 10`}>{formatNota(nota)}</div>
+  {size !== 'sm' && <span class="mt-1 text-[11px] font-semibold uppercase tracking-wide muted">{notaLabel(nota)}</span>}
+</div>

@@ -1,0 +1,59 @@
+---
+/** Tabela comparativa: produtos nas colunas, critérios/especificações nas linhas. */
+import Stars from './Stars.astro';
+import ProductImage from './ProductImage.astro';
+import { BADGES } from '@/site.config';
+import { slugify, produtoUrl, formatNota, type Produto } from '@/lib/articles';
+interface Props { produtos: Produto[]; chaves?: string[]; titulo?: string; }
+const { produtos, chaves, titulo = 'Comparativo rápido' } = Astro.props;
+const allKeys = Array.from(new Set(produtos.flatMap((p) => Object.keys(p.especificacoes))));
+const keys = (chaves && chaves.length ? chaves : allKeys).slice(0, 10);
+const criterios = Array.from(new Set(produtos.flatMap((p) => Object.keys(p.notasCriterios ?? {}))));
+---
+<section class="not-prose my-8" aria-labelledby="tabela-comparativa">
+  <h2 id="tabela-comparativa" class="mb-3 text-2xl font-bold">{titulo}</h2>
+  <div class="overflow-x-auto rounded-2xl border border-soft">
+    <table class="w-full min-w-[640px] text-sm">
+      <thead class="bg-soft">
+        <tr>
+          <th scope="col" class="w-40 px-3 py-3 text-left font-semibold muted">Produto</th>
+          {produtos.map((p) => (
+            <th scope="col" class="px-3 py-3 text-left align-top">
+              <a href={`#produto-${slugify(p.nome)}`} class="block">
+                <ProductImage src={p.imagem.src} alt={p.imagem.alt} class="mb-2 h-20 w-20 rounded-lg bg-white object-contain p-1" width={160} height={160} />
+                <span class="block font-bold leading-tight">{p.nome}</span>
+              </a>
+              {p.selo && <span class={`badge mt-1 ${BADGES[p.selo]?.color}`}>{BADGES[p.selo]?.label}</span>}
+            </th>
+          ))}
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="border-t border-soft">
+          <th scope="row" class="px-3 py-2.5 text-left font-semibold">Nossa nota</th>
+          {produtos.map((p) => <td class="px-3 py-2.5"><Stars nota={p.nota} size={14} /></td>)}
+        </tr>
+        {criterios.map((c) => (
+          <tr class="border-t border-soft">
+            <th scope="row" class="px-3 py-2.5 text-left font-medium muted">{c}</th>
+            {produtos.map((p) => { const v = p.notasCriterios?.[c]; return <td class="px-3 py-2.5 tabular-nums">{typeof v === 'number' ? <span class="font-semibold">{formatNota(v)}</span> : <span class="muted">—</span>}</td>; })}
+          </tr>
+        ))}
+        {keys.map((k) => (
+          <tr class="border-t border-soft odd:bg-soft/40">
+            <th scope="row" class="px-3 py-2.5 text-left font-medium muted">{k}</th>
+            {produtos.map((p) => <td class="px-3 py-2.5">{p.especificacoes[k] ?? <span class="muted">—</span>}</td>)}
+          </tr>
+        ))}
+        <tr class="border-t border-soft">
+          <th scope="row" class="px-3 py-2.5 text-left font-medium muted">Faixa de preço</th>
+          {produtos.map((p) => <td class="px-3 py-2.5 font-semibold">{p.faixaPreco ?? '—'}</td>)}
+        </tr>
+        <tr class="border-t border-soft bg-soft">
+          <th scope="row" class="px-3 py-3 text-left font-semibold">Onde comprar</th>
+          {produtos.map((p) => <td class="px-3 py-3"><a href={produtoUrl(p)} rel="sponsored nofollow noopener" target="_blank" class="btn-buy px-3 py-1.5 text-xs">Ver na Amazon</a></td>)}
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</section>

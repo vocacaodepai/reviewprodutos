@@ -1,0 +1,106 @@
+---
+import Logo from './Logo.astro';
+import Icon from './Icon.astro';
+import { getCategorias, categoriaUrl } from '@/lib/articles';
+import { ARTICLE_TYPES } from '@/site.config';
+
+const categorias = await getCategorias();
+const path = Astro.url.pathname;
+const nav = [
+  { href: '/melhores/', label: ARTICLE_TYPES.lista.labelPlural.replace('Listas dos ', 'Os ') , short: 'Melhores' },
+  { href: '/reviews/', label: 'Reviews', short: 'Reviews' },
+  { href: '/comparativos/', label: 'Comparativos', short: 'Comparativos' },
+  { href: '/solucoes/', label: 'Soluções', short: 'Soluções' },
+];
+const isActive = (href: string) => path === href || (href !== '/' && path.startsWith(href));
+---
+<header class="sticky top-0 z-50 border-b border-soft bg-[var(--bg)]/90 backdrop-blur supports-[backdrop-filter]:bg-[var(--bg)]/75">
+  <div class="container-site flex h-16 items-center gap-3">
+    <a href="/" class="flex shrink-0 items-center" aria-label="Review Produtos — página inicial">
+      <span class="hidden sm:block"><Logo height={38} /></span>
+      <span class="sm:hidden"><Logo variant="mark" height={36} /></span>
+    </a>
+
+    <nav class="ml-4 hidden items-center gap-1 lg:flex" aria-label="Principal">
+      <div class="group relative">
+        <button type="button" class={`chip border-transparent ${path.startsWith('/categoria/') ? 'chip-active' : ''}`} aria-haspopup="true" aria-expanded="false" id="menu-categorias-btn">
+          Categorias <Icon name="chevron-down" size={16} />
+        </button>
+        <div class="invisible absolute left-0 top-full z-50 w-[640px] translate-y-1 pt-3 opacity-0 transition group-hover:visible group-hover:translate-y-0 group-hover:opacity-100 group-focus-within:visible group-focus-within:translate-y-0 group-focus-within:opacity-100">
+          <div class="card grid grid-cols-2 gap-1 p-3">
+            {categorias.map((c) => (
+              <a href={categoriaUrl(c.id)} class="flex items-start gap-3 rounded-xl p-3 hover:bg-soft">
+                <span class="mt-0.5 inline-flex h-9 w-9 shrink-0 items-center justify-center rounded-lg text-white" style={`background:${c.data.cor}`}><Icon name={c.data.icone} size={18} /></span>
+                <span>
+                  <span class="block font-semibold">{c.data.nome}</span>
+                  <span class="block text-xs muted line-clamp-1">{c.data.subcategorias.slice(0, 3).map((s) => s.nome).join(' · ')}</span>
+                </span>
+              </a>
+            ))}
+          </div>
+        </div>
+      </div>
+      {nav.map((n) => (
+        <a href={n.href} class={`chip border-transparent ${isActive(n.href) ? 'chip-active' : ''}`} aria-current={isActive(n.href) ? 'page' : undefined}>{n.short}</a>
+      ))}
+    </nav>
+
+    <div class="ml-auto flex items-center gap-1 sm:gap-2">
+      <form action="/busca/" method="get" role="search" class="hidden md:flex items-center">
+        <label for="q-header" class="sr-only">Buscar produto ou review</label>
+        <div class="relative">
+          <input id="q-header" name="q" type="search" placeholder="Buscar produto, marca ou problema…" autocomplete="off"
+            class="w-64 rounded-xl border border-soft bg-soft py-2 pl-9 pr-3 text-sm outline-none transition focus:w-80 focus:border-brand-400 focus:bg-[var(--bg)]" />
+          <span class="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 muted"><Icon name="search" size={16} /></span>
+        </div>
+      </form>
+      <a href="/busca/" class="btn-ghost md:hidden h-10 w-10 !p-0" aria-label="Buscar"><Icon name="search" /></a>
+      <button type="button" id="theme-toggle" class="btn-ghost h-10 w-10 !p-0" aria-label="Alternar tema claro/escuro" title="Tema">
+        <span class="dark:hidden"><Icon name="moon" /></span>
+        <span class="hidden dark:inline"><Icon name="sun" /></span>
+      </button>
+      <button type="button" id="menu-toggle" class="btn-ghost h-10 w-10 !p-0 lg:hidden" aria-label="Abrir menu" aria-controls="mobile-menu" aria-expanded="false">
+        <Icon name="menu" />
+      </button>
+    </div>
+  </div>
+
+  <div id="mobile-menu" class="hidden border-t border-soft bg-[var(--bg)] lg:hidden" hidden>
+    <nav class="container-site py-4" aria-label="Menu móvel">
+      <form action="/busca/" method="get" role="search" class="mb-4 md:hidden">
+        <label for="q-mobile" class="sr-only">Buscar</label>
+        <input id="q-mobile" name="q" type="search" placeholder="Buscar produto, marca ou problema…" class="w-full rounded-xl border border-soft bg-soft px-4 py-2.5 text-sm" />
+      </form>
+      <div class="flex flex-wrap gap-2">
+        {nav.map((n) => <a href={n.href} class={`chip ${isActive(n.href) ? 'chip-active' : ''}`}>{n.short}</a>)}
+        <a href="/sobre/" class="chip">Sobre</a>
+        <a href="/metodologia/" class="chip">Como avaliamos</a>
+      </div>
+      <p class="mt-5 mb-2 text-xs font-bold uppercase tracking-wider muted">Categorias</p>
+      <div class="grid grid-cols-2 gap-1 sm:grid-cols-3">
+        {categorias.map((c) => (
+          <a href={categoriaUrl(c.id)} class="flex items-center gap-2 rounded-lg px-2 py-2 text-sm font-medium hover:bg-soft">
+            <span class="inline-flex h-7 w-7 items-center justify-center rounded-md text-white" style={`background:${c.data.cor}`}><Icon name={c.data.icone} size={14} /></span>
+            {c.data.nome}
+          </a>
+        ))}
+      </div>
+    </nav>
+  </div>
+</header>
+
+<script>
+  const toggle = document.getElementById('menu-toggle');
+  const menu = document.getElementById('mobile-menu');
+  toggle?.addEventListener('click', () => {
+    const open = menu?.classList.toggle('hidden') === false;
+    if (menu) menu.hidden = !open;
+    toggle.setAttribute('aria-expanded', String(open));
+    toggle.setAttribute('aria-label', open ? 'Fechar menu' : 'Abrir menu');
+  });
+  document.getElementById('theme-toggle')?.addEventListener('click', () => {
+    const root = document.documentElement;
+    const dark = root.classList.toggle('dark');
+    try { localStorage.setItem('rp-theme', dark ? 'dark' : 'light'); } catch {}
+  });
+</script>

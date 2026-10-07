@@ -1,0 +1,37 @@
+{
+  "name": "reviewprodutos",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "description": "reviewprodutos.com.br — reviews, comparativos e guias de compra de produtos",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build && pagefind --site dist",
+    "preview": "astro preview",
+    "astro": "astro",
+    "check": "astro check",
+    "validate:content": "node scripts/validate-content.mjs",
+    "generate:articles": "node scripts/generate-articles.mjs",
+    "images:check": "node scripts/check-images.mjs",
+    "icons": "node scripts/build-icons.mjs"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.132.0",
+    "@astrojs/rss": "^4.0.19",
+    "@astrojs/sitemap": "^3.7.4",
+    "@tailwindcss/vite": "^4.3.3",
+    "astro": "^7.3.6",
+    "gray-matter": "^4.0.3",
+    "pagefind": "^1.5.2",
+    "sharp": "^0.35.5",
+    "tailwindcss": "^4.3.3",
+    "yaml": "^2.9.1"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.10",
+    "typescript": "^6.0.3"
+  }
+}

@@ -1,0 +1,41 @@
+---
+import PageLayout from '@/layouts/PageLayout.astro';
+import { SITE } from '@/site.config';
+---
+<PageLayout title="Política de Privacidade" description="Como o Review Produtos coleta, usa e protege seus dados pessoais, em conformidade com a LGPD (Lei 13.709/2018), incluindo cookies, Google AdSense e links de afiliados." canonical="/politica-de-privacidade/" updated="7 de outubro de 2026">
+  <p>Esta Política de Privacidade descreve como o site <strong>{SITE.domain}</strong> ("Review Produtos", "nós") trata dados pessoais de visitantes, em conformidade com a Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018, "LGPD") e com o Marco Civil da Internet (Lei nº 12.965/2014).</p>
+  <h2>1. Quem é o controlador</h2>
+  <p>O controlador dos dados é o Review Produtos. Contato do encarregado pelo tratamento de dados (DPO): <a href={`mailto:${SITE.email}`}>{SITE.email}</a>.</p>
+  <h2>2. Quais dados coletamos</h2>
+  <ul>
+    <li><strong>Dados de navegação coletados automaticamente:</strong> endereço IP (anonimizado nas ferramentas de análise quando possível), tipo de dispositivo e navegador, páginas visitadas, data e hora de acesso, página de origem e identificadores de cookies.</li>
+    <li><strong>Dados fornecidos por você:</strong> nome, e-mail e conteúdo da mensagem quando você entra em contato por e-mail.</li>
+    <li><strong>Não coletamos</strong> dados de pagamento. As compras são feitas diretamente nas lojas parceiras (por exemplo, Amazon.com.br), que têm políticas de privacidade próprias.</li>
+  </ul>
+  <h2>3. Para que usamos os dados</h2>
+  <ul>
+    <li>Operar e proteger o site (segurança, prevenção a fraudes, estatísticas agregadas).</li>
+    <li>Medir audiência e entender quais conteúdos são úteis (Google Analytics, quando ativo).</li>
+    <li>Exibir anúncios por meio do Google AdSense, que pode usar cookies para anúncios personalizados ou não personalizados conforme seu consentimento.</li>
+    <li>Registrar cliques em links de afiliados para que a loja parceira atribua a comissão (o cookie é definido pela loja, não por nós).</li>
+    <li>Responder suas mensagens.</li>
+  </ul>
+  <h2>4. Bases legais</h2>
+  <p>Tratamos dados com base no <strong>legítimo interesse</strong> (segurança e estatísticas agregadas), no <strong>consentimento</strong> (cookies de publicidade e análise, que você pode aceitar ou recusar no aviso de cookies) e na <strong>execução de procedimentos a seu pedido</strong> (responder contatos).</p>
+  <h2>5. Cookies e tecnologias semelhantes</h2>
+  <p>Usamos cookies essenciais (preferência de tema, consentimento) e, mediante consentimento, cookies de análise e de publicidade. Fornecedores terceiros, incluindo o Google, usam cookies para exibir anúncios com base em visitas anteriores a este e a outros sites. O uso do cookie de publicidade DART/DoubleClick pelo Google permite que ele e seus parceiros veiculem anúncios com base na sua visita a este site e a outros sites na internet. Você pode desativar a publicidade personalizada em <a href="https://www.google.com/settings/ads" rel="nofollow noopener" target="_blank">Configurações de anúncios do Google</a> e em <a href="https://www.aboutads.info/choices/" rel="nofollow noopener" target="_blank">aboutads.info</a>. Detalhes na nossa <a href="/politica-de-cookies/">Política de Cookies</a> e em <a href="https://policies.google.com/technologies/partner-sites" rel="nofollow noopener" target="_blank">Como o Google usa informações de sites que usam seus serviços</a>.</p>
+  <h2>6. Compartilhamento</h2>
+  <p>Compartilhamos dados apenas com operadores necessários ao funcionamento do site: hospedagem e CDN, Google (Analytics e AdSense) e provedores de e-mail. Não vendemos dados pessoais. Ao clicar em um link de afiliado, você é redirecionado para a loja parceira, que passa a tratar seus dados conforme a própria política (por exemplo, a <a href="https://www.amazon.com.br/gp/help/customer/display.html?nodeId=201909010" rel="nofollow noopener" target="_blank">Política de Privacidade da Amazon</a>).</p>
+  <h2>7. Transferência internacional</h2>
+  <p>Alguns fornecedores (como o Google e serviços de hospedagem) podem processar dados fora do Brasil, com salvaguardas contratuais adequadas conforme a LGPD.</p>
+  <h2>8. Retenção</h2>
+  <p>Dados de navegação são mantidos de forma agregada ou pelo prazo definido pelos fornecedores (até 26 meses no Google Analytics). E-mails de contato são mantidos pelo tempo necessário para atendimento e obrigações legais.</p>
+  <h2>9. Seus direitos</h2>
+  <p>Você pode solicitar confirmação de tratamento, acesso, correção, anonimização, portabilidade, eliminação e informações sobre compartilhamento, além de revogar o consentimento, escrevendo para <a href={`mailto:${SITE.email}`}>{SITE.email}</a>. Respondemos em até 15 dias. Você também pode apresentar reclamação à Autoridade Nacional de Proteção de Dados (ANPD).</p>
+  <h2>10. Crianças e adolescentes</h2>
+  <p>O site não é direcionado a menores de 18 anos e não coletamos intencionalmente dados de crianças.</p>
+  <h2>11. Segurança</h2>
+  <p>Usamos HTTPS em todas as páginas e limitamos a coleta ao mínimo necessário. Nenhum sistema é totalmente seguro; em caso de incidente relevante, comunicaremos os titulares e a ANPD conforme a lei.</p>
+  <h2>12. Alterações</h2>
+  <p>Podemos atualizar esta política. A data da última atualização aparece no topo. Mudanças relevantes serão destacadas no site.</p>
+</PageLayout>

@@ -1,0 +1,9 @@
+---
+import ListingPage from '@/components/ListingPage.astro';
+import { getArtigos, paginate, PER_PAGE } from '@/lib/articles';
+import { ARTICLE_TYPES } from '@/site.config';
+const t = ARTICLE_TYPES['comparativo'];
+const all = await getArtigos((a) => a.data.tipo === 'comparativo');
+const pg = paginate(all, 1, PER_PAGE);
+---
+<ListingPage title={t.labelPlural} description={`${t.description} Todos os ${t.labelPlural.toLowerCase()} do Review Produtos, com produtos vendidos no Brasil, notas e links para comprar.`} base={`/comparativos/`} page={1} totalPages={pg.totalPages} items={pg.items} total={pg.total} crumbs={[{ name: t.labelPlural }]} />

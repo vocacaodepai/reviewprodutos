@@ -1,0 +1,49 @@
+---
+/**
+ * Rotas de categoria:
+ *  /categoria/{cat}/                      página 1
+ *  /categoria/{cat}/pagina/{n}/           paginação
+ *  /categoria/{cat}/{sub}/                subcategoria página 1
+ *  /categoria/{cat}/{sub}/pagina/{n}/     paginação da subcategoria
+ */
+import ListingPage from '@/components/ListingPage.astro';
+import CategoryChips from '@/components/CategoryChips.astro';
+import { getArtigos, getCategorias, paginate, categoriaUrl, PER_PAGE } from '@/lib/articles';
+
+export async function getStaticPaths() {
+  const cats = await getCategorias();
+  const all = await getArtigos();
+  const paths: { params: { path: string }; props: Record<string, unknown> }[] = [];
+  for (const cat of cats) {
+    const inCat = all.filter((a) => a.data.categoria.id === cat.id);
+    const total = Math.max(1, Math.ceil(inCat.length / PER_PAGE));
+    for (let p = 1; p <= total; p++) paths.push({ params: { path: p === 1 ? cat.id : `${cat.id}/pagina/${p}` }, props: { catId: cat.id, sub: null, page: p } });
+    for (const sub of cat.data.subcategorias) {
+      const inSub = inCat.filter((a) => a.data.subcategoria === sub.slug);
+      const totalSub = Math.max(1, Math.ceil(inSub.length / PER_PAGE));
+      for (let p = 1; p <= totalSub; p++) paths.push({ params: { path: p === 1 ? `${cat.id}/${sub.slug}` : `${cat.id}/${sub.slug}/pagina/${p}` }, props: { catId: cat.id, sub: sub.slug, page: p } });
+    }
+  }
+  return paths;
+}
+
+const { catId, sub, page } = Astro.props as { catId: string; sub: string | null; page: number };
+const cats = await getCategorias();
+const cat = cats.find((c) => c.id === catId)!;
+const subObj = sub ? cat.data.subcategorias.find((s) => s.slug === sub) : undefined;
+const all = await getArtigos((a) => a.data.categoria.id === catId && (!sub || a.data.subcategoria === sub));
+const pg = paginate(all, page, PER_PAGE);
+const counts: Record<string, number> = {};
+for (const a of await getArtigos((a) => a.data.categoria.id === catId)) counts[a.data.subcategoria] = (counts[a.data.subcategoria] ?? 0) + 1;
+const base = categoriaUrl(catId, sub ?? undefined);
+const title = subObj ? `${subObj.nome}: reviews e melhores produtos` : (cat.data.seoTitle ?? cat.data.nome);
+const description = subObj
+  ? `Reviews, comparativos e listas dos melhores produtos de ${subObj.nome.toLowerCase()} (${cat.data.nome}) vendidos no Brasil, com notas, prós e contras e links para comprar.`
+  : (cat.data.seoDescription ?? cat.data.descricao);
+const crumbs = subObj ? [{ name: cat.data.nome, url: categoriaUrl(catId) }, { name: subObj.nome }] : [{ name: cat.data.nome }];
+// Subcategorias vazias ficam noindex até terem conteúdo (evita páginas finas no índice)
+const noindex = all.length === 0;
+---
+<ListingPage title={subObj ? subObj.nome : cat.data.nome} seoTitle={title} description={description} intro={subObj ? description : cat.data.descricao} base={base} page={pg.current} totalPages={pg.totalPages} items={pg.items} total={pg.total} crumbs={crumbs} noindex={noindex}>
+  <div slot="filters" class="mt-6"><CategoryChips categoria={cat} subAtual={sub ?? undefined} counts={counts} /></div>
+</ListingPage>

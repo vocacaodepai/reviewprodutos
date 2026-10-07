@@ -1,0 +1,161 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumbs from '@/components/Breadcrumbs.astro';
+import VerdictBox from '@/components/VerdictBox.astro';
+import ProductCard from '@/components/ProductCard.astro';
+import ComparisonTable from '@/components/ComparisonTable.astro';
+import FAQ from '@/components/FAQ.astro';
+import TOC from '@/components/TOC.astro';
+import AuthorBox from '@/components/AuthorBox.astro';
+import Disclosure from '@/components/Disclosure.astro';
+import Share from '@/components/Share.astro';
+import RelatedArticles from '@/components/RelatedArticles.astro';
+import AdSlot from '@/components/AdSlot.astro';
+import Icon from '@/components/Icon.astro';
+import ProductImage from '@/components/ProductImage.astro';
+import { render } from 'astro:content';
+import { ARTICLE_TYPES, FUNNEL_LABELS, SITE } from '@/site.config';
+import { getArtigos, getAutor, getCategoria, articleUrl, categoriaUrl, formatDate, readingTime, relatedArticles, absoluteUrl, type Artigo } from '@/lib/articles';
+import { articleSchema, graph } from '@/lib/schema';
+
+interface Props { artigo: Artigo; }
+const { artigo } = Astro.props;
+const d = artigo.data;
+const { Content, headings } = await render(artigo);
+const autor = await getAutor(d.autor.id);
+const categoria = await getCategoria(d.categoria.id);
+const sub = categoria.data.subcategorias.find((s) => s.slug === d.subcategoria);
+const all = await getArtigos();
+const relacionados = relatedArticles(artigo, all, 4);
+const url = articleUrl(artigo);
+const absUrl = absoluteUrl(url);
+const extraWords = d.produtos.reduce((n, p) => n + p.resumo.split(/\s+/).length + p.pros.join(' ').split(/\s+/).length + p.contras.join(' ').split(/\s+/).length, 0) + d.veredito.split(/\s+/).length + d.faq.reduce((n, f) => n + f.resposta.split(/\s+/).length, 0);
+const bodyWords = (artigo.body ?? '').split(/\s+/).filter(Boolean).length;
+const minutos = readingTime(artigo.body, extraWords);
+const tipo = ARTICLE_TYPES[d.tipo];
+const isLista = d.tipo === 'lista';
+const isComparativo = d.tipo === 'comparativo';
+const produtosOrdenados = isLista ? [...d.produtos].sort((a, b) => b.nota - a.nota) : d.produtos;
+const jsonLd = graph(articleSchema(artigo, autor, categoria, bodyWords + extraWords));
+const tocExtras = [
+  ...(d.produtos.length > 1 ? [{ slug: 'tabela-comparativa', text: 'Comparativo rápido' }] : []),
+  { slug: 'produtos', text: isLista ? 'Ranking completo' : isComparativo ? 'Os dois produtos em detalhe' : 'Análise detalhada' },
+  { slug: 'faq', text: 'Perguntas frequentes' },
+];
+---
+<BaseLayout
+  title={d.seoTitle ?? d.title}
+  description={d.description}
+  canonical={url}
+  ogImage={d.imagem.src}
+  ogType="article"
+  publishedTime={d.pubDate}
+  modifiedTime={d.updatedDate ?? d.pubDate}
+  authorName={autor.data.nome}
+  section={categoria.data.nome}
+  tags={[...d.tags, ...d.funil.palavrasChave]}
+  jsonLd={jsonLd}
+>
+  <article class="container-site py-6 sm:py-8" data-pagefind-body data-pagefind-filter={`Categoria:${categoria.data.nome}`} data-pagefind-meta={`image:${d.imagem.src}, image_alt:${d.imagem.alt}`}>
+    <Breadcrumbs items={[{ name: categoria.data.nome, url: categoriaUrl(categoria.id) }, ...(sub ? [{ name: sub.nome, url: categoriaUrl(categoria.id, sub.slug) }] : []), { name: d.title }]} />
+    <span class="hidden" data-pagefind-filter="Tipo">{tipo.label}</span>
+    {sub && <span class="hidden" data-pagefind-filter="Subcategoria">{sub.nome}</span>}
+    <span class="hidden" data-pagefind-sort="data">{(d.updatedDate ?? d.pubDate).toISOString()}</span>
+
+    <header class="mt-5 max-w-4xl">
+      <div class="flex flex-wrap items-center gap-2 text-xs font-bold uppercase tracking-wide">
+        <span class="rounded-md px-2 py-0.5 text-white" style={`background:${categoria.data.cor}`}>{categoria.data.nome}</span>
+        <span class="text-brand-600">{tipo.label}</span>
+        {d.testadoFisicamente && <span class="badge badge-value"><Icon name="check" size={12} /> Testado por nós</span>}
+      </div>
+      <h1 class="mt-3 text-3xl font-extrabold leading-tight sm:text-4xl lg:text-[2.75rem]">{d.title}</h1>
+      <p class="mt-4 text-lg leading-relaxed muted">{d.description}</p>
+      <div class="mt-5 flex flex-wrap items-center gap-x-5 gap-y-2 text-sm muted">
+        <span class="inline-flex items-center gap-2">
+          <img src={autor.data.avatar} alt="" width="28" height="28" class="h-7 w-7 rounded-full bg-soft" loading="lazy" decoding="async" />
+          Por <a href={`/autores/${autor.id}/`} class="font-semibold text-[var(--fg)] hover:underline">{autor.data.nome}</a>
+        </span>
+        <span class="inline-flex items-center gap-1"><Icon name="calendar" size={15} /> {d.updatedDate ? `Atualizado em ${formatDate(d.updatedDate)}` : `Publicado em ${formatDate(d.pubDate)}`}</span>
+        <span class="inline-flex items-center gap-1"><Icon name="clock" size={15} /> {minutos} min de leitura</span>
+      </div>
+    </header>
+
+    <div class="mt-6"><Disclosure compact /></div>
+
+    <div class="mt-8 grid gap-10 lg:grid-cols-[minmax(0,1fr)_300px]">
+      <div class="min-w-0">
+        <figure class="card overflow-hidden bg-white">
+          <ProductImage src={d.imagem.src} alt={d.imagem.alt} class="mx-auto max-h-[420px] w-full object-contain p-6" sizes="(min-width: 1024px) 800px, 100vw" loading="eager" fetchpriority="high" />
+          {d.imagem.credito && <figcaption class="border-t border-soft px-4 py-2 text-xs muted">{d.imagem.credito}</figcaption>}
+        </figure>
+
+        <div class="mt-8"><VerdictBox veredito={d.veredito} produtos={produtosOrdenados} tipo={d.tipo} /></div>
+
+        <div class="prose-article mt-10" data-pagefind-weight="2">
+          <Content />
+        </div>
+
+        <AdSlot />
+
+        {d.produtos.length > 1 && <ComparisonTable produtos={produtosOrdenados} chaves={d.tabelaComparativa} titulo={isComparativo ? 'Frente a frente' : 'Comparativo rápido'} />}
+
+        <section id="produtos" class="mt-12 scroll-mt-24" aria-labelledby="produtos-h">
+          <h2 id="produtos-h" class="mb-6 text-2xl font-bold sm:text-3xl">{isLista ? 'Ranking completo: produto por produto' : isComparativo ? 'Os dois produtos em detalhe' : 'Análise detalhada'}</h2>
+          <div class="space-y-8">
+            {produtosOrdenados.map((p, i) => <ProductCard produto={p} posicao={isLista ? i + 1 : undefined} />)}
+          </div>
+        </section>
+
+        {d.criterios && d.criterios.length > 0 && (
+          <section class="mt-12" aria-labelledby="criterios">
+            <h2 id="criterios" class="mb-4 text-2xl font-bold">Como avaliamos</h2>
+            <p class="muted">Cada produto recebe uma nota de 0 a 10 por critério; a nota final é a média ponderada pelos pesos abaixo. {d.testadoFisicamente ? 'Este artigo inclui testes práticos feitos pela nossa equipe.' : 'Esta análise é baseada em especificações oficiais, avaliações públicas de consumidores e testes de fontes especializadas, não em testes físicos da nossa equipe.'} <a href="/metodologia/" class="underline">Conheça nossa metodologia</a>.</p>
+            <ul class="mt-4 grid gap-3 sm:grid-cols-2">
+              {d.criterios.map((c) => (
+                <li class="rounded-xl border border-soft p-4">
+                  <div class="flex items-center justify-between"><span class="font-semibold">{c.nome}</span><span class="badge bg-soft border border-soft">{c.peso}%</span></div>
+                  {c.descricao && <p class="mt-1 text-sm muted">{c.descricao}</p>}
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+
+        <FAQ itens={d.faq} />
+
+        {d.fontes.length > 0 && (
+          <section class="mt-10 text-sm" aria-labelledby="fontes">
+            <h2 id="fontes" class="mb-2 text-lg font-bold">Fontes consultadas</h2>
+            <ul class="list-disc space-y-1 pl-5 muted">
+              {d.fontes.map((f) => <li><a href={f.url} rel="nofollow noopener" target="_blank" class="underline">{f.nome}</a></li>)}
+            </ul>
+          </section>
+        )}
+
+        <aside class="mt-10 rounded-xl border border-soft bg-soft p-4 text-sm muted" aria-label="Como este conteúdo foi produzido">
+          <p><strong class="text-[var(--fg)]">Como este conteúdo foi produzido:</strong> {d.testadoFisicamente ? 'inclui testes práticos da nossa equipe, além de ' : 'análise baseada em '}especificações oficiais, avaliações públicas de consumidores brasileiros e fontes especializadas, organizadas com apoio de inteligência artificial e verificadas automaticamente (produto, imagens, estrutura e links). Segue o <a href="/metodologia/" class="underline">nosso método</a> e a <a href="/politica-editorial/" class="underline">política editorial</a>; erros são corrigidos assim que identificados.</p>
+        </aside>
+        <div class="mt-6"><Disclosure /></div>
+        <div class="mt-6"><Share url={absUrl} title={d.title} /></div>
+        <div class="mt-8"><AuthorBox autor={autor} /></div>
+
+        <p class="mt-6 text-xs muted">Encontrou um erro ou tem uma sugestão? Escreva para <a href={`mailto:${SITE.email}`} class="underline">{SITE.email}</a>. Veja nossa <a href="/politica-editorial/" class="underline">política de correções</a>.</p>
+      </div>
+
+      <aside class="hidden lg:block">
+        <div class="sticky top-24 space-y-6">
+          <TOC headings={headings} extras={tocExtras} />
+          <div class="card p-5 text-sm">
+            <p class="text-xs font-bold uppercase tracking-wider muted">Para quem é este guia</p>
+            <p class="mt-2">{FUNNEL_LABELS[d.funil.estagio]}</p>
+            {d.funil.problema && <p class="mt-2 muted">Resolve: <span class="font-medium text-[var(--fg)]">{d.funil.problema}</span></p>}
+            <p class="mt-3 flex flex-wrap gap-1">{d.tags.slice(0, 6).map((t) => <a href={`/busca/?q=${encodeURIComponent(t)}`} class="chip text-xs">{t}</a>)}</p>
+          </div>
+          <AdSlot format="rectangle" />
+        </div>
+      </aside>
+    </div>
+
+    <RelatedArticles artigos={relacionados} />
+  </article>
+</BaseLayout>

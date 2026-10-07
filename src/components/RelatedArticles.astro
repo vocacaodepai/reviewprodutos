@@ -1,0 +1,14 @@
+---
+import ArticleCard from './ArticleCard.astro';
+import type { Artigo } from '@/lib/articles';
+interface Props { artigos: Artigo[]; titulo?: string; }
+const { artigos, titulo = 'Leia também' } = Astro.props;
+---
+{artigos.length > 0 && (
+  <section class="mt-12" aria-labelledby="relacionados">
+    <h2 id="relacionados" class="mb-4 text-2xl font-bold">{titulo}</h2>
+    <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+      {artigos.map((a) => <ArticleCard artigo={a} />)}
+    </div>
+  </section>
+)}

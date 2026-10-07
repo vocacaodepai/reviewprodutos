@@ -1,0 +1,14 @@
+---
+import { autorUrl, type Autor } from '@/lib/articles';
+interface Props { autor: Autor; compact?: boolean; }
+const { autor, compact = false } = Astro.props;
+---
+<aside class={`card flex gap-4 ${compact ? 'p-4' : 'p-5 sm:p-6'}`} aria-label="Sobre o autor">
+  <img src={autor.data.avatar} alt={`Foto de ${autor.data.nome}`} width="64" height="64" class="h-16 w-16 shrink-0 rounded-full bg-soft object-cover" loading="lazy" decoding="async" />
+  <div class="min-w-0">
+    <p class="text-xs font-bold uppercase tracking-wider muted">Escrito por</p>
+    <p class="text-lg font-bold leading-tight"><a href={autorUrl(autor.id)} class="hover:underline">{autor.data.nome}</a></p>
+    <p class="text-sm muted">{autor.data.cargo}</p>
+    <p class="mt-2 text-sm leading-relaxed">{compact ? autor.data.bioCurta : autor.data.bio}</p>
+  </div>
+</aside>

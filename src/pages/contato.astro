@@ -1,0 +1,26 @@
+---
+import PageLayout from '@/layouts/PageLayout.astro';
+import { SITE } from '@/site.config';
+---
+<PageLayout title="Contato" description="Fale com a equipe do Review Produtos: sugestões de produtos, correções, parcerias e imprensa." canonical="/contato/">
+  <p>A forma mais rápida de falar com a gente é por e-mail:</p>
+  <p class="not-prose"><a href={`mailto:${SITE.email}`} class="btn-primary text-lg">{SITE.email}</a></p>
+  <h2>Sobre o que você pode escrever</h2>
+  <ul>
+    <li><strong>Sugerir um produto ou tema</strong> para review, comparativo ou lista.</li>
+    <li><strong>Apontar um erro</strong> em um artigo: corrigimos e registramos a correção conforme nossa <a href="/politica-editorial/">política editorial</a>.</li>
+    <li><strong>Parcerias e imprensa.</strong> Atenção: não vendemos avaliações, posições em rankings nem notas.</li>
+    <li><strong>Privacidade (LGPD):</strong> pedidos de acesso, correção ou exclusão de dados pessoais. Veja a <a href="/politica-de-privacidade/">política de privacidade</a>.</li>
+  </ul>
+  <p>Respondemos em até 5 dias úteis.</p>
+  <div class="not-prose mt-8 card p-5">
+    <h2 class="text-lg font-bold">Enviar mensagem</h2>
+    <form action={`mailto:${SITE.email}`} method="post" enctype="text/plain" class="mt-4 grid gap-3">
+      <label class="grid gap-1 text-sm font-medium">Seu nome<input name="nome" required class="rounded-xl border border-soft bg-card px-3 py-2.5" /></label>
+      <label class="grid gap-1 text-sm font-medium">Seu e-mail<input name="email" type="email" required class="rounded-xl border border-soft bg-card px-3 py-2.5" /></label>
+      <label class="grid gap-1 text-sm font-medium">Mensagem<textarea name="mensagem" rows="5" required class="rounded-xl border border-soft bg-card px-3 py-2.5"></textarea></label>
+      <button type="submit" class="btn-primary justify-self-start">Abrir no seu e-mail</button>
+      <p class="text-xs muted">O formulário abre seu aplicativo de e-mail com a mensagem preenchida. Não armazenamos os dados neste site.</p>
+    </form>
+  </div>
+</PageLayout>

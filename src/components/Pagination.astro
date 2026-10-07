@@ -1,0 +1,19 @@
+---
+import Icon from './Icon.astro';
+interface Props { current: number; totalPages: number; base: string; }
+const { current, totalPages, base } = Astro.props;
+const pageUrl = (p: number) => (p === 1 ? base : `${base}pagina/${p}/`);
+const pages = Array.from({ length: totalPages }, (_, i) => i + 1).filter((p) => p === 1 || p === totalPages || Math.abs(p - current) <= 1);
+---
+{totalPages > 1 && (
+  <nav class="mt-10 flex items-center justify-center gap-1" aria-label="Paginação">
+    {current > 1 && <a href={pageUrl(current - 1)} class="btn-ghost h-10 w-10 !p-0" aria-label="Página anterior" rel="prev"><Icon name="chevron-right" class="rotate-180" /></a>}
+    {pages.map((p, i) => (
+      <Fragment>
+        {i > 0 && pages[i - 1] !== p - 1 && <span class="px-1 muted">…</span>}
+        <a href={pageUrl(p)} class={`btn-ghost h-10 min-w-10 px-3 ${p === current ? 'chip-active !border-brand-700' : ''}`} aria-current={p === current ? 'page' : undefined}>{p}</a>
+      </Fragment>
+    ))}
+    {current < totalPages && <a href={pageUrl(current + 1)} class="btn-ghost h-10 w-10 !p-0" aria-label="Próxima página" rel="next"><Icon name="chevron-right" /></a>}
+  </nav>
+)}
