@@ -7,26 +7,29 @@ interface Props { variant?: 'full' | 'mark'; class?: string; height?: number; }
 const { variant = 'full', class: className = '', height = 40 } = Astro.props;
 const markWidth = height;
 const fullWidth = Math.round(height * 5.6);
+// id único por instância: o header tem duas logos (desktop e celular) e uma delas fica escondida;
+// gradiente com id repetido faria a versão visível herdar o gradiente da escondida e sumir.
+const gid = `rp-g-${Math.random().toString(36).slice(2, 8)}`;
 ---
 {variant === 'mark' ? (
   <svg class={className} width={markWidth} height={height} viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Review Produtos">
     <defs>
-      <linearGradient id="rp-g" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <linearGradient id={gid} x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
         <stop stop-color="#1F6F9F"></stop><stop offset="1" stop-color="#0B3C5D"></stop>
       </linearGradient>
     </defs>
-    <path d="M32 2.5c2.2 0 4.2 1.2 5.3 3.1l2.3 3.9 4.4-1.1c2.1-.5 4.4.1 5.9 1.7 1.6 1.6 2.2 3.8 1.7 5.9l-1.1 4.4 3.9 2.3c1.9 1.1 3.1 3.1 3.1 5.3s-1.2 4.2-3.1 5.3l-3.9 2.3 1.1 4.4c.5 2.1-.1 4.4-1.7 5.9-1.6 1.6-3.8 2.2-5.9 1.7l-4.4-1.1-2.3 3.9c-1.1 1.9-3.1 3.1-5.3 3.1s-4.2-1.2-5.3-3.1l-2.3-3.9-4.4 1.1c-2.1.5-4.4-.1-5.9-1.7-1.6-1.6-2.2-3.8-1.7-5.9l1.1-4.4-3.9-2.3C3.7 36.2 2.5 34.2 2.5 32s1.2-4.2 3.1-5.3l3.9-2.3-1.1-4.4c-.5-2.1.1-4.4 1.7-5.9 1.6-1.6 3.8-2.2 5.9-1.7l4.4 1.1 2.3-3.9C27.8 3.7 29.8 2.5 32 2.5Z" fill="url(#rp-g)"></path>
+    <path d="M32 2.5c2.2 0 4.2 1.2 5.3 3.1l2.3 3.9 4.4-1.1c2.1-.5 4.4.1 5.9 1.7 1.6 1.6 2.2 3.8 1.7 5.9l-1.1 4.4 3.9 2.3c1.9 1.1 3.1 3.1 3.1 5.3s-1.2 4.2-3.1 5.3l-3.9 2.3 1.1 4.4c.5 2.1-.1 4.4-1.7 5.9-1.6 1.6-3.8 2.2-5.9 1.7l-4.4-1.1-2.3 3.9c-1.1 1.9-3.1 3.1-5.3 3.1s-4.2-1.2-5.3-3.1l-2.3-3.9-4.4 1.1c-2.1.5-4.4-.1-5.9-1.7-1.6-1.6-2.2-3.8-1.7-5.9l1.1-4.4-3.9-2.3C3.7 36.2 2.5 34.2 2.5 32s1.2-4.2 3.1-5.3l3.9-2.3-1.1-4.4c-.5-2.1.1-4.4 1.7-5.9 1.6-1.6 3.8-2.2 5.9-1.7l4.4 1.1 2.3-3.9C27.8 3.7 29.8 2.5 32 2.5Z" fill={`url(#${gid})`}></path>
     <path d="M20.5 33.2l7.3 7.3L44 24.3" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"></path>
     <path d="M47.5 8.5l1.6 3.3 3.6.5-2.6 2.5.6 3.6-3.2-1.7-3.2 1.7.6-3.6-2.6-2.5 3.6-.5z" fill="#FBBF24"></path>
   </svg>
 ) : (
   <svg class={className} width={fullWidth} height={height} viewBox="0 0 358 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Review Produtos">
     <defs>
-      <linearGradient id="rp-g2" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <linearGradient id={gid} x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
         <stop stop-color="#1F6F9F"></stop><stop offset="1" stop-color="#0B3C5D"></stop>
       </linearGradient>
     </defs>
-    <path d="M32 2.5c2.2 0 4.2 1.2 5.3 3.1l2.3 3.9 4.4-1.1c2.1-.5 4.4.1 5.9 1.7 1.6 1.6 2.2 3.8 1.7 5.9l-1.1 4.4 3.9 2.3c1.9 1.1 3.1 3.1 3.1 5.3s-1.2 4.2-3.1 5.3l-3.9 2.3 1.1 4.4c.5 2.1-.1 4.4-1.7 5.9-1.6 1.6-3.8 2.2-5.9 1.7l-4.4-1.1-2.3 3.9c-1.1 1.9-3.1 3.1-5.3 3.1s-4.2-1.2-5.3-3.1l-2.3-3.9-4.4 1.1c-2.1.5-4.4-.1-5.9-1.7-1.6-1.6-2.2-3.8-1.7-5.9l1.1-4.4-3.9-2.3C3.7 36.2 2.5 34.2 2.5 32s1.2-4.2 3.1-5.3l3.9-2.3-1.1-4.4c-.5-2.1.1-4.4 1.7-5.9 1.6-1.6 3.8-2.2 5.9-1.7l4.4 1.1 2.3-3.9C27.8 3.7 29.8 2.5 32 2.5Z" fill="url(#rp-g2)"></path>
+    <path d="M32 2.5c2.2 0 4.2 1.2 5.3 3.1l2.3 3.9 4.4-1.1c2.1-.5 4.4.1 5.9 1.7 1.6 1.6 2.2 3.8 1.7 5.9l-1.1 4.4 3.9 2.3c1.9 1.1 3.1 3.1 3.1 5.3s-1.2 4.2-3.1 5.3l-3.9 2.3 1.1 4.4c.5 2.1-.1 4.4-1.7 5.9-1.6 1.6-3.8 2.2-5.9 1.7l-4.4-1.1-2.3 3.9c-1.1 1.9-3.1 3.1-5.3 3.1s-4.2-1.2-5.3-3.1l-2.3-3.9-4.4 1.1c-2.1.5-4.4-.1-5.9-1.7-1.6-1.6-2.2-3.8-1.7-5.9l1.1-4.4-3.9-2.3C3.7 36.2 2.5 34.2 2.5 32s1.2-4.2 3.1-5.3l3.9-2.3-1.1-4.4c-.5-2.1.1-4.4 1.7-5.9 1.6-1.6 3.8-2.2 5.9-1.7l4.4 1.1 2.3-3.9C27.8 3.7 29.8 2.5 32 2.5Z" fill={`url(#${gid})`}></path>
     <path d="M20.5 33.2l7.3 7.3L44 24.3" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"></path>
     <path d="M47.5 8.5l1.6 3.3 3.6.5-2.6 2.5.6 3.6-3.2-1.7-3.2 1.7.6-3.6-2.6-2.5 3.6-.5z" fill="#FBBF24"></path>
     <text x="78" y="39" font-family="Sora, Inter, system-ui, sans-serif" font-weight="800" font-size="30" letter-spacing="-0.6" fill="currentColor">Review</text>
