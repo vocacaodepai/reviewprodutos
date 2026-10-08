@@ -1,0 +1,42 @@
+---
+/**
+ * Caixa de compra compacta (imagem, nome, nota, selo e botão de afiliado).
+ * Usada várias vezes ao longo do artigo: topo, meio do texto, fim do texto, barra lateral e rodapé móvel.
+ */
+import Icon from './Icon.astro';
+import ProductImage from './ProductImage.astro';
+import { BADGES } from '@/site.config';
+import { produtoUrl, formatNota, type Produto } from '@/lib/articles';
+interface Props { produto: Produto; titulo?: string; variant?: 'inline' | 'sidebar'; class?: string; }
+const { produto: p, titulo, variant = 'inline', class: className = '' } = Astro.props;
+const selo = p.selo ? BADGES[p.selo] : null;
+const url = produtoUrl(p);
+---
+{variant === 'sidebar' ? (
+  <div class={`card p-4 text-sm ${className}`}>
+    <p class="text-xs font-bold uppercase tracking-wider muted">{titulo ?? 'Nossa escolha'}</p>
+    <a href={url} rel="sponsored nofollow noopener" target="_blank" class="mt-3 block rounded-xl bg-white p-2" data-asin={p.asin} data-track="affiliate-click" aria-label={`Ver ${p.nome} na Amazon`}>
+      <ProductImage src={p.imagem.src} alt={p.imagem.alt} width={p.imagem.largura} height={p.imagem.altura} class="mx-auto h-36 w-full object-contain" />
+    </a>
+    {selo && <span class={`badge mt-3 ${selo.color}`}>{selo.label}</span>}
+    <p class="mt-2 font-semibold leading-snug">{p.nome}</p>
+    <p class="mt-1 text-xs muted">Nota {formatNota(p.nota)}/10</p>
+    <a href={url} rel="sponsored nofollow noopener" target="_blank" class="btn-buy mt-3 w-full text-sm" data-asin={p.asin} data-track="affiliate-click"><Icon name="cart" size={16} /> Ver preço na Amazon</a>
+    <p class="mt-1 text-center text-[10px] uppercase tracking-wide muted">Link de afiliado</p>
+  </div>
+) : (
+  <aside class={`not-prose my-8 flex flex-col gap-4 rounded-2xl border-2 border-star-400/60 bg-star-400/5 p-4 sm:flex-row sm:items-center ${className}`} aria-label={`Onde comprar: ${p.nome}`}>
+    <a href={url} rel="sponsored nofollow noopener" target="_blank" class="shrink-0 rounded-xl bg-white p-2 sm:w-28" data-asin={p.asin} data-track="affiliate-click" tabindex="-1" aria-hidden="true">
+      <ProductImage src={p.imagem.src} alt={p.imagem.alt} width={p.imagem.largura} height={p.imagem.altura} class="mx-auto h-24 w-full object-contain" />
+    </a>
+    <div class="min-w-0 flex-1">
+      <p class="text-xs font-bold uppercase tracking-wider text-star-600">{titulo ?? (selo ? selo.label : 'Recomendado')}</p>
+      <p class="mt-1 font-bold leading-snug">{p.nome}</p>
+      <p class="mt-1 text-sm muted line-clamp-2">{p.resumo}</p>
+    </div>
+    <div class="flex shrink-0 flex-col items-stretch gap-1 sm:items-end">
+      <a href={url} rel="sponsored nofollow noopener" target="_blank" class="btn-buy px-5" data-asin={p.asin} data-track="affiliate-click"><Icon name="cart" size={18} /> Ver preço na Amazon</a>
+      <span class="text-center text-[10px] uppercase tracking-wide muted sm:text-right">Link de afiliado · Nota {formatNota(p.nota)}</span>
+    </div>
+  </aside>
+)}

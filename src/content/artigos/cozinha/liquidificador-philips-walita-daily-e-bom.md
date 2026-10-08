@@ -7,7 +7,7 @@ categoria: cozinha
 subcategoria: liquidificadores-e-processadores
 tags: ["liquidificador", "philips walita", "daily", "cozinha prática", "custo-benefício"]
 pubDate: 2026-10-07
-autor: equipe
+autor: bruno-danello
 imagem:
   src: "https://m.media-amazon.com/images/I/61bTk01CtCS._AC_SL1500_.jpg"
   fonte: amazon

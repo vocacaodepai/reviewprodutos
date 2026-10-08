@@ -8,7 +8,7 @@ export const SITE = {
   tagline: 'Reviews honestos, comparativos e guias de compra',
   description:
     'Reviews honestos, comparativos e listas dos melhores produtos vendidos no Brasil. Analisamos especificações, avaliações reais de consumidores e testes para você comprar sem erro.',
-  url: 'https://reviewprodutos.com.br',
+  url: 'https://www.reviewprodutos.com.br',
   domain: 'reviewprodutos.com.br',
   locale: 'pt-BR',
   language: 'pt',

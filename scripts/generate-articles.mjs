@@ -207,7 +207,7 @@ async function processTopic(t, index) {
   if (removidos.length) throw new Error(`Sem imagem/ASIN inválido para: ${removidos.join(', ')}`);
   const hero = data.produtos.find((p) => p.selo === 'escolha-do-editor') ?? data.produtos[0];
   data.imagem = { ...hero.imagem, alt: data.imagem?.alt ?? hero.imagem.alt };
-  data.pubDate = today; data.autor = data.autor ?? 'equipe'; data.testadoFisicamente = false; data.rascunho = false;
+  data.pubDate = today; data.autor = 'bruno-danello'; data.testadoFisicamente = false; data.rascunho = false;
 
   // Dedup e slug
   const idx = existingIndex();

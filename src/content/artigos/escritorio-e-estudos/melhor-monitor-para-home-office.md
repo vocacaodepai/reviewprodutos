@@ -7,7 +7,7 @@ categoria: escritorio-e-estudos
 subcategoria: monitores
 tags: ["monitor", "home office", "ergonomia", "monitor ips", "ajuste de altura", "olhos cansados"]
 pubDate: 2026-10-08
-autor: equipe
+autor: bruno-danello
 imagem:
   src: "https://m.media-amazon.com/images/I/51rdT+HJnWL._AC_SL1500_.jpg"
   fonte: amazon

@@ -7,7 +7,7 @@ categoria: beleza-e-cuidados-pessoais
 subcategoria: barbear-e-depilacao
 tags: ["philips oneblade", "barbeador elétrico", "barba", "pele sensível", "philips"]
 pubDate: 2026-10-07
-autor: equipe
+autor: bruno-danello
 imagem:
   src: "https://m.media-amazon.com/images/I/71QS7WTTChL._AC_SL1500_.jpg"
   fonte: amazon

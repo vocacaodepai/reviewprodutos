@@ -7,7 +7,7 @@ categoria: tecnologia
 subcategoria: fones-de-ouvido
 tags: ["fone bluetooth", "fone sem fio", "TWS", "custo-benefício", "áudio"]
 pubDate: 2026-10-07
-autor: equipe
+autor: bruno-danello
 imagem:
   src: "https://m.media-amazon.com/images/I/414+kOLlS5L._AC_SL1500_.jpg"
   fonte: amazon

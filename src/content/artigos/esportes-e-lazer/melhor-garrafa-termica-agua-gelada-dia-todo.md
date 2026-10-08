@@ -7,7 +7,7 @@ categoria: esportes-e-lazer
 subcategoria: camping-e-aventura
 tags: ["garrafa térmica", "stanley", "coleman", "hydro flask", "pacco", "academia", "hidratação"]
 pubDate: 2026-10-08
-autor: equipe
+autor: bruno-danello
 imagem:
   src: "https://m.media-amazon.com/images/I/41Jy0oRvNRL._AC_SL1500_.jpg"
   fonte: amazon

@@ -7,7 +7,7 @@ categoria: casa-e-jardim
 subcategoria: festas-e-eventos
 tags: ["festa na praia", "dia de praia", "caixa de som", "cooler", "power bank", "guarda-sol", "cadeira de praia"]
 pubDate: 2026-10-08
-autor: equipe
+autor: bruno-danello
 imagem:
   src: "https://m.media-amazon.com/images/I/61vRa9ft7nL._AC_SL1500_.jpg"
   fonte: amazon

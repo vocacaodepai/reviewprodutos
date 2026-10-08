@@ -7,7 +7,7 @@ categoria: bebes-e-criancas
 subcategoria: seguranca-e-monitoramento
 tags: ["babá eletrônica", "monitor de bebê", "segurança do bebê", "sono do bebê", "motorola", "philips avent"]
 pubDate: 2026-10-07
-autor: equipe
+autor: bruno-danello
 imagem:
   src: "https://m.media-amazon.com/images/I/518kOOE6SqL._AC_SL1500_.jpg"
   fonte: amazon

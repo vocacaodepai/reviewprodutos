@@ -1,12 +1,34 @@
 [
   {
+    "id": "bruno-danello",
+    "nome": "Bruno Danello",
+    "cargo": "Fundador e editor-chefe",
+    "bio": "Bruno Danello é o fundador e editor-chefe do Review Produtos. Ele criou o site para responder, com clareza e sem enrolação, a pergunta que todo mundo faz antes de comprar: isso vale a pena para mim? Bruno define a metodologia de avaliação, revisa os guias e responde pelo que é publicado aqui. Fabricantes não pagam por avaliações, e as comissões de afiliado não mudam as notas.",
+    "bioCurta": "Fundador e editor-chefe do Review Produtos. Define a metodologia de avaliação e revisa os guias publicados.",
+    "avatar": "/autores/bruno-danello.jpg",
+    "especialidades": [
+      "Guias de compra",
+      "Comparativos",
+      "Casa e cozinha",
+      "Tecnologia"
+    ],
+    "links": {
+      "site": "https://www.reviewprodutos.com.br/sobre/"
+    }
+  },
+  {
     "id": "equipe",
     "nome": "Equipe Review Produtos",
     "cargo": "Redação e análise de produtos",
-    "bio": "A Equipe Review Produtos é formada por redatores e analistas que pesquisam especificações técnicas, cruzam milhares de avaliações reais de consumidores brasileiros e, sempre que possível, testam os produtos no dia a dia. Nosso compromisso é simples: dizer com clareza o que vale a pena comprar, para quem e por quê. Não aceitamos pagamento de fabricantes por avaliações e as notas não são influenciadas por comissões de afiliados.",
-    "bioCurta": "Analistas e redatores que pesquisam especificações, avaliações reais e testes para indicar o que vale a pena comprar.",
+    "bio": "A Equipe Review Produtos pesquisa especificações técnicas, relatos públicos de consumidores brasileiros e fontes especializadas para indicar o que vale a pena comprar, para quem e por quê. Os guias seguem a metodologia definida pelo editor-chefe, Bruno Danello.",
+    "bioCurta": "Analistas e redatores que pesquisam especificações e relatos reais para indicar o que vale a pena comprar.",
     "avatar": "/icons/avatar-equipe.png",
-    "especialidades": ["Guias de compra", "Comparativos", "Tecnologia", "Casa"],
-    "links": { "site": "https://reviewprodutos.com.br/sobre/" }
+    "especialidades": [
+      "Guias de compra",
+      "Comparativos"
+    ],
+    "links": {
+      "site": "https://www.reviewprodutos.com.br/sobre/"
+    }
   }
 ]

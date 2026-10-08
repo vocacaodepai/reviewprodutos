@@ -7,7 +7,7 @@ categoria: esportes-e-lazer
 subcategoria: fitness-e-musculacao
 tags: ["halteres ajustáveis", "kit de anilhas", "treino em casa", "musculação", "home gym"]
 pubDate: 2026-10-08
-autor: equipe
+autor: bruno-danello
 imagem:
   src: "https://m.media-amazon.com/images/I/61vUR+CVlLL._AC_SL1500_.jpg"
   fonte: amazon

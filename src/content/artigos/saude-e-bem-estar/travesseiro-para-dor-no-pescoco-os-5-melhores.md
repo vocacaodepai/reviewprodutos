@@ -7,7 +7,7 @@ categoria: saude-e-bem-estar
 subcategoria: sono-e-descanso
 tags: ["travesseiro cervical", "travesseiro nasa", "dor no pescoço", "sono", "viscoelástico"]
 pubDate: 2026-10-07
-autor: equipe
+autor: bruno-danello
 imagem:
   src: "https://m.media-amazon.com/images/I/719UobF4dfL._AC_SL1500_.jpg"
   fonte: amazon

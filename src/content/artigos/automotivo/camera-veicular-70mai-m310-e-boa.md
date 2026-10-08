@@ -7,7 +7,7 @@ categoria: automotivo
 subcategoria: eletronicos-automotivos
 tags: ["câmera veicular", "dash cam", "70mai", "segurança no trânsito", "eletrônicos automotivos"]
 pubDate: 2026-10-08
-autor: equipe
+autor: bruno-danello
 imagem:
   src: "https://m.media-amazon.com/images/I/71MFxs6dIaL._AC_SL1500_.jpg"
   fonte: amazon

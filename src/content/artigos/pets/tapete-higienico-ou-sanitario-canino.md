@@ -7,7 +7,7 @@ categoria: pets
 subcategoria: higiene-e-cuidados
 tags: ["tapete higiênico", "sanitário canino", "xixi de cachorro", "adestramento", "chalesco", "furacão pet", "apartamento"]
 pubDate: 2026-10-08
-autor: equipe
+autor: bruno-danello
 imagem:
   src: "https://m.media-amazon.com/images/I/61rT8uiepaL._AC_SL1500_.jpg"
   fonte: amazon

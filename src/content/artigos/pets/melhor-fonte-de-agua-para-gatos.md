@@ -7,7 +7,7 @@ categoria: pets
 subcategoria: alimentacao-e-comedouros
 tags: ["fonte de água para gatos", "bebedouro para gato", "hidratação felina", "catit", "amicus", "petlon", "furacão pet"]
 pubDate: 2026-10-08
-autor: equipe
+autor: bruno-danello
 imagem:
   src: "https://m.media-amazon.com/images/I/61BhM8Zl27L._AC_SL1500_.jpg"
   fonte: amazon

@@ -7,7 +7,7 @@ categoria: automotivo
 subcategoria: conforto-e-postura-ao-dirigir
 tags: ["dor nas costas", "postura ao dirigir", "almofada lombar", "encosto lombar", "assento ortopédico"]
 pubDate: 2026-10-07
-autor: equipe
+autor: bruno-danello
 imagem:
   src: "https://m.media-amazon.com/images/I/71x3E6CNFOL._AC_SL1500_.jpg"
   fonte: amazon

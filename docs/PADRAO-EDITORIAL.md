@@ -32,7 +32,7 @@
 
 ## 3. Os três formatos de artigo
 
-Todos os formatos compartilham o mesmo frontmatter (ver seção 11) e o mesmo "esqueleto" renderizado pelo layout: título → meta (autor, datas, tempo de leitura, nota de IA) → aviso de afiliado → imagem de destaque → **Resumo em 30 segundos** (veredito + destaques) → corpo em Markdown → tabela comparativa (2+ produtos) → cards de produto (nota, selo, prós/contras, ficha, botão) → "Como avaliamos" (critérios e pesos) → FAQ → fontes → nota de produção → autor → relacionados.
+Todos os formatos compartilham o mesmo frontmatter (ver seção 11) e o mesmo "esqueleto" renderizado pelo layout: título → meta (autor, datas, tempo de leitura, nota de IA) → aviso de afiliado → imagem de destaque → **Resumo em 30 segundos** (veredito + destaques) → corpo em Markdown → tabela comparativa (2+ produtos) → cards de produto (nota, selo, prós/contras, ficha, botão) → "Como avaliamos" (critérios e pesos) → FAQ → caixa de compra final → autor → relacionados. Caixas de compra aparecem também logo após a imagem de destaque, no meio do texto (após a seção de cada produto), após o texto, na barra lateral e numa barra fixa no celular. As fontes ficam só no frontmatter (uso interno), não são exibidas.
 
 O **corpo em Markdown** é a parte que o redator escreve. Ele não repete o que os cards já mostram (prós/contras, ficha técnica), e sim explica, contextualiza e decide.
 
