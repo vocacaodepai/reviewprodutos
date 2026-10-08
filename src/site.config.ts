@@ -8,7 +8,7 @@ export const SITE = {
   tagline: 'Reviews honestos, comparativos e guias de compra',
   description:
     'Reviews honestos, comparativos e listas dos melhores produtos vendidos no Brasil. Analisamos especificações, avaliações reais de consumidores e testes para você comprar sem erro.',
-  url: 'https://www.reviewprodutos.com.br',
+  url: 'https://reviewprodutos.com.br',
   domain: 'reviewprodutos.com.br',
   locale: 'pt-BR',
   language: 'pt',
@@ -20,7 +20,7 @@ export const SITE = {
   // AdSense (vazio = desativado)
   adsenseClient: import.meta.env.PUBLIC_ADSENSE_CLIENT || '',
   gscVerification: import.meta.env.PUBLIC_GSC_VERIFICATION || '',
-  ga4Id: import.meta.env.PUBLIC_GA4_ID || '',
+  ga4Id: import.meta.env.PUBLIC_GA4_ID || 'G-55940SV53K',
   social: {
     instagram: 'https://www.instagram.com/reviewprodutos',
     youtube: '',

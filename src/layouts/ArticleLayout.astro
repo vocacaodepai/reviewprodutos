@@ -82,7 +82,7 @@ const tocExtras = [
       <p class="mt-4 text-lg leading-relaxed muted">{d.description}</p>
       <div class="mt-5 flex flex-wrap items-center gap-x-5 gap-y-2 text-sm muted">
         <span class="inline-flex items-center gap-2">
-          <img src={autor.data.avatar} alt="" width="28" height="28" class="h-7 w-7 rounded-full bg-soft" loading="lazy" decoding="async" />
+          <img src={autor.data.avatar} alt="" width="32" height="32" class="h-8 w-8 rounded-full bg-soft object-cover ring-2 ring-brand-500" loading="lazy" decoding="async" />
           Por <a href={`/autores/${autor.id}/`} class="font-semibold text-[var(--fg)] hover:underline">{autor.data.nome}</a>
         </span>
         <span class="inline-flex items-center gap-1"><Icon name="calendar" size={15} /> {d.updatedDate ? `Atualizado em ${formatDate(d.updatedDate)}` : `Publicado em ${formatDate(d.pubDate)}`}</span>

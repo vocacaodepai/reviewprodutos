@@ -6,7 +6,7 @@ import { readdirSync, readFileSync, statSync } from 'node:fs';
 import { join } from 'node:path';
 import matter from 'gray-matter';
 
-const SITE = 'https://www.reviewprodutos.com.br';
+const SITE = 'https://reviewprodutos.com.br';
 /** @type {Record<string, string>} */
 const TIPO_SLUG = { review: 'reviews', comparativo: 'comparativos', lista: 'melhores' };
 
