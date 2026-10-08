@@ -212,7 +212,10 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "camera-veicular-70mai-m310-e-boa",
+      "published_at": "2026-10-08",
+      "observacao": "reconciliado automaticamente com artigo existente"
     },
     {
       "id": "escritorio-e-estudos-review-001",
@@ -1200,7 +1203,10 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "dor-nas-costas-no-home-office",
+      "published_at": "2026-10-08",
+      "observacao": "reconciliado automaticamente com artigo existente"
     },
     {
       "id": "beleza-e-cuidados-pessoais-lista-002",
@@ -1253,7 +1259,10 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "bebe-nao-dorme-o-que-fazer-rotina-do-sono",
+      "published_at": "2026-10-08",
+      "observacao": "reconciliado automaticamente com artigo existente"
     },
     {
       "id": "pets-lista-003",
@@ -2083,7 +2092,10 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "halteres-ajustaveis-ou-kit-de-anilhas",
+      "published_at": "2026-10-08",
+      "observacao": "reconciliado automaticamente com artigo existente"
     },
     {
       "id": "automotivo-comparativo-001",
@@ -2389,7 +2401,10 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "melhor-monitor-para-home-office",
+      "published_at": "2026-10-08",
+      "observacao": "reconciliado automaticamente com artigo existente"
     },
     {
       "id": "moda-e-acessorios-comparativo-001",
@@ -2546,7 +2561,10 @@
       ],
       "prioridade": 2,
       "sazonal": "verao",
-      "status": "pending"
+      "status": "published",
+      "published_slug": "melhor-protetor-solar-facial-pele-oleosa",
+      "published_at": "2026-10-08",
+      "observacao": "reconciliado automaticamente com artigo existente"
     },
     {
       "id": "bebes-e-criancas-lista-003",
