@@ -7,7 +7,7 @@ categoria: saude-e-bem-estar
 subcategoria: massagem-e-relaxamento
 tags: ["massageador", "shiatsu", "relaxmedic", "pescoço", "tensão muscular"]
 pubDate: 2026-10-07
-autor: equipe
+autor: bruno-danello
 imagem:
   src: "https://m.media-amazon.com/images/I/51CZPP0e94L._AC_SL1500_.jpg"
   fonte: amazon

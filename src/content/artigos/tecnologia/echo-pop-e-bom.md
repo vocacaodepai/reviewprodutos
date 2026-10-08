@@ -7,7 +7,7 @@ categoria: tecnologia
 subcategoria: casa-inteligente
 tags: ["echo pop", "alexa", "smart speaker", "casa inteligente", "amazon echo"]
 pubDate: 2026-10-07
-autor: equipe
+autor: bruno-danello
 imagem:
   src: "https://m.media-amazon.com/images/I/8120tVg3AcL._AC_SL1500_.jpg"
   fonte: amazon

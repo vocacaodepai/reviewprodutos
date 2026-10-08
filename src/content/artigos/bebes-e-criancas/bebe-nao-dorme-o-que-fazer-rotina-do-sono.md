@@ -7,7 +7,7 @@ categoria: bebes-e-criancas
 subcategoria: quarto-e-sono-do-bebe
 tags: ["sono do bebê", "rotina do sono", "ruído branco", "luminária noturna", "swaddle", "umidificador", "cortina blackout", "recém-nascido"]
 pubDate: 2026-10-08
-autor: equipe
+autor: bruno-danello
 imagem:
   src: "https://m.media-amazon.com/images/I/5170UwUHhyL._AC_SL1500_.jpg"
   fonte: amazon

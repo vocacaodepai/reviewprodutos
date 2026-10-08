@@ -7,7 +7,7 @@ categoria: cozinha
 subcategoria: air-fryer
 tags: ["air fryer", "mondial", "fritadeira sem óleo", "cozinha prática"]
 pubDate: 2026-10-07
-autor: equipe
+autor: bruno-danello
 imagem:
   src: "https://m.media-amazon.com/images/I/71b0CNvU85S._AC_SL1500_.jpg"
   fonte: amazon

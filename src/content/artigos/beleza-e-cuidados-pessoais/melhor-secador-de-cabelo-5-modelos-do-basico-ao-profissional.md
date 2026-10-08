@@ -7,7 +7,7 @@ categoria: beleza-e-cuidados-pessoais
 subcategoria: cabelo
 tags: ["secador de cabelo", "taiff", "gama italy", "philco", "mondial", "britânia", "cabelo"]
 pubDate: 2026-10-07
-autor: equipe
+autor: bruno-danello
 imagem:
   src: "https://m.media-amazon.com/images/I/51Lgv2qWQOL._AC_SL1500_.jpg"
   fonte: amazon

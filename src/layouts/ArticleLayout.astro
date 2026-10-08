@@ -2,6 +2,7 @@
 import BaseLayout from './BaseLayout.astro';
 import Breadcrumbs from '@/components/Breadcrumbs.astro';
 import VerdictBox from '@/components/VerdictBox.astro';
+import BuyBox from '@/components/BuyBox.astro';
 import ProductCard from '@/components/ProductCard.astro';
 import ComparisonTable from '@/components/ComparisonTable.astro';
 import FAQ from '@/components/FAQ.astro';
@@ -15,7 +16,7 @@ import Icon from '@/components/Icon.astro';
 import ProductImage from '@/components/ProductImage.astro';
 import { render } from 'astro:content';
 import { ARTICLE_TYPES, FUNNEL_LABELS, SITE } from '@/site.config';
-import { getArtigos, getAutor, getCategoria, articleUrl, categoriaUrl, formatDate, readingTime, relatedArticles, absoluteUrl, type Artigo } from '@/lib/articles';
+import { getArtigos, getAutor, getCategoria, articleUrl, categoriaUrl, formatDate, readingTime, relatedArticles, absoluteUrl, produtoUrl, type Artigo } from '@/lib/articles';
 import { articleSchema, graph } from '@/lib/schema';
 
 interface Props { artigo: Artigo; }
@@ -36,6 +37,15 @@ const tipo = ARTICLE_TYPES[d.tipo];
 const isLista = d.tipo === 'lista';
 const isComparativo = d.tipo === 'comparativo';
 const produtosOrdenados = isLista ? [...d.produtos].sort((a, b) => b.nota - a.nota) : d.produtos;
+const topPick = produtosOrdenados.find((p) => p.selo === 'escolha-do-editor') ?? produtosOrdenados[0];
+const valuePick = produtosOrdenados.find((p) => p.selo === 'melhor-custo-beneficio' && p.asin !== topPick.asin);
+const norm = (t: string) => t.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+const GENERIC = new Set(['air', 'fryer', 'fritadeira', 'sem', 'oleo', 'com', 'para', 'preto', 'preta', 'branco', 'branca', 'inox', 'litros', 'mala', 'bordo', 'kit', 'fone', 'bluetooth', 'monitor', 'garrafa', 'termica', 'travesseiro', 'protetor', 'solar', 'secador', 'cabelo', 'polegadas', 'versao', 'modelo', 'serie', 'unidades', 'pet', 'para', 'and', 'the']);
+const ctaKeys = (p: (typeof produtosOrdenados)[number]) => {
+  const marca = norm(p.marca ?? p.nome.split(' ')[0]);
+  const words = norm(`${p.modelo ?? ''} ${p.nome}`).split(/[^a-z0-9]+/).filter((w) => w.length >= 3 && !GENERIC.has(w) && w !== marca);
+  return { marca, words: Array.from(new Set(words)).slice(0, 8).join(' ') };
+};
 const jsonLd = graph(articleSchema(artigo, autor, categoria, bodyWords + extraWords));
 const tocExtras = [
   ...(d.produtos.length > 1 ? [{ slug: 'tabela-comparativa', text: 'Comparativo rápido' }] : []),
@@ -72,7 +82,7 @@ const tocExtras = [
       <p class="mt-4 text-lg leading-relaxed muted">{d.description}</p>
       <div class="mt-5 flex flex-wrap items-center gap-x-5 gap-y-2 text-sm muted">
         <span class="inline-flex items-center gap-2">
-          <img src={autor.data.avatar} alt="" width="28" height="28" class="h-7 w-7 rounded-full bg-soft" loading="lazy" decoding="async" />
+          <img src={autor.data.avatar} alt="" width="32" height="32" class="h-8 w-8 rounded-full bg-soft object-cover ring-2 ring-brand-500" loading="lazy" decoding="async" />
           Por <a href={`/autores/${autor.id}/`} class="font-semibold text-[var(--fg)] hover:underline">{autor.data.nome}</a>
         </span>
         <span class="inline-flex items-center gap-1"><Icon name="calendar" size={15} /> {d.updatedDate ? `Atualizado em ${formatDate(d.updatedDate)}` : `Publicado em ${formatDate(d.pubDate)}`}</span>
@@ -96,11 +106,21 @@ const tocExtras = [
           {d.imagem.credito && <figcaption class="border-t border-soft px-4 py-2 text-xs muted">{d.imagem.credito}</figcaption>}
         </figure>
 
+        <BuyBox produto={topPick} titulo={d.tipo === 'review' ? 'Onde comprar' : 'Nossa escolha'} />
+
         <div class="mt-8"><VerdictBox veredito={d.veredito} produtos={produtosOrdenados} tipo={d.tipo} /></div>
 
-        <div class="prose-article mt-10" data-pagefind-weight="2">
+        <div class="prose-article mt-10" data-pagefind-weight="2" data-prose-artigo>
           <Content />
         </div>
+        <div hidden data-pagefind-ignore>
+          {produtosOrdenados.map((p) => {
+            const k = ctaKeys(p);
+            return <template data-cta-produto data-asin={p.asin} data-marca={k.marca} data-words={k.words} data-top={p.asin === topPick.asin ? '1' : ''}><BuyBox produto={p} /></template>;
+          })}
+        </div>
+
+        {valuePick ? <BuyBox produto={valuePick} titulo="Quer gastar menos? Melhor custo-benefício" /> : <BuyBox produto={topPick} titulo={d.tipo === 'review' ? 'Gostou? Confira o preço de hoje' : 'Nossa escolha'} />}
 
         <AdSlot />
 
@@ -130,18 +150,9 @@ const tocExtras = [
 
         <FAQ itens={d.faq} />
 
-        {d.fontes.length > 0 && (
-          <section class="mt-10 text-sm" aria-labelledby="fontes">
-            <h2 id="fontes" class="mb-2 text-lg font-bold">Fontes consultadas</h2>
-            <ul class="list-disc space-y-1 pl-5 muted">
-              {d.fontes.map((f) => <li><a href={f.url} rel="nofollow noopener" target="_blank" class="underline">{f.nome}</a></li>)}
-            </ul>
-          </section>
-        )}
+        <BuyBox produto={topPick} titulo={d.tipo === 'review' ? 'Pronto para decidir?' : 'Ainda em dúvida? Fique com a nossa escolha'} />
 
-        <aside class="mt-10 rounded-xl border border-soft bg-soft p-4 text-sm muted" aria-label="Como este conteúdo foi produzido">
-          <p><strong class="text-[var(--fg)]">Como este conteúdo foi produzido:</strong> {d.testadoFisicamente ? 'inclui testes práticos da nossa equipe, além de ' : 'análise baseada em '}especificações oficiais, avaliações públicas de consumidores brasileiros e fontes especializadas, organizadas com apoio de inteligência artificial e verificadas automaticamente (produto, imagens, estrutura e links). Segue o <a href="/metodologia/" class="underline">nosso método</a> e a <a href="/politica-editorial/" class="underline">política editorial</a>; erros são corrigidos assim que identificados.</p>
-        </aside>
+
         <div class="mt-6"><Disclosure /></div>
         <div class="mt-6"><Share url={absUrl} title={d.title} /></div>
         <div class="mt-8"><AuthorBox autor={autor} /></div>
@@ -151,6 +162,7 @@ const tocExtras = [
 
       <aside class="hidden lg:block">
         <div class="sticky top-24 space-y-6">
+          <BuyBox produto={topPick} variant="sidebar" titulo={d.tipo === 'review' ? 'Onde comprar' : 'Nossa escolha'} />
           <TOC headings={headings} extras={tocExtras} />
           <div class="card p-5 text-sm">
             <p class="text-xs font-bold uppercase tracking-wider muted">Para quem é este guia</p>
@@ -165,4 +177,51 @@ const tocExtras = [
 
     <RelatedArticles artigos={relacionados} />
   </article>
+
+  <div class="fixed inset-x-0 bottom-0 z-40 border-t border-soft bg-[var(--bg)]/95 px-3 py-2 backdrop-blur lg:hidden" data-barra-compra hidden>
+    <div class="mx-auto flex max-w-xl items-center gap-3">
+      <span class="min-w-0 flex-1 truncate text-sm font-semibold">{topPick.nome}</span>
+      <a href={produtoUrl(topPick)} rel="sponsored nofollow noopener" target="_blank" class="btn-buy shrink-0 px-4 py-2 text-sm" data-asin={topPick.asin} data-track="affiliate-click">Ver preço</a>
+    </div>
+  </div>
+
+  <script>
+    // Espalha caixas de compra pelo texto: depois da seção de cada produto citado num H2;
+    // se o texto não tiver H2 por produto (reviews e guias), repete a escolha principal a cada 3 seções.
+    const norm = (t: string) => t.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+    const prose = document.querySelector<HTMLElement>('[data-prose-artigo]');
+    const tpls = Array.from(document.querySelectorAll<HTMLTemplateElement>('template[data-cta-produto]'));
+    if (prose && tpls.length) {
+      const h2s = Array.from(prose.querySelectorAll('h2'));
+      const insertBeforeNext = (h2: Element, tpl: HTMLTemplateElement) => {
+        let el: Element | null = h2.nextElementSibling;
+        while (el && el.tagName !== 'H2') el = el.nextElementSibling;
+        const node = tpl.content.cloneNode(true);
+        if (el) prose.insertBefore(node, el); else prose.appendChild(node);
+      };
+      const used = new Set<string>();
+      for (const h2 of h2s) {
+        const text = norm(h2.textContent ?? '');
+        let best: HTMLTemplateElement | null = null; let bestScore = 0;
+        for (const t of tpls) {
+          if (used.has(t.dataset.asin!)) continue;
+          const marca = t.dataset.marca ?? '';
+          if (!marca || !text.includes(marca)) continue;
+          const score = 1 + (t.dataset.words ?? '').split(' ').filter((w) => w && text.includes(w)).length;
+          if (score > bestScore) { best = t; bestScore = score; }
+        }
+        if (best) { used.add(best.dataset.asin!); insertBeforeNext(h2, best); }
+      }
+      if (used.size === 0) {
+        const top = tpls.find((t) => t.dataset.top === '1') ?? tpls[0];
+        h2s.forEach((h2, i) => { if (i > 0 && i % 3 === 2 && i < h2s.length - 1) insertBeforeNext(h2, top); });
+      }
+    }
+    // Barra fixa de compra no celular depois que o leitor passa da primeira tela
+    const bar = document.querySelector<HTMLElement>('[data-barra-compra]');
+    if (bar) {
+      const onScroll = () => { bar.hidden = window.scrollY < 700; };
+      window.addEventListener('scroll', onScroll, { passive: true }); onScroll();
+    }
+  </script>
 </BaseLayout>

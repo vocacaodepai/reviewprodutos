@@ -15,7 +15,7 @@ const count = (id: string) => artigos.filter((a) => a.data.autor.id === id).leng
     <ul class="mt-8 grid gap-6 sm:grid-cols-2">
       {autores.map((a) => (
         <li class="card flex gap-4 p-5">
-          <img src={a.data.avatar} alt={`Foto de ${a.data.nome}`} width="72" height="72" class="h-18 w-18 shrink-0 rounded-full bg-soft object-cover" loading="lazy" />
+          <img src={a.data.avatar} alt={`Foto de ${a.data.nome}`} width="72" height="72" class="h-18 w-18 shrink-0 rounded-full border-2 border-white bg-soft object-cover shadow-md ring-2 ring-brand-500" loading="lazy" />
           <div>
             <h2 class="text-xl font-bold"><a href={autorUrl(a.id)} class="hover:underline">{a.data.nome}</a></h2>
             <p class="text-sm muted">{a.data.cargo} · {count(a.id)} {count(a.id) === 1 ? 'artigo' : 'artigos'}</p>

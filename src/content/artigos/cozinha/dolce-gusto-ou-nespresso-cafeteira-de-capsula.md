@@ -7,7 +7,7 @@ categoria: cozinha
 subcategoria: cafeteiras
 tags: ["cafeteira de cápsula", "dolce gusto", "nespresso", "café em casa"]
 pubDate: 2026-10-07
-autor: equipe
+autor: bruno-danello
 imagem:
   src: "https://m.media-amazon.com/images/I/51QP72LhToL._AC_SL1500_.jpg"
   fonte: amazon

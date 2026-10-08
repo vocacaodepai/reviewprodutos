@@ -7,7 +7,7 @@ categoria: casa-e-jardim
 subcategoria: limpeza
 tags: ["robô aspirador", "wap", "pelos de pet", "limpeza da casa"]
 pubDate: 2026-10-07
-autor: equipe
+autor: bruno-danello
 imagem:
   src: "https://m.media-amazon.com/images/I/81w-AyhZt-L._AC_SL1500_.jpg"
   fonte: amazon

@@ -20,7 +20,7 @@ export const SITE = {
   // AdSense (vazio = desativado)
   adsenseClient: import.meta.env.PUBLIC_ADSENSE_CLIENT || '',
   gscVerification: import.meta.env.PUBLIC_GSC_VERIFICATION || '',
-  ga4Id: import.meta.env.PUBLIC_GA4_ID || '',
+  ga4Id: import.meta.env.PUBLIC_GA4_ID || 'G-55940SV53K',
   social: {
     instagram: 'https://www.instagram.com/reviewprodutos',
     youtube: '',

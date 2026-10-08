@@ -7,7 +7,7 @@ categoria: cozinha
 subcategoria: air-fryer
 tags: ["air fryer", "família grande", "air fryer 5 litros", "cozinha"]
 pubDate: 2026-10-07
-autor: equipe
+autor: bruno-danello
 imagem:
   src: "https://m.media-amazon.com/images/I/51fiJ2hwp4L._AC_SL1500_.jpg"
   fonte: amazon
