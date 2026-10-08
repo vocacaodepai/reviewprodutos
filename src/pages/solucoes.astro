@@ -24,7 +24,7 @@ const description = 'Guias organizados pelo problema que você quer resolver: do
         <h2 id={`sol-${c.id}`} class="flex items-center gap-2 text-2xl font-bold"><span class="inline-flex h-9 w-9 items-center justify-center rounded-lg text-white" style={`background:${c.data.cor}`}><Icon name={c.data.icone} size={18} /></span>{c.data.nome}</h2>
         <ul class="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
           {itens.map((a) => (
-            <li><a href={articleUrl(a)} class="card flex h-full flex-col p-4 transition hover:shadow-lg"><span class="text-sm font-semibold capitalize text-brand-700 dark:text-brand-200">{a.data.funil.problema}</span><span class="mt-1 text-sm leading-snug">{a.data.title}</span></a></li>
+            <li><a href={articleUrl(a)} class="card flex h-full flex-col p-4 transition hover:shadow-lg"><span class="text-sm font-semibold first-letter:uppercase text-brand-700 dark:text-brand-200">{a.data.funil.problema}</span><span class="mt-1 text-sm leading-snug">{a.data.title}</span></a></li>
           ))}
         </ul>
       </section>

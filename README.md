@@ -72,6 +72,11 @@ Regras do Contrato Operacional que o site e o gerador seguem (detalhes em `docs/
 - **Imagens**: as imagens de produto são exibidas por **link direto** (nunca baixadas, cacheadas ou alteradas). Até a Creators API estar disponível, isso é uma zona cinzenta do contrato: prefira `imagem.fonte: fabricante` (site oficial) sempre que possível e migre para a API assim que elegível.
 - **Agentes automatizados**: qualquer acesso a domínios Amazon usa o user-agent `Agent/reviewprodutos` e não contorna bloqueios.
 
+## Estado atual do repositório (outubro de 2026)
+
+- O repositório nasceu vazio, então a branch `claude/reviewprodutos-site-build-vdk4ib` é hoje a **branch padrão** no GitHub. Recomendado: em *Settings → General → Default branch*, renomeá-la para `main` (o GitHub redireciona a antiga), ou criar `main` a partir dela. Os workflows de CI/publicação funcionam em qualquer branch.
+- A criação automática do projeto na Vercel pela integração foi negada (403) nesta conta; importe o repositório manualmente pelo painel da Vercel (passos abaixo).
+
 ## Deploy
 
 - **Vercel (recomendado):** importe o repositório, framework *Astro*, defina as variáveis `PUBLIC_*`. `vercel.json` já traz cache e headers de segurança. Aponte o domínio em *Settings → Domains* e crie no [registro.br](https://registro.br) os registros `A 76.76.21.21` (apex) e `CNAME cname.vercel-dns.com` (www), ou use os valores que a Vercel indicar.

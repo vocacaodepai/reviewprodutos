@@ -94,7 +94,7 @@ const totalProdutos = artigos.reduce((n, a) => n + a.data.produtos.length, 0);
             <li>
               <a href={`/${ARTICLE_TYPES[a.data.tipo].slug}/${a.id}/`} class="card flex h-full items-start gap-3 p-4 transition hover:shadow-lg">
                 <span class="mt-0.5 inline-flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-brand-100 text-brand-700 dark:bg-brand-900/50 dark:text-brand-200"><Icon name="sparkles" size={18} /></span>
-                <span><span class="block text-sm font-semibold capitalize text-brand-700 dark:text-brand-200">{a.data.funil.problema}</span><span class="mt-1 block text-sm leading-snug">{a.data.title}</span></span>
+                <span><span class="block text-sm font-semibold first-letter:uppercase text-brand-700 dark:text-brand-200">{a.data.funil.problema}</span><span class="mt-1 block text-sm leading-snug">{a.data.title}</span></span>
               </a>
             </li>
           ))}
