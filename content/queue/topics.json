@@ -23,7 +23,10 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "echo-pop-e-bom",
+      "published_at": "2026-10-07",
+      "observacao": "reconciliado automaticamente com artigo existente"
     },
     {
       "id": "casa-e-jardim-review-001",
@@ -46,7 +49,10 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "robo-aspirador-wap-robot-w100-vale-a-pena",
+      "published_at": "2026-10-07",
+      "observacao": "reconciliado automaticamente com artigo existente"
     },
     {
       "id": "cozinha-review-001",
@@ -347,7 +353,10 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "travesseiro-para-dor-no-pescoco-os-5-melhores",
+      "published_at": "2026-10-07",
+      "observacao": "reconciliado automaticamente com artigo existente"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-002",
@@ -812,7 +821,10 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "melhor-fone-bluetooth-barato",
+      "published_at": "2026-10-07",
+      "observacao": "reconciliado automaticamente com artigo existente"
     },
     {
       "id": "casa-e-jardim-lista-001",
@@ -862,7 +874,10 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "dolce-gusto-ou-nespresso-cafeteira-de-capsula",
+      "published_at": "2026-10-07",
+      "observacao": "reconciliado automaticamente com artigo existente"
     },
     {
       "id": "saude-e-bem-estar-lista-003",
@@ -1156,7 +1171,10 @@
       ],
       "prioridade": 1,
       "sazonal": "black-friday",
-      "status": "pending"
+      "status": "published",
+      "published_slug": "melhor-air-fryer-familia-grande",
+      "published_at": "2026-10-07",
+      "observacao": "reconciliado automaticamente com artigo existente"
     },
     {
       "id": "saude-e-bem-estar-lista-004",
@@ -1316,7 +1334,10 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "dor-nas-costas-ao-dirigir",
+      "published_at": "2026-10-07",
+      "observacao": "reconciliado automaticamente com artigo existente"
     },
     {
       "id": "escritorio-e-estudos-lista-001",
@@ -1463,7 +1484,10 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "massageador-de-pescoco-shiatsu-relaxmedic-e-bom",
+      "published_at": "2026-10-07",
+      "observacao": "reconciliado automaticamente com artigo existente"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-003",
