@@ -75,7 +75,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "air-fryer-philips-walita-serie-3000-vale-a-pena",
+      "published_at": "2026-10-11"
     },
     {
       "id": "saude-e-bem-estar-review-001",
@@ -97,7 +99,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "oral-b-io-series-2-e-boa",
+      "published_at": "2026-10-11"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-001",
@@ -428,7 +432,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "racao-golden-ou-premier",
+      "published_at": "2026-10-11"
     },
     {
       "id": "esportes-e-lazer-comparativo-001",
@@ -692,7 +698,7 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "esportes-e-lazer-lista-001",
@@ -719,7 +725,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "melhor-esteira-para-casa",
+      "published_at": "2026-10-11"
     },
     {
       "id": "automotivo-lista-001",
@@ -854,7 +862,9 @@
       ],
       "prioridade": 1,
       "sazonal": "verao",
-      "status": "pending"
+      "status": "published",
+      "published_slug": "melhor-ventilador-de-coluna",
+      "published_at": "2026-10-11"
     },
     {
       "id": "cozinha-comparativo-002",
@@ -935,7 +945,7 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "bebes-e-criancas-lista-001",
@@ -962,7 +972,7 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "pets-lista-002",
