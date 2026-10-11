@@ -92,6 +92,8 @@ Como tratar o que aparecer:
 
 Poucas frases em português, sem travessão: quantos artigos entraram e quais (títulos curtos), temas pulados e por quê, uma linha da revisão de erros e segurança ("nenhum problema" ou o que foi encontrado e corrigido, e o que depende do dono) e o link https://reviewprodutos.com.br. Se nada foi publicado, diga o motivo em uma frase.
 
+Termine sempre com **Pendências do dono**: a lista de `docs/PENDENCIAS-DONO.md`, um item por linha com o link de onde fazer. Se o `site-health --live` mostrar que um item foi resolvido (por exemplo, o aviso do www sumiu), diga que foi resolvido e remova o item do arquivo num PR de manutenção.
+
 ## Manutenção da fila
 
 Quando restarem menos de 40 temas `pending`, gere mais 100 seguindo o formato do arquivo e a taxonomia de `src/data/categorias.json` (mistura de reviews, comparativos e listas; metade fundo de funil, metade topo/meio com `problema` preenchido) e inclua no PR da rodada.
