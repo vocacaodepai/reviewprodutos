@@ -8,6 +8,11 @@
 - Autor de todos os artigos: `bruno-danello` (`src/data/autores.json`).
 - Artigos **não** exibem fontes de pesquisa nem o texto "Como este conteúdo foi produzido"; devem ter vários botões de compra ao longo do texto.
 
+## Rotina diária de publicação
+
+- Roda como **Routine do Claude Code** (assinatura do Claude, sem API paga): 4 lotes de 5 artigos por dia (06:52, 09:52, 18:52 e 21:52 de Brasília). Roteiro completo e obrigatório: `docs/rotinas/lote.md`.
+- O workflow `.github/workflows/publicar-artigos.yml` (Claude API) fica só para disparo manual; não reative o agendamento dele.
+
 ## Antes de commitar
 
 ```bash

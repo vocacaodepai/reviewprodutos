@@ -1,15 +1,8 @@
 name: Publicar artigos (lotes diários)
 
-# Horários em UTC. Brasília (BRT) = UTC-3 o ano todo (sem horário de verão desde 2019).
-#   07:00 BRT -> 10:00 UTC | 10:00 BRT -> 13:00 UTC   (manhã: 2 lotes de 5)
-#   19:00 BRT -> 22:00 UTC | 22:00 BRT -> 01:00 UTC   (noite:  2 lotes de 5)
-# O GitHub pode atrasar crons em alguns minutos em horários de pico.
+# Somente disparo manual. A rotina diária roda como Routine do Claude Code (docs/rotinas/lote.md),
+# sem chave de API paga. Este workflow continua disponível para uso pontual com o secret ANTHROPIC_API_KEY.
 on:
-  schedule:
-    - cron: '0 10 * * *'
-    - cron: '0 13 * * *'
-    - cron: '0 22 * * *'
-    - cron: '0 1 * * *'
   workflow_dispatch:
     inputs:
       batch:
