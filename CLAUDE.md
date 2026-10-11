@@ -3,6 +3,7 @@
 ## Regras do dono (Bruno Danello)
 
 - **Merge automático autorizado:** pull requests abertos pelo Claude para a `main` podem ser mergeados automaticamente, sem pedir confirmação, quando o CI estiver verde, não houver conflitos e não houver comentários de revisão pendentes. Use merge commit (não reescreva histórico). Depois do merge, avise em uma linha.
+- **Fim de toda entrega ou publicação:** terminar a mensagem com as pendências do dono (`docs/PENDENCIAS-DONO.md`, cada uma com o link de onde fazer) e com o link clicável do site: https://reviewprodutos.com.br
 - O domínio oficial é **sem www**: `https://reviewprodutos.com.br`.
 - Tag de afiliado Amazon: `reviewprodutos-20`. Google Analytics: `G-55940SV53K`.
 - Autor de todos os artigos: `bruno-danello` (`src/data/autores.json`).
