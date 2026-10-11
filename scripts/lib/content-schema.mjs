@@ -114,6 +114,7 @@ export function validateBody(body, data) {
   if (/^# /m.test(body)) errs.push('corpo: não use H1 (#) no corpo; o título vem do frontmatter');
   if (/\bR\$\s?\d/.test(body)) errs.push('corpo: não cite preços exatos (R$ ...); use faixas e o botão da loja');
   if (/https?:\/\/(www\.)?amazon\.com\.br\/[^\s)]+/.test(body)) errs.push('corpo: não coloque links da Amazon no texto; os botões de afiliado são gerados automaticamente');
+  if (/^(as fontes (foram|consultadas|usadas)|fontes consultadas|como este conteúdo foi produzido)/im.test(body)) errs.push('corpo: não liste as fontes de pesquisa nem "Como este conteúdo foi produzido" no texto (regra do dono); fontes ficam só no frontmatter');
   if (/\b(testamos|testei|nosso teste|em nossos testes)\b/i.test(body) && data && !data.testadoFisicamente) errs.push('corpo: afirma teste físico mas testadoFisicamente=false; reescreva como análise ou marque o teste');
   if (/\b(amzn\.to|bit\.ly|tinyurl)\b/i.test(body)) errs.push('corpo: não use encurtadores de link');
   if (/\b(\d[\d.,]*\s*(estrelas|avaliações)|avaliad[oa]s? (por|com)\s*\d|nota\s*\d[.,]\d\s*(na|da) amazon)\b/i.test(body)) errs.push('corpo: não cite notas/estrelas/quantidade de avaliações da Amazon (proibido sem a Creators API)');

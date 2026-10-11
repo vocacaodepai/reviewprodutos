@@ -361,7 +361,7 @@ Se a sua casa tem até 3 pessoas, provavelmente uma de 4 litros basta; leia noss
 
 Consideramos 14 modelos de 5 litros ou mais vendidos na Amazon Brasil em outubro de 2026 e cortamos os que não têm versão em estoque, os que anunciam 5 litros mas têm cesto de 4 litros ou menos (caso da Britânia BFR40, com 4,35 L de cesto segundo o Buscapé) e os modelos tipo forno de 10 litros ou mais, que são outra categoria. Sobraram 6, ordenados pela média ponderada dos critérios declarados no fim do artigo: desempenho (30%), capacidade e formato (15%), facilidade de uso e limpeza (15%), durabilidade e acabamento (15%), ruído (5%) e custo-benefício (20%).
 
-As fontes foram as fichas técnicas dos fabricantes, os testes do GDM (que mediu capacidade útil, consumo e ruído) e do Canaltech, a análise da AnalisaMelhor sobre a Electrolux EAF50 e relatos públicos de donos em fóruns como o Pelando e no Reclame Aqui. **Não houve teste físico** destes modelos pela nossa equipe; esta é uma análise de especificações oficiais, fontes especializadas e relatos públicos de consumidores fora da Amazon.
+Não houve teste físico destes modelos pela nossa equipe: esta é uma análise de especificações oficiais, fontes especializadas e relatos públicos de consumidores fora da Amazon.
 
 O dado próprio deste guia é a **estimativa de consumo mensal** de cada modelo, calculada a partir da potência nominal com 30 minutos de uso por dia: 1.900 W rendem cerca de 28,5 kWh/mês, 1.800 W cerca de 27 kWh, 1.700 W cerca de 25,5 kWh e 1.500 W cerca de 22,5 kWh. É uma conta simplificada (a resistência não fica ligada o tempo todo), mas mostra a ordem de grandeza: a diferença entre a mais e a menos potente é de uns 6 kWh por mês.
 
