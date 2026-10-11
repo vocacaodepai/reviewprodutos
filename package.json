@@ -13,6 +13,7 @@
     "validate:content": "node scripts/validate-content.mjs",
     "generate:articles": "node scripts/generate-articles.mjs",
     "images:check": "node scripts/check-images.mjs",
+    "health": "node scripts/site-health.mjs --live",
     "icons": "node scripts/build-icons.mjs"
   },
   "engines": {

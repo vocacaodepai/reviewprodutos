@@ -59,9 +59,28 @@ node scripts/validate-content.mjs --images   # todos válidos
 npm run build                                # build + índice de busca
 ```
 
-3. `git status --short` só pode mostrar arquivos novos em `src/content/artigos/` e a fila `content/queue/topics.json`. Nada de código, docs ou configuração. Nenhum segredo no diff.
+3. `git status --short` só pode mostrar arquivos em `src/content/artigos/` (novos, ou correções vindas do passo 5) e a fila `content/queue/topics.json`. Nada de código, docs ou configuração no PR do lote. Nenhum segredo no diff.
 
-## 5. Publicar
+## 5. Revisão de erros e segurança do site (toda rodada)
+
+Depois do build do passo 4, ainda no clone:
+
+```bash
+node scripts/site-health.mjs --live
+```
+
+O script confere: `relacionados` que apontam para artigos inexistentes, links e recursos internos quebrados no site gerado, links da Amazon sem a tag `reviewprodutos-20` ou sem `rel="sponsored"`, textos proibidos (fontes, menção a IA), arquivos essenciais (sitemap, robots, RSS, busca), segredos versionados no repositório, vulnerabilidades altas ou críticas nas dependências de produção (`npm audit`) e o site no ar (status das páginas principais, cabeçalhos de segurança, redirecionamentos http → https e www → domínio sem www).
+
+Além do script, faça uma revisão rápida de segurança do que mudou na `main` desde a rodada anterior (`git log --since="8 hours ago" -p origin/main -- . ':!src/content' ':!content/queue'`): scripts ou HTML injetado, links externos sem `rel`, segredos, dependências novas, mudanças em `vercel.json`, nos workflows ou nos scripts de layout (AdSense, Analytics, consentimento de cookies).
+
+Como tratar o que aparecer:
+
+- **Erro em artigo** (relacionado inexistente, link interno quebrado, texto proibido, link sem tag): corrija no próprio lote. Esses ajustes podem tocar artigos já publicados e entram no mesmo PR, citados no corpo do PR.
+- **Erro em código, configuração ou dependência**: não misture com o lote. Abra um PR separado (`claude/manutencao-AAAAMMDD-HHMM`) com a correção mínima, rode `npx astro check`, `node scripts/validate-content.mjs --images`, `npm run build` e `node scripts/site-health.mjs` (zero erro) e mescle com merge commit quando o CI ficar verde.
+- **Algo que exige decisão do dono, ou correção grande ou arriscada** (troca de domínio na Vercel, atualização com quebra de compatibilidade, falha de segurança séria): não altere. Descreva no informe final, com o que precisa ser feito.
+- **AVISO** do script não bloqueia a publicação; só entra no informe quando for novo ou exigir ação do dono.
+
+## 6. Publicar
 
 1. Commit em português, sem citar modelo: `conteúdo: publica N artigos, lote DD/MM HH:MM BRT`, com a lista de títulos no corpo.
 2. `git push -u origin <branch>` e abra o PR para `main` (`mcp__github__create_pull_request`, pronto para revisão) com a lista dos artigos e o resultado das validações.
@@ -69,9 +88,9 @@ npm run build                                # build + índice de busca
 4. Mescle com **merge commit** (`mcp__github__merge_pull_request`, `merge_method: "merge"`, `expectedHeadSha` do head), autorizado no `CLAUDE.md`. Não termine antes de `merged: true`, salvo erro real que você não conseguiu resolver.
 5. `rm -rf "$DIR"`.
 
-## 6. Informe final
+## 7. Informe final
 
-Uma ou duas frases em português, sem travessão: quantos artigos entraram e quais (títulos curtos), temas pulados e por quê, e o link https://reviewprodutos.com.br. Se nada foi publicado, diga o motivo em uma frase.
+Poucas frases em português, sem travessão: quantos artigos entraram e quais (títulos curtos), temas pulados e por quê, uma linha da revisão de erros e segurança ("nenhum problema" ou o que foi encontrado e corrigido, e o que depende do dono) e o link https://reviewprodutos.com.br. Se nada foi publicado, diga o motivo em uma frase.
 
 ## Manutenção da fila
 
