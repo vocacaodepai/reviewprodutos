@@ -12,7 +12,8 @@ Site brasileiro de **reviews, comparativos e listas dos melhores produtos** (com
 | `src/data/categorias.json` / `autores.json` | Taxonomia (11 categorias e subcategorias) e autores. |
 | `src/layouts/ArticleLayout.astro` | Renderiza o artigo: resumo em 30 segundos, tabela comparativa, cards de produto com botão de afiliado, critérios, FAQ, autor, JSON-LD (Article, Product/Review, ItemList, FAQPage, BreadcrumbList). |
 | `scripts/generate-articles.mjs` | Gerador automático (Claude API + busca na web) que consome a fila `content/queue/topics.json`, resolve imagens reais por ASIN e valida tudo antes de gravar. |
-| `.github/workflows/publicar-artigos.yml` | Rotina diária: 4 lotes de 5 artigos (07h, 10h, 19h e 22h de Brasília), com commit automático. |
+| `docs/rotinas/lote.md` | Rotina diária (Routine do Claude Code): 4 lotes de 5 artigos por dia, com PR e merge automático. |
+| `.github/workflows/publicar-artigos.yml` | Gerador via Claude API, só para disparo manual (exige `ANTHROPIC_API_KEY`). |
 | `scripts/validate-content.mjs` | Validador de schema, regras editoriais e imagens (usado no CI). |
 
 ## Rodando localmente
@@ -44,22 +45,15 @@ node scripts/update-queue.mjs <id> published <slug>   # marca um tema da fila (a
 
 ## Publicação automática (20 artigos/dia)
 
-A rotina usa a Claude API. Passos:
+A rotina diária roda como **Routine do Claude Code**, usando a assinatura do Claude (sem chave de API paga), 4 vezes por dia: 06:52, 09:52, 18:52 e 21:52 de Brasília, 5 artigos por rodada. O roteiro completo está em `docs/rotinas/lote.md` e o resumo em `docs/ROTINA-DIARIA.md`.
 
-1. Gere uma chave em [console.anthropic.com](https://console.anthropic.com) e adicione como **Secret** `ANTHROPIC_API_KEY` em *Settings → Secrets and variables → Actions*.
-2. (Opcional) *Variables*: `GENERATOR_MODEL` (padrão `claude-opus-5-5`; `claude-sonnet-5-5` é mais barato), `GENERATOR_BATCH_SIZE` (padrão 5), `PUBLIC_AMAZON_TAG`, `PUBLIC_ADSENSE_CLIENT`.
-3. Em *Settings → Actions → General*, marque **Read and write permissions** para o `GITHUB_TOKEN`.
-4. Teste manualmente em *Actions → Publicar artigos → Run workflow* (use `dry_run=true` na primeira vez).
+Cada lote: escolhe os próximos temas da fila por prioridade e diversidade de categoria → pesquisa produtos reais na Amazon.com.br → escreve seguindo `docs/PADRAO-EDITORIAL.md` → resolve e valida imagens reais por ASIN → valida schema/regras → faz build de verificação → abre PR e mescla quando o CI fica verde.
 
-Cada lote: escolhe os próximos temas da fila por prioridade e diversidade de categoria → pesquisa produtos reais na Amazon.com.br → escreve seguindo `docs/PADRAO-EDITORIAL.md` → resolve e valida imagens reais por ASIN → valida schema/regras → faz build de verificação → commita. Temas que falham voltam para `pending` uma vez e depois ficam `skipped` com o erro registrado em `content/queue/log.jsonl`.
-
-Custo estimado por artigo com `claude-opus-5-5` e busca na web: algo entre US$ 0,30 e US$ 0,90 (varia com o número de buscas). Com `claude-sonnet-5-5`, cerca de metade.
-
-**Alternativa sem API key:** as *Routines* do Claude Code (claude.ai/code) podem rodar a mesma tarefa em sessões agendadas usando sua assinatura. Veja `docs/ROTINA-DIARIA.md`.
+**Uso pontual via API (opcional):** `.github/workflows/publicar-artigos.yml` + `scripts/generate-articles.mjs` geram um lote pela Claude API quando disparados à mão em *Actions → Publicar artigos → Run workflow*. Exige o secret `ANTHROPIC_API_KEY` e tem custo por uso.
 
 ### Ramp-up recomendado
 
-O Google trata conteúdo em escala sem valor agregado como spam ("scaled content abuse"). O pipeline mitiga isso com pesquisa real, dados únicos por produto, estrutura rica e validação, mas recomendamos começar com 2 lotes/dia (10 artigos) nas primeiras semanas, acompanhar o Search Console e só então subir para 4 lotes. Basta comentar linhas de `cron` no workflow.
+O Google trata conteúdo em escala sem valor agregado como spam ("scaled content abuse"). O pipeline mitiga isso com pesquisa real, dados únicos por produto, estrutura rica e validação, mas recomendamos começar com 2 lotes/dia (10 artigos) nas primeiras semanas, acompanhar o Search Console e só então subir para 4 lotes. O horário dos lotes é ajustado na Routine (claude.ai/code → Routines).
 
 ## Conformidade com o Programa de Associados da Amazon (Brasil)
 
