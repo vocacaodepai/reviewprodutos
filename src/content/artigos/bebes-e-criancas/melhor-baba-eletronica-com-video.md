@@ -263,7 +263,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["bebe-nao-dorme-o-que-fazer"]
+relacionados: ["bebe-nao-dorme-o-que-fazer-rotina-do-sono"]
 ---
 
 ## Resposta rápida
@@ -376,7 +376,7 @@ Use a babá como ferramenta de conforto para os pais e mantenha a câmera e os c
 
 ## Quando procurar um profissional
 
-Se o bebê apresenta pausas na respiração, mudança de cor nos lábios, roncos fortes ou engasgos durante o sono, não espere a próxima noite para observar pela câmera: procure o pediatra ou um pronto atendimento. Bebês prematuros ou com condições específicas podem ter indicação médica de monitores de respiração; essa decisão é do pediatra, não de um guia de compras. Dúvidas sobre posição de dormir, temperatura do quarto e rotina de sono também valem uma conversa na consulta de rotina. Se a dificuldade é o bebê que acorda muito, veja nosso guia sobre [rotina do sono do bebê](/melhores/bebe-nao-dorme-o-que-fazer/).
+Se o bebê apresenta pausas na respiração, mudança de cor nos lábios, roncos fortes ou engasgos durante o sono, não espere a próxima noite para observar pela câmera: procure o pediatra ou um pronto atendimento. Bebês prematuros ou com condições específicas podem ter indicação médica de monitores de respiração; essa decisão é do pediatra, não de um guia de compras. Dúvidas sobre posição de dormir, temperatura do quarto e rotina de sono também valem uma conversa na consulta de rotina. Se a dificuldade é o bebê que acorda muito, veja nosso guia sobre [rotina do sono do bebê](/melhores/bebe-nao-dorme-o-que-fazer-rotina-do-sono/).
 
 ## O que não recomendamos (e por quê)
 

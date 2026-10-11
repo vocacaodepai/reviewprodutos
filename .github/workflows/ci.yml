@@ -41,3 +41,5 @@ jobs:
             test -f "dist/$f" || { echo "::error::dist/$f não foi gerado"; exit 1; }
           done
           echo "OK: $(find dist -name index.html | wc -l) páginas"
+      - name: Revisão de erros e segurança (links, afiliados, segredos, dependências)
+        run: node scripts/site-health.mjs
