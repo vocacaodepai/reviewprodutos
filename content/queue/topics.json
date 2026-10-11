@@ -124,7 +124,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "secador-taiff-fox-ion-e-bom",
+      "published_at": "2026-10-11"
     },
     {
       "id": "bebes-e-criancas-review-001",
@@ -147,7 +149,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "baba-eletronica-motorola-vm34-e-boa",
+      "published_at": "2026-10-11"
     },
     {
       "id": "pets-review-001",
@@ -552,7 +556,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "echo-dot-ou-echo-pop",
+      "published_at": "2026-10-11"
     },
     {
       "id": "casa-e-jardim-comparativo-001",
@@ -754,7 +760,7 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "escritorio-e-estudos-comparativo-001",
@@ -917,7 +923,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "melhor-whey-protein-custo-beneficio",
+      "published_at": "2026-10-11"
     },
     {
       "id": "beleza-e-cuidados-pessoais-lista-001",
@@ -1156,7 +1164,9 @@
       ],
       "prioridade": 1,
       "sazonal": "black-friday",
-      "status": "pending"
+      "status": "published",
+      "published_slug": "melhor-robo-aspirador-custo-beneficio",
+      "published_at": "2026-10-11"
     },
     {
       "id": "cozinha-lista-001",
