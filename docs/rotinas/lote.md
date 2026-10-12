@@ -49,6 +49,17 @@ Responda só com: caminho do arquivo, ASIN(s), nº de palavras do corpo e result
 
 Se um subagente falhar ou o tema for pulado, a rodada segue com os artigos que ficaram prontos (não substitua por outro tema na mesma rodada; ele entra na próxima).
 
+## 3b. Atualizar preços de mercado (toda rodada)
+
+Os comparadores só mostram cerca de 40 dias de histórico, então o site monta o próprio histórico mês a mês. Em toda rodada, escolha até **5 artigos já publicados** cujo `precoMercado.referencia` seja de um mês anterior ao atual (os mais antigos primeiro) e, para cada produto deles:
+
+1. Pesquise a faixa típica atual do modelo exato em comparadores e lojas (nunca a Amazon), com as mesmas regras de arredondamento.
+2. Mova a faixa antiga para `historico` (`{ periodo: <referencia antiga>, min, max }`), mantendo no máximo 12 pontos.
+3. Grave a nova faixa em `min`/`max`, `referencia` = mês atual, e ajuste `tendencia` (caindo, estavel ou subindo, comparando com os pontos anteriores) e `fontes`.
+4. Produto que ainda não tem `precoMercado`: tente de novo; se achar dado confiável, crie o campo.
+
+Pode ser feito por um 6º subagente em paralelo aos redatores. Só muda o frontmatter `precoMercado`; nada no corpo.
+
 ## 4. Revisar e validar o lote
 
 1. Leia cada artigo novo inteiro e confira o checklist da seção 10 do padrão editorial: veredito no topo, duplo funil, contras reais, contexto brasileiro (voltagem, garantia, assistência), nenhum preço no corpo e nenhum preço da Amazon (só a estimativa `precoMercado`), nenhuma estrela da Amazon, nenhum "testamos", nenhuma fonte no corpo.
@@ -60,7 +71,7 @@ node scripts/validate-content.mjs --images   # todos válidos
 npm run build                                # build + índice de busca
 ```
 
-3. `git status --short` só pode mostrar arquivos em `src/content/artigos/` (novos, ou correções vindas do passo 5) e a fila `content/queue/topics.json`. Nada de código, docs ou configuração no PR do lote. Nenhum segredo no diff.
+3. `git status --short` só pode mostrar arquivos em `src/content/artigos/` (novos, preços atualizados no passo 3b ou correções vindas do passo 5) e a fila `content/queue/topics.json`. Nada de código, docs ou configuração no PR do lote. Nenhum segredo no diff.
 
 ## 5. Revisão de erros e segurança do site (toda rodada)
 
