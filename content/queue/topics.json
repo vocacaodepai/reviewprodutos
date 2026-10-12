@@ -197,7 +197,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "stanley-adventure-1l-vale-a-pena",
+      "published_at": "2026-10-12"
     },
     {
       "id": "automotivo-review-001",
@@ -658,7 +660,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "cicaplast-b5-ou-bepantol-derma",
+      "published_at": "2026-10-12"
     },
     {
       "id": "bebes-e-criancas-comparativo-001",
@@ -681,7 +685,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "bebe-conforto-ou-cadeirinha",
+      "published_at": "2026-10-12"
     },
     {
       "id": "pets-lista-001",
@@ -1014,7 +1020,7 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "esportes-e-lazer-lista-002",
@@ -1068,7 +1074,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "melhor-camera-veicular-custo-beneficio",
+      "published_at": "2026-10-12"
     },
     {
       "id": "escritorio-e-estudos-comparativo-002",
@@ -1145,7 +1153,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "melhor-celular-custo-beneficio",
+      "published_at": "2026-10-12"
     },
     {
       "id": "casa-e-jardim-lista-002",
@@ -1347,7 +1357,7 @@
       ],
       "prioridade": 1,
       "sazonal": "verao",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "automotivo-lista-003",
