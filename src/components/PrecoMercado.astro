@@ -1,0 +1,44 @@
+---
+/**
+ * Estimativa de preço de MERCADO (várias lojas) com a variação nos últimos meses.
+ * Nunca é o preço da Amazon: preço da Amazon só pode ser exibido via API do Programa de Associados.
+ */
+import Icon from './Icon.astro';
+import { produtoUrl, type Produto } from '@/lib/articles';
+import { brl, mesAno, mesCurto } from '@/lib/precos';
+interface Props { produto: Produto; class?: string; }
+const { produto: p, class: className = '' } = Astro.props;
+const pm = p.precoMercado!;
+const hist = [...pm.historico].sort((a, b) => a.periodo.localeCompare(b.periodo));
+const lo = Math.min(pm.min, ...hist.map((h) => h.min));
+const hi = Math.max(pm.max, ...hist.map((h) => h.max));
+const span = Math.max(1, hi - lo);
+const pos = (v: number) => ((v - lo) / span) * 100;
+const TENDENCIAS: Record<string, string> = { caindo: 'em queda nos últimos meses', estavel: 'estável nos últimos meses', subindo: 'em alta nos últimos meses' };
+const tendencia = pm.tendencia ? TENDENCIAS[pm.tendencia] : undefined;
+---
+<section class={`rounded-xl border border-soft bg-soft p-4 text-sm ${className}`} aria-label={`Preço de mercado do ${p.nome}`}>
+  <p class="flex items-center gap-2 text-xs font-bold uppercase tracking-wider muted"><Icon name="tag" size={14} /> Preço de mercado (estimativa)</p>
+  <p class="mt-2 text-base">
+    Em {mesAno(pm.referencia)}, costuma ser encontrado entre <strong class="whitespace-nowrap">{brl(pm.min)}</strong> e <strong class="whitespace-nowrap">{brl(pm.max)}</strong> nas principais lojas.
+    {tendencia && <span class="muted"> Preço {tendencia}.</span>}
+  </p>
+  {hist.length > 1 && (
+    <ul class="mt-3 space-y-1.5" aria-label="Variação de preço nos últimos meses">
+      {hist.map((h) => (
+        <li class="grid grid-cols-[3.5rem_1fr_auto] items-center gap-2 text-xs">
+          <span class="muted">{mesCurto(h.periodo)}</span>
+          <span class="relative h-2 rounded-full bg-[var(--bg)]">
+            <span class="absolute inset-y-0 rounded-full bg-brand-500" style={`left:${pos(h.min)}%;width:${Math.max(3, pos(h.max) - pos(h.min))}%`}></span>
+          </span>
+          <span class="tabular-nums">{brl(h.min)} a {brl(h.max)}</span>
+        </li>
+      ))}
+    </ul>
+  )}
+  {pm.observacao && <p class="mt-2 muted">{pm.observacao}</p>}
+  <div class="mt-3 flex flex-wrap items-center gap-3">
+    <a href={produtoUrl(p)} rel="sponsored nofollow noopener" target="_blank" class="btn-buy px-4 py-2 text-sm" data-asin={p.asin} data-track="affiliate-click"><Icon name="cart" size={16} /> Comprar agora na Amazon</a>
+    <span class="text-[11px] leading-snug muted">Estimativa com base no histórico de preços de várias lojas. O valor final aparece na loja no momento da compra.</span>
+  </div>
+</section>

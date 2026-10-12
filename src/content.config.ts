@@ -52,6 +52,22 @@ const produto = z.object({
   linksAlternativos: z.array(z.object({ loja: z.string().min(2).max(40), url: z.url() })).max(3).default([]),
   /** Faixa de preço indicativa (nunca exibimos preço exato sem a API da Amazon). */
   faixaPreco: z.enum(['$', '$$', '$$$', '$$$$']).optional(),
+  /**
+   * Estimativa de preço de MERCADO (várias lojas, histórico de comparadores como Buscapé/Zoom), nunca o preço da Amazon:
+   * preço da Amazon só pode ser exibido via API. Valores em reais, faixas arredondadas, mês de referência AAAA-MM.
+   */
+  precoMercado: z
+    .object({
+      min: z.number().positive(),
+      max: z.number().positive(),
+      referencia: z.string().regex(/^\d{4}-\d{2}$/),
+      historico: z.array(z.object({ periodo: z.string().regex(/^\d{4}-\d{2}$/), min: z.number().positive(), max: z.number().positive() })).max(12).default([]),
+      tendencia: z.enum(['caindo', 'estavel', 'subindo']).optional(),
+      observacao: z.string().max(240).optional(),
+      fontes: z.array(z.object({ nome: z.string().min(2), url: z.url() })).min(1),
+    })
+    .refine((v) => v.max >= v.min && v.max <= v.min * 2.5 && v.historico.every((h) => h.max >= h.min), { error: 'precoMercado: faixa inválida (min <= max e max até 2,5x o min)' })
+    .optional(),
   idealPara: z.string().optional(),
   naoIndicadoPara: z.string().optional(),
   /** Notas por critério (0-10), usadas em tabelas e gráficos. */

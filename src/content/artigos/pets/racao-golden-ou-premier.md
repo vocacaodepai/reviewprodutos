@@ -61,6 +61,12 @@ produtos:
       "Embalagens": "15 kg e 20 kg"
       "Corantes e aromatizantes artificiais": "Não"
     faixaPreco: "$$$"
+    precoMercado:
+      min: 310
+      max: 340
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Buscapé — comparador de preços", url: "https://www.buscape.com.br/racao-cachorro/racao-caes-premier-formula-adulto-racas-medias-frango-20kg" }
     idealPara: "Cães adultos de porte médio, ativos ou com pele, pelo ou fezes que pedem uma ração mais completa"
     naoIndicadoPara: "Quem precisa do menor gasto mensal possível, ou cães com indicação de dieta terapêutica"
     notasCriterios:
@@ -110,6 +116,13 @@ produtos:
       "Embalagens": "15 kg e 20 kg"
       "Corantes e aromatizantes artificiais": "Não"
     faixaPreco: "$$"
+    precoMercado:
+      min: 140
+      max: 160
+      referencia: "2026-10"
+      observacao: "Na Cobasi, a compra programada costuma sair cerca de 10% abaixo do preço avulso."
+      fontes:
+        - { nome: "Cobasi", url: "https://www.cobasi.com.br/racao-golden-special-para-caes-adultos-frango-e-carne-3310549/p" }
     idealPara: "Cães adultos saudáveis, castrados ou pouco ativos, e tutores com mais de um cão que precisam controlar o gasto"
     naoIndicadoPara: "Cães com pele sensível, pelo opaco, fezes moles ou rotina muito ativa"
     notasCriterios:

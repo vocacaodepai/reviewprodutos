@@ -58,6 +58,13 @@ produtos:
       "Dimensões": "23 x 21 x 19,6 cm"
       "Fabricante": "Hagen (Canadá)"
     faixaPreco: "$$$"
+    precoMercado:
+      min: 200
+      max: 240
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Biostech Conecta — Fonte Catit Flower 3 L", url: "https://www.biostechconecta.com.br/fonte-de-agua-catit-flower-com-filtro-de-triplo-acao-fonte-de-agua-para-gatos-3-l-verde" }
+        - { nome: "NMS Comércio — Fonte Catit Flower 3 L", url: "https://www.nmscomercio.com.br/fonte-de-agua-catit-flower-com-filtro-de-triplo-acao-fonte-de-agua-para-gatos-3-l-verde" }
     idealPara: "Gatos exigentes que ignoram o pote e tutores que querem reposição garantida"
     naoIndicadoPara: "Quem não quer trocar filtro todo mês nem desmontar peças para lavar"
     notasCriterios:
@@ -100,6 +107,13 @@ produtos:
       "Dimensões": "20,5 x 20 x 8 cm; 350 g"
       "Fabricante": "Amicus (Brasil)"
     faixaPreco: "$"
+    precoMercado:
+      min: 120
+      max: 150
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Cobasi — Fonte Amicus Aqua Mini", url: "https://www.cobasi.com.br/fonte-bebedouro-aqua-mini-amicus-bivolt-branco-3610860/p" }
+        - { nome: "Petlove — Fonte Amicus Aqua Mini", url: "https://www.petlove.com.br/fonte-bebedouro-amicus-aqua-mini-bivolt-vermelha/p" }
     idealPara: "Um gato, apartamento pequeno e tutor que lava a fonte diariamente"
     naoIndicadoPara: "Casas com dois ou mais gatos ou quem viaja no fim de semana"
     notasCriterios:
@@ -140,6 +154,13 @@ produtos:
       "Consumo": "3 W"
       "Fabricante": "Petlon (Brasil)"
     faixaPreco: "$$"
+    precoMercado:
+      min: 200
+      max: 240
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Petlove — Fonte Petlon Premium preta e dourada", url: "https://www.petlove.com.br/fonte-bebedouro-petlon-premium-preta-ouro/p" }
+        - { nome: "Petlove — Fonte Petlon Premium branca e dourada", url: "https://www.petlove.com.br/fonte-bebedouro-petlon-premium-branca-ouro/p" }
     idealPara: "Quem quer 2,5 litros e várias formas de beber por uma faixa intermediária"
     naoIndicadoPara: "Quem quer uma fonte para durar anos com troca de bomba"
     notasCriterios:
@@ -227,6 +248,14 @@ produtos:
       "Modos de fluxo": "1 (circulação contínua)"
       "Fabricante": "Furacão Pet (Brasil)"
     faixaPreco: "$"
+    precoMercado:
+      min: 140
+      max: 230
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Zoom — Fonte Furacão Pet (histórico de preços)", url: "https://www.zoom.com.br/comedouro-bebedouro-cachorro-gatos/fonte-bebedouro-furacao-pet-azul-para-caes-e-gatos-bivolt" }
+        - { nome: "Zoom — ofertas da Fonte Furacão Pet 2,5 L", url: "https://www.zoom.com.br/busca/fonte+furacao+pet+2%2C5+litros" }
+        - { nome: "Petlove — Fonte Furacão Pet", url: "https://www.petlove.com.br/fonte-bebedouro-furacao-pet-azul-1559984/p" }
     idealPara: "Quem quer testar se o gato aceita fonte gastando pouco"
     naoIndicadoPara: "Gatos que precisam de água filtrada ou tutores que querem trocar a água só a cada vários dias"
     notasCriterios:

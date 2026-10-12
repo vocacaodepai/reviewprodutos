@@ -57,6 +57,13 @@ produtos:
       "Velocidade": "12.000 movimentos por minuto"
       "Garantia": "2 anos (política Philips para barbeadores no Brasil; confira o certificado)"
     faixaPreco: "$$"
+    precoMercado:
+      min: 200
+      max: 270
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Buscapé — ofertas do OneBlade QP2724", url: "https://www.buscape.com.br/busca/qp2724" }
+        - { nome: "Extra — OneBlade QP2724/10 com 3 pentes", url: "https://www.extra.com.br/aparador-e-raspador-oneblade-com-3-pentes-a-prova-dagua-qp2724-10-philips/p/1561938494" }
     idealPara: "Quem mantém barba por fazer, cavanhaque ou contornos e tem pele sensível ou tendência a pelo encravado"
     naoIndicadoPara: "Quem quer a barba lisa ao toque todos os dias ou não quer gastar com lâminas"
     notasCriterios:

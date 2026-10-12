@@ -6,6 +6,7 @@ import ScoreBadge from './ScoreBadge.astro';
 import ProsCons from './ProsCons.astro';
 import AffiliateButton from './AffiliateButton.astro';
 import ProductImage from './ProductImage.astro';
+import PrecoMercado from './PrecoMercado.astro';
 import { BADGES } from '@/site.config';
 import { slugify, produtoUrl, type Produto } from '@/lib/articles';
 interface Props { produto: Produto; posicao?: number; headingLevel?: 'h2' | 'h3'; mostrarEspecificacoes?: boolean; }
@@ -66,6 +67,7 @@ const specs = Object.entries(p.especificacoes).slice(0, 8);
           ))}
         </div>
       )}
+      {p.precoMercado && <PrecoMercado produto={p} class="mt-5" />}
       <div class="mt-5 flex flex-wrap items-center gap-3">
         <AffiliateButton produto={p} />
         {p.linksAlternativos?.length > 0 && (
@@ -73,7 +75,7 @@ const specs = Object.entries(p.especificacoes).slice(0, 8);
             {p.linksAlternativos.map((l) => <a href={l.url} class="chip text-xs" rel="sponsored nofollow noopener" target="_blank">{l.loja}</a>)}
           </span>
         )}
-        <span class="text-xs muted">Preço e disponibilidade atualizados na Amazon.{p.voltagem ? ' Confira a voltagem da sua região antes de comprar.' : ''}</span>
+        {p.voltagem && <span class="text-xs muted">Confira a voltagem da sua região antes de comprar.</span>}
       </div>
     </div>
   </div>

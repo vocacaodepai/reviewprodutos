@@ -61,6 +61,12 @@ produtos:
       "Conectividade": "Nenhuma (sem app, sem controle remoto)"
       "Garantia": "12 meses (produto) e 6 meses (bateria)"
     faixaPreco: "$"
+    precoMercado:
+      min: 570
+      max: 700
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Buscapé — WAP Robot W100 (comparação de lojas)", url: "https://www.buscape.com.br/aspirador-po-agua/aspirador-de-po-robo-wap-robot-w100-fw007429" }
     idealPara: "Apartamentos e casas pequenas de piso frio ou laminado, com pet de pelo curto, para limpeza diária de manutenção"
     naoIndicadoPara: "Casas grandes, tapetes felpudos, areia de gato e quem quer agendar pelo celular"
     notasCriterios:

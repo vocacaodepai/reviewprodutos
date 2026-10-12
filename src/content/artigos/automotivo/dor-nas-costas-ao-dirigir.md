@@ -53,6 +53,14 @@ produtos:
       "Registro Anvisa": "Sim (informado pelo fabricante)"
       "Garantia": "Legal de 90 dias; certificado da marca"
     faixaPreco: "$$"
+    precoMercado:
+      min: 130
+      max: 180
+      referencia: "2026-10"
+      fontes:
+        - { nome: "CliqueFarma — Suporte Terapêutico Posicionador Lombar Theva azul", url: "https://cliquefarma.com.br/preco/suporte-terapeutico-posicionador-lombar-theva-azul-com-1-unidade" }
+        - { nome: "Biohospitalar — Suporte Terapêutico Posicionador Lombar Theva", url: "https://www.biohospitalar.com.br/suporte-terapeutico-posicionador-lombar-theva-copespuma/" }
+        - { nome: "MedShop — Suporte Terapêutico Posicionador Lombar", url: "https://www.medshop.com.br/posicionadorlombar-medshop/p" }
     idealPara: "Quem sente a dor na cintura após 30 a 60 minutos ao volante e tem banco sem regulagem lombar"
     naoIndicadoPara: "Quem sente dor no cóccix ou no quadril, ou já tem apoio lombar elétrico no carro"
     notasCriterios:
@@ -93,6 +101,14 @@ produtos:
       "Fixação": "Antiderrapante (sem alça)"
       "Garantia": "Legal de 90 dias"
     faixaPreco: "$"
+    precoMercado:
+      min: 180
+      max: 210
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Santa Apolônia — Almofada para Cóccix Theva Copespuma", url: "https://www.santaapolonia.com.br/produtos/almofada-para-coccix-theva-viscoelastica-copespuma-2587000" }
+        - { nome: "Saúde Store — Almofada Anatômica Viscoelástico Cóccix", url: "https://www.saudestore.com.br/almofada-anatomica-viscoelastico-coccix-saude-store" }
+        - { nome: "Magazine Luiza — Almofada Cóccix Viscoelástico Theva", url: "https://www.magazineluiza.com.br/almofada-coccix-viscoelastico-theva-copespuma/p/hkk9aack4h/cm/alcm/" }
     idealPara: "Quem sente dor no cóccix, no quadril ou formigamento na perna e tem banco que afunda para trás"
     naoIndicadoPara: "Motoristas altos em carros com pouco espaço para a cabeça"
     notasCriterios:
@@ -133,6 +149,14 @@ produtos:
       "Fixação": "Elástico ajustável"
       "Garantia": "Legal de 90 dias; certificado da marca"
     faixaPreco: "$$$"
+    precoMercado:
+      min: 230
+      max: 280
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Mercado Livre — Almofada Assento Ortopédico Super Seat Theva", url: "https://www.mercadolivre.com.br/almofada-assento-ortopedico-super-seat-theva-copespuma/p/MLB28602749" }
+        - { nome: "Saúde Store — Almofada Super Seat Theva", url: "https://www.saudestore.com.br/almofada-super-seat-assento-e-encosto-para-coluna-theva" }
+        - { nome: "MedClean — Almofada Super Seat Theva Copespuma", url: "https://www.medcleanprodutohospitalar.com.br/almofada-super-seat-assento-e-encosto-para-coluna-theva-copespuma.html" }
     idealPara: "Motoristas de aplicativo, representantes e quem faz mais de 2 horas de carro por dia"
     naoIndicadoPara: "Carros com bancos esportivos ou lombar de fábrica muito marcada"
     notasCriterios:
@@ -171,6 +195,15 @@ produtos:
       "Fixação": "Sistema universal ajustável"
       "Garantia": "Legal de 90 dias"
     faixaPreco: "$$"
+    precoMercado:
+      min: 190
+      max: 310
+      referencia: "2026-10"
+      observacao: "Os preços variam bastante entre lojas de produtos ortopédicos e a disponibilidade de cada cor (preto ou cinza) muda com frequência."
+      fontes:
+        - { nome: "Droga Raia — Encosto Dinâmico Flexível Bio Coluna AC-010", url: "https://www.drogaraia.com.br/encosto-dinamico-flexivel-bio-coluna-cinza-ac-010-ortho-pauher-3468.html" }
+        - { nome: "MedicaStore — Encosto Ortopédico Bio Coluna AC010", url: "https://www.medicastore.com.br/encosto-ortopedico-bio-coluna-cinza-ac010-ortho-pauher" }
+        - { nome: "Saúde com Conforto — Encosto Ortopédico Bio Coluna AC-010", url: "https://saudecomconforto.com.br/encosto-ortopedico-bio-coluna-ac-010-ortho-pauher.html" }
     idealPara: "Quem dirige em cidades quentes, sua muito ou já tentou almofadas de espuma sem sucesso"
     naoIndicadoPara: "Quem quer um apoio discreto e macio ou tem banco estreito"
     notasCriterios:
@@ -212,6 +245,14 @@ produtos:
       "Garantia": "Legal de 90 dias; confirme com a marca"
     voltagem: "Bivolt"
     faixaPreco: "$$$"
+    precoMercado:
+      min: 360
+      max: 400
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Relaxmedic — loja oficial (Shiatsu Pillow RM-ES3838A)", url: "https://relaxmedic.com.br/products/almofada-massageadora-shiatsu-pillow-bivolt-relaxmedic-unica" }
+        - { nome: "Droga Raia — Almofada Massageadora Shiatsu Pillow", url: "https://www.drogaraia.com.br/almofada-massageadora-shiatsu-pillow-bivolt-relaxmedic-unica-915640.html" }
+        - { nome: "CliqueFarma — Shiatsu Pillow RM-ES3838A", url: "https://www.cliquefarma.com.br/preco/encosto-massageador-corporal-relaxmedic-shiatsu-pillow-rm-es3838a-bivolt" }
     idealPara: "Quem chega do trânsito com a musculatura travada e quer relaxar antes de sair do carro"
     naoIndicadoPara: "Quem busca apoio postural para usar enquanto dirige; pessoas com marca-passo ou gestantes sem orientação médica"
     notasCriterios:

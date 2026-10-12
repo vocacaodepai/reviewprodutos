@@ -56,6 +56,14 @@ produtos:
       - rotulo: "Versão 127V (AFN-40-BFS)"
         asin: "B0BBQ3GBX1"
     faixaPreco: "$"
+    precoMercado:
+      min: 250
+      max: 350
+      referencia: "2026-10"
+      observacao: "Preço varia entre lojas e voltagens; confira se a oferta é da versão 220 V (AFN-40-BI)."
+      fontes:
+        - { nome: "Buscapé — Air Fryer Mondial Family AFN-40-BI 4L", url: "https://www.buscape.com.br/fritadeira/fritadeira-eletrica-sem-oleo-mondial-air-fryer-family-afn-40-bi-capacidade-4l" }
+        - { nome: "Casas Bahia — Mondial AFN-40-BI 220 V", url: "https://www.casasbahia.com.br/fritadeira-sem-oleo-mondial-air-fryer-afn-40-bi-4-litros-1500w-preto-inox-220v/p/1521375824" }
     idealPara: "Casais e famílias de até 4 pessoas que querem a primeira air fryer barata e fácil de usar"
     naoIndicadoPara: "Quem quer painel digital, presets e muito silêncio, ou cozinha para 5+ pessoas"
     notasCriterios:

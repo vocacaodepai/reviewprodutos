@@ -50,6 +50,7 @@ if (!existsSync(DIST)) {
   let afiliados = 0;
   const proibidos = [
     [/como este conte[úu]do foi produzido/i, 'texto "Como este conteúdo foi produzido"'],
+    [/\bver pre[çc]o\b|link de afiliado ·/i, 'botão "Ver preço" ou aviso de afiliado fora do rodapé (regra do dono)'],
     [/(apoio|ajuda|uso) de (IA|intelig[êe]ncia artificial)|(feito|gerado|produzido|escrito|criado) (com|por) (IA|intelig[êe]ncia artificial)/i, 'menção ao uso de IA no conteúdo'],
   ];
   for (const f of html) {

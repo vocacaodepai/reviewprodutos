@@ -55,6 +55,14 @@ produtos:
       "Unidades": "50 por pacote (3,16 kg)"
       "Fabricante": "Chalesco / American Home & Pet (Brasil)"
     faixaPreco: "$$"
+    precoMercado:
+      min: 120
+      max: 170
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Drogasil — Tapete Higiênico Chalesco 50 unidades 60 x 90 cm", url: "https://www.drogasil.com.br/tapete-higienico-chalesco-c-50-unidades-60cm-x-90cm-1313610.html" }
+        - { nome: "Drogaria São Paulo — Tapete Higiênico Chalesco 50 unidades", url: "https://www.drogariasaopaulo.com.br/tapete-higienico-para-caes-chalesco-c-50-unidades-178956c213006yd6/p" }
+        - { nome: "Buscapé — Tapete Higiênico Chalesco 50 unidades", url: "https://www.buscape.com.br/higiene-perfumaria-caes-gatos/tapete-higienico-chalesco-para-caes-com-50-unidades" }
     idealPara: "Filhotes em adestramento, cães médios e grandes, tutores que passam o dia fora"
     naoIndicadoPara: "Quem quer zerar o lixo ou tem cão que rasga tapetes"
     notasCriterios:
@@ -102,6 +110,13 @@ produtos:
       "Unidades": "1 bandeja + 1 grade"
       "Fabricante": "Furacão Pet (Brasil)"
     faixaPreco: "$"
+    precoMercado:
+      min: 63
+      max: 73
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Petlove — Furacão Pet Dog Toalete Vermelho", url: "https://www.petlove.com.br/sanitario-higienico-furacao-pet-dog-toalete-vermelho-para-caes/p" }
+        - { nome: "Petlove — Furacão Pet Dog Toalete Azul", url: "https://www.petlove.com.br/sanitario-higienico-furacao-pet-dog-toalete-azul-para-caes/p" }
     idealPara: "Cães pequenos já adestrados, tutores em casa que lavam todo dia e querem zerar o lixo"
     naoIndicadoPara: "Cães médios e grandes, machos que levantam a perna, quem passa 10 horas fora"
     notasCriterios:

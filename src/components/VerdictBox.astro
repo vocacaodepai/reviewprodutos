@@ -16,7 +16,7 @@ const picks = destaques.length ? destaques : produtos.slice(0, Math.min(3, produ
   <div class="p-5 sm:p-6">
     <p class="text-[1.05rem] leading-relaxed">{veredito}</p>
     {tipo === 'review' && produtos[0] && (
-      <a href={produtoUrl(produtos[0])} rel="sponsored nofollow noopener" target="_blank" class="btn-buy mt-4" data-asin={produtos[0].asin} data-track="affiliate-click"><Icon name="cart" size={18} /> Ver preço na Amazon</a>
+      <a href={produtoUrl(produtos[0])} rel="sponsored nofollow noopener" target="_blank" class="btn-buy mt-4" data-asin={produtos[0].asin} data-track="affiliate-click"><Icon name="cart" size={18} /> Comprar agora na Amazon</a>
     )}
     {tipo !== 'review' && picks.length > 0 && (
       <ul class="mt-5 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
@@ -30,7 +30,7 @@ const picks = destaques.length ? destaques : produtos.slice(0, Math.min(3, produ
                 <span class="text-xs muted">Nota {formatNota(p.nota)}</span>
               </span>
             </a>
-            <a href={produtoUrl(p)} rel="sponsored nofollow noopener" target="_blank" class="btn-buy mt-3 py-2 text-sm" data-asin={p.asin} data-track="affiliate-click"><Icon name="cart" size={16} /> Ver preço</a>
+            <a href={produtoUrl(p)} rel="sponsored nofollow noopener" target="_blank" class="btn-buy mt-3 py-2 text-sm" data-asin={p.asin} data-track="affiliate-click"><Icon name="cart" size={16} /> Comprar agora</a>
           </li>
         ))}
       </ul>

@@ -56,6 +56,15 @@ produtos:
       "Lava-louças": "Sim"
       "Garantia": "Vitalícia (revendedores autorizados; não cobre amassados)"
     faixaPreco: "$$$"
+    precoMercado:
+      min: 200
+      max: 300
+      referencia: "2026-10"
+      observacao: "O preço muda conforme a cor, e algumas lojas estavam sem estoque na consulta."
+      fontes:
+        - { nome: "Mercado Livre — Stanley Flip Straw", url: "https://lista.mercadolivre.com.br/stanley-flip-straw" }
+        - { nome: "Empório da Garrafa — Stanley Flip Straw 887 ml", url: "https://emporiodagarrafa.com.br/products/tumbler-termico-flip-straw-stanley-887ml" }
+        - { nome: "Ciclone Magazine — Stanley Flip Straw 887 ml", url: "https://www.ciclonemagazine.com/tumbler-termico-stanley-flip-straw-887ml-cores-variadas" }
     idealPara: "Treino, trânsito e escritório: quem bebe o dia todo e quer abrir com uma mão"
     naoIndicadoPara: "Quem quer o mínimo de peças para limpar ou precisa de bebida quente"
     notasCriterios:
@@ -97,6 +106,19 @@ produtos:
       "Lava-louças": "Confira o manual da sua unidade"
       "Garantia": "Conforme política Coleman Brasil (revendedores autorizados)"
     faixaPreco: "$$"
+    precoMercado:
+      min: 160
+      max: 190
+      referencia: "2026-10"
+      historico:
+        - { periodo: "2025-10", min: 190, max: 200 }
+        - { periodo: "2026-01", min: 150, max: 190 }
+        - { periodo: "2026-04", min: 160, max: 180 }
+        - { periodo: "2026-07", min: 160, max: 190 }
+      tendencia: estavel
+      observacao: "Histórico: menor preço diário registrado em comparadores de preço."
+      fontes:
+        - { nome: "Zoom — Coleman FreeFlow AUTOSEAL 709 ml (ofertas e histórico de preços)", url: "https://www.zoom.com.br/garrafa-termica/garrafa-termica-709ml-freeflow-autoseal-coleman" }
     idealPara: "Academia, corrida e trabalho: quem quer beber com uma mão e não quer pagar faixa premium"
     naoIndicadoPara: "Quem detesta limpar tampa com mecanismo ou quer usar para café"
     notasCriterios:
@@ -137,6 +159,14 @@ produtos:
       "Lava-louças": "Sim"
       "Garantia": "Vitalícia (revendedores autorizados; não cobre amassados)"
     faixaPreco: "$$$"
+    precoMercado:
+      min: 290
+      max: 350
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Stanley 1913 — loja oficial, Classic Hammertone Green 0,95 L", url: "https://www.stanley1913.com.br/products/garrafa-termica-classic-hammertone-green-0-95l" }
+        - { nome: "Mercado Livre — Stanley Classic 950 ml Hammertone Green", url: "https://www.mercadolivre.com.br/garrafa-termica-stanley-classic-950-ml-de-aco-inoxidavel-hammertone-green/p/MLB15543619" }
+        - { nome: "Sulpec — Stanley Classic 950 ml Hammertone Green", url: "https://www.sulpec.com/garrafa-termica-classic-950ml-stanley-hammertone-green" }
     idealPara: "Trabalho de campo, trilha, acampamento e quem alterna água gelada e café"
     naoIndicadoPara: "Quem quer beber com uma mão no treino ou no carro"
     notasCriterios:
@@ -222,6 +252,13 @@ produtos:
       "Lava-louças": "Confira o manual da sua unidade"
       "Garantia": "Conforme política Pacco (não cobre amassados)"
     faixaPreco: "$$$"
+    precoMercado:
+      min: 250
+      max: 270
+      referencia: "2026-10"
+      observacao: "Edições temáticas e estampadas da linha Vyta custam mais."
+      fontes:
+        - { nome: "Buscapé — ofertas da Pacco Vyta 650 ml (Magazine Luiza)", url: "https://www.buscape.com.br/busca/garrafa+termica+vyta+650ml+pacco+preto" }
     idealPara: "Escritório e academia de quem quer uma garrafa compacta e bonita de marca nacional"
     naoIndicadoPara: "Treinos longos ou dia de praia sem reabastecer: 650 ml acabam rápido"
     notasCriterios:
@@ -262,6 +299,14 @@ produtos:
       "Lava-louças": "Confira o manual da sua unidade"
       "Garantia": "Conforme política Coleman Brasil (revendedores autorizados)"
     faixaPreco: "$$"
+    precoMercado:
+      min: 230
+      max: 320
+      referencia: "2026-10"
+      observacao: "Algumas lojas anunciam o mesmo Growler como 1,9 L."
+      fontes:
+        - { nome: "Buscapé — ofertas do Coleman Growler", url: "https://www.buscape.com.br/busca/growler+coleman+1%2C9" }
+        - { nome: "Mercado Livre — Coleman Growler preto", url: "https://mercadolivre.com.br/sec/1Gzz98Y" }
     idealPara: "Praia, churrasco e acampamento em grupo; quem quer uma única garrafa para a família"
     naoIndicadoPara: "Uso individual, treino ou quem quer beber direto do gargalo"
     notasCriterios:

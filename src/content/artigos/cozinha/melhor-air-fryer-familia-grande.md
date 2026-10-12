@@ -58,6 +58,12 @@ produtos:
       "Peso": "5,5 kg"
       "Garantia": "12 meses"
     faixaPreco: "$$"
+    precoMercado:
+      min: 340
+      max: 390
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Zoom — Electrolux EAF50 (comparação de lojas e histórico)", url: "https://www.zoom.com.br/fritadeira/fritadeira-eletrica-sem-oleo-electrolux-efficient-eaf50-5l" }
     idealPara: "Famílias de 4 a 6 pessoas que querem fazer uma refeição inteira de uma vez"
     naoIndicadoPara: "Cozinhas pequenas e quem mora sozinho"
     notasCriterios:
@@ -106,6 +112,13 @@ produtos:
       "Tomada": "20 A"
       "Garantia": "12 meses"
     faixaPreco: "$"
+    precoMercado:
+      min: 300
+      max: 470
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Zoom — Mondial Grand Family AFN-50-BI (comparação de lojas)", url: "https://www.zoom.com.br/fritadeira/fritadeira-eletrica-sem-oleo-mondial-grand-family-inox-af-50-capacidade-total-5l-timer-com-desligamento-automatico" }
+        - { nome: "Zoom — ofertas da Mondial AFN-50-BI", url: "https://www.zoom.com.br/busca/air+fryer+mondial+afn-50-bi" }
     idealPara: "Famílias de 4 a 5 pessoas que querem capacidade e potência pagando pouco"
     naoIndicadoPara: "Quem quer painel digital ou prioriza baixo consumo de energia"
     notasCriterios:
@@ -148,6 +161,13 @@ produtos:
       "Dimensões (P x L x A)": "42 x 31,5 x 28 cm"
       "Garantia": "12 meses"
     faixaPreco: "$$"
+    precoMercado:
+      min: 350
+      max: 380
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Midea — loja oficial (WideMax 5,5 L)", url: "https://www.midea.com.br/fritadeira-air-fryer-5-5l-widemax-preto-e-inox-midea/p" }
+        - { nome: "Zoom — ofertas da Midea WideMax FWM55P1", url: "https://www.zoom.com.br/busca/fwm55p1" }
     idealPara: "Famílias de 4 a 6 pessoas com armários baixos ou bancada estreita em altura"
     naoIndicadoPara: "Quem precisa de 220 V e não encontra a versão FWM55P2"
     notasCriterios:
@@ -193,6 +213,12 @@ produtos:
       "Peso": "4,6 kg"
       "Garantia": "12 meses"
     faixaPreco: "$$$"
+    precoMercado:
+      min: 450
+      max: 560
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Zoom — Oster OFRT930 (comparação de lojas e histórico)", url: "https://www.zoom.com.br/fritadeira/fritadeira-digital-inox-oster-5l-com-painel-touch-ofrt930" }
     idealPara: "Quem quer painel digital, presets e visual de inox para deixar à mostra"
     naoIndicadoPara: "Quem prioriza preço ou precisa da potência máxima em 110 V"
     notasCriterios:
@@ -237,6 +263,13 @@ produtos:
       "Dimensões (P x L x A)": "35,4 x 28,5 x 33,5 cm"
       "Garantia": "12 meses"
     faixaPreco: "$"
+    precoMercado:
+      min: 280
+      max: 350
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Zoom — Britânia BAF45A (comparação de lojas e histórico)", url: "https://www.zoom.com.br/fritadeira/fritadeira-air-fryer-britania-baf45a-5l-1500w-antiaderente-gold-tecnol" }
+        - { nome: "Britânia — loja oficial", url: "https://www.britania.com.br/fritadeira-air-fryer-baf45a-127v-063801122/p" }
     idealPara: "Famílias que querem 5 litros pelo menor investimento e não têm pressa"
     naoIndicadoPara: "Quem faz carnes grandes com frequência e quer rapidez"
     notasCriterios:
@@ -276,6 +309,13 @@ produtos:
       "Dimensões (P x L x A)": "28,5 x 33 x 32,5 cm"
       "Garantia": "12 meses"
     faixaPreco: "$$"
+    precoMercado:
+      min: 390
+      max: 450
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Zoom — Philco Gourmet Black Plus PFR16P", url: "https://www.zoom.com.br/fritadeira/fritadeira-eletrica-sem-oleo-philco-gourmet-black-plus-pfr16p-capacidade-5l-display-digital" }
+        - { nome: "Zoom — ofertas da Philco PFR16P", url: "https://www.zoom.com.br/busca/air+fryer+philco+pfr16p" }
     idealPara: "Quem quer potência e painel digital na faixa intermediária e cuida da garantia"
     naoIndicadoPara: "Quem prioriza histórico de durabilidade acima de recursos"
     notasCriterios:

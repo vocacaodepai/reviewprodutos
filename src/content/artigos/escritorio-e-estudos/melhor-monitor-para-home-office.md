@@ -57,6 +57,13 @@ produtos:
       "VESA": "100 x 100 mm"
       "Garantia": "3 anos"
     faixaPreco: "$$$"
+    precoMercado:
+      min: 1100
+      max: 1450
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Buscapé — Dell Pro 24 Plus P2425H (comparação de lojas)", url: "https://www.buscape.com.br/monitor/monitor-dell-de-24-p2425h" }
+        - { nome: "Buscapé — ofertas do Dell P2425H", url: "https://www.buscape.com.br/busca/dell%20p2425h" }
     idealPara: "Quem passa 8 horas por dia em texto, planilhas e videochamadas e quer o monitor que mais cuida dos olhos, com garantia longa"
     naoIndicadoPara: "Quem precisa de USB-C com carregamento ou de mais área de trabalho do que um Full HD de 24 polegadas oferece"
     notasCriterios:
@@ -144,6 +151,12 @@ produtos:
       "VESA": "100 x 100 mm"
       "Garantia": "1 ano"
     faixaPreco: "$$"
+    precoMercado:
+      min: 800
+      max: 950
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Buscapé — LG 24BL550J-B (comparação de lojas)", url: "https://www.buscape.com.br/monitor/monitor-ips-23-8-lg-full-hd-24bl550j-b" }
     idealPara: "Quem quer painel IPS e ajuste completo de altura pagando o justo, para texto, planilhas e reuniões"
     naoIndicadoPara: "Quem precisa de hub USB, USB-C ou 100 Hz"
     notasCriterios:
@@ -186,6 +199,12 @@ produtos:
       "VESA": "100 x 100 mm"
       "Garantia": "1 ano"
     faixaPreco: "$$"
+    precoMercado:
+      min: 830
+      max: 1150
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Buscapé — ofertas do Samsung Essential S4 LS24D400GALMZD", url: "https://www.buscape.com.br/busca/LS24D400GALMZD" }
     idealPara: "Quem alterna notebook e desktop no mesmo monitor e quer 100 Hz com hub USB sem pagar o preço da Dell"
     naoIndicadoPara: "Quem exige confirmação de painel IPS na ficha ou precisa de USB-C"
     notasCriterios:
@@ -228,6 +247,13 @@ produtos:
       "VESA": "100 x 100 mm"
       "Garantia": "1 ano"
     faixaPreco: "$"
+    precoMercado:
+      min: 690
+      max: 950
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Buscapé — ofertas do AOC 24B3HMF2", url: "https://www.buscape.com.br/busca/aoc%2024b3hmf2" }
+        - { nome: "Buscapé — AOC 24B3HMF2 (comparação de lojas)", url: "https://www.buscape.com.br/monitor/monitor-aoc-24-led-full-hd-100hz-led-hdmi-24b3hmf2" }
     idealPara: "Quem precisa de um monitor com ajuste de altura gastando o mínimo, para texto e navegação"
     naoIndicadoPara: "Quem trabalha com cor, precisa de duas entradas ou olha a tela de lado em reuniões"
     notasCriterios:

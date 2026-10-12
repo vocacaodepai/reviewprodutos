@@ -57,6 +57,13 @@ produtos:
       "Peso": "0,96 kg"
       "Garantia": "12 meses (Harman do Brasil)"
     faixaPreco: "$$$"
+    precoMercado:
+      min: 720
+      max: 850
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Buscapé — comparador de preços", url: "https://www.buscape.com.br/caixa-de-som-bluetooth/caixa-de-som-bluetooth-jbl-charge-5" }
+        - { nome: "Pichau", url: "https://www.pichau.com.br/caixa-de-som-jbl-charge-5-bluetooth-preto-jblcharge5blk" }
     idealPara: "Grupos de 5 a 15 pessoas que querem som o dia todo e um socorro de bateria para o celular"
     naoIndicadoPara: "Quem quer o menor volume possível na mochila ou precisa de entrada por cabo"
     notasCriterios:
@@ -100,6 +107,12 @@ produtos:
       "Rodas e dreno": "Não"
       "Garantia": "Conforme política Coleman Brasil (revendedores autorizados)"
     faixaPreco: "$$"
+    precoMercado:
+      min: 350
+      max: 400
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Centauro", url: "https://www.centauro.com.br/nav/produto/caixatermica" }
     idealPara: "Grupos de 6 a 12 pessoas em dia inteiro de praia, churrasco ou acampamento"
     naoIndicadoPara: "Quem vai a pé ou de ônibus e precisa de algo com rodas ou mais leve"
     notasCriterios:
@@ -180,6 +193,12 @@ produtos:
       "Uso": "Não indicado para chuva ou vento forte"
       "Garantia": "90 dias (legal)"
     faixaPreco: "$$"
+    precoMercado:
+      min: 180
+      max: 200
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Zoom — comparador de preços", url: "https://www.zoom.com.br/guarda-sol-ombrelone?page=11" }
     idealPara: "Famílias ou grupos de 3 a 4 pessoas que vão de carro e querem sombra de verdade"
     naoIndicadoPara: "Praias com vento constante sem saca-areia ou quem vai a pé e quer algo leve"
     notasCriterios:
@@ -224,6 +243,14 @@ produtos:
       "Tecido": "Sannet (poliéster com PVC)"
       "Garantia": "90 dias (legal)"
     faixaPreco: "$"
+    precoMercado:
+      min: 120
+      max: 130
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Ponto Frio", url: "https://www.pontofrio.com.br/cadeira-de-praia-piscina-reclinavel-8-posicoes-aluminio-mor-cor-azul-azul/p/1564286690" }
+        - { nome: "Extra", url: "https://www.extra.com.br/cadeira-de-praia-piscina-reclinavel-8-posicoes-azul-marinho/p/1568501052" }
+        - { nome: "Escorrega o Preço (Magazine Luiza)", url: "https://escorregaopreco.com.br/ofertas/magazineluiza/1395931" }
     idealPara: "Quem quer uma cadeira leve e barata que não enferruje em poucos verões"
     naoIndicadoPara: "Pessoas acima de 90 kg ou quem quer porta-copo e apoio de cabeça"
     notasCriterios:

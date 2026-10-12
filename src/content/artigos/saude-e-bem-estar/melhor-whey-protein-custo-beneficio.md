@@ -53,6 +53,14 @@ produtos:
       "Proteína por pote": "≈ 690 g"
       "Lactose": "Contém"
     faixaPreco: "$$"
+    precoMercado:
+      min: 190
+      max: 240
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Zoom — Dux Whey Protein Concentrado 900 g Chocolate", url: "https://www.zoom.com.br/suplementos/whey-protein-concentrado-900g-chocolate-dux-nutrition" }
+        - { nome: "Enutri — Dux Whey Protein Concentrado Chocolate 900 g", url: "https://enutri.com.br/products/whey-protein-concentrado-chocolate-900g-dux-nutrition" }
+        - { nome: "Corpo Ideal Suplementos — Dux Whey Protein Concentrado 900 g", url: "https://www.corpoidealsuplementos.com.br/suplementos/proteinas/whey-protein/whey-protein-concentrado-900g-dux" }
     idealPara: "Quem quer o máximo de proteína por dose num concentrado nacional e aceita pagar um pouco mais"
     naoIndicadoPara: "Intolerantes à lactose e quem quer o menor preço possível"
     notasCriterios:
@@ -92,6 +100,14 @@ produtos:
       "Proteína por pote": "≈ 630 g"
       "Lactose": "Contém"
     faixaPreco: "$"
+    precoMercado:
+      min: 140
+      max: 210
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Drogalider — 100% Whey Max Titanium 900 g Chocolate", url: "https://www.drogalider.com.br/100-whey-900g-chocolate-max-titanium/p" }
+        - { nome: "Drogasil — 100% Whey Max Titanium Chocolate 900 g pote", url: "https://www.drogasil.com.br/100-whey-max-titanium-proteinas-proteinas-sabor-chocolate-x-900g-pote-1475322.html" }
+        - { nome: "Alexfarma — Whey 100% Chocolate 900 g Max Titanium", url: "https://www.alexfarma.com.br/whey-100--chocolate-900g-max-titanium/p" }
     idealPara: "Quem está começando e quer um concentrado honesto gastando pouco"
     naoIndicadoPara: "Quem precisa de whey sem lactose ou quer mais de 21 g por dose"
     notasCriterios:
@@ -131,6 +147,14 @@ produtos:
       "Proteína por pote": "≈ 720 g"
       "Lactose": "Contém (baixo teor)"
     faixaPreco: "$$$"
+    precoMercado:
+      min: 370
+      max: 420
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Buscapé — Gold Standard 100% Whey 907 g Double Rich Chocolate", url: "https://www.buscape.com.br/busca/gold+standard+whey+907g+double+rich+chocolate" }
+        - { nome: "Drogasil — Gold Standard Double Rich Chocolate 907 g", url: "https://www.drogasil.com.br/100-whey-protein-gold-standard-double-rich-chocolate-optimum-nutrition-907g-2-lb-1483075.html" }
+        - { nome: "Otimanutri — Gold Standard 907 g Double Rich Chocolate", url: "https://www.otimanutri.com.br/whey-protein-100-gold-standard-907g-double-rich-chocolate-optimum-nutrition-1420" }
     idealPara: "Quem quer o whey mais estudado do mundo e não se importa de pagar por isso"
     naoIndicadoPara: "Quem está começando e quer economizar"
     notasCriterios:
@@ -170,6 +194,14 @@ produtos:
       "Proteína por pote": "≈ 630 g"
       "Lactose": "Contém"
     faixaPreco: "$"
+    precoMercado:
+      min: 130
+      max: 180
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Mercado Livre — Probiótica 100% Pure Whey Chocolate pote 900 g", url: "https://www.mercadolivre.com.br/suplemento-em-po-probiotica-100-pure-whey-sabor-chocolate-pote-de-900g/p/MLB6254051" }
+        - { nome: "Drogaraia — 100% Pure Whey Chocolate Probiótica 900 g", url: "https://www.drogaraia.com.br/100-pure-whey-chocolate-probiotica-900g-pote-1483637.html" }
+        - { nome: "Drogaclara — 100% Pure Whey Probiótica Chocolate 900 g", url: "https://www.drogaclara.com.br/pure-whey-probiotica-100-chocolate-900g-p78570-p43257" }
     idealPara: "Quem quer um concentrado barato e conhecido, ou precisa da versão zero lactose da mesma linha"
     naoIndicadoPara: "Celíacos (a versão comum contém glúten, segundo as lojas)"
     notasCriterios:
@@ -208,6 +240,14 @@ produtos:
       "Proteína por pote": "≈ 635 g"
       "Lactose": "Contém"
     faixaPreco: "$"
+    precoMercado:
+      min: 120
+      max: 180
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Drogaven — Integralmédica Whey 100% Pure Chocolate pote", url: "https://www.drogaven.com.br/super-whey-100-pure-chocolate-pote-com-907g/p" }
+        - { nome: "Farmácia Brito — Whey 100% Pure Integralmédica 907 g Chocolate", url: "https://www.farmaciabrito.com.br/whey-100-pure-integralmedica-907g-chocolate/p" }
+        - { nome: "Pague Menos — Whey 100% Pure Integral Chocolate 900 g", url: "https://www.paguemenos.com.br/whey-100porcento-pure-integral-chocolate-900g/p" }
     idealPara: "Quem quer um concentrado sem glúten de marca tradicional por preço de entrada"
     naoIndicadoPara: "Quem prefere marcas sem nenhum questionamento recente de laudo"
     notasCriterios:
@@ -245,6 +285,13 @@ produtos:
       "Proteína por pote": "≈ 630 g"
       "Lactose": "Contém"
     faixaPreco: "$"
+    precoMercado:
+      min: 100
+      max: 130
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Americanas — Whey 100% HD Black Skull Chocolate pote 900 g", url: "https://www.americanas.com.br/whey-100-hd-black-skull-chocolate-pote-900g-4959850371/p" }
+        - { nome: "Magazine Luiza — busca Whey 100% HD 900 g Black Skull", url: "https://www.magazineluiza.com.br/busca/whey+100+hd+900g+black+skull/" }
     idealPara: "Quem prioriza sabor e já tem boa ingestão de proteína na dieta"
     naoIndicadoPara: "Quem quer o máximo de proteína do soro do leite por real investido"
     notasCriterios:

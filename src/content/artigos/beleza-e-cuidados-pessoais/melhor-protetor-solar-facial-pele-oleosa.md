@@ -58,6 +58,13 @@ produtos:
       "Não comedogênico": "Não informado na ficha oficial"
       "Tons": "Sem cor; versão com cor 1.0 a 4.0"
     faixaPreco: "$$$"
+    precoMercado:
+      min: 77
+      max: 95
+      referencia: "2026-10"
+      fontes:
+        - { nome: "CliqueFarma — comparador de preços", url: "https://www.cliquefarma.com.br/dermocosmeticos/protecao-solar-dermo/facial/protetor-solar-la-rocheposay-anthelios-airlicium-sem-cor-fps80-40g-panvel-farmacias" }
+        - { nome: "Drogasil", url: "https://www.drogasil.com.br/protetor-solar-anthelios-airlicium-fps-80-sem-cor-40g-la-roche-posay-902954.html" }
     idealPara: "Pele muito oleosa que brilha antes do almoço e quer a proteção mais alta disponível"
     naoIndicadoPara: "Pele sensível a fragrância ou quem precisa de bisnaga grande para o corpo"
     notasCriterios:
@@ -103,6 +110,13 @@ produtos:
       "Não comedogênico": "Sim (declarado)"
       "Tons": "Sem cor, clara, morena, morena mais, negra"
     faixaPreco: "$$"
+    precoMercado:
+      min: 70
+      max: 100
+      referencia: "2026-10"
+      fontes:
+        - { nome: "CliqueFarma — comparador de preços", url: "https://www.cliquefarma.com.br/dermocosmeticos/protecao-solar-dermo/facial/protetor-solar-facial-neostrata-minesol-oil-control-pele-morena-fps70-40g" }
+        - { nome: "CliqueFarma — comparador de preços (tom médio escuro)", url: "https://www.cliquefarma.com.br/dermocosmeticos/protecao-solar-dermo/facial/protetor-solar-facial-neostrata-minesol-oil-control-pele-morena-mais-fps70-40g" }
     idealPara: "Quem quer proteção alta e acabamento matte o dia todo sem pagar faixa premium"
     naoIndicadoPara: "Quem prefere textura aquosa ou precisa do PPD declarado no rótulo"
     notasCriterios:
@@ -144,6 +158,13 @@ produtos:
       "Ativos": "Niacinamida, ácido salicílico, sarcosina"
       "Tons": "Sem cor, 2.0, 4.0"
     faixaPreco: "$$"
+    precoMercado:
+      min: 85
+      max: 120
+      referencia: "2026-10"
+      fontes:
+        - { nome: "CliqueFarma — comparador de preços", url: "https://www.cliquefarma.com.br/dermocosmeticos/protecao-solar-dermo/facial/protetor-solar-vichy-capital-soleil-uvclear-fps-60-antioleosidade-40g-sem-cor" }
+        - { nome: "Droga Raia", url: "https://www.drogaraia.com.br/vichy-capital-soleil-uv-clear-protetor-solar-sem-cor-fps60-40g-1147341.html" }
     idealPara: "Pele oleosa com cravos e espinhas que quer um protetor que ajude no tratamento"
     naoIndicadoPara: "Pele sensível a álcool e fragrância ou em tratamento dermatológico com ácidos fortes"
     notasCriterios:
@@ -185,6 +206,14 @@ produtos:
       "Não comedogênico": "Sim (declarado)"
       "Tons": "Sem cor"
     faixaPreco: "$$$"
+    precoMercado:
+      min: 85
+      max: 120
+      referencia: "2026-10"
+      fontes:
+        - { nome: "CliqueFarma — comparador de preços", url: "https://www.cliquefarma.com.br/dermocosmeticos/protecao-solar-dermo/facial/protetor-solar-isdin-fusion-water-oil-control-fps60-50ml" }
+        - { nome: "Drogasil", url: "https://www.drogasil.com.br/protetor-solar-oil-control-isdin-fusionwater-5-stars-fps60-50ml-617367.html" }
+        - { nome: "Preço Popular", url: "https://www.precopopular.com.br/protetor-solar-isdin-fusion-water-oil-control-fps60-50ml/p" }
     idealPara: "Quem pratica esporte, sua muito ou reaplica com frequência e detesta sensação de peso"
     naoIndicadoPara: "Quem tem oleosidade intensa e quer o acabamento mais matte possível"
     notasCriterios:
@@ -226,6 +255,14 @@ produtos:
       "Não comedogênico": "Não informado"
       "Tons": "Sem cor"
     faixaPreco: "$"
+    precoMercado:
+      min: 35
+      max: 50
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Buscapé — comparador de preços", url: "https://www.buscape.com.br/protetor-solar/nivea-sun-protetor-solar-facial-toque-seco-antissinais-fps-70-40ml-com-muito-alta-protecao-contra-raios-uva-uvb-controla-o-brilho-e-previne-o-envelhecimento-precoce-com-toque-seco-e-textura-nao-oleosa" }
+        - { nome: "Drogasil", url: "https://www.drogasil.com.br/protetor-solar-facial-nivea-sun-toque-seco-antissinais-fps70-40ml-879165.html" }
+        - { nome: "Preço Popular", url: "https://www.precopopular.com.br/protetor-solar-facial-nivea-sun-antissinais-toque-seco-fps-70-40ml/p" }
     idealPara: "Quem precisa de FPS alto todo dia e quer gastar pouco; pele mista com brilho moderado"
     naoIndicadoPara: "Pele muito oleosa ou acneica que precisa de controle de sebo de longa duração"
     notasCriterios:

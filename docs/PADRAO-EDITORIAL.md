@@ -24,7 +24,7 @@
 
 - **Direto e útil.** Resposta antes da explicação. Frases curtas. Segunda pessoa ("você").
 - **Honesto.** Defeitos entram no texto com o mesmo peso dos elogios. Produto ruim recebe nota ruim mesmo com link de afiliado.
-- **Brasileiro.** Vocabulário nativo: "custo-benefício", "vale a pena", "é bom?", "para quem é", "pontos de atenção", "ficha técnica", "a partir de". CTA: "Ver preço na Amazon" (nunca "Comprar agora"). Evitar anglicismos ("top picks", "budget pick").
+- **Brasileiro.** Vocabulário nativo: "custo-benefício", "vale a pena", "é bom?", "para quem é", "pontos de atenção", "ficha técnica", "a partir de". CTA: "Comprar agora na Amazon" (o leitor chega para comprar; os botões levam direto à página do produto). Evitar anglicismos ("top picks", "budget pick").
 - **Transparente sobre o método.** Quando não houve teste físico, o artigo diz que a análise se baseia em especificações oficiais, fontes especializadas e relatos públicos de consumidores fora da Amazon. Nunca escrever "testamos" sem `testadoFisicamente: true`.
 - **Sem exagero.** Proibidos: "o melhor do mundo", "imperdível", "promoção", "corra", promessas de cura, superlativos sem evidência.
 - **Cauteloso em saúde e bebê (YMYL).** Linguagem informativa, "quando procurar um profissional", disclaimer automático do layout, nenhum produto medicamentoso.
@@ -152,9 +152,9 @@ Categorias e subcategorias em `src/data/categorias.json` (ids/slugs são imutáv
 
 ## 8. Regras de afiliado e divulgação (Programa de Associados da Amazon Brasil)
 
-1. **Divulgação exata** (cláusula 5 do Contrato Operacional): "Como participante do Programa de Associados da Amazon, sou remunerado pelas compras qualificadas efetuadas." Exibida pelo layout no topo (antes do primeiro link), no fim e no rodapé, mais a página `/divulgacao-de-afiliados/`. Todo botão de compra leva o micro-rótulo "Link de afiliado · Publicidade" (CONAR 2026).
+1. **Divulgação exata** (cláusula 5 do Contrato Operacional): "Como participante do Programa de Associados da Amazon, sou remunerado pelas compras qualificadas efetuadas." Por decisão do dono, aparece **só no rodapé de todas as páginas** (bloco "Transparência") e na página /divulgacao-de-afiliados/. Os artigos não repetem avisos de publicidade nem rótulos "Link de afiliado" junto aos botões; os links continuam com `rel="sponsored"`.
 2. **Links:** sempre `https://www.amazon.com.br/dp/ASIN?tag=<tag>`, gerados pelo componente a partir do `asin`; `rel="sponsored nofollow noopener"`, nova aba. Proibidos: encurtadores, redirecionamentos internos, links no corpo do texto, links em PDF/e-mail não solicitado/pop-up.
-3. **Preços e disponibilidade:** nunca em texto. Só faixa qualitativa. Preço real somente quando a Creators API estiver ativa, com data/hora e aviso de alteração.
+3. **Preços:** nunca o preço da Amazon (só via Creators API, com data/hora). Cada produto traz uma **estimativa de preço de mercado** no campo `precoMercado` (faixa típica nas principais lojas no mês de referência, histórico dos últimos meses quando houver, tendência e fontes de comparadores como Buscapé, Zoom e Google Shopping). O layout mostra a faixa e a variação no card do produto e, em comparativos e listas, compara a variação de preço entre os produtos. Valores em R$ só no `precoMercado`, nunca no corpo do texto (o validador bloqueia). Faixas arredondadas; sem histórico confiável, sem `historico`; sem dado confiável nenhum, sem `precoMercado`.
 4. **Avaliações de clientes da Amazon:** não exibir, copiar ou parafrasear notas, estrelas, quantidade de avaliações ou trechos. `avaliacaoConsumidores` só com `fonte` não-Amazon (Reclame Aqui, Buscapé, Proteste).
 5. **Promoções:** proibidas as palavras cupom, frete grátis, menor preço, "% de desconto", "em promoção" em texto corrido (o validador bloqueia). Conteúdo sazonal fala de "época de ofertas" sem prometer valores.
 6. **Marca Amazon:** só o nome em texto; nunca "recomendado pela Amazon" ou "parceiro oficial".

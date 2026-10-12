@@ -63,6 +63,14 @@ produtos:
       "Cores no Brasil": "Preta, branca e azul"
       "Garantia": "12 meses"
     faixaPreco: "$$"
+    precoMercado:
+      min: 340
+      max: 450
+      referencia: "2026-10"
+      observacao: "Fora da loja da fabricante, o aparelho é vendido sobretudo por revendedores, e o preço varia bastante entre anúncios."
+      fontes:
+        - { nome: "Zoom — Echo Dot 5ª geração (histórico de preços de outras lojas)", url: "https://www.zoom.com.br/smart-speaker/echo-dot-5-geracao-smart-speaker-com-alexa" }
+        - { nome: "Buscapé — Echo Dot 5ª geração (Magazine Luiza e outras lojas)", url: "https://www.buscape.com.br/smart-speaker/smart-speaker-amazon-echo-dot-5-geracao-alexa" }
     idealPara: "Sala, cozinha integrada e quem quer rotinas por temperatura ou pausar a música com um toque"
     naoIndicadoPara: "Quem precisa de saída P2 para ligar em um aparelho de som ou de hub Zigbee"
     notasCriterios:
@@ -113,6 +121,14 @@ produtos:
       "Cores no Brasil": "Preta e branca"
       "Garantia": "12 meses"
     faixaPreco: "$"
+    precoMercado:
+      min: 330
+      max: 390
+      referencia: "2026-10"
+      observacao: "Costuma ficar mais barato em datas promocionais como Black Friday."
+      fontes:
+        - { nome: "Buscapé — comparador de preços", url: "https://www.buscape.com.br/smart-speaker/smart-speaker-amazon-echo-pop-alexa" }
+        - { nome: "Zoom — comparador de preços", url: "https://www.zoom.com.br/smart-speaker/smart-speaker-amazon-echo-pop-alexa" }
     idealPara: "Quarto, escritório, cozinha pequena e segunda Alexa para completar a casa"
     naoIndicadoPara: "Sala grande como caixa principal de música e quem quer automações por temperatura"
     notasCriterios:
