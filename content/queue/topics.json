@@ -174,7 +174,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "fonte-petlon-2l-e-boa",
+      "published_at": "2026-10-12"
     },
     {
       "id": "esportes-e-lazer-review-001",
@@ -248,7 +250,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "kindle-paperwhite-vale-a-pena",
+      "published_at": "2026-10-12"
     },
     {
       "id": "moda-e-acessorios-review-001",
@@ -270,7 +274,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "casio-f-91w-vale-a-pena",
+      "published_at": "2026-10-12"
     },
     {
       "id": "tecnologia-review-002",
@@ -585,7 +591,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "ventilador-de-teto-ou-ar-condicionado",
+      "published_at": "2026-10-12"
     },
     {
       "id": "cozinha-comparativo-001",
@@ -637,7 +645,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "melhor-almofada-ortopedica-assento",
+      "published_at": "2026-10-12"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-001",
