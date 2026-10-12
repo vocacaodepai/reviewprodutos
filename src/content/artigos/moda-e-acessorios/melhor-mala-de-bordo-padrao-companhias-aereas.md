@@ -54,6 +54,13 @@ produtos:
       "Expansível": "Sim (zíper de expansão)"
       "Garantia": "5 anos"
     faixaPreco: "$$$"
+    precoMercado:
+      min: 750
+      max: 850
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Samsonite Brasil — Mala Pequena Bahia Lite EXP", url: "https://samsonite.com.br/products/mala-pequena-bahia-lite-exp-azul-marinho" }
+        - { nome: "Mercado Livre — Samsonite Bahia Lite EXP Pequena Preta", url: "https://www.mercadolivre.com.br/mala-samsonite-bahia-lite-exp-pequena-preta/p/MLB51430805" }
     idealPara: "Quem viaja várias vezes por ano, inclusive para fora do país, e quer leveza e garantia longa"
     naoIndicadoPara: "Quem viaja uma ou duas vezes por ano e não quer pagar faixa premium"
     notasCriterios:
@@ -209,6 +216,13 @@ produtos:
       "Expansível": "Não"
       "Garantia": "3 meses"
     faixaPreco: "$"
+    precoMercado:
+      min: 200
+      max: 250
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Casas Bahia — Swiss Move Londres Preto", url: "https://www.casasbahia.com.br/mala-de-bordo-pequena-abs-rodas-giratorias-360o-londres-preto-swiss-move/p/1582918209" }
+        - { nome: "Zoom — malas (Swiss Move Londres P Preto)", url: "https://www.zoom.com.br/mala/tipo-mala?page=14" }
     idealPara: "Quem viaja uma ou duas vezes por ano em voos nacionais e quer a mala mais barata que passe no gabarito"
     naoIndicadoPara: "Quem viaja com frequência ou despacha a mala com regularidade"
     notasCriterios:

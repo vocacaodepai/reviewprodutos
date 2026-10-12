@@ -60,6 +60,13 @@ produtos:
       "Potência": "55 W"
       "Garantia": "Varia conforme o vendedor; exija garantia nacional"
     faixaPreco: "$$"
+    precoMercado:
+      min: 1000
+      max: 1200
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Buscapé — Xiaomi S40C", url: "https://www.buscape.com.br/aspirador-po-agua/robo-aspirador-xiaomi-s40c-robot-5000pa-mop-smart" }
+        - { nome: "Magazine Luiza — busca Xiaomi S40C", url: "https://m.magazineluiza.com.br/busca/s40c+da+xiaomi/" }
     idealPara: "Apartamentos e casas de até uns 100 m² com vários cômodos, quem quer agendar pelo celular e aspirar e passar pano numa passada só"
     naoIndicadoPara: "Quem não abre mão de assistência autorizada da marca perto de casa ou tem móveis com vão menor que 10 cm"
     notasCriterios:
@@ -198,6 +205,12 @@ produtos:
       "Potência": "17 W"
       "Garantia": "12 meses (bateria: 6 meses)"
     faixaPreco: "$"
+    precoMercado:
+      min: 560
+      max: 700
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Buscapé — WAP Robot W100", url: "https://www.buscape.com.br/aspirador-po-agua/aspirador-de-po-robo-wap-robot-w100-fw007429" }
     idealPara: "Apartamentos pequenos de piso frio ou laminado, com pet de pelo curto, para manutenção diária"
     naoIndicadoPara: "Casas com tapetes, muitos cômodos ou quem quer agendar pelo celular"
     notasCriterios:
@@ -243,6 +256,14 @@ produtos:
       "Potência": "40 W"
       "Garantia": "12 meses"
     faixaPreco: "$"
+    precoMercado:
+      min: 530
+      max: 600
+      referencia: "2026-10"
+      observacao: "O preço de tabela gira em torno de R$ 780; a faixa acima reflete as ofertas mais comuns nas lojas."
+      fontes:
+        - { nome: "Buscapé — Electrolux ERB10", url: "https://www.buscape.com.br/aspirador-po-agua/aspirador-de-po-robo-electrolux-erb10" }
+        - { nome: "Extra — Electrolux ERB10", url: "https://www.extra.com.br/robo-aspirador-de-po-electrolux-home-e-speed-experience-com-autonomous-technology-erb10/p/1556860494" }
     idealPara: "Quem tem móveis muito baixos, alergia a poeira e prefere uma marca com assistência ampla"
     naoIndicadoPara: "Quem quer ligar o robô e esquecer, ou trabalha em casa e se incomoda com barulho"
     notasCriterios:
@@ -287,6 +308,14 @@ produtos:
       "Potência": "30 W"
       "Garantia": "12 meses"
     faixaPreco: "$"
+    precoMercado:
+      min: 450
+      max: 510
+      referencia: "2026-10"
+      observacao: "Hoje aparece principalmente com vendedores parceiros de marketplaces; confira a reputação da loja."
+      fontes:
+        - { nome: "Mercado Livre — Multi Mars HO400", url: "https://www.mercadolivre.com.br/multi-home-ho400-aspirador-rob-multi-mars-carre-aspira-e-passa-pano-cor-vermelho/p/MLB24713795" }
+        - { nome: "Magazine Luiza — Aspirador Robô Mars HO400", url: "https://www.magazineluiza.com.br/aspirador-robo-mars-varre-aspira-e-passa-pano-bivolt-ho400-multilaser/p/ek04c6cdgg/ep/eprb/" }
     idealPara: "Quem quer só tirar o pó e o pelo de um ou dois cômodos de piso liso, com o menor gasto possível"
     naoIndicadoPara: "Casas com vários cômodos, tapetes ou quem quer automação de verdade"
     notasCriterios:

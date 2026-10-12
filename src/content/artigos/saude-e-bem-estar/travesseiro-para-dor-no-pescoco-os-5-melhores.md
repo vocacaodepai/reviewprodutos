@@ -54,6 +54,13 @@ produtos:
       "Posição indicada": "Costas e lado"
       "Garantia": "Garantia legal de 90 dias; confirme prazo contratual com a Duoflex"
     faixaPreco: "$$"
+    precoMercado:
+      min: 170
+      max: 190
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Buscapé — Duoflex NN2100", url: "https://www.buscape.com.br/travesseiro/travesseiro-nasa-cervical-ortopedico-p-dormir-de-lado-e-costas-duoflex-nn2100" }
+        - { nome: "Zoom — Duoflex NN2100", url: "https://www.zoom.com.br/travesseiro/travesseiro-nasa-cervical-ortopedico-p-dormir-de-lado-e-costas-duoflex-nn2100" }
     idealPara: "Quem dorme de costas ou de lado e quer apoio firme e constante na curva do pescoço"
     naoIndicadoPara: "Quem dorme de bruços, sente muito calor à noite ou prefere travesseiro fofo"
     notasCriterios:
@@ -137,6 +144,12 @@ produtos:
       "Teste em casa": "14 dias"
       "Garantia": "6 meses"
     faixaPreco: "$$$"
+    precoMercado:
+      min: 300
+      max: 340
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Magazine Luiza — busca Emma Original 50 x 70 cm", url: "https://www.magazineluiza.com.br/busca/50x70cm" }
     idealPara: "Quem alterna posições, não sabe a altura ideal e quer poder devolver"
     naoIndicadoPara: "Quem quer um cervical em onda ou busca o menor preço"
     notasCriterios:
@@ -177,6 +190,13 @@ produtos:
       "Posição indicada": "Costas e lado"
       "Garantia": "3 meses"
     faixaPreco: "$"
+    precoMercado:
+      min: 160
+      max: 190
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Buscapé — Fibrasca 4275", url: "https://www.buscape.com.br/travesseiro/travesseiro-fibrasca-ortopedico-cervical-50x70x14cm-4275-100-poliuretano" }
+        - { nome: "Pague Menos — Travesseiro Cervical Fibrasca", url: "https://www.paguemenos.com.br/travesseiro-cervical-fibrasca-16e9869924z17w26-1/p" }
     idealPara: "Quem quer testar o formato cervical gastando pouco e sente calor com viscoelástico"
     naoIndicadoPara: "Quem quer o efeito 'molda ao corpo' do viscoelástico"
     notasCriterios:
@@ -217,6 +237,13 @@ produtos:
       "Posição indicada": "Lado (principal) e costas"
       "Garantia": "Garantia legal de 90 dias; confirme com a Theva"
     faixaPreco: "$$$"
+    precoMercado:
+      min: 290
+      max: 320
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Drogasil — Travesseiro Shoulder Theva", url: "https://www.drogasil.com.br/travesseiro-shoulder-viscoelastico-theva-13x61x38-1432713.html" }
+        - { nome: "Drogaria São Paulo — Travesseiro Shoulder", url: "https://www.drogariasaopaulo.com.br/travesseiro-shoulder-935275426/p" }
     idealPara: "Quem dorme de lado, tem ombros largos e acorda com o braço dormente ou o ombro dolorido"
     naoIndicadoPara: "Quem muda de posição várias vezes por noite ou dorme de bruços"
     notasCriterios:
