@@ -59,6 +59,15 @@ produtos:
       "Voltagem": "127 V (há versão 220 V)"
       "Garantia": "6 meses (fabricante)"
     faixaPreco: "$$"
+    precoMercado:
+      min: 340
+      max: 440
+      referencia: "2026-10"
+      observacao: "A versão 127 V usa plugue de 20 A; confira a tomada antes de comprar."
+      fontes:
+        - { nome: "Buscapé — ofertas do Taiff Tourmaline 2100W 127V", url: "https://www.buscape.com.br/busca/taiff%20tourmaline%202100w%20127v" }
+        - { nome: "Zoom — Taiff Tourmaline 2100W", url: "https://www.zoom.com.br/secador-cabelo/secador-de-cabelo-taiff-tourmaline-potencia-2100-watts" }
+        - { nome: "Drogasil — Secador Taiff Tourmaline 2100W 127V", url: "https://www.drogasil.com.br/secador-taiff-tourmaline-2100w-127v-950779.html" }
     idealPara: "Quem seca o cabelo quase todo dia, tem fios médios a grossos e quer durabilidade de salão"
     naoIndicadoPara: "Quem quer um secador leve e silencioso ou precisa de difusor incluso"
     notasCriterios:
@@ -104,6 +113,13 @@ produtos:
       "Voltagem": "127 V (há versão 220 V)"
       "Garantia": "6 meses"
     faixaPreco: "$"
+    precoMercado:
+      min: 190
+      max: 230
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Buscapé — ofertas do GA.MA Eleganza Plus 127V", url: "https://www.buscape.com.br/busca/gama%20eleganza%20plus%20127v" }
+        - { nome: "Drogasil — GA.MA Eleganza Plus Ceramic Ion 2100W 127V", url: "https://www.drogasil.com.br/ga-ma-secador-de-cabelo-eleganza-plus-ceramic-ion-2100w-127v-1451085.html" }
     idealPara: "Quem quer motor AC e 2100 W gastando pouco e com um secador leve"
     naoIndicadoPara: "Quem precisa de cabo longo ou de difusor para cachos"
     notasCriterios:
@@ -191,6 +207,13 @@ produtos:
       "Material": "Polipropileno"
       "Garantia": "12 meses"
     faixaPreco: "$"
+    precoMercado:
+      min: 100
+      max: 160
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Buscapé — ofertas do Mondial SCN-01 Black Purple", url: "https://www.buscape.com.br/busca/mondial%20scn-01%20black%20purple" }
+        - { nome: "Buscapé — Mondial SCN-01 (comparação de lojas)", url: "https://www.buscape.com.br/secador-cabelo/secador-de-cabelo-mondial-scn-01-black-purple-emissao-ions-potencia-2000-watts" }
     idealPara: "Quem seca o cabelo poucas vezes por semana e quer o básico com íons e garantia de 1 ano"
     naoIndicadoPara: "Quem seca todo dia por mais de 15 minutos ou quer finalizar com ar frio"
     notasCriterios:
@@ -232,6 +255,12 @@ produtos:
       "Voltagem": "127 V (há versão 220 V)"
       "Garantia": "12 meses"
     faixaPreco: "$"
+    precoMercado:
+      min: 140
+      max: 150
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Buscapé — ofertas do Britânia SP3100 2000W", url: "https://www.buscape.com.br/busca/britania%20sp3100" }
     idealPara: "Quem usa secador de vez em quando, tem cabelo liso ou curto e quer gastar o mínimo"
     naoIndicadoPara: "Cabelos ressecados, com química ou volumosos, e quem seca todo dia"
     notasCriterios:

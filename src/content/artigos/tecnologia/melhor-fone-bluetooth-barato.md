@@ -58,6 +58,13 @@ produtos:
       "Microfones": "4"
       "Garantia": "12 meses (Harman do Brasil)"
     faixaPreco: "$$"
+    precoMercado:
+      min: 230
+      max: 300
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Buscapé — JBL Wave Buds 2 (comparação de lojas)", url: "https://www.buscape.com.br/fone-de-ouvido-e-headset/fone-de-ouvido-bluetooth-com-microfone-jbl-wave-buds-2-gerenciamento-de-chamadas" }
+        - { nome: "Buscapé — ofertas do JBL Wave Buds 2", url: "https://www.buscape.com.br/busca/jbl%20wave%20buds%202" }
     idealPara: "Quem quer ANC, marca conhecida e garantia nacional sem sair da faixa de entrada"
     naoIndicadoPara: "Orelhas muito pequenas e quem precisa de agudo detalhado"
     notasCriterios:
@@ -143,6 +150,12 @@ produtos:
       "Microfones": "6"
       "Garantia": "12 meses pelo distribuidor (confirme o vendedor)"
     faixaPreco: "$$"
+    precoMercado:
+      min: 210
+      max: 230
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Zoom — ofertas do Haylou Mori Pro", url: "https://www.zoom.com.br/busca/haylou%20mori%20pro" }
     idealPara: "Quem quer o melhor cancelamento de ruído e som da faixa de entrada"
     naoIndicadoPara: "Quem faz questão de equalizador e de pausa automática ao tirar o fone"
     notasCriterios:
@@ -184,6 +197,14 @@ produtos:
       "Microfones": "2"
       "Garantia": "Depende do vendedor (versão global)"
     faixaPreco: "$"
+    precoMercado:
+      min: 110
+      max: 180
+      referencia: "2026-10"
+      observacao: "Confira se o anúncio é da versão global e quem dá a garantia."
+      fontes:
+        - { nome: "Buscapé — ofertas do Redmi Buds 6 Active", url: "https://www.buscape.com.br/busca/redmi%20buds%206%20active" }
+        - { nome: "Buscapé — Redmi Buds 6 Active (comparação de lojas)", url: "https://www.buscape.com.br/fone-de-ouvido-e-headset/fone-bluetooth-redmi-buds-6-active-xiaomi-branco" }
     idealPara: "Quem quer gastar o mínimo em um fone com grave forte para música e academia"
     naoIndicadoPara: "Quem precisa de ANC, de boas chamadas em reunião ou de garantia nacional"
     notasCriterios:
@@ -222,6 +243,12 @@ produtos:
       "Microfones": "2"
       "Garantia": "12 meses pelo distribuidor oficial"
     faixaPreco: "$"
+    precoMercado:
+      min: 150
+      max: 190
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Buscapé — ofertas do Edifier X2 Plus", url: "https://www.buscape.com.br/busca/edifier%20x2%20plus" }
     idealPara: "Quem quer um fone simples, com bateria longa e sem complicação de app"
     naoIndicadoPara: "Quem quer ANC ou ajustar o som"
     notasCriterios:
@@ -262,6 +289,13 @@ produtos:
       "Peso por fone": "3,8 g"
       "Garantia": "Depende do vendedor"
     faixaPreco: "$"
+    precoMercado:
+      min: 130
+      max: 160
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Pichau — Baseus Bowie WM02 preto", url: "https://www.pichau.com.br/fone-de-ouvido-baseus-bowie-wm02-bluetooth-preto-ngtw370201" }
+        - { nome: "Pichau — Baseus Bowie WM02 branco", url: "https://www.pichau.com.br/fone-de-ouvido-baseus-bowie-wm02-bluetooth-branco-ngtw370202" }
     idealPara: "Quem tem orelha pequena e já desistiu de fone que cai"
     naoIndicadoPara: "Treino intenso e dias longos longe do estojo"
     notasCriterios:
