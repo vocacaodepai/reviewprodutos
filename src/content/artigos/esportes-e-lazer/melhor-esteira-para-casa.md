@@ -57,6 +57,14 @@ produtos:
       "Peso da esteira": "45 kg"
       "Garantia": "2 anos (motor e estrutura) · 1 ano (demais partes)"
     faixaPreco: "$$$"
+    precoMercado:
+      min: 5400
+      max: 6950
+      referencia: "2026-10"
+      observacao: "A Kikos vende versões com nomes parecidos (E1200 e E1200c); confira voltagem e ficha antes de comprar."
+      fontes:
+        - { nome: "Buscapé — busca Esteira Kikos E1200", url: "https://www.buscape.com.br/busca/esteira+kikos+e1200" }
+        - { nome: "Kikos — loja oficial (E1200c 2.5 HP)", url: "https://www.kikos.com.br/esteira-ergometrica-kikos-e1200c-2-5-hp-14-km-h.html" }
     idealPara: "Quem quer caminhada inclinada e corrida leve com ajuste pelo painel"
     naoIndicadoPara: "Pessoas acima de 110 kg ou mais altas que 1,85 m"
     notasCriterios:
@@ -100,6 +108,15 @@ produtos:
       "Peso da esteira": "55,8 kg"
       "Garantia": "Consulte o termo do fabricante"
     faixaPreco: "$$$"
+    precoMercado:
+      min: 3200
+      max: 4600
+      referencia: "2026-10"
+      fontes:
+        - { nome: "WebContinental — Esteira Gallant Elite Pro GEE12E30A", url: "https://www.webcontinental.com.br/esteira-eletronica-gallant-elite-motor-3-0hpm-ate-120kg-16km-h-12-niveis-de-inclinacao-gee12e30a-e81360420050161041/p" }
+        - { nome: "Fast Shop — Esteira Gallant Elite Pro 220V", url: "https://site.fastshop.com.br/esteira-ergometrica-eletrica-gallant-elite-pro-3-0hp-16km-h-120kg-220v--gee12e30a-220pt--59396/p" }
+        - { nome: "Magazine Luiza — Esteira Gallant Elite Pro 220V", url: "https://www.magazineluiza.com.br/esteira-ergometrica-eletrica-gallant-elite-pro-3-0hp-16km-h-120kg-220v-gee12e30a-220pt/p/df093f68ej/es/este/" }
+        - { nome: "Decathlon — Esteira Gallant Elite Pro 220V", url: "https://www.decathlon.com.br/esteira-ergometrica-eletrica-gallant-elite-pro-3-0hp-16km-h-120kg-220v--gee12e30a-220pt--2145668014/p" }
     idealPara: "Corredores que querem velocidade alta e inclinação no painel"
     naoIndicadoPara: "Quem precisa mudar a esteira de cômodo com frequência ou tem só 127 V"
     notasCriterios:
@@ -147,6 +164,15 @@ produtos:
       "Peso da esteira": "62 kg"
       "Garantia": "1 ano"
     faixaPreco: "$$$$"
+    precoMercado:
+      min: 3900
+      max: 6900
+      referencia: "2026-10"
+      observacao: "A loja oficial da Movement costuma ter preço bem abaixo das revendas; vale conferir lá antes de comprar."
+      fontes:
+        - { nome: "Move (Movement) — loja oficial, Esteira R4", url: "https://www.move.com.br/esteira-ergometrica-eletrica-residencial-bluetooth-r4-move/p" }
+        - { nome: "Buscapé — busca Esteira Movement R4", url: "https://www.buscape.com.br/busca/esteira+movement+r4" }
+        - { nome: "Universal Fit — Esteira Movement R4", url: "https://www.universalfit.com.br/ergometria/residencial/esteira-movement-r4" }
     idealPara: "Quem quer passada confortável e estrutura firme para uso diário"
     naoIndicadoPara: "Quem quer mudar a inclinação durante o treino ou tem pouco espaço"
     notasCriterios:
@@ -191,6 +217,14 @@ produtos:
       "Peso da esteira": "39 kg"
       "Garantia": "6 meses"
     faixaPreco: "$$"
+    precoMercado:
+      min: 2550
+      max: 2900
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Buscapé — Esteira Dream Fitness Concept 2.1 Bivolt (histórico)", url: "https://www.buscape.com.br/esteira/esteira-eletronica-dream-fitness-concept-2-1-bivolt" }
+        - { nome: "Dream Fitness — loja oficial, Concept 2.1 Bivolt", url: "https://www.dream.com.br/esteira-eletronica-dream-concept-21-bivolt" }
+        - { nome: "Multisom — Esteira Dream Fitness Concept 2.1", url: "https://www.multisom.com.br/esteira-eletronica-dream-fitness-concept-2-1-monitor-6-funcoes-com-3-niveis-de-inclinacao-preto-verde-bivolt-02-ms-p1115632" }
     idealPara: "Caminhada e trote em casa gastando menos, inclusive para quem pesa até 120 kg"
     naoIndicadoPara: "Quem corre acima de 13 km/h ou usa a esteira várias horas por dia"
     notasCriterios:
@@ -234,6 +268,14 @@ produtos:
       "Peso da esteira": "36 kg"
       "Garantia": "1 ano"
     faixaPreco: "$$$"
+    precoMercado:
+      min: 3400
+      max: 4550
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Mercado Livre — Esteira Athletic Performance 510T Bivolt", url: "https://www.mercadolivre.com.br/esteira-eletrica-athletic-performance-510t-14-kmh-bivolt/p/MLB29560252" }
+        - { nome: "MadeiraMadeira — Esteira Athletic Performance 510T", url: "https://www.madeiramadeira.com.br/esteira-ergometrica-athletic-performance-510t-14-km-h-bivolt-708600444.html" }
+        - { nome: "Radioluz — Esteira Athletic Performance 510T", url: "https://www.radioluz.com.br/esteira-performance-510t-bivolt-athletic-rls.html" }
     idealPara: "Quem quer uma esteira bivolt e leve para guardar em pé após o treino"
     naoIndicadoPara: "Corredores de passada larga ou quem quer inclinação no painel"
     notasCriterios:
@@ -277,6 +319,15 @@ produtos:
       "Peso da esteira": "28 kg"
       "Garantia": "2 anos (motor e estrutura) · 1 ano (demais partes)"
     faixaPreco: "$$"
+    precoMercado:
+      min: 2700
+      max: 4400
+      referencia: "2026-10"
+      observacao: "O mesmo modelo aparece como E700 e E700c; varejistas costumam cobrar menos que a loja oficial."
+      fontes:
+        - { nome: "Angeloni Eletro — Esteira Kikos E700C 110V", url: "https://www.angeloni.com.br/eletro/esteira-ergometrica-kikos-e700c-2-0-hp-10-km-h-110v-430817/p" }
+        - { nome: "Kikos — loja oficial, Esteira E700", url: "https://www.kikos.com.br/esteira-ergometrica-kikos-e700-2-0-hp-10-km-h.html" }
+        - { nome: "Carrefour — Esteira Kikos E700c", url: "https://www.carrefour.com.br/produto/esteira-ergometrica-kikos-e700c-20-hp-10-kmh-220v-336223400" }
     idealPara: "Caminhada diária em apartamento pequeno, para usuários de até 90 kg"
     naoIndicadoPara: "Quem quer correr ou pesa mais de 90 kg"
     notasCriterios:

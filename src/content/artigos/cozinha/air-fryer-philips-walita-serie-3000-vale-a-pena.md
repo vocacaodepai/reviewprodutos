@@ -64,6 +64,14 @@ produtos:
       "Voltagem": "127 V (HD9202/91) ou 220 V (HD9202/90), não é bivolt"
       "Garantia": "24 meses"
     faixaPreco: "$$"
+    precoMercado:
+      min: 380
+      max: 500
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Buscapé — Philips Walita Série 3000 Grill Edition HD9202", url: "https://www.buscape.com.br/fritadeira/fritadeira-airfryer-serie-3000-grill-edition-philips-walita-preta-1400w-hd9202" }
+        - { nome: "Angeloni Eletro — Airfryer Philips Walita HD9202 127V", url: "https://www.angeloni.com.br/eletro/fritadeira-airfryer-philips-walita-serie-3000-grill-edition-41l-preta-1400w-127v-hd9202-254013/p" }
+        - { nome: "Mercado Livre — Airfryer Grill Edition Philips Walita HD9202/91", url: "https://produto.mercadolivre.com.br/MLB-3650579819-fritadeira-airfryer-grill-edition-philips-walita-hd920291-_JM" }
     idealPara: "Casas de 1 a 3 pessoas que querem uma air fryer simples, econômica e com garantia longa de marca conhecida"
     naoIndicadoPara: "Famílias de 4 ou mais pessoas, quem quer assar frango inteiro ou quem prefere painel digital com programas prontos"
     notasCriterios:

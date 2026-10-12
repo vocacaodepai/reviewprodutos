@@ -64,6 +64,15 @@ produtos:
       "Voltagem": "127 V neste ASIN; versão 220 V disponível (não é bivolt)"
       "Garantia": "Confira no certificado da caixa (a Taiff costuma oferecer 6 meses em secadores)"
     faixaPreco: "$$"
+    precoMercado:
+      min: 440
+      max: 560
+      referencia: "2026-10"
+      observacao: "Os preços variam bastante entre lojas e entre as versões 127 V e 220 V; vale comparar antes de comprar."
+      fontes:
+        - { nome: "Buscapé — Secador Taiff Fox Íon Prata 2000W", url: "https://www.buscape.com.br/busca/secador+taiff+fox+ion+prata+2000w" }
+        - { nome: "Soneda — Secador Taiff Fox Íon", url: "https://www.soneda.com.br/68546-secador-taiff-fox-ion-prata-127v-1un/p" }
+        - { nome: "Magazine Luiza — busca Secador Taiff Fox Íon", url: "https://www.magazineluiza.com.br/busca/secador+taiff+fox+ion/" }
     idealPara: "Quem seca cabelo curto a médio quase todo dia, quer um secador compacto de linha profissional e já tem tomada perto do espelho"
     naoIndicadoPara: "Quem procura o melhor custo-benefício da Taiff, precisa de cabo longo ou quer difusor e grade cerâmica inclusos"
     notasCriterios:
