@@ -52,6 +52,13 @@ produtos:
       "Câmera": "Motorizada (pan/tilt), zoom digital 2x, visão noturna infravermelha"
       "Extras": "Sensor de temperatura, conversa bidirecional, canções de ninar, até 4 câmeras"
     faixaPreco: "$$$"
+    precoMercado:
+      min: 950
+      max: 1200
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Planeta do Bebê — Babá Eletrônica VM50G Motorola", url: "https://www.planetadobebe.com.br/baba-eletronica-vm50g-monitor-5-0-panoramica-e-zoom-motorola-p/p" }
+        - { nome: "Zoom — ofertas da Motorola VM50G (Fast Shop)", url: "https://www.zoom.com.br/busca/vm50g" }
     idealPara: "Famílias que querem monitor grande e câmera móvel sem depender de internet"
     naoIndicadoPara: "Quem precisa ver o bebê fora de casa pelo celular"
     notasCriterios:
@@ -93,6 +100,13 @@ produtos:
       "Extras": "Talkback, termômetro com alerta, luz noturna, canções de ninar, ruído branco, atualizações por 2 anos"
     voltagem: "Bivolt"
     faixaPreco: "$$$$"
+    precoMercado:
+      min: 1350
+      max: 1400
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Starhouse — Babá Eletrônica Philips Avent SCD643/26", url: "https://www.starhouse.com.br/bebes/baba-eletronica/baba-eletronica-philips-avent-scd64326" }
+        - { nome: "Zoom — ofertas da Philips Avent SCD643/26 (Magazine Luiza)", url: "https://www.zoom.com.br/busca/philips+avent+scd643" }
     idealPara: "Pais que já usam câmeras no celular e querem a melhor imagem e acesso remoto"
     naoIndicadoPara: "Quem quer um monitor na cabeceira sem depender de internet"
     notasCriterios:
@@ -131,6 +145,12 @@ produtos:
       "Câmera": "Full HD no app, zoom e enquadramento digitais 2x, visão noturna infravermelha"
       "Extras": "Sensor de temperatura, conversa bidirecional, até 4 câmeras, criptografia AES"
     faixaPreco: "$$$"
+    precoMercado:
+      min: 930
+      max: 1050
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Inpower — Babá Eletrônica Motorola VM64 Connect", url: "https://www.inpower.com.br/baba-eletronica-motorola-4-3-fhd-com-visao-noturna-wi-fi-branca-vm64-connect-p996517" }
     idealPara: "Famílias com mais de um cuidador ou pais que trabalham fora e querem monitor e app"
     naoIndicadoPara: "Quem quer evitar qualquer dispositivo conectado à internet no quarto do bebê"
     notasCriterios:
@@ -170,6 +190,13 @@ produtos:
       "Extras": "Sensor de temperatura, alertas de alcance e bateria, adaptadores 100-240 V"
     voltagem: "Bivolt"
     faixaPreco: "$$"
+    precoMercado:
+      min: 470
+      max: 650
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Planeta do Bebê — loja Motorola (VM482)", url: "https://www.planetadobebe.com.br/motorola" }
+        - { nome: "Zoom — ofertas da Motorola VM482 (Magazine Luiza)", url: "https://www.zoom.com.br/busca/vm482" }
     idealPara: "Casais em apartamento que querem privacidade e o básico bem feito"
     naoIndicadoPara: "Casas grandes, quartos distantes ou quem quer ver detalhes na tela"
     notasCriterios:
@@ -208,6 +235,12 @@ produtos:
       "Extras": "Função Talk, modo ativado por som, bivolt"
     voltagem: "Bivolt"
     faixaPreco: "$$"
+    precoMercado:
+      min: 810
+      max: 860
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Buscapé — Babá Eletrônica Multikids Baby BB126 (histórico de preços)", url: "https://www.buscape.com.br/baba-eletronica/baba-eletronica-multilaser-com-camera-bb126" }
     idealPara: "Apartamentos pequenos com o quarto do bebê ao lado"
     naoIndicadoPara: "Casas grandes, quartos distantes ou quem quer imagem noturna nítida"
     notasCriterios:

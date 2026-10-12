@@ -107,6 +107,14 @@ produtos:
       "Consumo estimado (8 h/dia)": "Até 33,6 kWh/mês"
       "Garantia": "12 meses"
     faixaPreco: "$"
+    precoMercado:
+      min: 240
+      max: 320
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Zoom — Mondial NVT-40C-8P-B 127 V (histórico de preços)", url: "https://www.zoom.com.br/ventilador-circulador/ventilador-de-coluna-mondial-nvt-40c-8p-b-turbo-40cm-8-pas-preto-127v-3799-01" }
+        - { nome: "Zoom — ofertas do Mondial NVT-40C-8P-B", url: "https://www.zoom.com.br/busca/ventilador+mondial+nvt-40c-8p" }
+        - { nome: "Mondial — loja oficial", url: "https://www.mondial.com.br/ventilador-de-coluna-mondial-8-pas-turbo-40cm-nvt-40c-8p-b/p" }
     idealPara: "Quem quer vento forte gastando pouco, para sala ou quarto"
     naoIndicadoPara: "Quem tem sono leve e quer dormir com o ventilador na velocidade média"
     notasCriterios:
@@ -203,6 +211,14 @@ produtos:
       "Consumo estimado (8 h/dia)": "Até 30,2 kWh/mês"
       "Garantia": "12 meses"
     faixaPreco: "$$"
+    precoMercado:
+      min: 500
+      max: 620
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Zoom — Arno Xtreme Force Breeze VB52 (comparação de lojas)", url: "https://www.zoom.com.br/ventilador-circulador/ventilador-de-coluna-arno-xtreme-force-breeze-vb52-50-cm-6-pas-3-velocidades" }
+        - { nome: "Zoom — ofertas do Arno VB52", url: "https://www.zoom.com.br/busca/ventilador+arno+vb52" }
+        - { nome: "Arno — loja oficial", url: "https://www.arno.com.br/ventilador-xtreme-force-breeze-coluna-50cm--vb52-2720016771_pai/p" }
     idealPara: "Salas grandes, áreas de churrasqueira cobertas e famílias que se reúnem no mesmo cômodo"
     naoIndicadoPara: "Quartos pequenos e quem precisa mudar o ventilador de lugar todo dia"
     notasCriterios:
@@ -249,6 +265,14 @@ produtos:
       "Consumo estimado (8 h/dia)": "Até 43,2 kWh/mês"
       "Garantia": "12 meses (3 legais + 9 do fabricante)"
     faixaPreco: "$$"
+    precoMercado:
+      min: 290
+      max: 340
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Zoom — WAP Flow Turbo coluna 220 V (KaBuM!)", url: "https://www.zoom.com.br/ventilador-circulador/ventilador-de-coluna-flow-turbo-220v-50cm-8-pas-wap" }
+        - { nome: "Zoom — WAP Flow Turbo coluna FW009221 220 V (Webcontinental)", url: "https://www.zoom.com.br/ventilador-circulador/ventilador-wap-coluna-flow-turbo-preto-220v-50cm-8-pas-fw009221" }
+        - { nome: "Zoom — ofertas do WAP Flow Turbo coluna", url: "https://www.zoom.com.br/busca/ventilador+wap+flow+turbo+coluna+50cm" }
     idealPara: "Salas grandes, edículas e cômodos muito quentes onde força importa mais que silêncio"
     naoIndicadoPara: "Quartos e casas com crianças pequenas ou pets que podem esbarrar na base"
     notasCriterios:
@@ -294,6 +318,14 @@ produtos:
       "Consumo estimado (8 h/dia)": "Até 38,4 kWh/mês"
       "Garantia": "12 meses"
     faixaPreco: "$"
+    precoMercado:
+      min: 230
+      max: 330
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Zoom — Britânia BVT450 220 V (Magazine Luiza)", url: "https://www.zoom.com.br/ventilador-circulador/ventilador-coluna-britania-40cm-bvt450-160w-preto" }
+        - { nome: "Zoom — ofertas do Britânia BVT450", url: "https://www.zoom.com.br/busca/ventilador+britania+bvt450" }
+        - { nome: "Britânia — loja oficial", url: "https://www.britania.com.br/ventilador-bvt450-127v-033011181/p" }
     idealPara: "Salas, cozinhas e escritórios em casa onde o barulho incomoda pouco"
     naoIndicadoPara: "Quem quer o ventilador ligado no quarto a noite toda"
     notasCriterios:
@@ -339,6 +371,14 @@ produtos:
       "Consumo estimado (8 h/dia)": "Até 30,2 kWh/mês"
       "Garantia": "12 meses"
     faixaPreco: "$"
+    precoMercado:
+      min: 180
+      max: 360
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Zoom — Mallory Éolo 40 cm (histórico de preços)", url: "https://www.zoom.com.br/ventilador-circulador/ventilador-de-coluna-mallory-eolo-40cm-preto-e-grafite" }
+        - { nome: "KaBuM! — Mallory Éolo 127 V", url: "https://www.kabum.com.br/produto/468899/ventilador-mallory-coluna-eolo-40cm-126w-6-pas-3-velocidades-127v-preto-e-grafite-b9440170" }
+        - { nome: "Mallory — loja oficial", url: "https://www.mallory.com.br/ventilador-eolo-preto-grafite-220v/p" }
     idealPara: "Quartos pequenos e quem prioriza conta de luz baixa e silêncio"
     naoIndicadoPara: "Salas grandes ou quem dorme em cama alta e quer o vento por cima"
     notasCriterios:
