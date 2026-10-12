@@ -133,6 +133,13 @@ produtos:
       "Certificações declaradas": "NR-17, BIFMA, SGS, TÜV, EN 1335"
       "Garantia": "Legal de 90 dias; prazo do fabricante conforme a ficha"
     faixaPreco: "$$$$"
+    precoMercado:
+      min: 590
+      max: 900
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Pichau", url: "https://www.pichau.com.br/cadeira-office-dt3-vita-preto-13904-7" }
+        - { nome: "Magazine Luiza", url: "https://m.magazineluiza.com.br/busca/cadeira+dt3" }
     idealPara: "Quem trabalha 8 horas por dia sentado, já tentou almofadas e quer uma cadeira que dure anos"
     naoIndicadoPara: "Quem usa a mesa poucas horas por semana ou tem espaço apertado"
     notasCriterios:
@@ -171,6 +178,12 @@ produtos:
       "Origem": "Brasil"
       "Garantia": "Legal de 90 dias"
     faixaPreco: "$"
+    precoMercado:
+      min: 60
+      max: 70
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Magazine Luiza", url: "https://m.magazineluiza.com.br/busca/apoio+de+pe/" }
     idealPara: "Quem tem menos de 1,65 m ou mesa alta e fica com os pés no ar quando a cadeira está na altura certa"
     naoIndicadoPara: "Quem já apoia os pés inteiros no chão com os joelhos a 90°"
     notasCriterios:
@@ -212,6 +225,14 @@ produtos:
       "Compatibilidade": "Windows e ChromeOS"
       "Garantia": "3 anos"
     faixaPreco: "$$"
+    precoMercado:
+      min: 150
+      max: 190
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Buscapé — comparador de preços", url: "https://www.buscape.com.br/teclado/combo-teclado-e-mouse-sem-fio-logitech-mk270-com-teclas-de-midia-de-facil-acesso-conexao-usb-pilhas-inclusas-e-layout-abnt2" }
+        - { nome: "Pichau", url: "https://www.pichau.com.br/kit-teclado-e-mouse-logitech-mk270-usb-wireless-preto-920-004433" }
+        - { nome: "Magazine Luiza", url: "https://m.magazineluiza.com.br/busca/logitech+mk270/" }
     idealPara: "Quem vai usar suporte de notebook ou monitor e precisa de teclado e mouse externos sem complicação"
     naoIndicadoPara: "Quem digita muitas horas e quer teclado com apoio de punho ou mouse ergonômico vertical"
     notasCriterios:

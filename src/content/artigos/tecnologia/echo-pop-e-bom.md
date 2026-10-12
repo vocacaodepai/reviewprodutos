@@ -61,6 +61,14 @@ produtos:
       "Alimentação": "Adaptador bivolt de 15 W (incluso)"
       "Garantia": "12 meses"
     faixaPreco: "$"
+    precoMercado:
+      min: 330
+      max: 390
+      referencia: "2026-10"
+      observacao: "Costuma ficar mais barato em datas promocionais como Black Friday."
+      fontes:
+        - { nome: "Buscapé — comparador de preços", url: "https://www.buscape.com.br/smart-speaker/smart-speaker-amazon-echo-pop-alexa" }
+        - { nome: "Zoom — comparador de preços", url: "https://www.zoom.com.br/smart-speaker/smart-speaker-amazon-echo-pop-alexa" }
     idealPara: "Quarto, escritório e cozinha; primeira Alexa ou segunda caixa para completar a casa"
     naoIndicadoPara: "Sala grande como fonte principal de música; rotinas por temperatura; uso com som por cabo"
     notasCriterios:

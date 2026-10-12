@@ -56,6 +56,13 @@ produtos:
       "Dimensões": "135 x 15 x 17 cm (com alças)"
       "Garantia": "12 meses com assistência técnica própria"
     faixaPreco: "$$"
+    precoMercado:
+      min: 550
+      max: 580
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Buscapé — Massageador Pescoço Wireless 6D Blue Relaxmedic", url: "https://www.buscape.com.br/massageador-corporal/massageador-pescoco-wireless-6d-blue-relaxmedic" }
+        - { nome: "Drogasil — Massageador de Pescoço 6D Blue Relaxmedic", url: "https://www.drogasil.com.br/massageador-de-pescoco-shiatu-com-wireless-6d-blue-relaxmedic-1468941.html" }
     idealPara: "Quem trabalha sentado, chega em casa com pescoço e ombros tensos e quer 10 a 15 minutos de alívio sem fio"
     naoIndicadoPara: "Quem quer pressão profunda regulável, tem lesão cervical, hérnia ou dor que irradia para o braço"
     notasCriterios:
