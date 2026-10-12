@@ -291,7 +291,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "galaxy-a56-e-bom",
+      "published_at": "2026-10-12"
     },
     {
       "id": "casa-e-jardim-review-002",
@@ -604,7 +606,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "air-fryer-oven-ou-tradicional",
+      "published_at": "2026-10-12"
     },
     {
       "id": "saude-e-bem-estar-lista-002",
@@ -783,7 +787,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "kindle-ou-kindle-paperwhite",
+      "published_at": "2026-10-12"
     },
     {
       "id": "moda-e-acessorios-lista-002",
@@ -811,7 +817,9 @@
       ],
       "prioridade": 1,
       "sazonal": "volta-as-aulas",
-      "status": "pending"
+      "status": "published",
+      "published_slug": "melhor-mochila-escolar",
+      "published_at": "2026-10-12"
     },
     {
       "id": "tecnologia-lista-001",
@@ -1309,7 +1317,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "cachorro-destruindo-casa-sozinho",
+      "published_at": "2026-10-12"
     },
     {
       "id": "esportes-e-lazer-lista-003",
