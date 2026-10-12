@@ -61,6 +61,15 @@ produtos:
       "Cápsulas": "Nespresso Original e compatíveis"
       "Garantia": "12 meses"
     faixaPreco: "$$"
+    precoMercado:
+      min: 530
+      max: 660
+      referencia: "2026-10"
+      observacao: "Algumas lojas vendem com kit de cápsulas de degustação; anúncios de marketplace muito acima da faixa foram desconsiderados."
+      fontes:
+        - { nome: "Buscapé — Nespresso Essenza Mini C30 (ofertas)", url: "https://www.buscape.com.br/cafeteira-eletrica/cafeteira-expresso-nespresso-essenza-mini-c30" }
+        - { nome: "Fast Shop — Nespresso Essenza Mini C30 preta", url: "https://site.fastshop.com.br/cafeteira-nespresso-essenza-mini-c30-com-kit-de-capsulas-para-degustacao---preta-131041/p" }
+        - { nome: "Casas Bahia — Nespresso Essenza Mini C30 preta", url: "https://www.casasbahia.com.br/cafeteira-nespresso-essenza-mini-c30-com-kit-de-capsulas-para-degustacao-preta/p/55030972" }
     idealPara: "Quem toma espresso ou lungo puro, mora em espaço pequeno e quer café pronto em segundos"
     naoIndicadoPara: "Famílias que querem cappuccino pronto, chocolate quente ou bebidas geladas na cápsula"
     notasCriterios:
@@ -110,6 +119,21 @@ produtos:
       "Cápsulas": "Nescafé Dolce Gusto e compatíveis"
       "Garantia": "12 meses"
     faixaPreco: "$$"
+    precoMercado:
+      min: 430
+      max: 500
+      referencia: "2026-10"
+      historico:
+        - { periodo: "2025-11", min: 340, max: 420 }
+        - { periodo: "2026-02", min: 360, max: 400 }
+        - { periodo: "2026-05", min: 330, max: 420 }
+        - { periodo: "2026-08", min: 380, max: 450 }
+        - { periodo: "2026-10", min: 430, max: 470 }
+      tendencia: subindo
+      observacao: "Histórico: menor preço diário registrado em comparadores de preço (todas as cores)."
+      fontes:
+        - { nome: "Buscapé — Arno Dolce Gusto Genio S Basic (ofertas e histórico de preços)", url: "https://www.buscape.com.br/cafeteira-eletrica/cafeteira-expresso-arno-genio-s-basic" }
+        - { nome: "Buscapé — ofertas da Genio S Basic 110V", url: "https://www.buscape.com.br/busca/dolce+gusto+genio+s+basic+110v" }
     idealPara: "Casas com gostos variados, crianças e quem gosta de cappuccino, chocolate e bebida gelada"
     naoIndicadoPara: "Quem é exigente com espresso puro e quer crema densa"
     notasCriterios:

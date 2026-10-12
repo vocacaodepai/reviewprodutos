@@ -58,6 +58,13 @@ produtos:
       "Homologação Anatel": "11843-21-08069"
       "Garantia": "12 meses (acessórios: 90 dias)"
     faixaPreco: "$$"
+    precoMercado:
+      min: 930
+      max: 1000
+      referencia: "2026-10"
+      observacao: "Poucas lojas vendem o modelo no Brasil; o valor maior da faixa é o preço parcelado em 10 vezes."
+      fontes:
+        - { nome: "Buscapé — ofertas da Motorola VM34 (Fast Shop e Magazine Luiza)", url: "https://www.buscape.com.br/busca/motorola+vm34" }
     idealPara: "Famílias em casa ou apartamento que querem ver e ouvir o bebê de outro cômodo sem depender de internet"
     naoIndicadoPara: "Quem quer acompanhar o bebê pelo celular fora de casa ou precisa de câmera motorizada"
     notasCriterios:

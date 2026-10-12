@@ -58,6 +58,14 @@ produtos:
       "Consumo estimado": "31 kWh/mês (8 h/noite)"
       "Garantia": "12 meses"
     faixaPreco: "$$"
+    precoMercado:
+      min: 350
+      max: 400
+      referencia: "2026-10"
+      observacao: "Estoque irregular: algumas lojas mostram a versão 110V esgotada."
+      fontes:
+        - { nome: "Frigelar — Arno VD5C 110V", url: "https://www.frigelar.com.br/ventilador-de-coluna-arno-vd5c-ultra-silence-force-com-repelente-liquido-6-pas-40cm-preto-110v/p/kit5960" }
+        - { nome: "Magazine Luiza — Arno Ultra Silence Force Repelente VD5C", url: "https://www.magazineluiza.com.br/ventilador-coluna-arno-ultra-silence-force-repelente-40-cm-vd5c/p/hgj00jac65/ar/arvl/" }
     idealPara: "Quem acorda de calor e de barulho; quartos médios e grandes; regiões com mosquito"
     naoIndicadoPara: "Quartos muito pequenos sem espaço de chão ou casas 220 V que querem o repelente"
     notasCriterios:
@@ -101,6 +109,22 @@ produtos:
       "Consumo estimado": "30 kWh/mês (8 h/noite)"
       "Garantia": "12 meses"
     faixaPreco: "$"
+    precoMercado:
+      min: 210
+      max: 290
+      referencia: "2026-10"
+      historico:
+        - { periodo: "2025-10", min: 200, max: 220 }
+        - { periodo: "2026-01", min: 180, max: 200 }
+        - { periodo: "2026-04", min: 180, max: 200 }
+        - { periodo: "2026-07", min: 160, max: 180 }
+        - { periodo: "2026-09", min: 200, max: 220 }
+      tendencia: estavel
+      observacao: "Histórico: menor preço diário registrado em comparadores de preço."
+      fontes:
+        - { nome: "Buscapé — Arno Turbo Force VF42 (ofertas e histórico de preços)", url: "https://www.buscape.com.br/ventilador-circulador/ventilador-de-mesa-parede-arno-ventilador-arno-2-em-1-turbo-force-40cm-vf42-com-3-velocidades-preto-40-cm-6-pas-3-velocidades" }
+        - { nome: "Telhanorte — Arno Turbo Force VF42 127V", url: "https://www.telhanorte.com.br/ventilador-turbo-force-2-em-1-preto-vf42-127v-arno-2611031/p" }
+        - { nome: "Casas Bahia — Arno Turbo Force VF42 127V", url: "https://www.casasbahia.com.br/ventilador-arno-turbo-force-2-em-1-mesadiametro-40-cm-material-das-pas-plapreto-vf42-127v/p/1570864123" }
     idealPara: "Quartos pequenos, apartamentos e quem quer vento forte gastando pouco"
     naoIndicadoPara: "Quem tem sono leve e quer o mínimo de ruído possível"
     notasCriterios:
@@ -182,6 +206,14 @@ produtos:
       "Dimensões (P x L x A)": "23,5 x 23,5 x 30,5 cm"
       "Consumo estimado": "6 kWh/mês (8 h/noite)"
     faixaPreco: "$"
+    precoMercado:
+      min: 160
+      max: 250
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Buscapé — ofertas do umidificador Fisher-Price HC115", url: "https://www.buscape.com.br/busca/umidificador+fisher+price+hc115" }
+        - { nome: "Multilaser — loja oficial, umidificador Fisher-Price HC115", url: "https://www.multilaser.com.br/umidificador-de-ar-ultrassonico-fisher-price-hc115/p" }
+        - { nome: "Extra — umidificador Fisher-Price HC115", url: "https://www.extra.com.br/umidificador-de-ar-ultrassonico-multilaser-fisher-price-branco-hc115/p/14422955" }
     idealPara: "Quem acorda com garganta seca em noites quentes e secas (umidade abaixo de 40%)"
     naoIndicadoPara: "Litoral e cidades úmidas, onde o problema é o abafamento"
     notasCriterios:
@@ -227,6 +259,15 @@ produtos:
       "Consumo estimado": "19 kWh/mês (8 h/noite)"
       "Garantia": "12 meses"
     faixaPreco: "$$"
+    precoMercado:
+      min: 340
+      max: 500
+      referencia: "2026-10"
+      observacao: "Anúncios de marketplace acima de R$ 600 foram desconsiderados."
+      fontes:
+        - { nome: "Britânia — loja oficial, climatizador BCL05A", url: "https://www.britania.com.br/climatizador-bcl05a-127v-066251015/p" }
+        - { nome: "Mercado Livre — climatizador Britânia BCL05A 127V", url: "https://www.mercadolivre.com.br/climatizador-de-ar-britnia-4-em-1-autonomia-de-26h-bcl05a-cor-branco-127v/p/MLB42864665" }
+        - { nome: "Havan — climatizador Britânia BCL05A", url: "https://www.havan.com.br/climatizador-britania-4-em-1-autonomia-de-26-horas-bcl05a/p" }
     idealPara: "Quartos pequenos em cidades de clima seco, com o aparelho fixo ao lado da cama"
     naoIndicadoPara: "Litoral, cidades úmidas e quem espera substituir o ar-condicionado"
     notasCriterios:

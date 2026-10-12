@@ -61,6 +61,14 @@ produtos:
       "Carregador": "Base indutiva; confira a voltagem no anúncio (há kits vendidos como bivolt)"
       "Garantia": "Conferir no termo da embalagem (padrão da marca: 2 anos para o cabo)"
     faixaPreco: "$$"
+    precoMercado:
+      min: 340
+      max: 450
+      referencia: "2026-10"
+      fontes:
+        - { nome: "Buscapé — ofertas da Oral-B iO2", url: "https://www.buscape.com.br/busca/oral+b+io2" }
+        - { nome: "Preço Popular — Oral-B iO Series 2", url: "https://www.precopopular.com.br/escova-dental-eletrica-oral-b-io-series-2/p" }
+        - { nome: "Extra — Oral-B iO2", url: "https://www.extra.com.br/escova-de-dente-eletrica-oral-b-io2/p/1575303802" }
     idealPara: "Quem vai trocar a escova manual pela primeira elétrica e tem gengiva ou dentes sensíveis"
     naoIndicadoPara: "Quem quer o menor custo total em refis ou precisa de feedback visual claro de pressão e técnica"
     notasCriterios:
