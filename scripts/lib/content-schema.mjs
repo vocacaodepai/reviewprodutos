@@ -88,6 +88,16 @@ export function validateFrontmatter(data, { categorias = loadCategorias(), autor
       if (p.linksAlternativos !== undefined) { if (!Array.isArray(p.linksAlternativos) || p.linksAlternativos.length > 3) errs.push(`${path}.linksAlternativos: lista de até 3`); else p.linksAlternativos.forEach((l, j) => { if (!isStr(l.loja, 2, 40) || !isUrl(l.url) || /amazon\.com\.br/.test(l.url)) errs.push(`${path}.linksAlternativos[${j}]: loja e url válidas (não Amazon)`); }); }
       if (p.voltagem !== undefined && !isStr(p.voltagem, 2, 20)) errs.push(`${path}.voltagem: texto curto (127V, 220V, Bivolt)`);
       if (p.variantes !== undefined) { if (!Array.isArray(p.variantes) || p.variantes.length > 4) errs.push(`${path}.variantes: lista de até 4`); else p.variantes.forEach((v, j) => { if (!isStr(v.rotulo, 2, 40) || !/^[A-Z0-9]{10}$/.test(v.asin ?? '')) errs.push(`${path}.variantes[${j}]: rotulo e asin válidos`); }); }
+      if (p.precoMercado !== undefined) {
+        const pm = p.precoMercado; const ym = /^\d{4}-\d{2}$/;
+        if (!isNum(pm.min, 1, 1e6) || !isNum(pm.max, 1, 1e6) || pm.max < pm.min || pm.max > pm.min * 2.5) errs.push(`${path}.precoMercado: min e max em reais, min <= max <= 2,5x min`);
+        if (!ym.test(pm.referencia ?? '')) errs.push(`${path}.precoMercado.referencia: AAAA-MM`);
+        if (pm.historico !== undefined && (!Array.isArray(pm.historico) || pm.historico.length > 12 || pm.historico.some((h) => !ym.test(h.periodo ?? '') || !isNum(h.min, 1, 1e6) || !isNum(h.max, 1, 1e6) || h.max < h.min))) errs.push(`${path}.precoMercado.historico: até 12 itens {periodo AAAA-MM, min, max}`);
+        if (pm.tendencia !== undefined && !['caindo', 'estavel', 'subindo'].includes(pm.tendencia)) errs.push(`${path}.precoMercado.tendencia: caindo | estavel | subindo`);
+        if (pm.observacao !== undefined && (!isStr(pm.observacao, 1, 240) || /\b(cupom|frete gr[áa]tis|promo[çc][ãa]o|imperd)/i.test(pm.observacao))) errs.push(`${path}.precoMercado.observacao: até 240 caracteres, sem promessa de promoção`);
+        if (!Array.isArray(pm.fontes) || !pm.fontes.length || pm.fontes.some((f) => !isStr(f.nome, 2) || !isUrl(f.url))) errs.push(`${path}.precoMercado.fontes: 1+ fonte {nome, url}`);
+        else if (pm.fontes.every((f) => /amazon\./i.test(f.url))) errs.push(`${path}.precoMercado.fontes: a estimativa precisa vir de comparadores/outras lojas, não só da Amazon`);
+      }
       if (p.notasCriterios) for (const [k, v] of Object.entries(p.notasCriterios)) if (!isNum(v, 0, 10)) errs.push(`${path}.notasCriterios.${k}: 0-10`);
       if (p.avaliacaoConsumidores) { const a = p.avaliacaoConsumidores; if (!isNum(a.media, 0, 5)) errs.push(`${path}.avaliacaoConsumidores.media: 0-5`); if (a.quantidade !== undefined && !Number.isInteger(a.quantidade)) errs.push(`${path}.avaliacaoConsumidores.quantidade: inteiro`); if (!isStr(a.fonte, 2) || /amazon/i.test(a.fonte)) errs.push(`${path}.avaliacaoConsumidores.fonte: obrigatória e não pode ser Amazon (estrelas da Amazon só via Creators API)`); }
     });

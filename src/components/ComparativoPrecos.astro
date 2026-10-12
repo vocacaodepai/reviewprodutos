@@ -1,0 +1,70 @@
+---
+/**
+ * Comparação da variação de preço de mercado entre os produtos do artigo (comparativos e listas).
+ * Usa só `precoMercado` (estimativa de várias lojas); nunca o preço da Amazon.
+ */
+import Icon from './Icon.astro';
+import { produtoUrl, type Produto } from '@/lib/articles';
+import { brl, mesAno, mesCurto } from '@/lib/precos';
+interface Props { produtos: Produto[]; }
+const itens = Astro.props.produtos.filter((p) => p.precoMercado);
+const cores = ['bg-brand-500', 'bg-star-500', 'bg-check-500', 'bg-danger-500', 'bg-brand-800', 'bg-star-600', 'bg-check-700'];
+const todos = itens.flatMap((p) => [p.precoMercado!.min, p.precoMercado!.max, ...p.precoMercado!.historico.flatMap((h) => [h.min, h.max])]);
+const lo = Math.min(...todos);
+const hi = Math.max(...todos);
+const span = Math.max(1, hi - lo);
+const pos = (v: number) => ((v - lo) / span) * 100;
+const periodos = [...new Set(itens.flatMap((p) => p.precoMercado!.historico.map((h) => h.periodo)))].sort();
+const curto = (p: Produto) => p.modelo ?? p.nome.split(' ').slice(0, 3).join(' ');
+const referencia = itens.map((p) => p.precoMercado!.referencia).sort().at(-1);
+---
+{itens.length >= 2 && (
+  <section class="mt-12" aria-labelledby="precos-h">
+    <h2 id="precos-h" class="mb-2 text-2xl font-bold">Quanto custa cada um no mercado</h2>
+    <p class="muted">Faixas típicas nas principais lojas em {referencia && mesAno(referencia)}{periodos.length > 1 ? ' e como o preço variou nos últimos meses' : ''}. É uma estimativa: o valor final aparece na loja no momento da compra.</p>
+    <div class="card mt-4 p-4 sm:p-5">
+      <ul class="space-y-4">
+        {itens.map((p, i) => (
+          <li>
+            <div class="flex flex-wrap items-baseline justify-between gap-2">
+              <span class="flex items-center gap-2 font-semibold"><span class={`inline-block h-3 w-3 rounded-full ${cores[i % cores.length]}`}></span>{p.nome}</span>
+              <span class="tabular-nums text-sm"><strong>{brl(p.precoMercado!.min)}</strong> a <strong>{brl(p.precoMercado!.max)}</strong></span>
+            </div>
+            <div class="relative mt-1.5 h-2.5 rounded-full bg-soft">
+              <span class={`absolute inset-y-0 rounded-full ${cores[i % cores.length]}`} style={`left:${pos(p.precoMercado!.min)}%;width:${Math.max(2, pos(p.precoMercado!.max) - pos(p.precoMercado!.min))}%`}></span>
+            </div>
+          </li>
+        ))}
+      </ul>
+      {periodos.length > 1 && (
+        <div class="mt-6 overflow-x-auto">
+          <table class="w-full min-w-[480px] text-sm">
+            <caption class="mb-2 text-left text-xs font-bold uppercase tracking-wider muted">Variação de preço nos últimos meses</caption>
+            <thead>
+              <tr class="border-b border-soft text-left">
+                <th class="py-2 pr-3 font-semibold">Período</th>
+                {itens.map((p, i) => <th class="py-2 pr-3 font-semibold"><span class={`mr-1 inline-block h-2.5 w-2.5 rounded-full ${cores[i % cores.length]}`}></span>{curto(p)}</th>)}
+              </tr>
+            </thead>
+            <tbody>
+              {periodos.map((per) => (
+                <tr class="border-b border-soft last:border-0">
+                  <td class="py-2 pr-3 muted">{mesCurto(per)}</td>
+                  {itens.map((p) => {
+                    const h = p.precoMercado!.historico.find((x) => x.periodo === per);
+                    return <td class="py-2 pr-3 tabular-nums">{h ? `${brl(h.min)} a ${brl(h.max)}` : '—'}</td>;
+                  })}
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )}
+      <div class="mt-5 flex flex-wrap gap-2">
+        {itens.map((p) => (
+          <a href={produtoUrl(p)} rel="sponsored nofollow noopener" target="_blank" class="btn-buy px-4 py-2 text-sm" data-asin={p.asin} data-track="affiliate-click"><Icon name="cart" size={16} /> Comprar {curto(p)}</a>
+        ))}
+      </div>
+    </div>
+  </section>
+)}

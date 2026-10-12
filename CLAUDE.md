@@ -8,6 +8,8 @@
 - Tag de afiliado Amazon: `reviewprodutos-20`. Google Analytics: `G-55940SV53K`.
 - Autor de todos os artigos: `bruno-danello` (`src/data/autores.json`).
 - O site **não** menciona que o conteúdo é feito com IA (artigos, páginas institucionais, rodapé, metadados). Continua proibido alegar teste físico ou experiência pessoal que não houve.
+- **Botões de compra:** "Comprar agora na Amazon" (nunca "Ver preço"). O aviso de afiliado fica **só no rodapé** (bloco "Transparência"); nada de avisos ou rótulos "Link de afiliado" no meio dos artigos.
+- **Preço:** todo produto leva `precoMercado` (estimativa de preço de mercado em várias lojas + variação nos últimos meses, com fontes de comparadores). Nunca o preço da Amazon, nunca R$ no corpo do texto.
 - Artigos **não** exibem fontes de pesquisa nem o texto "Como este conteúdo foi produzido"; devem ter vários botões de compra ao longo do texto.
 
 ## Rotina diária de publicação

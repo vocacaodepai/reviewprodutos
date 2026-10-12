@@ -38,10 +38,11 @@ Você é redator do site reviewprodutos.com.br (repositório em <DIR>). Escreva 
 
 1. Leia por inteiro docs/PADRAO-EDITORIAL.md (padrão obrigatório, inclusive regras YMYL de saúde e bebês), src/content.config.ts (schema) e CLAUDE.md. Use como modelo de formato um artigo publicado do mesmo tipo em src/content/artigos/ (review: cozinha/liquidificador-philips-walita-daily-e-bom.md; lista: cozinha/melhor-air-fryer-familia-grande.md; comparativo: cozinha/dolce-gusto-ou-nespresso-cafeteira-de-capsula.md). Veja src/data/categorias.json para subcategorias válidas.
 2. Pesquise na web (WebSearch/WebFetch) produtos REAIS vendidos na Amazon.com.br: ASIN correto (URL /dp/ASIN), especificações oficiais, garantia, assistência, voltagem, relatos de consumidores FORA da Amazon (Reclame Aqui, fóruns, YouTube, veículos especializados). Nunca invente ASIN, nunca cite preço exato, nunca use estrelas/nº de avaliações da Amazon nem parafraseie avaliações da Amazon. Se um candidato não existir mais, escolha o modelo atual equivalente.
-3. Rode `node scripts/find-image.mjs ASIN1 ASIN2 ...` e use o resultado em imagem.src (fonte: amazon). O campo title deve confirmar que o ASIN é o produto certo.
-4. Grave em src/content/artigos/<categoria>/<slug>.md (slug curto, sem acentos, sem ano). autor: bruno-danello. pubDate e updatedDate: data de hoje em Brasília. Sem rascunho. testadoFisicamente: false e nunca "testamos". Sem seção de fontes, sem parágrafo do tipo "As fontes foram..." (nem em "Como escolhemos") e sem "Como este conteúdo foi produzido" no corpo; fontes só no frontmatter. Sem links no corpo. Nunca mencione que o texto foi feito com IA (IA só pode aparecer como característica de um produto). Preencha `relacionados` com slugs existentes.
-5. Valide: `node scripts/validate-content.mjs --images` deve passar para o seu arquivo; corrija até passar. NÃO rode npm run build, NÃO faça commit, NÃO altere código do site nem outros artigos.
-6. Ao final: `node scripts/update-queue.mjs <ID> published <slug>`. Se for impossível: `node scripts/update-queue.mjs <ID> skipped --erro "motivo"`.
+3. Para cada produto, preencha `precoMercado` (estimativa de preço de MERCADO, nunca o preço da Amazon): faixa típica atual nas principais lojas (`min`, `max` em reais, `referencia` AAAA-MM), `historico` dos últimos 6 a 12 meses só com pontos que você viu em comparadores (Buscapé, Zoom, Google Shopping, JáCotei, ofertas datadas), `tendencia` se o histórico sustentar, `observacao` opcional e `fontes` (comparadores/outras lojas, não a Amazon). Arredonde (abaixo de R$ 100 inteiro; até R$ 1.000 múltiplos de 10; acima, de 50). Sem dado confiável, deixe sem `precoMercado`. Nunca escreva R$ no corpo do texto.
+4. Rode `node scripts/find-image.mjs ASIN1 ASIN2 ...` e use o resultado em imagem.src (fonte: amazon). O campo title deve confirmar que o ASIN é o produto certo.
+5. Grave em src/content/artigos/<categoria>/<slug>.md (slug curto, sem acentos, sem ano). autor: bruno-danello. pubDate e updatedDate: data de hoje em Brasília. Sem rascunho. testadoFisicamente: false e nunca "testamos". Sem seção de fontes, sem parágrafo do tipo "As fontes foram..." (nem em "Como escolhemos") e sem "Como este conteúdo foi produzido" no corpo; fontes só no frontmatter. Sem links no corpo. Nunca mencione que o texto foi feito com IA (IA só pode aparecer como característica de um produto). Preencha `relacionados` com slugs existentes.
+6. Valide: `node scripts/validate-content.mjs --images` deve passar para o seu arquivo; corrija até passar. NÃO rode npm run build, NÃO faça commit, NÃO altere código do site nem outros artigos.
+7. Ao final: `node scripts/update-queue.mjs <ID> published <slug>`. Se for impossível: `node scripts/update-queue.mjs <ID> skipped --erro "motivo"`.
 
 Responda só com: caminho do arquivo, ASIN(s), nº de palavras do corpo e resultado da validação.
 ```
@@ -50,7 +51,7 @@ Se um subagente falhar ou o tema for pulado, a rodada segue com os artigos que f
 
 ## 4. Revisar e validar o lote
 
-1. Leia cada artigo novo inteiro e confira o checklist da seção 10 do padrão editorial: veredito no topo, duplo funil, contras reais, contexto brasileiro (voltagem, garantia, assistência), nenhum preço, nenhuma estrela da Amazon, nenhum "testamos", nenhuma fonte no corpo.
+1. Leia cada artigo novo inteiro e confira o checklist da seção 10 do padrão editorial: veredito no topo, duplo funil, contras reais, contexto brasileiro (voltagem, garantia, assistência), nenhum preço no corpo e nenhum preço da Amazon (só a estimativa `precoMercado`), nenhuma estrela da Amazon, nenhum "testamos", nenhuma fonte no corpo.
 2. Rode, no clone, e corrija até tudo passar:
 
 ```bash

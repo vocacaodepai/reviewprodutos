@@ -8,7 +8,7 @@ import ComparisonTable from '@/components/ComparisonTable.astro';
 import FAQ from '@/components/FAQ.astro';
 import TOC from '@/components/TOC.astro';
 import AuthorBox from '@/components/AuthorBox.astro';
-import Disclosure from '@/components/Disclosure.astro';
+import ComparativoPrecos from '@/components/ComparativoPrecos.astro';
 import Share from '@/components/Share.astro';
 import RelatedArticles from '@/components/RelatedArticles.astro';
 import AdSlot from '@/components/AdSlot.astro';
@@ -91,7 +91,6 @@ const tocExtras = [
       </div>
     </header>
 
-    <div class="mt-6"><Disclosure compact /></div>
     {['saude-e-bem-estar', 'bebes-e-criancas'].includes(categoria.id) && (
       <aside class="mt-3 flex items-start gap-3 rounded-xl border border-star-500/40 bg-star-400/10 p-4 text-sm" role="note" aria-label="Aviso de saúde">
         <Icon name="shield" size={18} class="mt-0.5 shrink-0 text-star-600" />
@@ -120,11 +119,13 @@ const tocExtras = [
           })}
         </div>
 
-        {valuePick ? <BuyBox produto={valuePick} titulo="Quer gastar menos? Melhor custo-benefício" /> : <BuyBox produto={topPick} titulo={d.tipo === 'review' ? 'Gostou? Confira o preço de hoje' : 'Nossa escolha'} />}
+        {valuePick ? <BuyBox produto={valuePick} titulo="Quer gastar menos? Melhor custo-benefício" /> : <BuyBox produto={topPick} titulo={d.tipo === 'review' ? 'Gostou? Garanta o seu' : 'Nossa escolha'} />}
 
         <AdSlot />
 
         {d.produtos.length > 1 && <ComparisonTable produtos={produtosOrdenados} chaves={d.tabelaComparativa} titulo={isComparativo ? 'Frente a frente' : 'Comparativo rápido'} />}
+
+        {d.produtos.length > 1 && <ComparativoPrecos produtos={produtosOrdenados} />}
 
         <section id="produtos" class="mt-12 scroll-mt-24" aria-labelledby="produtos-h">
           <h2 id="produtos-h" class="mb-6 text-2xl font-bold sm:text-3xl">{isLista ? 'Ranking completo: produto por produto' : isComparativo ? 'Os dois produtos em detalhe' : 'Análise detalhada'}</h2>
@@ -153,7 +154,6 @@ const tocExtras = [
         <BuyBox produto={topPick} titulo={d.tipo === 'review' ? 'Pronto para decidir?' : 'Ainda em dúvida? Fique com a nossa escolha'} />
 
 
-        <div class="mt-6"><Disclosure /></div>
         <div class="mt-6"><Share url={absUrl} title={d.title} /></div>
         <div class="mt-8"><AuthorBox autor={autor} /></div>
 
@@ -181,7 +181,7 @@ const tocExtras = [
   <div class="fixed inset-x-0 bottom-0 z-40 border-t border-soft bg-[var(--bg)]/95 px-3 py-2 backdrop-blur lg:hidden" data-barra-compra hidden>
     <div class="mx-auto flex max-w-xl items-center gap-3">
       <span class="min-w-0 flex-1 truncate text-sm font-semibold">{topPick.nome}</span>
-      <a href={produtoUrl(topPick)} rel="sponsored nofollow noopener" target="_blank" class="btn-buy shrink-0 px-4 py-2 text-sm" data-asin={topPick.asin} data-track="affiliate-click">Ver preço</a>
+      <a href={produtoUrl(topPick)} rel="sponsored nofollow noopener" target="_blank" class="btn-buy shrink-0 px-4 py-2 text-sm" data-asin={topPick.asin} data-track="affiliate-click">Comprar agora</a>
     </div>
   </div>
 
