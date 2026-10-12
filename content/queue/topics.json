@@ -347,7 +347,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "dolce-gusto-genio-s-e-boa",
+      "published_at": "2026-10-12"
     },
     {
       "id": "saude-e-bem-estar-lista-001",
@@ -400,7 +402,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "philips-oneblade-e-bom",
+      "published_at": "2026-10-12"
     },
     {
       "id": "bebes-e-criancas-review-002",
@@ -423,7 +427,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "pampers-premium-care-vale-a-pena",
+      "published_at": "2026-10-12"
     },
     {
       "id": "pets-comparativo-001",
@@ -471,7 +477,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "esteira-ou-bicicleta-ergometrica",
+      "published_at": "2026-10-12"
     },
     {
       "id": "automotivo-review-002",
@@ -1136,7 +1144,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "melhor-tenis-para-ficar-em-pe",
+      "published_at": "2026-10-12"
     },
     {
       "id": "tecnologia-lista-002",

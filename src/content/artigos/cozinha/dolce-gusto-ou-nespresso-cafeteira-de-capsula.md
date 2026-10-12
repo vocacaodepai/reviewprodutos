@@ -115,7 +115,7 @@ produtos:
       "Temperaturas": "Quente e fria"
       "Desligamento automático": "Eco mode após 1 minuto"
       "Dimensões (P x L x A)": "27,1 x 11 x 27,2 cm"
-      "Peso": "1,9 kg"
+      "Peso": "2 kg"
       "Cápsulas": "Nescafé Dolce Gusto e compatíveis"
       "Garantia": "12 meses"
     faixaPreco: "$$"
