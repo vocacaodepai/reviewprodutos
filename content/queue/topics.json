@@ -1447,7 +1447,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "melhor-cadeira-ergonomica-custo-beneficio",
+      "published_at": "2026-10-13"
     },
     {
       "id": "moda-e-acessorios-lista-004",
@@ -1645,7 +1647,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "racao-golden-special-e-boa",
+      "published_at": "2026-10-13"
     },
     {
       "id": "esportes-e-lazer-review-002",
@@ -1827,7 +1831,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "balanca-bioimpedancia-relaxmedic-smart-neo-e-boa",
+      "published_at": "2026-10-13"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-005",
@@ -2011,7 +2017,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "fire-tv-stick-4k-ou-hd",
+      "published_at": "2026-10-13"
     },
     {
       "id": "casa-e-jardim-comparativo-002",
@@ -2034,7 +2042,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "robo-aspirador-ou-aspirador-vertical",
+      "published_at": "2026-10-13"
     },
     {
       "id": "cozinha-comparativo-003",
