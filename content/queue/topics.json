@@ -1879,7 +1879,9 @@
       ],
       "prioridade": 2,
       "sazonal": "natal",
-      "status": "pending"
+      "status": "published",
+      "published_slug": "lego-classic-10696-vale-a-pena",
+      "published_at": "2026-10-13"
     },
     {
       "id": "pets-review-003",
@@ -2159,7 +2161,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "kong-classic-vale-a-pena",
+      "published_at": "2026-10-13"
     },
     {
       "id": "esportes-e-lazer-comparativo-002",
@@ -2208,7 +2212,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "70mai-a500s-ou-a800s",
+      "published_at": "2026-10-13"
     },
     {
       "id": "escritorio-e-estudos-review-005",
@@ -2276,7 +2282,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "notebook-ou-tablet-para-estudar",
+      "published_at": "2026-10-13"
     },
     {
       "id": "casa-e-jardim-comparativo-003",
@@ -2326,7 +2334,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "melhor-frigideira-antiaderente",
+      "published_at": "2026-10-13"
     },
     {
       "id": "saude-e-bem-estar-comparativo-001",
