@@ -503,7 +503,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "almofada-lombar-dreamer-car-e-boa",
+      "published_at": "2026-10-13"
     },
     {
       "id": "escritorio-e-estudos-review-002",
@@ -526,7 +528,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "suporte-notebook-octoo-uptable-vale-a-pena",
+      "published_at": "2026-10-13"
     },
     {
       "id": "moda-e-acessorios-lista-001",
@@ -553,7 +557,9 @@
       ],
       "prioridade": 1,
       "sazonal": "verao",
-      "status": "pending"
+      "status": "published",
+      "published_slug": "melhor-mala-de-viagem-para-despachar",
+      "published_at": "2026-10-13"
     },
     {
       "id": "tecnologia-comparativo-001",
@@ -1517,7 +1523,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "karcher-k2-plus-vale-a-pena",
+      "published_at": "2026-10-13"
     },
     {
       "id": "cozinha-review-003",
@@ -1540,7 +1548,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "electrolux-eaf90-air-fryer-oven-vale-a-pena",
+      "published_at": "2026-10-13"
     },
     {
       "id": "saude-e-bem-estar-review-002",
