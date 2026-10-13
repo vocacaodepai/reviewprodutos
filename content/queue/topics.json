@@ -324,7 +324,9 @@
       ],
       "prioridade": 1,
       "sazonal": "verao",
-      "status": "pending"
+      "status": "published",
+      "published_slug": "ventilador-arno-silence-force-e-bom",
+      "published_at": "2026-10-13"
     },
     {
       "id": "cozinha-review-002",
@@ -1065,7 +1067,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "equipamentos-para-treinar-em-casa",
+      "published_at": "2026-10-13"
     },
     {
       "id": "automotivo-lista-002",
@@ -1117,7 +1121,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "cadeira-gamer-ou-cadeira-de-escritorio",
+      "published_at": "2026-10-13"
     },
     {
       "id": "moda-e-acessorios-lista-003",
@@ -1291,7 +1297,9 @@
       ],
       "prioridade": 1,
       "sazonal": "natal",
-      "status": "pending"
+      "status": "published",
+      "published_slug": "melhor-perfume-masculino-custo-beneficio",
+      "published_at": "2026-10-13"
     },
     {
       "id": "bebes-e-criancas-lista-002",
@@ -1484,7 +1492,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "qcy-t13-anc-e-bom",
+      "published_at": "2026-10-13"
     },
     {
       "id": "casa-e-jardim-review-003",
