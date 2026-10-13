@@ -61,8 +61,8 @@ produtos:
       "Garantia": "12 meses (loja oficial)"
     faixaPreco: "$$$"
     precoMercado:
-      min: 2500
-      max: 2900
+      min: 2000
+      max: 2500
       referencia: "2026-10"
       observacao: "Preta na loja oficial; versão cinza na loja oficial e na KaBuM. Anúncios de marketplace fora da faixa foram desconsiderados."
       fontes:

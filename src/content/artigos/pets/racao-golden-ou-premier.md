@@ -117,12 +117,14 @@ produtos:
       "Corantes e aromatizantes artificiais": "Não"
     faixaPreco: "$$"
     precoMercado:
-      min: 140
-      max: 160
+      min: 150
+      max: 190
       referencia: "2026-10"
-      observacao: "Na Cobasi, a compra programada costuma sair cerca de 10% abaixo do preço avulso."
+      observacao: "A Cobasi fica na parte baixa da faixa, e a compra programada sai um pouco abaixo do avulso; a Magazine Luiza aparece na parte alta no Buscapé e no Zoom."
       fontes:
         - { nome: "Cobasi", url: "https://www.cobasi.com.br/racao-golden-special-para-caes-adultos-frango-e-carne-3310549/p" }
+        - { nome: "Buscapé — Golden Special Cães Adultos 15 kg", url: "https://www.buscape.com.br/racao-cachorro/racao-golden-special-caes-adultos-frango-e-carne-15kg" }
+        - { nome: "Zoom — Golden Special Cães Adultos 15 kg", url: "https://www.zoom.com.br/racao-cachorro/racao-golden-special-caes-adultos-frango-e-carne-15kg" }
     idealPara: "Cães adultos saudáveis, castrados ou pouco ativos, e tutores com mais de um cão que precisam controlar o gasto"
     naoIndicadoPara: "Cães com pele sensível, pelo opaco, fezes moles ou rotina muito ativa"
     notasCriterios:
