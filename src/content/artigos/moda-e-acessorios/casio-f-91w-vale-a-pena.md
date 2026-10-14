@@ -61,7 +61,7 @@ produtos:
       "Peso": "21 g"
     faixaPreco: "$"
     precoMercado:
-      min: 110
+      min: 130
       max: 180
       referencia: "2026-10"
       observacao: "Os anúncios variam muito entre vendedores de marketplace. Ofertas muito abaixo da faixa costumam ser réplicas; confira o vendedor e o módulo 593 no fundo."
