@@ -1726,7 +1726,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "thunderx3-tgc12-e-boa",
+      "published_at": "2026-10-14"
     },
     {
       "id": "moda-e-acessorios-review-002",
@@ -1749,7 +1751,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "tecnologia-review-004",
@@ -1796,7 +1798,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "climatizador-elgin-7-5-litros-vale-a-pena",
+      "published_at": "2026-10-14"
     },
     {
       "id": "cozinha-review-004",
@@ -2151,7 +2155,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "pampers-premium-care-ou-huggies-supreme-care",
+      "published_at": "2026-10-14"
     },
     {
       "id": "pets-review-004",
@@ -2626,7 +2632,9 @@
       ],
       "prioridade": 2,
       "sazonal": "black-friday",
-      "status": "pending"
+      "status": "published",
+      "published_slug": "melhor-microondas-por-tamanho",
+      "published_at": "2026-10-14"
     },
     {
       "id": "saude-e-bem-estar-lista-005",
