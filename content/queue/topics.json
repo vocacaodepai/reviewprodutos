@@ -1823,7 +1823,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "purificador-electrolux-pe11-e-bom",
+      "published_at": "2026-10-14"
     },
     {
       "id": "saude-e-bem-estar-review-003",
@@ -1942,7 +1944,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "olympikus-corre-4-e-bom",
+      "published_at": "2026-10-14"
     },
     {
       "id": "automotivo-review-004",
@@ -1988,7 +1992,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "lg-ultragear-24g411a-e-bom",
+      "published_at": "2026-10-14"
     },
     {
       "id": "moda-e-acessorios-review-003",
@@ -2132,7 +2138,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "bebes-e-criancas-comparativo-002",
@@ -3032,7 +3038,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "melhor-caminha-para-cachorro",
+      "published_at": "2026-10-14"
     },
     {
       "id": "esportes-e-lazer-lista-005",
