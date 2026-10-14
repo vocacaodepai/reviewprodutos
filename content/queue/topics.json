@@ -1477,7 +1477,9 @@
       ],
       "prioridade": 1,
       "sazonal": "natal",
-      "status": "pending"
+      "status": "published",
+      "published_slug": "presente-natal-homem-relogios-oculos",
+      "published_at": "2026-10-14"
     },
     {
       "id": "tecnologia-review-003",
@@ -1601,7 +1603,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "cicaplast-baume-b5-vale-a-pena",
+      "published_at": "2026-10-14"
     },
     {
       "id": "bebes-e-criancas-review-003",
@@ -1624,7 +1628,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "carrinho-burigotto-ecco-e-bom",
+      "published_at": "2026-10-14"
     },
     {
       "id": "pets-review-002",
@@ -1671,7 +1677,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "esteira-dream-fitness-concept-2-1-e-boa",
+      "published_at": "2026-10-14"
     },
     {
       "id": "automotivo-review-003",
@@ -2072,7 +2080,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mondial-grand-family-vs-electrolux-eaf51",
+      "published_at": "2026-10-14"
     },
     {
       "id": "saude-e-bem-estar-review-004",
