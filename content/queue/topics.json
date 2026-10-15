@@ -2475,7 +2475,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "comedouro-automatico-ou-manual",
+      "published_at": "2026-10-15"
     },
     {
       "id": "esportes-e-lazer-comparativo-003",
@@ -2956,7 +2958,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "agua-com-gosto-de-cloro",
+      "published_at": "2026-10-15"
     },
     {
       "id": "saude-e-bem-estar-lista-006",
@@ -3220,7 +3224,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "lampada-inteligente-positivo-e-boa",
+      "published_at": "2026-10-15"
     },
     {
       "id": "cozinha-lista-004",
@@ -3269,7 +3275,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "corretor-postural-ortho-pauher-e-bom",
+      "published_at": "2026-10-15"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-004",
@@ -3291,7 +3299,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "lattafa-asad-e-bom",
+      "published_at": "2026-10-15"
     },
     {
       "id": "bebes-e-criancas-review-005",
