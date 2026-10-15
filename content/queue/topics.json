@@ -2023,7 +2023,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "olympikus-atmos-e-bom",
+      "published_at": "2026-10-15"
     },
     {
       "id": "tecnologia-comparativo-002",
@@ -2423,7 +2425,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "prancha-ou-escova-secadora",
+      "published_at": "2026-10-15"
     },
     {
       "id": "bebes-e-criancas-comparativo-003",
@@ -2763,7 +2767,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "esportes-e-lazer-lista-004",
@@ -2846,7 +2850,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "olhos-cansados-de-tela-causas-e-produtos",
+      "published_at": "2026-10-15"
     },
     {
       "id": "moda-e-acessorios-comparativo-002",
@@ -3189,7 +3195,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "jbl-go-4-e-boa",
+      "published_at": "2026-10-15"
     },
     {
       "id": "casa-e-jardim-review-005",
@@ -3352,7 +3360,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "caloi-explorer-sport-e-boa",
+      "published_at": "2026-10-15"
     },
     {
       "id": "automotivo-review-005",

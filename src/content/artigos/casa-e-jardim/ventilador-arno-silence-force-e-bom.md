@@ -7,7 +7,7 @@ categoria: casa-e-jardim
 subcategoria: climatizacao
 tags: ["ventilador", "arno", "silence force", "ventilador silencioso", "ventilador para dormir", "ventilador de coluna"]
 pubDate: 2026-10-13
-updatedDate: 2026-10-13
+updatedDate: 2026-10-15
 autor: bruno-danello
 imagem:
   src: "https://m.media-amazon.com/images/I/61j8+UYjvyL._AC_SL1500_.jpg"
@@ -129,6 +129,8 @@ relacionados: ["melhor-ventilador-de-coluna", "calor-para-dormir-refrescar-quart
 ## Para quem é este review
 
 Você procurou "Arno Silence Force é bom?" porque quer dormir no calor sem ouvir o ventilador, e sem passar a noite acordando para trocar de velocidade. O vento refresca, mas o zumbido do motor pode impedir o sono. Este review olha o modelo de coluna **Arno Ultra Silence Force VD5C** com essa pergunta em mente: ele entrega vento sem atrapalhar o descanso?
+
+Atenção: o VD5C está indisponível na Amazon no momento. Se você procura um ventilador da mesma família para o quarto, veja o [comparativo entre o Arno Silence Force e o Mondial Super Turbo](/comparativos/arno-silence-force-vs-mondial-super-turbo/), que usa o modelo VDBT, hoje à venda.
 
 Um aviso de método: este texto não vem de teste físico. Ele reúne a ficha técnica publicada por lojas e comparadores, a página oficial da Arno para o irmão Bluetooth da mesma linha, a análise do Canaltech e os relatos de consumidores que encontramos fora da Amazon. Onde um dado não aparece em fonte confiável, dizemos isso.
 
