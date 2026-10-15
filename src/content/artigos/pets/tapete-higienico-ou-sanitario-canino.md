@@ -150,7 +150,7 @@ faq:
   - pergunta: "Quantos tapetes higiênicos um cachorro usa por mês?"
     resposta: "De 30 a 60. Um cão pequeno já treinado costuma trocar a cada 1 ou 2 dias; um cão de 13 kg, segundo a Petlove, pede troca diária; cães grandes ou com mais de um animal chegam a dois por dia. Um pacote de 50 tapetes Chalesco dura de 25 a 50 dias, dependendo do porte."
   - pergunta: "Chalesco ou Super Secão: qual tapete higiênico é melhor?"
-    resposta: "Os dois são marcas consolidadas no Brasil. O Chalesco Premium de 90 x 60 cm leva vantagem no tamanho e nos adesivos de fixação, com absorção declarada de 2 litros; o Super Secão Slim é mais fino e vendido em pacotes menores, bom para cães pequenos e para quem quer gastar menos por pacote. Para cães médios, grandes ou machos, o tamanho do Chalesco pesa mais."
+    resposta: "Os dois são marcas consolidadas no Brasil. O Chalesco Premium de 90 x 60 cm leva vantagem no tamanho e nos adesivos de fixação, com absorção declarada de 2 litros; o Super Secão básico (80 x 60 cm, pacote de 30 unidades) é menor e gasta menos por pacote, bom para cães pequenos. Para cães médios, grandes ou machos, o tamanho do Chalesco pesa mais."
   - pergunta: "Dá para usar tapete higiênico dentro do sanitário canino?"
     resposta: "Sim, e é a combinação mais comum: o tapete (ou jornal) vai por baixo da grade, absorve o xixi e a grade mantém as patas secas. Você troca o tapete a cada 2 ou 3 dias em vez de todo dia e lava a grade com menos frequência. Confira se o tapete dobrado cabe na bandeja; o Dog Toalete tem cerca de 55 x 40 cm."
   - pergunta: "Como tirar o cheiro de xixi do sanitário canino?"

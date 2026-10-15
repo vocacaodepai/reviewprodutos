@@ -1873,7 +1873,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "anthelios-airlicium-vale-a-pena",
+      "published_at": "2026-10-15"
     },
     {
       "id": "bebes-e-criancas-review-004",
@@ -1921,7 +1923,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "tapete-higienico-super-secao-e-bom",
+      "published_at": "2026-10-15"
     },
     {
       "id": "esportes-e-lazer-review-003",
@@ -2284,7 +2288,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "ray-ban-justin-vale-a-pena",
+      "published_at": "2026-10-15"
     },
     {
       "id": "tecnologia-comparativo-003",
@@ -2432,7 +2438,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mamadeira-avent-ou-mam-easy-start",
+      "published_at": "2026-10-15"
     },
     {
       "id": "pets-comparativo-002",
@@ -2877,7 +2885,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "dialogos-da-tv-dificeis-de-entender",
+      "published_at": "2026-10-15"
     },
     {
       "id": "casa-e-jardim-lista-004",

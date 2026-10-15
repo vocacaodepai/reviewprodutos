@@ -177,7 +177,7 @@ produtos:
       - "Lentes verde escuro neutras para o uso diário"
     contras:
       - "O código 601/71 do título não é a versão polarizada: as polarizadas têm outro código, como 622/2V"
-      - "Ficha de comparadores e lojas divergem sobre o material da armação"
+      - "Lojas citam materiais diferentes para a armação; a ficha da Ray-Ban indica náilon"
       - "Tamanho 55 não serve para todos os rostos; confira a medida de quem vai receber"
       - "Há muitas cores e tamanhos, e o risco de falsificação é alto em anúncios de preço muito baixo"
     especificacoes:
@@ -324,7 +324,7 @@ Para quem decepciona: o visual é simples, a luz é fraca e a pulseira de resina
 
 O Justin é o primo mais simples do Wayfarer: formato quadrado, armação preta e lentes verde escuro neutras. Funciona em quase qualquer rosto e em qualquer roupa, o que o torna um presente seguro para quem usa óculos de sol todo dia. A versão do título é a de tamanho 55, cor 601/71.
 
-O que decepciona: este código não é polarizado (as versões polarizadas, como a 622/2V, têm outro código e custam mais), e lojas divergem sobre o material da armação. Tamanho 55 não serve para todos; se a pessoa tem rosto grande, vale conferir antes. Preços muito abaixo do praticado nas lojas são sinal de cópia: compre de vendedor com nota fiscal e confira o código do modelo e da cor com o anúncio.
+O que decepciona: este código não é polarizado (as versões polarizadas, como a 622/2V, têm outro código e custam mais), e lojas citam materiais diferentes para a armação (a ficha da Ray-Ban indica náilon). Tamanho 55 não serve para todos; se a pessoa tem rosto grande, vale conferir antes. Preços muito abaixo do praticado nas lojas são sinal de cópia: compre de vendedor com nota fiscal e confira o código do modelo e da cor com o anúncio.
 
 ## 5. Oakley Holbrook OO9102 9102F0: melhor premium
 
