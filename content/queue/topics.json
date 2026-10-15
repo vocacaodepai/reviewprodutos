@@ -1973,7 +1973,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "compressor-xiaomi-portatil-e-bom",
+      "published_at": "2026-10-15"
     },
     {
       "id": "escritorio-e-estudos-review-004",
@@ -2119,7 +2121,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "travesseiro-nasa-x-alto-duoflex-e-bom",
+      "published_at": "2026-10-15"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-002",
@@ -2266,7 +2270,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "logitech-m170-e-bom",
+      "published_at": "2026-10-15"
     },
     {
       "id": "moda-e-acessorios-review-004",
@@ -2338,7 +2344,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "arno-silence-force-vs-mondial-super-turbo",
+      "published_at": "2026-10-15"
     },
     {
       "id": "cozinha-lista-002",
@@ -2782,7 +2790,9 @@
       ],
       "prioridade": 2,
       "sazonal": "verao",
-      "status": "pending"
+      "status": "published",
+      "published_slug": "melhor-barraca-de-camping",
+      "published_at": "2026-10-15"
     },
     {
       "id": "automotivo-lista-004",
