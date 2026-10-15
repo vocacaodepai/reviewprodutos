@@ -1,13 +1,13 @@
 ---
-title: "Melhor ventilador de coluna 2026: 7 modelos para comprar (fortes e silenciosos)"
-seoTitle: "Melhor ventilador de coluna 2026: 7 modelos para comprar"
-description: "Comparamos 7 ventiladores de coluna de 40 e 50 cm de Arno, Mondial, WAP, Britânia e Mallory por força do vento, ruído, consumo e garantia. Veja qual comprar."
+title: "Melhor ventilador de coluna 2026: 6 modelos para comprar (fortes e silenciosos)"
+seoTitle: "Melhor ventilador de coluna 2026: 6 modelos para comprar"
+description: "Comparamos 6 ventiladores de coluna de 40 e 50 cm de Arno, Mondial, WAP, Britânia e Mallory por força do vento, ruído, consumo e garantia. Veja qual comprar."
 tipo: lista
 categoria: casa-e-jardim
 subcategoria: climatizacao
 tags: ["ventilador de coluna", "ventilador silencioso", "ventilador 40cm", "ventilador 50cm", "verão", "climatização"]
 pubDate: 2026-10-11
-updatedDate: 2026-10-11
+updatedDate: 2026-10-15
 autor: bruno-danello
 imagem:
   src: "https://m.media-amazon.com/images/I/71E9erGdZ0L._AC_SL1500_.jpg"
@@ -20,7 +20,7 @@ funil:
   problema: "encontrar um ventilador de coluna forte, silencioso e que dure mais de um verão"
   palavrasChave: ["melhor ventilador de coluna 2026", "ventilador de coluna silencioso", "melhor ventilador de coluna custo-benefício", "ventilador de coluna 40cm", "arno ou mondial ventilador", "ventilador de coluna 50cm", "ventilador para quarto quente"]
   intencao: "Escolher um ventilador de coluna que refresque de verdade sem atrapalhar o sono e sem quebrar no segundo verão"
-veredito: "O Arno X-TREME 7 VE72 é o melhor ventilador de coluna de 2026 no geral: 7 pás, 150 W, alcance de até 11 metros segundo a Arno, modo noturno e selo de eficiência A. O Mondial Turbo NVT-40C-8P-B é o melhor custo-benefício, com 8 pás e 140 W na faixa de entrada, mas é mais ruidoso no máximo. Para dormir, o Arno Ultra Silence Force VD5C é o mais silencioso e tem repelente; para salas grandes, o WAP Flow Turbo e o Arno Xtreme Force Breeze VB52, ambos de 50 cm."
+veredito: "O Arno X-TREME 7 VE72 é o melhor ventilador de coluna de 2026 no geral: 7 pás, 150 W, alcance de até 11 metros segundo a Arno, modo noturno e selo de eficiência A. O Mondial Turbo NVT-40C-8P-B é o melhor custo-benefício, com 8 pás e 140 W na faixa de entrada, mas é mais ruidoso no máximo. Para quartos e sono leve, o Mallory Éolo é o mais discreto e econômico; para salas grandes, o WAP Flow Turbo e o Arno Xtreme Force Breeze VB52, ambos de 50 cm."
 produtos:
   - nome: "Arno Ventilador de Coluna X-TREME 7 VE72 40cm 7 Pás 150W"
     marca: "Arno"
@@ -124,54 +124,6 @@ produtos:
       "Consumo de energia": 8.0
       "Durabilidade": 7.5
       "Custo-benefício": 9.5
-  - nome: "Arno Ventilador de Coluna Ultra Silence Force Desmontável Repelente VD5C 40cm"
-    marca: "Arno"
-    modelo: "VD5C"
-    asin: "B08HVTQ26Y"
-    voltagem: "110V"
-    variantes:
-      - rotulo: "Versão 220V"
-        asin: "B08HVVG7SB"
-    imagem:
-      src: "https://m.media-amazon.com/images/I/61j8+UYjvyL._AC_SL1500_.jpg"
-      fonte: amazon
-      largura: 585
-      altura: 799
-      alt: "Ventilador de coluna Arno Ultra Silence Force VD5C preto de 40 cm com reservatório de repelente"
-    nota: 8.1
-    selo: melhor-silencioso
-    resumo: "O mais indicado para dormir: linha Ultra Silence Force, 6 pás, 130 W, repelente líquido embutido e corpo desmontável."
-    pros:
-      - "Linha posicionada pela Arno como a mais silenciosa, com velocidade baixa adequada ao sono"
-      - "Repelente líquido embutido, útil para dormir de janela aberta"
-      - "Power Zone concentra o vento e chega ao outro lado do quarto"
-      - "4 inclinações verticais, inclusive para baixo, e eficiência A"
-      - "Desmontável, fácil de guardar e de limpar"
-    contras:
-      - "Pesado para a categoria (7,3 kg)"
-      - "Na velocidade máxima o ruído deixa de ser discreto"
-      - "Em fórum de tecnologia, donos relatam que fica barulhento quando as pás acumulam poeira"
-    especificacoes:
-      "Diâmetro": "40 cm"
-      "Pás": "6"
-      "Potência": "130 W"
-      "Velocidades": "3"
-      "Oscilação": "Horizontal, 4 inclinações verticais"
-      "Altura": "Até 1,52 m"
-      "Peso": "7,3 kg"
-      "Eficiência": "Classe A"
-      "Consumo estimado (8 h/dia)": "Até 31,2 kWh/mês"
-      "Garantia": "12 meses"
-    faixaPreco: "$$"
-    idealPara: "Quartos, sono leve e regiões com muito mosquito"
-    naoIndicadoPara: "Quem quer o vento mais forte possível para uma sala grande"
-    notasCriterios:
-      "Eficiência": 8.0
-      "Praticidade": 8.5
-      "Ruído": 9.0
-      "Consumo de energia": 8.5
-      "Durabilidade": 7.5
-      "Custo-benefício": 7.0
   - nome: "Arno Ventilador de Coluna Xtreme Force Breeze VB52 50cm 126W"
     marca: "Arno"
     modelo: "VB52"
@@ -246,7 +198,7 @@ produtos:
     selo: melhor-desempenho
     resumo: "O mais potente da lista: 180 W, hélice de 50 cm com 8 pás e oscilação de 90°, por preço intermediário. Em troca, consome mais e a base é o ponto fraco."
     pros:
-      - "180 W e 50 cm: o maior volume de vento entre os sete modelos"
+      - "180 W e 50 cm: o maior volume de vento entre os seis modelos"
       - "Oscilação de até 90° e inclinação de até 45°, a maior cobertura da lista"
       - "Leve para o tamanho (5,6 kg) e com altura de até 1,5 m"
       - "Selo Procel, segundo o fabricante, e garantia total de 12 meses"
@@ -350,6 +302,7 @@ produtos:
       altura: 1500
       alt: "Ventilador de coluna Mallory Éolo preto e grafite de 40 cm com grade TS"
     nota: 7.7
+    selo: melhor-silencioso
     resumo: "Alternativa discreta e econômica: 126 W, grade TS que reduz o ruído e corpo desmontável. Perde em altura máxima e em histórico de assistência."
     pros:
       - "126 W: o menor consumo entre os modelos de 40 cm da lista"
@@ -410,13 +363,13 @@ criterios:
 tabelaComparativa: ["Diâmetro", "Pás", "Potência", "Altura", "Consumo estimado (8 h/dia)", "Garantia"]
 faq:
   - pergunta: "Qual é o ventilador de coluna mais silencioso?"
-    resposta: "Entre os sete analisados, o Arno Ultra Silence Force VD5C é o mais indicado para quem tem sono leve, seguido do Mallory Éolo e do Arno X-TREME 7 no modo noturno. Os fabricantes não publicam medições em decibéis desses modelos, então a comparação se baseia na proposta da linha e em relatos de donos. Em qualquer marca, limpar as pás a cada duas ou três semanas evita o aumento de ruído causado por poeira."
+    resposta: "Entre os seis analisados, o Mallory Éolo é o mais indicado para quem tem sono leve, seguido do Arno X-TREME 7 no modo noturno e do Arno VB52 no modo Sono Tranquilo. O Arno Ultra Silence Force VD5C, antes citado aqui, está indisponível na Amazon no momento e saiu da lista. Os fabricantes não publicam medições em decibéis desses modelos, então a comparação se baseia na proposta da linha e em relatos de donos. Em qualquer marca, limpar as pás a cada duas ou três semanas evita o aumento de ruído causado por poeira."
   - pergunta: "Ventilador de coluna de 40 cm ou de 50 cm: qual escolher?"
     resposta: "O de 40 cm atende bem quartos e salas de até uns 20 m² e é mais fácil de mover. O de 50 cm, como o WAP Flow Turbo e o Arno VB52, move bem mais ar e compensa em salas amplas, varandas e cômodos com várias pessoas, mas ocupa cerca de 60 cm de largura e pode ser forte demais para dormir."
   - pergunta: "Quanto gasta de energia um ventilador de coluna?"
     resposta: "Na velocidade máxima, um ventilador de 140 W ligado 8 horas por dia consome até 33,6 kWh por mês; um de 180 W, até 43,2 kWh. Nas velocidades baixas o consumo cai. É uma fração do que gasta um ar-condicionado de 9.000 BTUs no mesmo período."
   - pergunta: "Ventilador Arno ou Mondial: qual é melhor?"
-    resposta: "A Arno vence em silêncio, acabamento e recursos como modo noturno e repelente: o X-TREME 7 é nossa escolha do editor. A Mondial vence em preço: o Turbo NVT-40C-8P-B entrega 8 pás e 140 W na faixa de entrada, mas é mais ruidoso na velocidade média e máxima. Ambas têm rede de assistência ampla e 12 meses de garantia."
+    resposta: "A Arno vence em silêncio, acabamento e recursos como o modo noturno: o X-TREME 7 é nossa escolha do editor. A Mondial vence em preço: o Turbo NVT-40C-8P-B entrega 8 pás e 140 W na faixa de entrada, mas é mais ruidoso na velocidade média e máxima. Ambas têm rede de assistência ampla e 12 meses de garantia."
   - pergunta: "Mais pás deixam o ventilador mais forte?"
     resposta: "Não necessariamente. O vento depende do conjunto: diâmetro da hélice, rotação, potência do motor e desenho da grade. Mais pás tendem a deixar o fluxo mais contínuo e um pouco mais silencioso para a mesma vazão, mas um ventilador de 50 cm com 6 pás move mais ar que um de 40 cm com 8."
   - pergunta: "Como dormir no calor com ventilador sem acordar com garganta seca?"
@@ -436,8 +389,6 @@ fontes:
     url: "https://www.gazin.com.br/produto/ventilador-de-coluna-arno-x-treme-7-40cm-7-pas-3-velocidades-150w-ve7c/8582/preto/110-volts"
   - nome: "Buscapé — Arno Xtreme Force Breeze VB52"
     url: "https://www.buscape.com.br/ventilador-circulador/ventilador-de-coluna-arno-xtreme-force-breeze-vb52-50-cm-6-pas-3-velocidades"
-  - nome: "Buscapé — Arno Ultra Silence Force VD4C (irmão sem repelente)"
-    url: "https://www.buscape.com.br/ventilador-circulador/ventilador-de-coluna-arno-ultra-silence-force-vd4c-40-cm-6-pas-3-velocidades"
   - nome: "Reclame Aqui — Reclamação sobre base do ventilador WAP"
     url: "https://www.reclameaqui.com.br/web-continental-marketplace/qualidade-do-ventilador-wap_Whg_mSzy9pQuEWFJ/"
   - nome: "Reclame Aqui — Três ventiladores Arno com o mesmo defeito"
@@ -460,7 +411,7 @@ relacionados: ["calor-para-dormir-refrescar-quarto-sem-ar-condicionado", "robo-a
 
 ## Resposta rápida
 
-Se você quer um ventilador de coluna forte, silencioso o bastante para dormir e com chance real de durar vários verões, o **Arno X-TREME 7 VE72** é a melhor escolha de 2026: hélice de 7 pás, 150 W, alcance de até 11 metros segundo a Arno, modo noturno e classificação de eficiência A. O **melhor custo-benefício** é o **Mondial Turbo NVT-40C-8P-B**, com 8 pás e 140 W na faixa de entrada, aceitando um pouco mais de barulho. Para o quarto de quem tem sono leve, o **Arno Ultra Silence Force VD5C** é o mais silencioso e ainda tem repelente. Para salas grandes, os de 50 cm: **Arno Xtreme Force Breeze VB52** (mais econômico) e **WAP Flow Turbo** (mais potente).
+Se você quer um ventilador de coluna forte, silencioso o bastante para dormir e com chance real de durar vários verões, o **Arno X-TREME 7 VE72** é a melhor escolha de 2026: hélice de 7 pás, 150 W, alcance de até 11 metros segundo a Arno, modo noturno e classificação de eficiência A. O **melhor custo-benefício** é o **Mondial Turbo NVT-40C-8P-B**, com 8 pás e 140 W na faixa de entrada, aceitando um pouco mais de barulho. Para o quarto de quem tem sono leve, o **Mallory Éolo** é o mais discreto e o que menos gasta. Para salas grandes, os de 50 cm: **Arno Xtreme Force Breeze VB52** (mais econômico) e **WAP Flow Turbo** (mais potente).
 
 ## Para quem é este guia
 
@@ -470,7 +421,7 @@ Também serve para quem está montando a casa e precisa de um único aparelho pa
 
 ## Como escolhemos
 
-Consideramos 15 ventiladores de coluna de 40 e 50 cm vendidos na Amazon Brasil em outubro de 2026, das marcas Arno, Mondial, Britânia, Philco, WAP, Ventisol, Mallory, Cadence e Oster. Cortamos os de 30 cm (fracos para coluna), os modelos sem ficha técnica consistente entre lojas (caso de um Ventisol de 10 pás anunciado com 140 W em uma loja e 150 W em outra) e os de marcas sem rede de assistência conhecida. Sobraram 7, ordenados pela média ponderada dos critérios: eficiência do vento (30%), praticidade (20%), ruído (15%), consumo de energia (10%), durabilidade (10%) e custo-benefício (15%).
+Consideramos 15 ventiladores de coluna de 40 e 50 cm vendidos na Amazon Brasil em outubro de 2026, das marcas Arno, Mondial, Britânia, Philco, WAP, Ventisol, Mallory, Cadence e Oster. Cortamos os de 30 cm (fracos para coluna), os modelos sem ficha técnica consistente entre lojas (caso de um Ventisol de 10 pás anunciado com 140 W em uma loja e 150 W em outra) e os de marcas sem rede de assistência conhecida. Sobraram 6, ordenados pela média ponderada dos critérios: eficiência do vento (30%), praticidade (20%), ruído (15%), consumo de energia (10%), durabilidade (10%) e custo-benefício (15%).
 
 Não houve teste físico destes modelos pela nossa equipe: esta é uma análise de especificações oficiais, fontes especializadas e relatos públicos de consumidores fora da Amazon.
 
@@ -479,7 +430,6 @@ O dado próprio deste guia é a **estimativa de consumo mensal** de cada modelo,
 | Potência | Modelos | Consumo máximo estimado |
 | --- | --- | --- |
 | 126 W | Arno VB52, Mallory Éolo | 30,2 kWh/mês |
-| 130 W | Arno VD5C | 31,2 kWh/mês |
 | 140 W | Mondial NVT-40C-8P-B | 33,6 kWh/mês |
 | 150 W | Arno X-TREME 7 | 36 kWh/mês |
 | 160 W | Britânia BVT450 | 38,4 kWh/mês |
@@ -499,31 +449,25 @@ O Turbo de 8 pás é o ventilador de coluna que mais aparece nas casas brasileir
 
 O porém está no ruído. A Mondial descreve o sistema como silencioso, mas não publica medição, não há modo noturno dedicado e um conjunto de 8 pás a 140 W tende a soar mais na velocidade média do que os Arno da lista; por isso a nota de ruído dele fica abaixo da dos Arno e só acima da do Britânia. O acabamento é simples, todo em plástico, e o aparelho não é bivolt: confira se está comprando a versão 127 V ou a 220 V, que têm códigos próprios. Para quem é: quem quer vento forte gastando pouco, principalmente para a sala ou para quem não se incomoda com barulho de fundo. A Mondial tem rede de assistência ampla e garantia de 12 meses, o que conta quando o motor precisar de reparo.
 
-## 3. Arno Ultra Silence Force VD5C: melhor para dormir
-
-Se o problema é acordar com o barulho do ventilador, este é o modelo. A linha Ultra Silence Force é a que a Arno posiciona como a mais silenciosa, e na comunidade do Tecnoblog é o ventilador da marca mais citado por quem dorme com ele ligado. Tem 6 pás, 130 W e o Power Zone, que concentra o vento numa área e faz ele chegar ao outro lado do quarto. O diferencial é o reservatório de repelente líquido, útil para quem dorme de janela aberta em região de mosquito.
-
-O que decepciona: é pesado para um 40 cm (7,3 kg), e no máximo o ruído deixa de ser discreto. Donos relatam no mesmo fórum que ele fica barulhento quando as pás acumulam poeira, por isso a limpeza a cada duas ou três semanas faz diferença. Há versões 110 V e 220 V. Para quem é: quartos de casal e de criança, pessoas de sono leve e quem quer substituir a tomada de repelente por uma solução só.
-
-## 4. Arno Xtreme Force Breeze VB52: melhor para salas grandes e famílias
+## 3. Arno Xtreme Force Breeze VB52: melhor para salas grandes e famílias
 
 Com hélice de 50 cm, o VB52 move muito mais ar do que qualquer 40 cm, e faz isso com apenas 126 W. A Arno diz que o modo Eco Fresh economiza até 20% de energia, e a grade Chevron Zone foi desenhada para reduzir o ruído. São três modos: Potência Extrema, Eco Fresh e Sono Tranquilo, com oscilação de 80° e 4 inclinações verticais.
 
 Para quem é: salas amplas, áreas de churrasqueira cobertas e casas onde a família se reúne no mesmo cômodo. O que decepciona: o tamanho. São cerca de 9 kg e 59 cm de largura, e no máximo a hélice de 50 cm é forte demais para um quarto pequeno, a ponto de deslocar cortinas e papéis. É um ventilador para ficar parado num lugar, não para levar de um cômodo a outro todo dia. Versões 127 V e 220 V, 12 meses de garantia.
 
-## 5. WAP Flow Turbo 50 cm: o mais potente
+## 4. WAP Flow Turbo 50 cm: o mais potente
 
-O Flow Turbo é o que mais empurra ar na lista: 180 W, hélice de 50 cm com 8 pás, oscilação de até 90° e inclinação de até 45°, a maior cobertura entre os sete. Mesmo assim pesa só 5,6 kg e sobe até 1,5 m. A WAP informa selo Procel e três velocidades (silencioso, brisa e turbo), e a garantia total é de 12 meses: 3 legais e 9 concedidos pelo fabricante.
+O Flow Turbo é o que mais empurra ar na lista: 180 W, hélice de 50 cm com 8 pás, oscilação de até 90° e inclinação de até 45°, a maior cobertura entre os seis. Mesmo assim pesa só 5,6 kg e sobe até 1,5 m. A WAP informa selo Procel e três velocidades (silencioso, brisa e turbo), e a garantia total é de 12 meses: 3 legais e 9 concedidos pelo fabricante.
 
 O que decepciona: o consumo é o maior da lista (até 43,2 kWh por mês com 8 horas diárias no máximo) e, no Reclame Aqui, um comprador relatou base frágil que deixava o aparelho inclinar para a frente na velocidade turbo. É um relato isolado, mas pesa na nota de durabilidade e é motivo para cuidado em casa com crianças pequenas e pets. No turbo, é barulhento. Para quem é: edículas, salas grandes e cômodos muito quentes em que força importa mais do que silêncio.
 
-## 6. Britânia BVT450 Maxx Force: forte e simples para a sala
+## 5. Britânia BVT450 Maxx Force: forte e simples para a sala
 
 O BVT450 coloca 160 W em uma hélice de 40 cm com 6 pás, o que o torna um dos 40 cm mais fortes do mercado. Tem oscilação automática, articulação vertical, grade removível para limpar as pás e um sistema que interrompe o funcionamento se o motor superaquecer, detalhe de segurança que poucos rivais anunciam. A classificação energética é A.
 
 O que decepciona: potência maior significa mais ruído e mais consumo que os Arno, e não há modo noturno nem controle remoto. Encontramos poucas análises independentes sobre a durabilidade do modelo, então a nota de durabilidade se apoia na garantia de 12 meses e na rede de assistência do Grupo Britânia (o mesmo da Philco). Para quem é: sala, cozinha e escritório em casa, onde o barulho incomoda pouco e o calor incomoda muito. Versões 127 V e 220 V.
 
-## 7. Mallory Éolo: econômico e discreto para quartos pequenos
+## 6. Mallory Éolo: melhor para dormir e para quartos pequenos
 
 O Éolo é a alternativa para quem quer gastar pouco de energia e de espaço. São 126 W, 6 pás e a grade TS, que a Mallory diz entregar máxima vazão com mínimo ruído. É totalmente desmontável, pesa 5,7 kg e tem velocidades bem escalonadas: suave, moderada e intensa.
 
@@ -537,11 +481,11 @@ O de 40 cm é o padrão para quartos e salas de até uns 20 m²: mais leve, mais
 
 ### Número de pás e potência
 
-Mais pás deixam o fluxo mais contínuo e ajudam no silêncio, mas não garantem mais força. O que manda é o conjunto de diâmetro, rotação, potência e desenho da grade. Para 40 cm, algo entre 130 e 150 W é o equilíbrio; acima disso o ganho de vento vem acompanhado de mais ruído.
+Mais pás deixam o fluxo mais contínuo e ajudam no silêncio, mas não garantem mais força. O que manda é o conjunto de diâmetro, rotação, potência e desenho da grade. Para 40 cm, algo entre 126 e 150 W é o equilíbrio; acima disso o ganho de vento vem acompanhado de mais ruído.
 
 ### Ruído e modo noturno
 
-Nenhum dos fabricantes publica decibéis desses modelos. Procure linhas com modo noturno ou velocidade baixa dedicada ao sono (Arno Ultra Silence, X-TREME 7, VB52) e lembre que poeira nas pás aumenta o barulho em qualquer marca.
+Nenhum dos fabricantes publica decibéis desses modelos. Procure linhas com modo noturno ou velocidade baixa dedicada ao sono (Arno X-TREME 7, Arno VB52, Mallory Éolo) e lembre que poeira nas pás aumenta o barulho em qualquer marca.
 
 ### Altura e inclinação
 
@@ -553,7 +497,7 @@ Quase nenhum ventilador de coluna é bivolt: cada voltagem tem um código. Confi
 
 ### Garantia e assistência
 
-Todos os sete têm 12 meses de garantia. A diferença está na rede: Arno, Mondial e Britânia têm assistência em praticamente todas as cidades médias; Mallory e WAP, menos pontos. Guarde a nota fiscal.
+Todos os seis têm 12 meses de garantia. A diferença está na rede: Arno, Mondial e Britânia têm assistência em praticamente todas as cidades médias; Mallory e WAP, menos pontos. Guarde a nota fiscal.
 
 ## O que não recomendamos (e por quê)
 
@@ -563,6 +507,6 @@ Todos os sete têm 12 meses de garantia. A diferença está na rede: Arno, Mondi
 
 ## Veredito
 
-Compre o **Arno X-TREME 7 VE72** se quer um ventilador para tudo: forte na sala, controlado no quarto e com eficiência A. Escolha o **Mondial Turbo NVT-40C-8P-B** se o orçamento manda e o barulho não incomoda. Para dormir, o **Arno Ultra Silence Force VD5C** é o mais confortável, com repelente de bônus. Para salas grandes, o **Arno VB52** gasta menos e o **WAP Flow Turbo** sopra mais. O **Britânia BVT450** é a opção forte e simples para ambientes de dia, e o **Mallory Éolo** atende quartos pequenos com consumo baixo.
+Compre o **Arno X-TREME 7 VE72** se quer um ventilador para tudo: forte na sala, controlado no quarto e com eficiência A. Escolha o **Mondial Turbo NVT-40C-8P-B** se o orçamento manda e o barulho não incomoda. Para dormir, o **Mallory Éolo** é o mais discreto e econômico, e o X-TREME 7 no modo noturno é a opção mais forte. Para salas grandes, o **Arno VB52** gasta menos e o **WAP Flow Turbo** sopra mais. O **Britânia BVT450** é a opção forte e simples para ambientes de dia. O Arno Ultra Silence Force VD5C, que já esteve nesta lista, está indisponível na Amazon no momento.
 
 Antes de fechar a compra, confira três coisas: a voltagem da sua tomada (cada versão tem um código), a altura máxima da coluna em relação à sua cama e o espaço no chão, principalmente nos modelos de 50 cm. Se o seu problema principal é dormir no calor, o nosso guia sobre como refrescar o quarto sem ar-condicionado traz soluções que funcionam junto com o ventilador.
