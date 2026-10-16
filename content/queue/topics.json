@@ -3420,7 +3420,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "teclado-mecanico-ou-membrana",
+      "published_at": "2026-10-16"
     },
     {
       "id": "moda-e-acessorios-review-005",
@@ -3514,7 +3516,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "liquidificador-oster-1400-full-e-bom",
+      "published_at": "2026-10-16"
     },
     {
       "id": "saude-e-bem-estar-comparativo-002",
@@ -3560,7 +3564,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "esmalte-em-gel-ou-esmalte-comum",
+      "published_at": "2026-10-16"
     },
     {
       "id": "bebes-e-criancas-comparativo-004",
@@ -3629,7 +3635,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "tapete-yoga-acte-sports-e-bom",
+      "published_at": "2026-10-16"
     },
     {
       "id": "automotivo-comparativo-003",
@@ -4161,7 +4169,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "pelos-de-pet-no-sofa-e-na-roupa",
+      "published_at": "2026-10-16"
     },
     {
       "id": "esportes-e-lazer-lista-006",
