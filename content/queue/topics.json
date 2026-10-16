@@ -3324,7 +3324,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "pets-review-005",
@@ -3347,7 +3347,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "guia-retratil-flexi-new-classic-e-boa",
+      "published_at": "2026-10-16"
     },
     {
       "id": "esportes-e-lazer-review-004",
@@ -3441,7 +3443,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mochila-olympikus-essential-e-boa",
+      "published_at": "2026-10-16"
     },
     {
       "id": "tecnologia-comparativo-004",
@@ -3772,7 +3776,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "panela-de-pressao-eletrica-ou-convencional",
+      "published_at": "2026-10-16"
     },
     {
       "id": "saude-e-bem-estar-comparativo-003",
@@ -3821,7 +3827,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "cabelo-com-frizz-no-calor",
+      "published_at": "2026-10-16"
     },
     {
       "id": "bebes-e-criancas-lista-005",
