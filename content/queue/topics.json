@@ -1702,8 +1702,10 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending",
-      "ultimo_erro": "Rodada 14/10: o ASIN Baseus B01M8PQ4PB aparece indisponível na Amazon e nenhum suporte MagSafe com modelo claro foi achado. Refazer com um modelo disponível."
+      "status": "published",
+      "ultimo_erro": "Rodada 14/10: o ASIN Baseus B01M8PQ4PB aparece indisponível na Amazon e nenhum suporte MagSafe com modelo claro foi achado. Refazer com um modelo disponível.",
+      "published_slug": "suporte-veicular-baseus-magnetico-e-bom",
+      "published_at": "2026-10-16"
     },
     {
       "id": "escritorio-e-estudos-review-003",
@@ -2607,7 +2609,9 @@
       ],
       "prioridade": 2,
       "sazonal": "black-friday",
-      "status": "pending"
+      "status": "published",
+      "published_slug": "melhor-smart-tv-50-polegadas",
+      "published_at": "2026-10-16"
     },
     {
       "id": "casa-e-jardim-lista-003",
@@ -2689,7 +2693,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "como-dormir-melhor-habitos-e-produtos",
+      "published_at": "2026-10-16"
     },
     {
       "id": "beleza-e-cuidados-pessoais-lista-003",
@@ -2746,7 +2752,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "melhor-cadeirinha-carro-9-a-36-kg",
+      "published_at": "2026-10-16"
     },
     {
       "id": "pets-comparativo-003",
@@ -2877,7 +2885,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "tecnologia-lista-004",
@@ -3612,7 +3620,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "caixa-de-areia-fechada-ou-aberta",
+      "published_at": "2026-10-16"
     },
     {
       "id": "esportes-e-lazer-review-005",
