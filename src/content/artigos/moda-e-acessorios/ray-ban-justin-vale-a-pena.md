@@ -124,7 +124,7 @@ relacionados: ["presente-natal-homem-relogios-oculos", "casio-f-91w-vale-a-pena"
 
 Você quer um óculos de sol bom, de marca, que dure alguns anos e não custe o que uma ótica de shopping cobra. O Ray-Ban Justin aparece em toda busca, e junto vem a dúvida mais comum: "será que esse anúncio é original?". Este review responde as duas coisas: se o modelo vale a pena e como conferir o par que chegar na sua casa.
 
-A versão analisada é a **Justin RB4165L, cor 601/71, tamanho 55**, preta com lentes verde escuro. Se a sua prioridade é um presente, veja também o guia de [presente de Natal para homem com relógios e óculos](/melhores/presente-natal-homem-relogios-oculos/), que traz este mesmo modelo ao lado de outros quatro.
+A versão analisada é a **Justin RB4165L, cor 601/71, tamanho 55**, preta com lentes verde escuro. Se a sua prioridade é um presente, veja também o artigo de [presente de Natal para homem com relógios e óculos](/melhores/presente-natal-homem-relogios-oculos/), que traz este mesmo modelo ao lado de outros quatro.
 
 ## O que é o Ray-Ban Justin
 
@@ -164,7 +164,7 @@ A fonte que vale mais é a do fabricante, e ela diz náilon. Como outras lojas c
 
 A lente é de policarbonato, leve e resistente a impacto, no tom verde escuro neutro. A Ray-Ban não informa a proteção UV na página consultada, mas Buscapé e Zoom listam "proteção UV" na ficha, e uma loja especializada informa 100% UVA e UVB para este código. Tratando-se de um óculos da marca, a proteção UV é esperada, mas por isso mesmo é um item a conferir em qualquer cópia: lente escura sem filtro dilata a pupila e deixa passar mais radiação.
 
-O que o 601/71 **não** tem: polarização. Ela reduz o brilho de pista molhada, capô e água, e faz diferença para quem dirige muito. Se for o seu caso, procure uma versão polarizada da linha Justin ou outro modelo. Veja a diferença para o [Oakley Holbrook polarizado no guia de presentes](/melhores/presente-natal-homem-relogios-oculos/).
+O que o 601/71 **não** tem: polarização. Ela reduz o brilho de pista molhada, capô e água, e faz diferença para quem dirige muito. Se for o seu caso, procure uma versão polarizada da linha Justin ou outro modelo. Veja a diferença para o [Oakley Holbrook polarizado no artigo de presentes](/melhores/presente-natal-homem-relogios-oculos/).
 
 ## Durabilidade, garantia e assistência
 

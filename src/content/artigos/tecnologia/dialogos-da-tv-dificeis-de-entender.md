@@ -248,9 +248,9 @@ relacionados: ["fire-tv-stick-4k-ou-hd", "melhor-fone-bluetooth-barato"]
 
 Se você precisa subir o volume nas falas e baixar quando vem a explosão, o primeiro passo é grátis: ligue o modo de voz ou diálogo da própria TV e desligue o modo "cinema". Se isso não resolver, a **JBL Cinema SB580** é a escolha mais segura para entender as falas, porque tem canal central dedicado. A **Samsung HW-B450F** é o melhor custo-benefício, com modo de otimização de voz na ficha oficial. A **LG S40T** é a mais compacta e a **JBL Cinema SB180** a mais barata, mas nenhuma das duas traz modo de voz descrito na ficha.
 
-## Para quem é este guia
+## Para quem é este artigo
 
-Este guia é para quem assiste TV e série em casa, entende metade das falas e vive com o controle na mão, subindo o volume nos diálogos e descendo nas cenas de ação. Ele começa pelas causas e pelos ajustes sem custo. Só depois entram as soundbars, para quem já testou as configurações e ainda não ficou satisfeito.
+Este artigo é para quem assiste TV e série em casa, entende metade das falas e vive com o controle na mão, subindo o volume nos diálogos e descendo nas cenas de ação. Ele começa pelas causas e pelos ajustes sem custo. Só depois entram as soundbars, para quem já testou as configurações e ainda não ficou satisfeito.
 
 ## Por que o diálogo some na TV
 
@@ -329,7 +329,7 @@ Para o seu problema, o ponto fraco é que a ficha só cita os modos Cine, Music 
 
 ## Quando procurar um profissional
 
-Nenhuma soundbar substitui uma avaliação da audição. Se você também precisa pedir que repitam o que dizem em conversas, tem dificuldade com telefone ou nota que o problema piorou, marque uma consulta com otorrinolaringologista ou fonoaudiólogo. A dificuldade com a fala na TV pode ser um primeiro sinal. Este guia é informativo e não faz diagnóstico.
+Nenhuma soundbar substitui uma avaliação da audição. Se você também precisa pedir que repitam o que dizem em conversas, tem dificuldade com telefone ou nota que o problema piorou, marque uma consulta com otorrinolaringologista ou fonoaudiólogo. A dificuldade com a fala na TV pode ser um primeiro sinal. Este artigo é informativo e não faz diagnóstico.
 
 ## O que não recomendamos (e por quê)
 

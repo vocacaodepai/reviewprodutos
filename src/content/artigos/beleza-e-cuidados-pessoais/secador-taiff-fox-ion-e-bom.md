@@ -214,7 +214,7 @@ O consumo é parecido em todos: um secador de 2.000 W usado 10 minutos por dia g
 
 ## Alternativas que vale considerar
 
-- **Taiff Tourmaline Íon 2100W:** a escolha mais equilibrada da marca hoje. Motor AC, grade cerâmica com turmalina, cabo de 3 m e ar frio por clique, normalmente por menos que o Fox Íon. É o secador que lidera o nosso guia de melhores secadores de cabelo.
+- **Taiff Tourmaline Íon 2100W:** a escolha mais equilibrada da marca hoje. Motor AC, grade cerâmica com turmalina, cabo de 3 m e ar frio por clique, normalmente por menos que o Fox Íon. É o secador que lidera o nosso artigo de melhores secadores de cabelo.
 - **Taiff Fox Íon S 2100W:** o sucessor direto, com cabo de 3 m e 5 temperaturas. Vale se você gosta do formato Fox e a diferença de preço for pequena; na Amazon, está disponível hoje só em 220 V.
 - **Taiff Fox Íon 3 2200W:** o mais potente da família, para cabelos longos e volumosos. Custa mais e, segundo o Buscapé, é um pouco pesado para uso doméstico.
 - **GA.MA Eleganza Plus Ceramic Ion 2100W:** para quem quer motor profissional gastando menos e com 641 g, aceitando cabo curto.

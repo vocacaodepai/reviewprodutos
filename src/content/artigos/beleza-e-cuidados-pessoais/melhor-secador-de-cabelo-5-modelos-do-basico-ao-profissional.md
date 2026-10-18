@@ -328,9 +328,9 @@ O melhor custo-benefício é o **GA.MA Eleganza Plus Ceramic Ion**: também 2100
 
 Se a sua dor é "secar rápido sem ressecar", saiba desde já: o que protege o cabelo é a temperatura média, a distância de 15 cm e o protetor térmico. A potência encurta o tempo; o cuidado vem da forma de usar.
 
-## Para quem é este guia
+## Para quem é este artigo
 
-Este guia atende quem está com o secador antigo na mão, aquele que demora vinte minutos e deixa o cabelo armado, e digitou "qual secador comprar" sem saber a diferença entre íon, turmalina e cerâmica. E atende também quem já comparou Taiff com GA.MA, viu que os dois têm 2100 W e quer saber o que justifica a diferença de preço.
+Este artigo atende quem está com o secador antigo na mão, aquele que demora vinte minutos e deixa o cabelo armado, e digitou "qual secador comprar" sem saber a diferença entre íon, turmalina e cerâmica. E atende também quem já comparou Taiff com GA.MA, viu que os dois têm 2100 W e quer saber o que justifica a diferença de preço.
 
 O recorte é uso doméstico: pessoas que secam o próprio cabelo, de duas vezes por semana a todos os dias, e querem um aparelho que seque em menos tempo, não resseque e dure mais do que um ano. Secadores de 2.400 W ou mais, feitos para salão, ficaram de fora de propósito: pesam, fazem barulho, exigem tomada reforçada e não secam o seu cabelo mais rápido do que um 2100 W bem usado.
 

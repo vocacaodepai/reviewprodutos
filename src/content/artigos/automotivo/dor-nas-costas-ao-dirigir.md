@@ -341,7 +341,7 @@ Antes de abrir a carteira, passe pelo ajuste completo do banco. Faça na ordem, 
 1. **Distância até os pedais.** Pise fundo no freio e na embreagem: o joelho deve ficar semiflexionado, perto de 120°, segundo a Abramet (via Canaltech). Perna esticada ou dobrada demais sobrecarrega a lombar.
 2. **Altura do assento.** Coxa apoiada em boa parte do comprimento, sem pressão atrás do joelho, e visão completa do painel.
 3. **Inclinação do encosto.** Entre 100° e 110°. Encosto reto demais cansa, reclinado demais tira o apoio da lombar e joga a cabeça para a frente.
-4. **Apoio lombar.** Se o carro tem regulagem, comece no mínimo e aumente só até sentir a curva da cintura preenchida (orientação do guia evkx.net). Se não tem, uma toalha enrolada na altura da cintura é o teste de uma semana que a fisioterapeuta Raquel Silvério recomenda à Vitat.
+4. **Apoio lombar.** Se o carro tem regulagem, comece no mínimo e aumente só até sentir a curva da cintura preenchida (orientação do artigo evkx.net). Se não tem, uma toalha enrolada na altura da cintura é o teste de uma semana que a fisioterapeuta Raquel Silvério recomenda à Vitat.
 5. **Assento que afunda.** A dica de Dirce dos Santos: uma toalha de banho dobrada **sobre o assento**, na parte traseira, para nivelar a bacia. Se melhorar, um assento ortopédico vai funcionar para você.
 6. **Volante e encosto de cabeça.** Com o braço esticado, o punho deve encostar no topo do volante; o encosto de cabeça alinhado ao topo da cabeça.
 7. **Pausas.** A cada 1 ou 2 horas, pare, caminhe e alongue. Nenhuma almofada substitui isso.
@@ -377,7 +377,7 @@ O ponto que mais pesou na nota foi o conjunto registro na Anvisa, fabricação n
 
 Se a toalha dobrada sobre o assento aliviou sua dor, este é o produto que a substitui. A Almofada Cóccix da Copespuma tem 44 x 38 cm, 8 cm de altura e um recorte em U na parte traseira que elimina a pressão direta sobre o cóccix, enquanto a espuma viscoelástica em gel de alta densidade distribui o peso do quadril. Ao nivelar o assento que afunda para trás, ela ajuda a bacia a voltar à posição neutra, e com isso a lombar recupera a curva natural, o mecanismo que a fisioterapia descreve como origem da dor.
 
-A capa impermeável e bactericida é prática para quem come no carro ou transporta passageiros, e o forro antiderrapante segura a almofada sem alça. Os contras são consequência da altura: 8 cm levantam você, então reajuste banco, espelhos e passagem do cinto; motoristas altos podem roçar o teto em hatches baixos. Não há elástico, e em bancos de couro muito lisos ela pode deslizar na frenagem. Pelo preço de entrada e pela espuma de marca nacional, é o melhor custo-benefício do guia.
+A capa impermeável e bactericida é prática para quem come no carro ou transporta passageiros, e o forro antiderrapante segura a almofada sem alça. Os contras são consequência da altura: 8 cm levantam você, então reajuste banco, espelhos e passagem do cinto; motoristas altos podem roçar o teto em hatches baixos. Não há elástico, e em bancos de couro muito lisos ela pode deslizar na frenagem. Pelo preço de entrada e pela espuma de marca nacional, é o melhor custo-benefício do artigo.
 
 ## 3. Theva Super Seat 2 em 1: melhor conjunto completo para quem passa o dia no carro
 
@@ -432,7 +432,7 @@ Registro na Anvisa indica que o produto passou por avaliação sanitária como i
 
 ## Quando procurar um profissional
 
-Apoios e ajustes servem para desconforto postural. Procure um ortopedista ou fisioterapeuta se: a dor persistir por mais de duas semanas mesmo com o banco ajustado; irradiar para a perna ou vier com formigamento ou dormência nos dedos; piorar à noite ou em repouso; houver perda de força; ou se você tiver histórico de hérnia, escoliose ou queda. O ortopedista Ricardo Cordeiro resume: dores precisam sempre ser investigadas, e medicação só com prescrição. Este guia é informativo e não substitui avaliação individual. Veja mais itens de conforto em [automotivo](/categoria/automotivo/).
+Apoios e ajustes servem para desconforto postural. Procure um ortopedista ou fisioterapeuta se: a dor persistir por mais de duas semanas mesmo com o banco ajustado; irradiar para a perna ou vier com formigamento ou dormência nos dedos; piorar à noite ou em repouso; houver perda de força; ou se você tiver histórico de hérnia, escoliose ou queda. O ortopedista Ricardo Cordeiro resume: dores precisam sempre ser investigadas, e medicação só com prescrição. Este artigo é informativo e não substitui avaliação individual. Veja mais itens de conforto em [automotivo](/categoria/automotivo/).
 
 ## Veredito
 

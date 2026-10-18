@@ -151,7 +151,7 @@ O que se pode dizer de forma honesta: o AC631 pode ajudar a **perceber** a postu
 
 Pelas descrições das lojas, as alças são revestidas e acolchoadas, e o conjunto cabe sob a roupa. Não encontramos relatos independentes suficientes sobre o conforto em uso prolongado. Em espaldeiras em geral, atrito nas axilas e pressão nos ombros são as queixas mais comuns, e o ajuste correto é o que define o conforto.
 
-O guia de compra do my-best alerta que corretor apertado demais ou mal ajustado pode piorar a dor nas costas e que sentir algum desconforto enquanto os músculos se adaptam é comum. A regra prática: o corretor deve ficar firme, mas confortável. Se incomodar, o ajuste está errado ou o produto não serve para você. Julgamento: conforto provável em sessões curtas, sem como garantir em uso longo.
+O artigo de compra do my-best alerta que corretor apertado demais ou mal ajustado pode piorar a dor nas costas e que sentir algum desconforto enquanto os músculos se adaptam é comum. A regra prática: o corretor deve ficar firme, mas confortável. Se incomodar, o ajuste está errado ou o produto não serve para você. Julgamento: conforto provável em sessões curtas, sem como garantir em uso longo.
 
 ### Como escolher o tamanho
 
@@ -193,7 +193,7 @@ Sobre durabilidade, não há relato consolidado e o material é leve. Troque o c
 
 Fora da Amazon, o volume de relatos específicos do AC631 é pequeno. Em uma das lojas especializadas que abrimos, o produto aparece sem opiniões publicadas, e não achamos fóruns, vídeos ou análises independentes dedicados ao AC631. Não encontramos números consolidados de reclamações sobre o modelo.
 
-Por isso, não dá para afirmar um padrão de satisfação. O que temos é o retrato da categoria: o guia do my-best e a Healthline convergem em que o benefício é incerto e que o uso deve ser gradual. Trate qualquer promessa de "correção" em anúncios como marketing.
+Por isso, não dá para afirmar um padrão de satisfação. O que temos é o retrato da categoria: o artigo do my-best e a Healthline convergem em que o benefício é incerto e que o uso deve ser gradual. Trate qualquer promessa de "correção" em anúncios como marketing.
 
 ## Quando procurar um fisioterapeuta ou médico
 
@@ -205,11 +205,11 @@ Um corretor não substitui avaliação profissional. Procure um fisioterapeuta, 
 - lesão recente, ou dor no ombro, na clavícula ou nas costelas;
 - dor ao usar o corretor, ou crianças e adolescentes com postura alterada.
 
-O guia do my-best também orienta que quem tem problemas na coluna, dor intensa ou lesões consulte um profissional antes. O corretor também não é um colete para escoliose, que é um aparelho rígido prescrito por médico.
+O artigo do my-best também orienta que quem tem problemas na coluna, dor intensa ou lesões consulte um profissional antes. O corretor também não é um colete para escoliose, que é um aparelho rígido prescrito por médico.
 
 ## Alternativas que vale considerar
 
-- **Ajustar o posto de trabalho:** muitas vezes a causa da postura curvada é a altura do monitor e da cadeira. Veja nosso guia de [dor nas costas no home office](/melhores/dor-nas-costas-no-home-office/) e a lista de [cadeiras ergonômicas com bom custo-benefício](/melhores/melhor-cadeira-ergonomica-custo-beneficio/).
+- **Ajustar o posto de trabalho:** muitas vezes a causa da postura curvada é a altura do monitor e da cadeira. Veja nosso artigo de [dor nas costas no home office](/melhores/dor-nas-costas-no-home-office/) e a lista de [cadeiras ergonômicas com bom custo-benefício](/melhores/melhor-cadeira-ergonomica-custo-beneficio/).
 - **Apoio para a lombar na cadeira:** quando o incômodo está na lombar, e não nos ombros, uma [almofada ortopédica de assento ou encosto](/melhores/melhor-almofada-ortopedica-assento/) pode fazer mais sentido.
 - **Pausas e exercícios:** levantar a cada 30 a 60 minutos e fazer exercícios de fortalecimento prescritos por um fisioterapeuta é o caminho com melhor respaldo.
 - **No carro:** se a dor aparece ao dirigir, leia [dor nas costas ao dirigir](/melhores/dor-nas-costas-ao-dirigir/).

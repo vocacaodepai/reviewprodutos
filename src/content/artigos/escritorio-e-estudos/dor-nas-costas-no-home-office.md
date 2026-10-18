@@ -337,7 +337,7 @@ Se a dor sumir, você economizou. Se mudar de lugar ou diminuir só em parte, o 
 | Cintura após 30 a 60 minutos sentado | Theva almofada lombar 1845 | Preenche a curva lombar em cadeira sem apoio |
 | Tudo ao mesmo tempo, 8 horas por dia | DT3 Vita | Lombar, altura e apoio de cabeça reguláveis, laudo NR-17 |
 | Pernas dormentes, pés no ar | Souza & Cia 3704 | Devolve o apoio dos pés e alivia a lombar |
-| Dor também ao dirigir | Veja o guia de [dor nas costas ao dirigir](/melhores/dor-nas-costas-ao-dirigir/) | A mesma almofada Theva serve no carro |
+| Dor também ao dirigir | Veja o artigo de [dor nas costas ao dirigir](/melhores/dor-nas-costas-ao-dirigir/) | A mesma almofada Theva serve no carro |
 
 ## 1. Nulaxy suporte para notebook: melhor para quem trabalha no notebook
 
@@ -351,7 +351,7 @@ O que decepciona: a faixa de preço, alta para um suporte, e o espaço: aberto, 
 
 Se a sua dor é na cintura e aparece depois de 30 a 60 minutos sentado, o problema costuma ser o vão entre a lombar e o encosto. A Theva 1845 preenche esse vão com **espuma viscoelástica em gel**, fina o bastante para não empurrar o tronco para a frente, e tem o detalhe que separa almofada boa de almofada que cai no chão: um **elástico ajustável** que a prende ao encosto. A capa é removível e lavável, o tecido deixa o ar passar e o produto é brasileiro, com registro na Anvisa.
 
-Já analisamos esta mesma almofada no guia sobre [dor nas costas ao dirigir](/melhores/dor-nas-costas-ao-dirigir/), e ela é o raro acessório que serve nos dois lugares: na cadeira durante o dia e no banco do carro no trajeto. Com cerca de 35 x 32 cm, cabe em encostos estreitos de cadeira de jantar.
+Já analisamos esta mesma almofada no artigo sobre [dor nas costas ao dirigir](/melhores/dor-nas-costas-ao-dirigir/), e ela é o raro acessório que serve nos dois lugares: na cadeira durante o dia e no banco do carro no trajeto. Com cerca de 35 x 32 cm, cabe em encostos estreitos de cadeira de jantar.
 
 O que decepciona: ela não faz nada pela dor que vem do assento afundado ou do cóccix (aí o produto é um assento), fica grossa demais em cadeiras que já têm lombar regulável e a espuma amolece em ambiente muito quente. Faça o teste da toalha enrolada por uma semana; se ajudar, a Theva é a versão definitiva.
 
@@ -361,13 +361,13 @@ Chega um ponto em que almofada não resolve: a cadeira de jantar não regula alt
 
 Para quem é: quem trabalha oito horas por dia sentado, já ajustou tudo e quer uma peça que dure. A DT3 tem atendimento no Brasil, o que importa quando um pistão a gás ou um rodízio falha.
 
-O que decepciona: a faixa de preço, no topo deste guia; a montagem em casa; o tamanho, que pede espaço para girar; e a ficha de venda, que não detalha o prazo de garantia do fabricante (confirme com o vendedor antes de comprar). A Vita é vendida em várias cores e versões (com ou sem apoio de cabeça, braço retrátil), cada uma com um código diferente: confira o que está no anúncio.
+O que decepciona: a faixa de preço, no topo deste artigo; a montagem em casa; o tamanho, que pede espaço para girar; e a ficha de venda, que não detalha o prazo de garantia do fabricante (confirme com o vendedor antes de comprar). A Vita é vendida em várias cores e versões (com ou sem apoio de cabeça, braço retrátil), cada uma com um código diferente: confira o que está no anúncio.
 
 ## 4. Souza & Cia Apoio para os Pés 3704: melhor barato para quem não alcança o chão
 
 Este é o acessório mais subestimado da ergonomia. Quando você sobe a cadeira para os cotovelos ficarem na linha da mesa, os pés de quem tem menos de 1,65 m, ou usa mesa de 75 cm, ficam no ar. O resultado é pressão atrás das coxas, pernas dormentes e a lombar puxada para a frente. O apoio da Souza & Cia, fabricado no Brasil em **MDF com acabamento black piano**, resolve com uma plataforma **basculante** que acompanha o movimento dos pés e tem superfície texturizada antiderrapante, que segura mesmo de meia.
 
-Para quem é: quem fez o ajuste de altura da cadeira e percebeu que os pés não apoiam inteiros. É a compra mais barata deste guia e a que mais surpreende quem nunca usou.
+Para quem é: quem fez o ajuste de altura da cadeira e percebeu que os pés não apoiam inteiros. É a compra mais barata deste artigo e a que mais surpreende quem nunca usou.
 
 O que decepciona: a inclinação é dada pelo balanço, sem travas de altura em degraus; o MDF não suporta umidade, então nada de varanda ou chão recém-lavado; e não há rolos de massagem, presentes em modelos plásticos mais caros. Para o que ele se propõe, cumpre.
 
@@ -410,10 +410,10 @@ Layout ABNT2 se você escreve em português, conexão estável (receptor 2,4 GHz
 
 ## Quando procurar um profissional
 
-Dor que melhora com os ajustes e as pausas é dor de postura. Procure um fisioterapeuta ou médico se a dor não melhorar em duas semanas de ajustes, se piorar, se descer para a perna ou vier com formigamento, dormência ou fraqueza, se acordar você à noite, ou se vier acompanhada de febre ou perda de peso. Esses sinais indicam causas que nenhum suporte, almofada ou cadeira trata. Este guia é informativo e não substitui avaliação profissional.
+Dor que melhora com os ajustes e as pausas é dor de postura. Procure um fisioterapeuta ou médico se a dor não melhorar em duas semanas de ajustes, se piorar, se descer para a perna ou vier com formigamento, dormência ou fraqueza, se acordar você à noite, ou se vier acompanhada de febre ou perda de peso. Esses sinais indicam causas que nenhum suporte, almofada ou cadeira trata. Este artigo é informativo e não substitui avaliação profissional.
 
 ## Veredito
 
 Comece pelo que é de graça: tela na altura dos olhos, cadeira regulada, pés apoiados e pausa a cada 50 minutos. Se você trabalha no notebook, o **suporte Nulaxy com o Logitech MK270** é a dupla que mais muda a postura. Se a dor é na cintura, a **almofada lombar Theva** é a compra segura. Se os pés não alcançam o chão, o **apoio Souza & Cia** resolve por pouco. E se você passa oito horas sentado e quer parar de remendar, a **DT3 Vita** é a cadeira.
 
-Veja mais guias em [iluminação e ergonomia](/categoria/escritorio-e-estudos/iluminacao-e-ergonomia/), [cadeiras e mesas](/categoria/escritorio-e-estudos/cadeiras-e-mesas/) e na categoria [escritório e estudos](/categoria/escritorio-e-estudos/). Se a dor no pescoço continua à noite, o guia de [travesseiros para dor no pescoço](/melhores/travesseiro-para-dor-no-pescoco-os-5-melhores/) complementa este.
+Veja mais guias em [iluminação e ergonomia](/categoria/escritorio-e-estudos/iluminacao-e-ergonomia/), [cadeiras e mesas](/categoria/escritorio-e-estudos/cadeiras-e-mesas/) e na categoria [escritório e estudos](/categoria/escritorio-e-estudos/). Se a dor no pescoço continua à noite, o artigo de [travesseiros para dor no pescoço](/melhores/travesseiro-para-dor-no-pescoco-os-5-melhores/) complementa este.

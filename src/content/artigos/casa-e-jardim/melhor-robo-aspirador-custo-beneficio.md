@@ -407,11 +407,11 @@ Se você quer que o chão se limpe sozinho sem pagar por um robô topo de linha,
 
 O **melhor custo-benefício com garantia oficial** é o **KaBuM! Smart 700**: app, base, mapa, 600 ml de reservatório e 12 meses de garantia da própria marca, com a limitação de não aspirar e passar pano ao mesmo tempo. O **Xiaomi E10** é o degrau mais barato com app e base. Para quem só precisa manter o piso liso limpo gastando pouco, o **WAP Robot W100** e o **Electrolux ERB10** resolvem, aceitando navegação aleatória e recarga no cabo. O **Multi Mars HO400** fecha a lista como a opção mais simples.
 
-## Para quem é este guia
+## Para quem é este artigo
 
-Este guia é para quem chegou ao limite com a vassoura. Você varre de manhã e à noite o piso já está cinza de novo: poeira, farelo, pelo do cachorro, areia que entrou no sapato. A ideia de um robô fazendo isso enquanto você trabalha é ótima, mas os modelos que aparecem nos anúncios de tecnologia custam o preço de uma geladeira. A dúvida real é: **um robô aspirador de entrada resolve ou vira enfeite embaixo do sofá?**
+Este artigo é para quem chegou ao limite com a vassoura. Você varre de manhã e à noite o piso já está cinza de novo: poeira, farelo, pelo do cachorro, areia que entrou no sapato. A ideia de um robô fazendo isso enquanto você trabalha é ótima, mas os modelos que aparecem nos anúncios de tecnologia custam o preço de uma geladeira. A dúvida real é: **um robô aspirador de entrada resolve ou vira enfeite embaixo do sofá?**
 
-Resolve, desde que você escolha pelo tipo de casa e não só pelo preço. Um robô básico, sem base e sem app, serve para um apartamento pequeno de piso frio. Uma casa com quatro cômodos, tapete e pet pede pelo menos base de recarga e uma navegação que não dependa da sorte. Este guia separa os dois mundos e mostra onde cada centavo a mais vira automação de verdade. Também vale para quem está esperando a época de ofertas do fim do ano para comprar e quer chegar lá sabendo o que procurar.
+Resolve, desde que você escolha pelo tipo de casa e não só pelo preço. Um robô básico, sem base e sem app, serve para um apartamento pequeno de piso frio. Uma casa com quatro cômodos, tapete e pet pede pelo menos base de recarga e uma navegação que não dependa da sorte. Este artigo separa os dois mundos e mostra onde cada centavo a mais vira automação de verdade. Também vale para quem está esperando a época de ofertas do fim do ano para comprar e quer chegar lá sabendo o que procurar.
 
 ## Como escolhemos
 
@@ -421,7 +421,7 @@ A ordem segue a média ponderada de seis critérios: eficiência de limpeza (30%
 
 Não houve teste físico destes modelos pela nossa equipe: esta é uma análise de especificações oficiais, avaliações publicadas por veículos especializados e relatos públicos de consumidores fora da Amazon.
 
-O dado próprio deste guia é a **matriz de automação** abaixo, que mostra o que cada robô faz sozinho e o que continua sendo tarefa sua:
+O dado próprio deste artigo é a **matriz de automação** abaixo, que mostra o que cada robô faz sozinho e o que continua sendo tarefa sua:
 
 | Robô | Volta à base sozinho | Mapa da casa | App e agendamento | Aspira e passa pano junto | Altura |
 | --- | --- | --- | --- | --- | --- |

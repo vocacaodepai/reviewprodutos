@@ -147,7 +147,7 @@ A firmeza é média a alta, típica do viscoelástico: ele cede devagar e depois
 
 Este é o ponto que mais pesa para quem pesquisa "viscoelástico esquenta". A espuma de memória abraça a cabeça e, com isso, circula menos ar. A Duoflex descreve a espuma como termossensível, que acompanha a temperatura do corpo, mas não publica teste de temperatura, então a promessa é do fabricante e não de medição independente. A capa de algodão ajuda um pouco, porque respira melhor que a sintética.
 
-Na prática, em clima quente ou em quarto sem ventilação, é provável que você sinta a cabeça mais quente do que em um travesseiro de fibra ou de espuma perfilada. Se isso é crítico para você, leia antes nosso guia para [dormir com calor sem ar-condicionado](/melhores/calor-para-dormir-refrescar-quarto-sem-ar-condicionado/).
+Na prática, em clima quente ou em quarto sem ventilação, é provável que você sinta a cabeça mais quente do que em um travesseiro de fibra ou de espuma perfilada. Se isso é crítico para você, leia antes nosso artigo para [dormir com calor sem ar-condicionado](/melhores/calor-para-dormir-refrescar-quarto-sem-ar-condicionado/).
 
 Nas primeiras noites, há um período de adaptação, e quem vem de travesseiro de fibra estranha a firmeza. Como o produto vem embalado a vácuo, um cheiro de espuma nova nos primeiros dias também é comum; arejar em local sombreado resolve.
 
@@ -165,14 +165,14 @@ Sobre garantia, a ficha do fabricante que consultamos não traz prazo contratual
 
 ## O que dizem os consumidores
 
-Relatos independentes sobre este modelo específico são escassos fora da Amazon, e nós não usamos as avaliações de lá. O que se repete nos comparadores, nas lojas e nos guias de travesseiro Nasa em geral é um padrão previsível: elogio ao apoio firme e ao conforto depois da adaptação, e queixa de calor, de altura excessiva para quem dorme de costas e de cheiro de espuma nova.
+Relatos independentes sobre este modelo específico são escassos fora da Amazon, e nós não usamos as avaliações de lá. O que se repete nos comparadores, nas lojas e nos artigos de travesseiro Nasa em geral é um padrão previsível: elogio ao apoio firme e ao conforto depois da adaptação, e queixa de calor, de altura excessiva para quem dorme de costas e de cheiro de espuma nova.
 
 Como nenhuma dessas fontes é um teste, tratamos esse padrão como indício e o refletimos nas notas. Se você já comprou o modelo, o melhor termômetro é o seu: dê duas semanas de uso antes de decidir.
 
 ## Alternativas que vale considerar
 
-- **Duoflex Nasa Cervical:** se você dorme de costas ou de lado e quer um formato em onda com duas alturas, ele está no nosso guia de travesseiros para dor no pescoço, com a análise completa.
-- **Fibrasca Nasa Ortopédico Cervical:** a opção para quem quer o efeito viscoelástico com elevações laterais e capa com zíper, também analisada no guia.
+- **Duoflex Nasa Cervical:** se você dorme de costas ou de lado e quer um formato em onda com duas alturas, ele está no nosso artigo de travesseiros para dor no pescoço, com a análise completa.
+- **Fibrasca Nasa Ortopédico Cervical:** a opção para quem quer o efeito viscoelástico com elevações laterais e capa com zíper, também analisada no artigo.
 - **Emma Original:** para quem não sabe a altura certa, a altura ajustável e o teste em casa reduzem o risco de errar.
 
 Se o calor é o seu problema principal, nenhum viscoelástico resolve bem; procure espuma perfilada ou látex.

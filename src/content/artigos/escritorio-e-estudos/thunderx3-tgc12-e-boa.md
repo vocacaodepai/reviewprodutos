@@ -196,7 +196,7 @@ O retrato é o de uma cadeira que agrada em uso de jogo e tem limitações previ
 
 - **ThunderX3 XTC Mesh:** a ergonômica de tela da mesma marca, com lombar de ajuste automático e braços 3D, para quem senta seis horas ou mais por dia. Custa mais que o dobro, como mostramos no [comparativo com a TGC12](/comparativos/cadeira-gamer-ou-cadeira-de-escritorio/).
 - **ThunderX3 EC3:** a gamer mais simples da linha, anunciada com suporte de até 150 kg, mas com braços fixos e garantia que varia de 6 a 12 meses conforme o varejista. Vale para quem pesa mais e não precisa regular os braços.
-- **DT3 Vita e outras cadeiras de escritório:** opções de tela mais em conta que a XTC, analisadas no nosso guia de [melhor cadeira ergonômica custo-benefício](/melhores/melhor-cadeira-ergonomica-custo-beneficio/), para quem quer ventilação sem pagar o preço de uma premium.
+- **DT3 Vita e outras cadeiras de escritório:** opções de tela mais em conta que a XTC, analisadas no nosso artigo de [melhor cadeira ergonômica custo-benefício](/melhores/melhor-cadeira-ergonomica-custo-beneficio/), para quem quer ventilação sem pagar o preço de uma premium.
 
 ## Dicas para tirar o máximo da ThunderX3 TGC12
 
@@ -205,7 +205,7 @@ O retrato é o de uma cadeira que agrada em uso de jogo e tem limitações previ
 - **Suba o apoio de pescoço com uma toalha** ou ajuste a posição se ele ficar baixo para a sua altura.
 - **Cuide do revestimento:** limpe com pano úmido, evite sol direto e produtos abrasivos para retardar o ressecamento.
 - **Monte com uma segunda pessoa** e use todas as peças da caixa; confira os parafusos depois das primeiras semanas.
-- **Faça pausas a cada hora:** a cadeira não substitui o movimento. Veja o guia de [dor nas costas no home office](/melhores/dor-nas-costas-no-home-office/).
+- **Faça pausas a cada hora:** a cadeira não substitui o movimento. Veja o artigo de [dor nas costas no home office](/melhores/dor-nas-costas-no-home-office/).
 
 ## Veredito final
 

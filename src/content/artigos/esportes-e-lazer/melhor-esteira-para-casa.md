@@ -401,9 +401,9 @@ relacionados: ["halteres-ajustaveis-ou-kit-de-anilhas", "melhor-garrafa-termica-
 
 Se você quer uma esteira para caminhar e correr em casa sem errar na compra, a **Kikos E1200** é a melhor escolha geral de 2026: inclinação eletrônica de 0 a 15% pelo painel, até 14,8 km/h, dobrável e com 2 anos de garantia no motor e na estrutura. O **melhor custo-benefício** é a **Dream Fitness Concept 2.1**: bivolt, aguenta até 120 kg e pesa só 39 kg, mas tem garantia curta de 6 meses. Para correr rápido, a **Gallant Elite Pro** chega a 16 km/h. Para a passada mais confortável, a **Movement R4** tem a maior lona da lista. Para apartamento pequeno e só caminhada, a **Kikos E700** é a mais compacta.
 
-## Para quem é este guia
+## Para quem é este artigo
 
-Este guia é para quem cansou de depender do horário da academia, da chuva ou da insegurança da rua para caminhar, e decidiu colocar uma esteira em casa. O problema é que a esteira é um dos eletrodomésticos mais fáceis de comprar errado: modelo fraco demais que trava o motor em poucos meses, lona estreita que faz você pisar na borda, esteira enorme que não cabe na sala ou voltagem errada que queima a placa na primeira ligada.
+Este artigo é para quem cansou de depender do horário da academia, da chuva ou da insegurança da rua para caminhar, e decidiu colocar uma esteira em casa. O problema é que a esteira é um dos eletrodomésticos mais fáceis de comprar errado: modelo fraco demais que trava o motor em poucos meses, lona estreita que faz você pisar na borda, esteira enorme que não cabe na sala ou voltagem errada que queima a placa na primeira ligada.
 
 Também serve para quem mora em apartamento e precisa de algo que dobre, não faça um barulho insuportável para o vizinho de baixo e possa ser movido de cômodo. E para quem pesa mais de 100 kg, porque o limite de peso do usuário muda bastante entre os modelos e é um dos critérios mais ignorados na hora da compra.
 
@@ -415,7 +415,7 @@ Partimos dos modelos sugeridos pela nossa pauta (Dream Fitness, Movement, Kikos,
 
 Não houve teste físico destes modelos pela nossa equipe: esta é uma análise de especificações oficiais, fontes especializadas e relatos públicos de consumidores fora da Amazon.
 
-O dado próprio deste guia é a **tabela de espaço e área útil**: quanto de lona cada esteira oferece para pisar e quanto de chão ela ocupa dobrada.
+O dado próprio deste artigo é a **tabela de espaço e área útil**: quanto de lona cada esteira oferece para pisar e quanto de chão ela ocupa dobrada.
 
 | Esteira | Lona (cm) | Área útil (cm²) | Dobrada (chão) | Peso máx. |
 | --- | --- | --- | --- | --- |

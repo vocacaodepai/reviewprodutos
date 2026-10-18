@@ -187,7 +187,7 @@ Traduzindo: quem compra sabendo do limite costuma ficar satisfeito; quem espera 
 - **Ventilador de coluna ou de mesa:** em cidade úmida, entrega mais frescor por sensação térmica gastando parecido. Veja o [guia dos melhores ventiladores de coluna](/melhores/melhor-ventilador-de-coluna/).
 - **Climatizador menor, de 3,5 litros (Elgin Smart):** a própria Elgin vende uma versão compacta, que serve para mesa de escritório ou quarto bem pequeno, com menos autonomia de água.
 - **Ar-condicionado split:** a única opção que refresca de verdade em qualquer umidade. Custa mais e consome mais; compare no nosso [ventilador de teto contra ar-condicionado](/comparativos/ventilador-de-teto-ou-ar-condicionado/).
-- **Outros climatizadores e soluções para dormir:** o guia [calor para dormir sem ar-condicionado](/melhores/calor-para-dormir-refrescar-quarto-sem-ar-condicionado/) compara um climatizador de 5 litros com ventiladores e outras opções.
+- **Outros climatizadores e soluções para dormir:** o artigo [calor para dormir sem ar-condicionado](/melhores/calor-para-dormir-refrescar-quarto-sem-ar-condicionado/) compara um climatizador de 5 litros com ventiladores e outras opções.
 
 ## Dicas para tirar o máximo do climatizador
 

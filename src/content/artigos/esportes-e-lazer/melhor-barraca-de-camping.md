@@ -331,9 +331,9 @@ relacionados: ["melhor-garrafa-termica-agua-gelada-dia-todo", "stanley-adventure
 
 Se a viagem é em família e pode chover, a **Guepardo Zeus 5** é a melhor barraca de camping desta lista: avanço fechado para a bagagem, costuras seladas com fita e a maior ficha de impermeabilidade, com relatos de campistas que a usaram em chuva forte e vento. O **melhor custo-benefício** é a **Nautika Falcon 2**, leve, simples e barata para um casal. A **Falcon 4** é a porta de entrada para três pessoas, a **Indy 4** dá o avanço mais amplo e a **Mor Luna 6** só faz sentido em tempo seco e orçamento muito curto.
 
-## Para quem é este guia
+## Para quem é este artigo
 
-Este guia é para quem vai comprar a primeira barraca e tem medo de três coisas: acordar molhado, passar a noite apertado e perder uma hora armando a estrutura no escuro. São medos justos. Barraca barata de loja pode dar certo em dois dias de sol e virar problema na primeira noite de chuva, e o número "para 6 pessoas" na caixa quase nunca descreve um grupo com colchões e mochilas.
+Este artigo é para quem vai comprar a primeira barraca e tem medo de três coisas: acordar molhado, passar a noite apertado e perder uma hora armando a estrutura no escuro. São medos justos. Barraca barata de loja pode dar certo em dois dias de sol e virar problema na primeira noite de chuva, e o número "para 6 pessoas" na caixa quase nunca descreve um grupo com colchões e mochilas.
 
 Escolhemos modelos iglu de camping de carro, que ficam no meio do caminho entre a barraca de praia e a de trilha. Se você ainda está montando o kit completo, veja também o [guia de garrafas térmicas para água gelada o dia todo](/melhores/melhor-garrafa-termica-agua-gelada-dia-todo/) e as outras opções da página de [camping e aventura](/categoria/esportes-e-lazer/camping-e-aventura/).
 
@@ -343,7 +343,7 @@ Partimos dos modelos de barraca que a fila editorial listava (Nautika, Guepardo,
 
 Não houve teste físico das barracas pela nossa equipe. A análise reúne fichas técnicas, revisões de blogs especializados e relatos públicos de campistas em fóruns, todos fora da Amazon. Muitos relatos são antigos (2012 a 2017) e podem se referir a versões anteriores do mesmo modelo; avisamos quando isso importa. Os critérios são impermeabilidade e proteção (30%), espaço real (20%), montagem e transporte (15%), durabilidade e acabamento (15%) e custo-benefício (20%).
 
-O dado próprio do guia é a comparação entre a **capacidade declarada** e a **capacidade confortável** apontada pelas fontes:
+O dado próprio do artigo é a comparação entre a **capacidade declarada** e a **capacidade confortável** apontada pelas fontes:
 
 | Modelo | Declarada | Confortável segundo as fontes | Coluna d'água |
 | --- | --- | --- | --- |
@@ -381,7 +381,7 @@ Os pontos fracos são o peso (4 a 5 kg, conforme a fonte), a necessidade de esta
 
 ## 5. Mor Luna 6: melhor para orçamento curto em tempo seco
 
-A Luna 6 é a mais barata para quem precisa de muito espaço nominal. A ficha lista sobreteto de poliéster, piso de polietileno, tela mosquiteiro, varetas de fibra de vidro com elástico e abertura frontal. É a única da lista com costuras invertidas e coluna d'água de 800 mm, o nível que um guia especializado considera o mínimo aceitável para garoa leve.
+A Luna 6 é a mais barata para quem precisa de muito espaço nominal. A ficha lista sobreteto de poliéster, piso de polietileno, tela mosquiteiro, varetas de fibra de vidro com elástico e abertura frontal. É a única da lista com costuras invertidas e coluna d'água de 800 mm, o nível que um artigo especializado considera o mínimo aceitável para garoa leve.
 
 Não encontramos relatos independentes de campistas que pudéssemos abrir, então o histórico de durabilidade é pouco conhecido, e isso entra como contra. O espaço também engana: seis pessoas só cabem lado a lado em saco de dormir, sem bagagem. Vale para festa na praia, show ou acampamento eventual em tempo seco. Para serra, litoral com vento ou chuva prevista, escolha outra. Existe uma versão menor, de 4 pessoas, que dá conta de casal com criança.
 
@@ -393,7 +393,7 @@ A coluna d'água mede a pressão de água que o tecido aguenta antes de vazar. P
 
 ### Capacidade e espaço
 
-Use a tabela do início do guia como regra: reduza a capacidade do fabricante em uma pessoa, ou em duas se for de colchão inflável. Para quem tem mais de 1,85 m, olhe o comprimento interno, não só o número de pessoas.
+Use a tabela do início do artigo como regra: reduza a capacidade do fabricante em uma pessoa, ou em duas se for de colchão inflável. Para quem tem mais de 1,85 m, olhe o comprimento interno, não só o número de pessoas.
 
 ### Avanço e ventilação
 

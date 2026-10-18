@@ -290,17 +290,17 @@ Se você quer acertar sem conhecer o gosto de quem vai receber, dê o **Casio A1
 
 A regra de ouro: relógio erra menos que óculos, porque ninguém precisa provar. Se for dar óculos, use um modelo que a pessoa já usa como referência de tamanho.
 
-## Para quem é este guia
+## Para quem é este artigo
 
 Chegou novembro e você ainda não sabe o que dar de Natal para o pai, o marido, o irmão ou o sogro. O medo é conhecido: gastar e descobrir que o presente é do tamanho errado, do estilo errado ou simplesmente nunca sai da gaveta. Relógios e óculos são presentes clássicos porque são usados todo dia, mas só funcionam quando combinam com o jeito de vestir e a rotina de quem recebe.
 
-Este guia separa os cinco itens por perfil, não só por preço. Veja também o comparativo [Casio F-91W vs A158WA](/comparativos/casio-f-91w-ou-a158wa/) e a página de [relógios e óculos](/categoria/moda-e-acessorios/relogios-e-oculos/) para outras opções. Para quem gosta de perfume, o guia de [perfume masculino com custo-benefício](/melhores/melhor-perfume-masculino-custo-beneficio/) também ajuda.
+Este artigo separa os cinco itens por perfil, não só por preço. Veja também o comparativo [Casio F-91W vs A158WA](/comparativos/casio-f-91w-ou-a158wa/) e a página de [relógios e óculos](/categoria/moda-e-acessorios/relogios-e-oculos/) para outras opções. Para quem gosta de perfume, o artigo de [perfume masculino com custo-benefício](/melhores/melhor-perfume-masculino-custo-beneficio/) também ajuda.
 
 ## Como escolhemos
 
 Partimos dos modelos mais citados em lojas e comparadores brasileiros para o público masculino e ficamos com cinco que cobrem perfis diferentes: o clássico retrô, o resistente, o barato, o óculos discreto e o óculos premium. Descartamos itens sem ficha técnica confiável, com anúncio indisponível ou sem garantia clara.
 
-Esta é uma análise de especificações oficiais, fichas de lojas brasileiras e publicações especializadas; não houve teste físico pela nossa equipe. O dado próprio do guia é a matriz de presente por perfil mais adiante, que cruza quem recebe com o produto e o cuidado necessário antes de comprar.
+Esta é uma análise de especificações oficiais, fichas de lojas brasileiras e publicações especializadas; não houve teste físico pela nossa equipe. O dado próprio do artigo é a matriz de presente por perfil mais adiante, que cruza quem recebe com o produto e o cuidado necessário antes de comprar.
 
 ## 1. Casio A158WA-1DF: melhor presente seguro
 

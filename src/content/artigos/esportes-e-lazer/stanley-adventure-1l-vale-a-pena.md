@@ -199,9 +199,9 @@ A própria Stanley lista os sinais que você deve conferir, e eles valem para qu
 
 ## Alternativas que vale considerar
 
-- **Stanley Classic 0,95 L:** a irmã tradicional, com alça lateral, tampa-copo e pintura martelada. Faz o mesmo trabalho de servir e aparece no nosso guia de melhores garrafas térmicas para água gelada.
+- **Stanley Classic 0,95 L:** a irmã tradicional, com alça lateral, tampa-copo e pintura martelada. Faz o mesmo trabalho de servir e aparece no nosso artigo de melhores garrafas térmicas para água gelada.
 - **Stanley Quick Flip 2.0 710 ml:** se o problema é beber andando, esta é a Stanley certa. Botão que abre com uma mão, trava de segurança, 12 horas gelada e 40 horas com gelo declaradas e 410 g de peso. Perde em volume e em bebida quente.
-- **Stanley IceFlow Flip Straw 887 ml e Coleman FreeFlow AUTOSEAL 709 ml:** garrafas de canudo e de botão para treino e trânsito, analisadas em detalhe no nosso guia de garrafas térmicas.
+- **Stanley IceFlow Flip Straw 887 ml e Coleman FreeFlow AUTOSEAL 709 ml:** garrafas de canudo e de botão para treino e trânsito, analisadas em detalhe no nosso artigo de garrafas térmicas.
 
 ## Dicas para tirar o máximo da Stanley Adventure
 
@@ -216,4 +216,4 @@ A própria Stanley lista os sinais que você deve conferir, e eles valem para qu
 
 A **Stanley Adventure 2.0 de 1 litro** vale a pena para um perfil claro. **Compre** se você leva café ou água para o dia todo, no trabalho de campo, na estrada, na pescaria ou no acampamento, serve no copo e quer uma garrafa que dure anos, com garantia vitalícia acionada no Brasil e frete pago pela marca. **Não compre** se você quer beber andando, no treino ou no carro, ou se o peso de quase 700 g vazia incomoda: aí a Quick Flip ou uma garrafa de canudo resolvem melhor.
 
-Antes de fechar, confira a cor no site oficial, veja quem vende e entrega o anúncio e, se ainda estiver comparando estilos, leia também nosso guia das melhores garrafas térmicas para água gelada.
+Antes de fechar, confira a cor no site oficial, veja quem vende e entrega o anúncio e, se ainda estiver comparando estilos, leia também nosso artigo das melhores garrafas térmicas para água gelada.

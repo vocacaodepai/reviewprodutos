@@ -263,7 +263,7 @@ Como o bico precisa ser trocado periodicamente (a cada 3 meses, segundo a Avent)
 
 ## Quando procurar o pediatra
 
-Trocar de mamadeira não substitui avaliação médica. Procure o pediatra se o choro for inconsolável e frequente, se o bebê recusar a mamadeira por mais de um dia ou dois, se perder peso ou mamar muito pouco, ou se houver engasgos, vômitos fortes ou sinais de dor. Não interrompa o aleitamento materno para reduzir cólica sem orientação. Para outros desafios da rotina do bebê, veja o guia [bebê não dorme: o que fazer](/melhores/bebe-nao-dorme-o-que-fazer-rotina-do-sono/).
+Trocar de mamadeira não substitui avaliação médica. Procure o pediatra se o choro for inconsolável e frequente, se o bebê recusar a mamadeira por mais de um dia ou dois, se perder peso ou mamar muito pouco, ou se houver engasgos, vômitos fortes ou sinais de dor. Não interrompa o aleitamento materno para reduzir cólica sem orientação. Para outros desafios da rotina do bebê, veja o artigo [bebê não dorme: o que fazer](/melhores/bebe-nao-dorme-o-que-fazer-rotina-do-sono/).
 
 ## Veredito
 

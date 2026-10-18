@@ -150,7 +150,7 @@ Julgamento: **boa conectividade e autonomia para o preço**, com a ressalva do r
 
 Aqui o M170 mostra a sua principal limitação. Com menos de 10 cm de comprimento, ele foi pensado para ser pequeno, e quem tem mão média ou grande tende a segurá-lo com a ponta dos dedos, o que cansa em jornadas longas. Para quem ocasionalmente leva o notebook para a faculdade e usa o mouse por algumas horas, o tamanho é uma vantagem. Para quem trabalha oito horas em planilhas, é um ponto de atenção real.
 
-O formato simétrico também significa que não há apoio específico para o polegar, como nos mouses de formato ergonômico. Se você sente dor no punho ou no ombro com o uso do computador, vale rever o conjunto da estação de trabalho, como mostramos no guia de [dor nas costas no home office](/melhores/dor-nas-costas-no-home-office/), e considerar um mouse de tamanho maior.
+O formato simétrico também significa que não há apoio específico para o polegar, como nos mouses de formato ergonômico. Se você sente dor no punho ou no ombro com o uso do computador, vale rever o conjunto da estação de trabalho, como mostramos no artigo de [dor nas costas no home office](/melhores/dor-nas-costas-no-home-office/), e considerar um mouse de tamanho maior.
 
 Julgamento: **conforto adequado para mão pequena e uso moderado**, abaixo da média para mão grande e uso intenso.
 
@@ -182,7 +182,7 @@ Por isso, o conselho prático é pesar o que conseguimos confirmar: especificaç
 - **Mouse com Bluetooth da própria Logitech, como a linha M240 ou M350:** pensado para quem tem notebook só com USB-C e não quer ocupar a porta com um receptor. Custa mais e muda o perfil de uso.
 - **Mouse com fio básico:** para desktop fixo, é a opção mais barata e dispensa pilha. Perde na mobilidade.
 
-Se você está montando a estação de trabalho do zero, veja também nosso guia de [melhor monitor para home office](/melhores/melhor-monitor-para-home-office/) e o review do [suporte para notebook Octoo Uptable](/reviews/suporte-notebook-octoo-uptable-vale-a-pena/), que ajudam no conforto do conjunto.
+Se você está montando a estação de trabalho do zero, veja também nosso artigo de [melhor monitor para home office](/melhores/melhor-monitor-para-home-office/) e o review do [suporte para notebook Octoo Uptable](/reviews/suporte-notebook-octoo-uptable-vale-a-pena/), que ajudam no conforto do conjunto.
 
 ## Dicas para tirar o máximo do M170
 

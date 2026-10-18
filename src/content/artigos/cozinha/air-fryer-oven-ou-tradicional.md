@@ -211,7 +211,7 @@ Para a maioria das casas, a **air fryer tradicional de cesto** é a compra certa
 
 A dúvida "air fryer oven ou tradicional" costuma aparecer em dois cenários opostos. No primeiro, a família cresceu, a air fryer de 3 ou 4 litros ficou pequena e o número "12 litros" das versões tipo forno parece a solução óbvia. No segundo, a cozinha é pequena, o forno do fogão quase não é usado e a ideia é ter um aparelho só que asse e frite. Nos dois casos, a pergunta de fundo é a mesma: o formato de forno entrega mais do que a air fryer de gaveta, ou só ocupa mais espaço?
 
-Para responder, colocamos frente a frente dois representantes de cada formato vendidos no Brasil. A **Electrolux EAF90**, da linha Experience assinada por Rita Lobo, é uma das air fryers oven mais citadas por veículos especializados. A **Mondial AFN-50-BI** é uma das air fryers de cesto de 5 litros mais populares do país e já aparece no nosso guia de air fryers para família grande como melhor custo-benefício. Esta é uma análise de especificações oficiais, testes publicados por veículos independentes (como o GDM e o Canaltech) e relatos públicos de consumidores fora da Amazon; não houve teste físico pela nossa equipe.
+Para responder, colocamos frente a frente dois representantes de cada formato vendidos no Brasil. A **Electrolux EAF90**, da linha Experience assinada por Rita Lobo, é uma das air fryers oven mais citadas por veículos especializados. A **Mondial AFN-50-BI** é uma das air fryers de cesto de 5 litros mais populares do país e já aparece no nosso artigo de air fryers para família grande como melhor custo-benefício. Esta é uma análise de especificações oficiais, testes publicados por veículos independentes (como o GDM e o Canaltech) e relatos públicos de consumidores fora da Amazon; não houve teste físico pela nossa equipe.
 
 ## Frente a frente: o que muda na prática
 
@@ -299,6 +299,6 @@ A Mondial fica na faixa de **entrada** das air fryers de 5 litros; a EAF90 fica 
 
 Para quem chegou aqui porque a família cresceu, a resposta é contraintuitiva: a **air fryer oven não frita mais batata por vez**. Por isso a **Mondial Grand Family AFN-50** leva a escolha do editor nesta comparação, com mais cesto, menos espaço e muito menos gasto na compra. A **Electrolux EAF90** recebe o selo de melhor premium porque é a melhor escolha para outro problema: substituir o forno em uma cozinha que assa com frequência, com espeto, duas grelhas e consumo menor por hora.
 
-Existe um terceiro caminho para quem quer capacidade de cesto e mais segurança do que a Mondial oferece: uma air fryer tradicional de cesto de 5 litros ou mais que desligue ao puxar a gaveta, como as que reunimos no guia de air fryers para família grande. E, se a casa tem até 3 pessoas, uma air fryer de 4 litros, como a Mondial AFN-40, já resolve gastando menos.
+Existe um terceiro caminho para quem quer capacidade de cesto e mais segurança do que a Mondial oferece: uma air fryer tradicional de cesto de 5 litros ou mais que desligue ao puxar a gaveta, como as que reunimos no artigo de air fryers para família grande. E, se a casa tem até 3 pessoas, uma air fryer de 4 litros, como a Mondial AFN-40, já resolve gastando menos.
 
 Antes de comprar, confira a voltagem da sua tomada: nenhum dos dois modelos é bivolt, e os botões de compra levam às versões 127 V e 220 V separadamente.

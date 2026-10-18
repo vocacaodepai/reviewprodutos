@@ -392,7 +392,7 @@ Aparelhos ligados à tomada precisam do selo Inmetro de segurança elétrica. Re
 
 ## Quando procurar um profissional
 
-Este guia trata de desconforto ambiental e de hábitos. Consulte o pediatra se o bebê ronca, respira pela boca, tem pausas na respiração ou suor excessivo durante o sono; se chora como se sentisse dor, arqueia o corpo ao mamar ou regurgita muito; se tem febre, puxa a orelha ou está com pouco ganho de peso; se depois dos 6 meses continua acordando a cada hora mesmo com rotina; ou se o cansaço de vocês está chegando ao limite. Exaustão dos pais também é motivo de consulta: existem estratégias de sono orientadas que o pediatra pode indicar para a idade do seu filho. Nenhum produto desta lista substitui essa avaliação, e qualquer mudança de rotina em bebês prematuros ou com condições de saúde deve ser combinada com o médico. Veja mais itens em [bebês e crianças](/categoria/bebes-e-criancas/).
+Este artigo trata de desconforto ambiental e de hábitos. Consulte o pediatra se o bebê ronca, respira pela boca, tem pausas na respiração ou suor excessivo durante o sono; se chora como se sentisse dor, arqueia o corpo ao mamar ou regurgita muito; se tem febre, puxa a orelha ou está com pouco ganho de peso; se depois dos 6 meses continua acordando a cada hora mesmo com rotina; ou se o cansaço de vocês está chegando ao limite. Exaustão dos pais também é motivo de consulta: existem estratégias de sono orientadas que o pediatra pode indicar para a idade do seu filho. Nenhum produto desta lista substitui essa avaliação, e qualquer mudança de rotina em bebês prematuros ou com condições de saúde deve ser combinada com o médico. Veja mais itens em [bebês e crianças](/categoria/bebes-e-criancas/).
 
 ## Veredito
 

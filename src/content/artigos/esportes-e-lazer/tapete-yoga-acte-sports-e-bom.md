@@ -135,7 +135,7 @@ Julgamento: **amortecimento fraco**; funciona sobre piso macio ou com uma toalha
 
 ## 6 mm x 10 mm: qual espessura escolher
 
-Como o título da busca fala em "6 mm ou 10 mm", vale organizar a decisão. Os guias de compra apontam um trade-off: tapetes de 4 a 6 mm dão mais estabilidade, porque o pé não afunda, e tapetes de 8 a 10 mm amortecem melhor joelhos, quadris, cotovelos e coluna. Veja como isso se aplica:
+Como o título da busca fala em "6 mm ou 10 mm", vale organizar a decisão. Os artigos de compra apontam um trade-off: tapetes de 4 a 6 mm dão mais estabilidade, porque o pé não afunda, e tapetes de 8 a 10 mm amortecem melhor joelhos, quadris, cotovelos e coluna. Veja como isso se aplica:
 
 | Espessura | Favorece | Cuidado |
 | --- | --- | --- |

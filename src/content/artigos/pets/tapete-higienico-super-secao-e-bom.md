@@ -152,7 +152,7 @@ Julgamento: **tamanho adequado a cães pequenos e médios, justo para os grandes
 
 O Super Secão traz atrativo canino, que dá ao cão uma pista olfativa do lugar certo nas primeiras semanas, e as ranhuras e o toque macio ajudam filhotes e cães sensíveis a aceitar a superfície. As fitas adesivas nas bordas fazem diferença no adestramento: tapete que desliza ou vira brinquedo atrapalha o aprendizado.
 
-O método é o mesmo de qualquer tapete. Posicione longe da comida e da água, o que o Buscapé aponta como o ponto mais importante, leve o cão ao lugar depois das refeições e recompense na hora. Nunca esfregue o focinho no xixi nem brigue: isso gera medo e atrasa o processo, e o guia do Buscapé alerta exatamente para esse erro. Filhotes aprendem mais rápido, mas adultos e idosos também aprendem com paciência.
+O método é o mesmo de qualquer tapete. Posicione longe da comida e da água, o que o Buscapé aponta como o ponto mais importante, leve o cão ao lugar depois das refeições e recompense na hora. Nunca esfregue o focinho no xixi nem brigue: isso gera medo e atrasa o processo, e o artigo do Buscapé alerta exatamente para esse erro. Filhotes aprendem mais rápido, mas adultos e idosos também aprendem com paciência.
 
 ## Vazamento e chão seco
 
@@ -166,7 +166,7 @@ Julgamento: **bom quando o xixi cai no miolo e o tapete está fixado**; para cã
 
 ## Rasgos e segurança
 
-O ponto fraco do tapete é a resistência. O guia do Seu.dog, publicado em 2018 e atualizado em 2022, descreve o Super Secão como mais grosso que a média, mas "um pouco frágil" e sujeito a rasgar com facilidade, além de absorver um pouco menos que as marcas concorrentes que o site comparou. É uma fonte antiga e de comparação ampla, e o produto pode ter mudado, mas o padrão faz sentido para o tipo de material: celulose macia atrai mordidas.
+O ponto fraco do tapete é a resistência. O artigo do Seu.dog, publicado em 2018 e atualizado em 2022, descreve o Super Secão como mais grosso que a média, mas "um pouco frágil" e sujeito a rasgar com facilidade, além de absorver um pouco menos que as marcas concorrentes que o site comparou. É uma fonte antiga e de comparação ampla, e o produto pode ter mudado, mas o padrão faz sentido para o tipo de material: celulose macia atrai mordidas.
 
 O risco prático é o cão rasgar e engolir pedaços de celulose e gel. Se o seu cão é do tipo que arranca o tapete, fixe todas as bordas, retire o tapete quando você sair se ele rasga e ofereça brinquedos de enriquecimento. Nosso [guia sobre cachorro destruindo a casa sozinho](/melhores/cachorro-destruindo-casa-sozinho/) tem opções para ocupar o cão. Em último caso, o sanitário lavável com grade resolve a mordida, e o comparativo explica o custo disso.
 
@@ -194,7 +194,7 @@ Tapete descartável não tem garantia no sentido de um eletro, mas o Código de 
 
 ## O que dizem os consumidores
 
-Fora da Amazon, o retrato mais consistente que encontramos é o do Seu.dog: tapete mais grosso que a média, mas mais frágil e com absorção abaixo de concorrentes, com risco de poças pequenas que molham as patas. É um guia de 2018, atualizado em 2022, e não dá para afirmar que vale para a versão de hoje. Também não achamos fóruns recentes com muitos relatos do pacote básico de 30 unidades.
+Fora da Amazon, o retrato mais consistente que encontramos é o do Seu.dog: tapete mais grosso que a média, mas mais frágil e com absorção abaixo de concorrentes, com risco de poças pequenas que molham as patas. É um artigo de 2018, atualizado em 2022, e não dá para afirmar que vale para a versão de hoje. Também não achamos fóruns recentes com muitos relatos do pacote básico de 30 unidades.
 
 O que as lojas descrevem de forma convergente é o conjunto de recursos: gel superabsorvente, atrativo canino, ranhuras e fita adesiva para fixar no piso ou na parede. Dizer mais do que isso, sem teste, seria inventar.
 

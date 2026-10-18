@@ -217,7 +217,7 @@ Veja mais opções em [eletrônicos automotivos](/categoria/automotivo/eletronic
 - **Trave o clipe na hora** de qualquer incidente e copie o arquivo original sem editar.
 - **No verão, estacione na sombra** ou retire a câmera do suporte em dias de sol forte; a bateria de lítio agradece.
 - **Só compre o kit UP03** se tiver quem instale na caixa de fusíveis; ligação errada pode drenar a bateria do carro.
-- Se você passa horas ao volante, veja também nosso guia sobre [dor nas costas ao dirigir](/melhores/dor-nas-costas-ao-dirigir/).
+- Se você passa horas ao volante, veja também nosso artigo sobre [dor nas costas ao dirigir](/melhores/dor-nas-costas-ao-dirigir/).
 
 ## Veredito final
 

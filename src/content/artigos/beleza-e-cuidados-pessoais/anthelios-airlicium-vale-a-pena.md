@@ -195,7 +195,7 @@ O Airlicium+ está na faixa premium entre os protetores faciais, e o tubo de 40 
 
 ## Alternativas que vale considerar
 
-- **Neostrata Minesol Oil Control FPS 70:** declara fórmula não comedogênica e controle de brilho por até 12 horas, em cinco tons, normalmente por preço de mercado menor. O PPD não é publicado. Veja a comparação no nosso guia de [melhor protetor solar facial para pele oleosa](/melhores/melhor-protetor-solar-facial-pele-oleosa/).
+- **Neostrata Minesol Oil Control FPS 70:** declara fórmula não comedogênica e controle de brilho por até 12 horas, em cinco tons, normalmente por preço de mercado menor. O PPD não é publicado. Veja a comparação no nosso artigo de [melhor protetor solar facial para pele oleosa](/melhores/melhor-protetor-solar-facial-pele-oleosa/).
 - **Vichy Capital Soleil UV-Clear FPS 60:** traz niacinamida e ácido salicílico na fórmula, voltado a quem tem cravos e espinhas, mas contém álcool e fragrância.
 - **Protetor corporal em embalagem maior:** se a ideia era usar um só produto no rosto e no corpo, o tubo de 40 g não é a escolha mais prática.
 

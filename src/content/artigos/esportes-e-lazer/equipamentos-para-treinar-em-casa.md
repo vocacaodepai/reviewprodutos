@@ -309,7 +309,7 @@ O primeiro item da lista, o kit de elásticos Yangfit de 11 itens, vence no conj
 
 Quem pesquisa "treino em casa o que comprar" quase sempre trava no mesmo ponto: a internet oferece dezenas de aparelhos, e fica difícil saber o que usar de verdade. O resultado é comprar por impulso um equipamento grande, caro ou complicado, que vira cabideiro em duas semanas.
 
-O padrão se repete porque o problema raramente é a falta de aparelho. É a falta de uma rotina simples, de espaço para armazenar e de confiança de que o item escolhido vai servir para você. Por isso, este guia começa pelo que dá para fazer sem gastar nada e só depois mostra os seis equipamentos, na ordem em que costumam fazer sentido para quem está começando.
+O padrão se repete porque o problema raramente é a falta de aparelho. É a falta de uma rotina simples, de espaço para armazenar e de confiança de que o item escolhido vai servir para você. Por isso, este artigo começa pelo que dá para fazer sem gastar nada e só depois mostra os seis equipamentos, na ordem em que costumam fazer sentido para quem está começando.
 
 ## O que você pode fazer hoje sem comprar nada
 
@@ -356,7 +356,7 @@ Os comentários na página do fabricante elogiam o conforto e a aderência ("con
 
 Cardio em uma peça de 175 g. O cabo de aço revestido de polímero tem 3 mm de espessura e 3 m de comprimento, ajustável à sua altura; as manoplas de PU e PP têm 16,5 cm, com revestimento antissuor, e a corda traz uma capa protetora para o cabo. A página não informa o número de rolamentos.
 
-É a opção mais barata em relação ao tempo de uso, mas exige cuidado: pular corda é exercício de impacto, pede piso firme, calçado adequado e área livre. Um guia de cordas aponta que o revestimento de alguns modelos se desgasta em superfícies ásperas, e a Yangfit orienta evitar pisos abrasivos em outra corda da linha. Em apartamento com vizinho embaixo, o barulho do impacto pode ser um problema.
+É a opção mais barata em relação ao tempo de uso, mas exige cuidado: pular corda é exercício de impacto, pede piso firme, calçado adequado e área livre. Um artigo de cordas aponta que o revestimento de alguns modelos se desgasta em superfícies ásperas, e a Yangfit orienta evitar pisos abrasivos em outra corda da linha. Em apartamento com vizinho embaixo, o barulho do impacto pode ser um problema.
 
 ## 4. Yangfit Kit Halteres Anilha Barra 25 kg: melhor para ganhar carga
 
@@ -374,20 +374,20 @@ A Yangfit, em sua página de kettlebell, recomenda o uso com um profissional de 
 
 A barra se ajusta a batentes de cerca de 63 a 95 cm (a Decathlon registra 63 cm na descrição e 62 cm na ficha), suporta até 120 kg, é de aço oco com espuma de neoprene e pontas de borracha, pesa 1,3 kg e vem montada, com parafusos e arruelas para fixar no batente. Atrás da porta, ela some.
 
-É a que mais depende de você: batente oco ou deteriorado não segura a pressão lateral, e o Guia o Melhor adverte contra apertar a rosca em excesso (a madeira pode rachar), contra movimentos balísticos e a favor de testar o peso aos poucos antes de cada treino. As fontes divergem sobre a fixação (parafusos na ficha da Decathlon, rosca de pressão no guia independente), então use os parafusos. As medidas acima vêm da versão amarela vendida na Decathlon; o anúncio da Amazon é da versão branca, então confira a ficha antes de comprar.
+É a que mais depende de você: batente oco ou deteriorado não segura a pressão lateral, e o Guia o Melhor adverte contra apertar a rosca em excesso (a madeira pode rachar), contra movimentos balísticos e a favor de testar o peso aos poucos antes de cada treino. As fontes divergem sobre a fixação (parafusos na ficha da Decathlon, rosca de pressão no artigo independente), então use os parafusos. As medidas acima vêm da versão amarela vendida na Decathlon; o anúncio da Amazon é da versão branca, então confira a ficha antes de comprar.
 
 ## Quando procurar um profissional
 
 Procure um médico antes de começar se você é sedentário há muito tempo, tem pressão alta, doença cardíaca, diabetes, está grávida ou sente dor no peito, falta de ar fora do normal ou tontura ao se esforçar. Quem tem lesão de coluna, joelho ou ombro deve ouvir um fisioterapeuta ou educador físico antes de usar carga, kettlebell, corda ou barra. Pare o exercício diante de dor aguda, estalo na articulação ou mal-estar.
 
-Este guia não promete emagrecimento nem resultado de saúde: os equipamentos só tornam a rotina de exercício mais fácil de manter em casa.
+Este artigo não promete emagrecimento nem resultado de saúde: os equipamentos só tornam a rotina de exercício mais fácil de manter em casa.
 
 ## O que não recomendamos (e por quê)
 
 - **Aparelhos que prometem queimar gordura localizada ou "treinar sem esforço".** Não há equipamento que garanta isso, e o gasto costuma ser alto.
 - **Kits "tudo em um" com dezenas de peças e sem ficha técnica.** Se o anúncio não diz material, carga e o que acompanha, você compra no escuro.
 - **Barra de porta em batente oco ou alugado sem poder furar.** O risco de queda é maior do que o benefício.
-- **Equipamento grande como primeira compra.** Antes de uma esteira, por exemplo, leia nosso guia sobre a [melhor esteira para casa](/melhores/melhor-esteira-para-casa/) e a comparação entre [esteira ou bicicleta ergométrica](/comparativos/esteira-ou-bicicleta-ergometrica/), e só decida depois de manter a rotina por algumas semanas.
+- **Equipamento grande como primeira compra.** Antes de uma esteira, por exemplo, leia nosso artigo sobre a [melhor esteira para casa](/melhores/melhor-esteira-para-casa/) e a comparação entre [esteira ou bicicleta ergométrica](/comparativos/esteira-ou-bicicleta-ergometrica/), e só decida depois de manter a rotina por algumas semanas.
 
 ## Veredito
 

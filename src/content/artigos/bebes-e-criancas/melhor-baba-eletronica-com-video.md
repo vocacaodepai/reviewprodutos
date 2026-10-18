@@ -303,9 +303,9 @@ relacionados: ["bebe-nao-dorme-o-que-fazer-rotina-do-sono"]
 
 Se você quer uma babá eletrônica com vídeo que funcione sem depender de internet, a **Motorola VM50G** é a melhor escolha no geral: monitor de 5 polegadas, câmera que gira e inclina pelo controle e conexão própria de 2,4 GHz. O melhor custo-benefício é a **Motorola VM482**, mais simples, com tela de 2,4 polegadas, mas com a mesma lógica de conexão privada. Quem prefere acompanhar o bebê pelo celular, inclusive fora de casa, tem duas opções com perfis diferentes: a **Philips Avent SCD643/26**, com a melhor imagem do grupo (Full HD) e sem monitor dedicado, e a **Motorola VM64 Connect**, que entrega monitor e aplicativo no mesmo kit. A **Multikids Baby BB126** fecha a lista como opção nacional de entrada, indicada só para apartamentos pequenos.
 
-## Para quem é este guia
+## Para quem é este artigo
 
-Este guia é para quem está procurando "melhor babá eletrônica" ou "babá eletrônica com câmera" e também para quem ainda nem sabe o nome do aparelho, mas tem a dor: colocou o bebê para dormir no quarto dele e não consegue relaxar na sala, tomar banho ou dormir sem levantar a cada ruído. A babá eletrônica resolve exatamente isso: você vê e ouve o bebê de outro cômodo e volta a ter alguns minutos de tranquilidade.
+Este artigo é para quem está procurando "melhor babá eletrônica" ou "babá eletrônica com câmera" e também para quem ainda nem sabe o nome do aparelho, mas tem a dor: colocou o bebê para dormir no quarto dele e não consegue relaxar na sala, tomar banho ou dormir sem levantar a cada ruído. A babá eletrônica resolve exatamente isso: você vê e ouve o bebê de outro cômodo e volta a ter alguns minutos de tranquilidade.
 
 Ele também serve para quem está em dúvida entre babá eletrônica com Wi-Fi ou sem Wi-Fi, uma das buscas mais comuns da categoria. A resposta curta: sem Wi-Fi é mais privado e mais simples; com Wi-Fi é mais flexível e exige cuidados de segurança digital. Os cinco modelos abaixo cobrem os dois caminhos.
 
@@ -315,7 +315,7 @@ Partimos dos modelos com vídeo disponíveis na Amazon.com.br e em redes brasile
 
 Os cinco finalistas foram avaliados em cinco critérios com pesos definidos: segurança e privacidade da conexão (30), qualidade de imagem e som (25), praticidade e autonomia (20), durabilidade e assistência (10) e custo-benefício (15). As notas por critério e a média ponderada aparecem em cada card.
 
-Esta análise se baseia em especificações oficiais dos fabricantes (Motorola Nursery, Philips), guias de uso em português, um teste independente europeu da VM482 (Tænk, associação dinamarquesa de consumidores), análises de sites brasileiros especializados e relatos públicos em fóruns e no Reclame Aqui. Não houve teste físico dos aparelhos pela equipe. O dado próprio deste guia é a tabela de alcance declarado versus alcance interno estimado e a matriz "melhor para" por perfil de família.
+Esta análise se baseia em especificações oficiais dos fabricantes (Motorola Nursery, Philips), guias de uso em português, um teste independente europeu da VM482 (Tænk, associação dinamarquesa de consumidores), análises de sites brasileiros especializados e relatos públicos em fóruns e no Reclame Aqui. Não houve teste físico dos aparelhos pela equipe. O dado próprio deste artigo é a tabela de alcance declarado versus alcance interno estimado e a matriz "melhor para" por perfil de família.
 
 ## 1. Motorola VM50G: melhor babá eletrônica no geral
 
@@ -409,7 +409,7 @@ Use a babá como ferramenta de conforto para os pais e mantenha a câmera e os c
 
 ## Quando procurar um profissional
 
-Se o bebê apresenta pausas na respiração, mudança de cor nos lábios, roncos fortes ou engasgos durante o sono, não espere a próxima noite para observar pela câmera: procure o pediatra ou um pronto atendimento. Bebês prematuros ou com condições específicas podem ter indicação médica de monitores de respiração; essa decisão é do pediatra, não de um guia de compras. Dúvidas sobre posição de dormir, temperatura do quarto e rotina de sono também valem uma conversa na consulta de rotina. Se a dificuldade é o bebê que acorda muito, veja nosso guia sobre [rotina do sono do bebê](/melhores/bebe-nao-dorme-o-que-fazer-rotina-do-sono/).
+Se o bebê apresenta pausas na respiração, mudança de cor nos lábios, roncos fortes ou engasgos durante o sono, não espere a próxima noite para observar pela câmera: procure o pediatra ou um pronto atendimento. Bebês prematuros ou com condições específicas podem ter indicação médica de monitores de respiração; essa decisão é do pediatra, não de um artigo de compras. Dúvidas sobre posição de dormir, temperatura do quarto e rotina de sono também valem uma conversa na consulta de rotina. Se a dificuldade é o bebê que acorda muito, veja nosso artigo sobre [rotina do sono do bebê](/melhores/bebe-nao-dorme-o-que-fazer-rotina-do-sono/).
 
 ## O que não recomendamos (e por quê)
 

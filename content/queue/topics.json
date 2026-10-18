@@ -5381,7 +5381,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "garmin-forerunner-165-e-bom",
+      "published_at": "2026-10-18"
     },
     {
       "id": "esportes-e-lazer-review-007",
@@ -5565,7 +5567,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "logitech-mx-master-3s-vale-a-pena",
+      "published_at": "2026-10-18"
     },
     {
       "id": "escritorio-e-estudos-review-007",
@@ -5657,7 +5661,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "nike-revolution-7-e-bom",
+      "published_at": "2026-10-18"
     },
     {
       "id": "moda-e-acessorios-review-007",
@@ -5796,7 +5802,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "smartband-ou-smartwatch-band-9-active-bip-6",
+      "published_at": "2026-10-18"
     },
     {
       "id": "tecnologia-comparativo-008",
@@ -6027,7 +6035,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "panela-inox-ou-antiaderente",
+      "published_at": "2026-10-18"
     },
     {
       "id": "saude-e-bem-estar-comparativo-005",

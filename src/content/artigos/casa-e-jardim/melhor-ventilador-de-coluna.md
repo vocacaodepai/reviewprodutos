@@ -413,11 +413,11 @@ relacionados: ["calor-para-dormir-refrescar-quarto-sem-ar-condicionado", "robo-a
 
 Se você quer um ventilador de coluna forte, silencioso o bastante para dormir e com chance real de durar vários verões, o **Arno X-TREME 7 VE72** é a melhor escolha de 2026: hélice de 7 pás, 150 W, alcance de até 11 metros segundo a Arno, modo noturno e classificação de eficiência A. O **melhor custo-benefício** é o **Mondial Turbo NVT-40C-8P-B**, com 8 pás e 140 W na faixa de entrada, aceitando um pouco mais de barulho. Para o quarto de quem tem sono leve, o **Mallory Éolo** é o mais discreto e o que menos gasta. Para salas grandes, os de 50 cm: **Arno Xtreme Force Breeze VB52** (mais econômico) e **WAP Flow Turbo** (mais potente).
 
-## Para quem é este guia
+## Para quem é este artigo
 
-Este guia é para quem chegou ao verão com o ventilador velho rangendo, ou com um modelo de mesa que não alcança a cama, e quer trocar por um de coluna sem errar. A dor é quase sempre a mesma: o ventilador forte demais faz barulho de turbina e não deixa dormir; o silencioso demais não refresca; e o barato quebra antes do próximo verão.
+Este artigo é para quem chegou ao verão com o ventilador velho rangendo, ou com um modelo de mesa que não alcança a cama, e quer trocar por um de coluna sem errar. A dor é quase sempre a mesma: o ventilador forte demais faz barulho de turbina e não deixa dormir; o silencioso demais não refresca; e o barato quebra antes do próximo verão.
 
-Também serve para quem está montando a casa e precisa de um único aparelho para a sala de dia e o quarto de noite. Se você ainda está decidindo entre ventilador, climatizador e outras soluções para dormir no calor, vale ler também o nosso guia sobre calor para dormir, que compara essas alternativas.
+Também serve para quem está montando a casa e precisa de um único aparelho para a sala de dia e o quarto de noite. Se você ainda está decidindo entre ventilador, climatizador e outras soluções para dormir no calor, vale ler também o nosso artigo sobre calor para dormir, que compara essas alternativas.
 
 ## Como escolhemos
 
@@ -425,7 +425,7 @@ Consideramos 15 ventiladores de coluna de 40 e 50 cm vendidos na Amazon Brasil e
 
 Não houve teste físico destes modelos pela nossa equipe: esta é uma análise de especificações oficiais, fontes especializadas e relatos públicos de consumidores fora da Amazon.
 
-O dado próprio deste guia é a **estimativa de consumo mensal** de cada modelo, calculada pela potência nominal com 8 horas de uso por dia durante 30 dias, na velocidade máxima:
+O dado próprio deste artigo é a **estimativa de consumo mensal** de cada modelo, calculada pela potência nominal com 8 horas de uso por dia durante 30 dias, na velocidade máxima:
 
 | Potência | Modelos | Consumo máximo estimado |
 | --- | --- | --- |
@@ -493,7 +493,7 @@ Para dormir, a coluna precisa subir acima da altura do colchão para o vento pas
 
 ### Voltagem, consumo e etiqueta
 
-Quase nenhum ventilador de coluna é bivolt: cada voltagem tem um código. Confira a voltagem da tomada antes de comprar e procure a classificação A na etiqueta do Inmetro. Use a tabela de consumo deste guia para comparar o impacto na conta.
+Quase nenhum ventilador de coluna é bivolt: cada voltagem tem um código. Confira a voltagem da tomada antes de comprar e procure a classificação A na etiqueta do Inmetro. Use a tabela de consumo deste artigo para comparar o impacto na conta.
 
 ### Garantia e assistência
 
@@ -509,4 +509,4 @@ Todos os seis têm 12 meses de garantia. A diferença está na rede: Arno, Mondi
 
 Compre o **Arno X-TREME 7 VE72** se quer um ventilador para tudo: forte na sala, controlado no quarto e com eficiência A. Escolha o **Mondial Turbo NVT-40C-8P-B** se o orçamento manda e o barulho não incomoda. Para dormir, o **Mallory Éolo** é o mais discreto e econômico, e o X-TREME 7 no modo noturno é a opção mais forte. Para salas grandes, o **Arno VB52** gasta menos e o **WAP Flow Turbo** sopra mais. O **Britânia BVT450** é a opção forte e simples para ambientes de dia. O Arno Ultra Silence Force VD5C, que já esteve nesta lista, está indisponível na Amazon no momento.
 
-Antes de fechar a compra, confira três coisas: a voltagem da sua tomada (cada versão tem um código), a altura máxima da coluna em relação à sua cama e o espaço no chão, principalmente nos modelos de 50 cm. Se o seu problema principal é dormir no calor, o nosso guia sobre como refrescar o quarto sem ar-condicionado traz soluções que funcionam junto com o ventilador.
+Antes de fechar a compra, confira três coisas: a voltagem da sua tomada (cada versão tem um código), a altura máxima da coluna em relação à sua cama e o espaço no chão, principalmente nos modelos de 50 cm. Se o seu problema principal é dormir no calor, o nosso artigo sobre como refrescar o quarto sem ar-condicionado traz soluções que funcionam junto com o ventilador.

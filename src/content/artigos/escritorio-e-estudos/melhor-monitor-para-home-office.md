@@ -321,11 +321,11 @@ Se você quer o monitor para home office que resolve olhos e pescoço de uma vez
 
 Em todos os casos, o monitor sozinho não cura nada: a altura certa da tela, a distância de 50 a 70 cm e pausas a cada 50 minutos fazem mais pela sua vista do que qualquer painel.
 
-## Para quem é este guia
+## Para quem é este artigo
 
 Você provavelmente chegou aqui por um de dois caminhos. Ou está montando o home office e digitou "melhor monitor para home office" para não errar na compra, ou já trabalha há meses curvado sobre a tela do notebook e termina o dia com os olhos ardendo, a vista embaçada e o pescoço travado, e desconfia que a tela tem parte nisso.
 
-Este guia serve para os dois. Reunimos cinco monitores de 24 e 27 polegadas vendidos na Amazon Brasil que têm o que importa para trabalhar oito horas: painel plano com bom ângulo de visão, superfície fosca, tecnologia sem cintilação (flicker-free), modo de luz azul reduzida e, acima de tudo, **suporte com ajuste de altura**, o item que separa um monitor de trabalho de um monitor de jogo barato. Antes dos produtos, explicamos por que a vista cansa e o que você pode ajustar hoje, sem gastar.
+Este artigo serve para os dois. Reunimos cinco monitores de 24 e 27 polegadas vendidos na Amazon Brasil que têm o que importa para trabalhar oito horas: painel plano com bom ângulo de visão, superfície fosca, tecnologia sem cintilação (flicker-free), modo de luz azul reduzida e, acima de tudo, **suporte com ajuste de altura**, o item que separa um monitor de trabalho de um monitor de jogo barato. Antes dos produtos, explicamos por que a vista cansa e o que você pode ajustar hoje, sem gastar.
 
 ## Como escolhemos
 
@@ -333,7 +333,7 @@ Partimos de 18 monitores de 24 e 27 polegadas das marcas com assistência no Bra
 
 As notas seguem cinco critérios com pesos declarados: conforto visual (30), ergonomia do suporte (25), nitidez e tamanho (15), conectividade e recursos (10) e custo-benefício (20). A nota final é a média ponderada.
 
-Esta análise se baseia em fichas técnicas dos fabricantes e dos anúncios, nas orientações da Academia Americana de Oftalmologia e de cartilhas de fisioterapia brasileiras (SIASS/UFJF e FioSaúde) e em testes de veículos especializados. Não houve teste físico dos monitores. O dado próprio deste guia é a tabela de densidade de pixels por tamanho e resolução, que explica por que 27 polegadas Full HD cansa mais que 24 polegadas Full HD:
+Esta análise se baseia em fichas técnicas dos fabricantes e dos anúncios, nas orientações da Academia Americana de Oftalmologia e de cartilhas de fisioterapia brasileiras (SIASS/UFJF e FioSaúde) e em testes de veículos especializados. Não houve teste físico dos monitores. O dado próprio deste artigo é a tabela de densidade de pixels por tamanho e resolução, que explica por que 27 polegadas Full HD cansa mais que 24 polegadas Full HD:
 
 | Tamanho e resolução | Pixels por polegada (ppi) | Distância confortável | Como fica o texto |
 | --- | --- | --- | --- |
@@ -354,9 +354,9 @@ E a tabela de ajustes e garantia dos cinco modelos, consultada nas fichas em out
 
 ## 1. Dell Pro 24 Plus (P2425H): melhor para trabalhar o dia todo
 
-O P2425H entrou em primeiro porque ataca as duas dores deste guia ao mesmo tempo. Para os olhos, o painel IPS fosco de 23,8 polegadas roda a **100 Hz** sem cintilação e traz o **ComfortView Plus**, que reduz a emissão de luz azul no próprio hardware do painel, sem o tom amarelado dos modos de software, com certificação da TÜV Rheinland. Para o pescoço, o suporte sobe **150 mm**, inclina, gira e vira em pé, o maior curso de altura entre os cinco: com ele você coloca a linha superior da tela na altura dos olhos mesmo em mesa baixa.
+O P2425H entrou em primeiro porque ataca as duas dores deste artigo ao mesmo tempo. Para os olhos, o painel IPS fosco de 23,8 polegadas roda a **100 Hz** sem cintilação e traz o **ComfortView Plus**, que reduz a emissão de luz azul no próprio hardware do painel, sem o tom amarelado dos modos de software, com certificação da TÜV Rheinland. Para o pescoço, o suporte sobe **150 mm**, inclina, gira e vira em pé, o maior curso de altura entre os cinco: com ele você coloca a linha superior da tela na altura dos olhos mesmo em mesa baixa.
 
-A linha Pro é a de uso corporativo da Dell, e isso aparece nos detalhes: entradas HDMI, DisplayPort e VGA (para o computador antigo da empresa), hub USB para teclado e mouse, VESA 100 x 100 e, o que mais pesa, **garantia de 3 anos**, contra 1 ano de todos os outros deste guia. É um monitor pensado para passar seis ou sete anos na mesma mesa.
+A linha Pro é a de uso corporativo da Dell, e isso aparece nos detalhes: entradas HDMI, DisplayPort e VGA (para o computador antigo da empresa), hub USB para teclado e mouse, VESA 100 x 100 e, o que mais pesa, **garantia de 3 anos**, contra 1 ano de todos os outros deste artigo. É um monitor pensado para passar seis ou sete anos na mesma mesa.
 
 O que decepciona é o preço, acima do que se espera de um Full HD de 24 polegadas, e a ausência de USB-C: quem usa notebook moderno vai precisar de cabo HDMI ou DisplayPort e manter a fonte do notebook na tomada. Também não há alto-falantes.
 
@@ -372,7 +372,7 @@ As ressalvas são três. O preço fica na faixa premium, a garantia da Samsung n
 
 O 24BL550J é o monitor da linha corporativa da LG e faz exatamente o que se pede de um monitor de trabalho, sem enfeite: painel **IPS fosco de 23,8 polegadas**, 250 nits, ângulo de visão de 178° e um suporte com **altura, inclinação, giro e pivô de 90°** nos dois sentidos. Para quem edita documentos longos ou lê PDF, o pivô vertical é uma vantagem real. Os modos Reader (luz azul reduzida) e Flicker Safe cobrem o conforto visual, e as entradas HDMI e DisplayPort vêm com cabos na caixa.
 
-É a melhor relação entre o que entrega e o que custa neste guia: o mesmo tipo de painel e o mesmo ajuste de altura do Dell por uma faixa intermediária. O que você abre mão é dos 100 Hz (aqui são 75 Hz, ainda confortáveis para texto), do hub USB, dos alto-falantes e, principalmente, da garantia: 1 ano contra 3 da Dell. O acabamento é simples, de monitor de escritório, e a ficha de venda tem erros (cita 75 kHz, que é a frequência horizontal). Para quem quer um IPS com altura regulável e vai gastar o justo, é a escolha.
+É a melhor relação entre o que entrega e o que custa neste artigo: o mesmo tipo de painel e o mesmo ajuste de altura do Dell por uma faixa intermediária. O que você abre mão é dos 100 Hz (aqui são 75 Hz, ainda confortáveis para texto), do hub USB, dos alto-falantes e, principalmente, da garantia: 1 ano contra 3 da Dell. O acabamento é simples, de monitor de escritório, e a ficha de venda tem erros (cita 75 kHz, que é a frequência horizontal). Para quem quer um IPS com altura regulável e vai gastar o justo, é a escolha.
 
 ## 4. Samsung Essential S4 24 polegadas: melhor para quem alterna notebook e desktop
 
@@ -395,7 +395,7 @@ Faça estes ajustes, com base nas cartilhas de fisioterapia e na Academia Americ
 3. **Brilho e reflexo.** Brilho do monitor parecido com o do ambiente; nunca a janela atrás da tela nem atrás de você. Superfície fosca resolve boa parte do reflexo.
 4. **Piscar.** Na frente da tela você pisca de 5 a 7 vezes por minuto, contra 15 em repouso. Pisque de propósito, e use colírio lubrificante se os olhos ardem.
 5. **Pausas.** A NR-17 prevê 10 minutos de pausa a cada 50 de digitação; a FioSaúde aponta que 8 minutos fora da cadeira já recuperam uma hora de trabalho. A cada pausa, olhe para um ponto distante por alguns segundos.
-6. **Notebook.** Se você trabalha na tela do notebook, nenhum ajuste de monitor se aplica: a tela está baixa demais por definição. Use um suporte com teclado externo, ou um monitor. O guia sobre [dor nas costas no home office](/melhores/dor-nas-costas-no-home-office/) cobre isso.
+6. **Notebook.** Se você trabalha na tela do notebook, nenhum ajuste de monitor se aplica: a tela está baixa demais por definição. Use um suporte com teclado externo, ou um monitor. O artigo sobre [dor nas costas no home office](/melhores/dor-nas-costas-no-home-office/) cobre isso.
 
 ## Como escolher monitor para home office: o que importa de verdade
 
@@ -435,7 +435,7 @@ Vai de 1 ano (LG, Samsung, AOC) a 3 anos (Dell). Monitor é um produto que dura,
 
 ## Quando procurar um profissional
 
-Olhos cansados que melhoram com pausa e ajuste da tela são normais. Procure um oftalmologista se a visão embaçada persiste depois do trabalho, se você tem dor de cabeça frequente, olho vermelho ou seco apesar do colírio, ou se precisa aproximar a tela cada vez mais: pode ser hora de óculos de grau ou de lentes para distância intermediária. Pescoço travado com formigamento ou dor que desce para o braço pede fisioterapeuta ou ortopedista, não um monitor novo. Este guia é informativo e não substitui avaliação profissional.
+Olhos cansados que melhoram com pausa e ajuste da tela são normais. Procure um oftalmologista se a visão embaçada persiste depois do trabalho, se você tem dor de cabeça frequente, olho vermelho ou seco apesar do colírio, ou se precisa aproximar a tela cada vez mais: pode ser hora de óculos de grau ou de lentes para distância intermediária. Pescoço travado com formigamento ou dor que desce para o braço pede fisioterapeuta ou ortopedista, não um monitor novo. Este artigo é informativo e não substitui avaliação profissional.
 
 ## Veredito
 

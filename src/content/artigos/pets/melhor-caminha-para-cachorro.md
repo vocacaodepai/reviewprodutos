@@ -226,11 +226,11 @@ relacionados: ["cachorro-destruindo-casa-sozinho", "tapete-higienico-ou-sanitari
 
 Se a sua dúvida é qual caminha comprar para o cachorro parar de dormir no chão ou de destruir a cama em poucas semanas, a resposta depende de dois fatores: o porte do cão e o calor da casa. A **Acrimet elevada** é a melhor escolha geral, por servir de cães médios a grandes (até 50 kg segundo a ficha), ser fácil de limpar e deixar o ar circular. A **Sonos Confort Pet** é o melhor custo-benefício para cães pequenos e médios que gostam de macio. A **Feandrea ortopédica** é a que mais faz sentido para cães grandes e idosos, e a **Luppet GG** atende quem quer fundo impermeável em cão médio, com a ressalva de que a ficha se contradiz.
 
-## Para quem é este guia
+## Para quem é este artigo
 
 É para quem já comprou uma caminha e viu o cachorro ignorá-la, ou viu a espuma virar farelo em um mês. Também serve para quem vai receber um filhote ou adotar um cão adulto e quer acertar o tamanho de primeira. O principal erro de compra é escolher pela aparência, não pelo porte e pelo clima: uma cama macia demais para um cão idoso, ou uma cama fechada demais para uma casa quente, é dinheiro perdido.
 
-Se a destruição vem de ansiedade e não de material, comece pelo nosso guia sobre [cachorro destruindo a casa quando fica sozinho](/melhores/cachorro-destruindo-casa-sozinho/). Para ver outras opções de descanso, visite a página de [caminhas e casinhas](/categoria/pets/caminhas-e-casinhas/).
+Se a destruição vem de ansiedade e não de material, comece pelo nosso artigo sobre [cachorro destruindo a casa quando fica sozinho](/melhores/cachorro-destruindo-casa-sozinho/). Para ver outras opções de descanso, visite a página de [caminhas e casinhas](/categoria/pets/caminhas-e-casinhas/).
 
 ## Como escolhemos
 
@@ -238,7 +238,7 @@ Consideramos camas vendidas na Amazon Brasil em outubro de 2026 em quatro perfis
 
 Não houve teste físico pela nossa equipe: esta é uma análise das especificações oficiais, de guias especializados e de resumos de avaliações de consumidores publicados fora da Amazon.
 
-O dado próprio deste guia é a **tabela de comprimento mínimo do cão**. Guias de compra recomendam medir o cão do focinho à base da cauda e somar alguns centímetros. Usando uma folga de cerca de 10 cm (nossa estimativa), o maior cão que cada cama acomoda deitado e esticado é:
+O dado próprio deste artigo é a **tabela de comprimento mínimo do cão**. Guias de compra recomendam medir o cão do focinho à base da cauda e somar alguns centímetros. Usando uma folga de cerca de 10 cm (nossa estimativa), o maior cão que cada cama acomoda deitado e esticado é:
 
 | Cama | Comprimento da cama | Cão (focinho à base da cauda) até cerca de |
 | --- | --- | --- |
@@ -293,10 +293,10 @@ Capa removível e fundo impermeável pesam mais do que a estampa. Leia a etiquet
 
 - **Camas genéricas sem marca nem ficha completa.** Muitas listas de mais vendidos trazem camas sem fabricante identificado, sem composição da espuma e sem garantia. Se der problema, não há a quem recorrer.
 - **Iglus de suede pequenos para cães que crescem.** Servem para filhotes de porte mini e gatos, mas o cão cresce em meses e a cama fica pequena. Além disso, as fichas que analisamos trazem informações conflitantes sobre o tipo de espuma.
-- **Camas elevadas de alumínio para cães que cavam ou roem.** Um guia de compras alerta que o alumínio pode não ser a melhor opção para esses cães.
+- **Camas elevadas de alumínio para cães que cavam ou roem.** Um artigo de compras alerta que o alumínio pode não ser a melhor opção para esses cães.
 
 ## Veredito
 
 Para a maioria das casas, a **Acrimet elevada** é a compra mais segura: serve de cães médios a grandes, limpa fácil e resiste ao calor. Para cães idosos e grandes, vá de **Feandrea ortopédica** e acompanhe o comportamento do cão. Para cão pequeno ou médio que gosta de macio, a **Sonos Confort Pet** custa menos e funciona bem em ambiente interno. A **Luppet GG** é a alternativa com fundo impermeável, mas meça o cão antes.
 
-Se o problema é que o cão destrói tudo quando fica sozinho, a cama pode não ser a causa: veja o guia de [cachorro destruindo a casa](/melhores/cachorro-destruindo-casa-sozinho/), o [comparativo de tapete higiênico e sanitário canino](/comparativos/tapete-higienico-ou-sanitario-canino/) e o [review do brinquedo Kong Classic](/reviews/kong-classic-vale-a-pena/) para dar ao cão uma ocupação além do descanso.
+Se o problema é que o cão destrói tudo quando fica sozinho, a cama pode não ser a causa: veja o artigo de [cachorro destruindo a casa](/melhores/cachorro-destruindo-casa-sozinho/), o [comparativo de tapete higiênico e sanitário canino](/comparativos/tapete-higienico-ou-sanitario-canino/) e o [review do brinquedo Kong Classic](/reviews/kong-classic-vale-a-pena/) para dar ao cão uma ocupação além do descanso.

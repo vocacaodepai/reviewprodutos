@@ -324,7 +324,7 @@ Olhar de perto por horas mantém os músculos do foco contraídos. Em quem tem g
 
 ## O que você pode fazer hoje sem comprar nada
 
-Esta lista cobre a maior parte do problema, e o que vem depois neste guia só complementa.
+Esta lista cobre a maior parte do problema, e o que vem depois neste artigo só complementa.
 
 - **Pisque de propósito.** Um lembrete adesivo na borda da tela, como sugere a AAO, ajuda no começo.
 - **Faça pausas olhando longe.** A regra 20-20-20, popular entre profissionais de visão, propõe olhar por 20 segundos para algo a cerca de 6 metros, a cada 20 minutos. É uma regra prática e simples de lembrar; o que importa é desviar o foco e piscar com frequência.
@@ -335,7 +335,7 @@ Esta lista cobre a maior parte do problema, e o que vem depois neste guia só co
 - **Use lágrima artificial se estiver seco.** A AAO cita como opção; pergunte ao oftalmologista qual tipo usar.
 - **Cuide do ar.** Em ambiente seco e com ar-condicionado, a AAO cita o umidificador.
 
-Para a postura de pescoço e costas, que anda junto com a tela baixa, veja o nosso guia de [dor nas costas no home office](/melhores/dor-nas-costas-no-home-office/).
+Para a postura de pescoço e costas, que anda junto com a tela baixa, veja o nosso artigo de [dor nas costas no home office](/melhores/dor-nas-costas-no-home-office/).
 
 ## O que procurar em produtos para olhos cansados
 
@@ -408,7 +408,7 @@ A AAO separa dois tipos: os óculos de computador, que corrigem a distância int
 
 ## Quando procurar um oftalmologista
 
-Este guia é informativo e não substitui consulta. Procure um oftalmologista se os olhos ficam constantemente vermelhos, embaçados ou lacrimejando, se surgir sensibilidade à luz ou dor, se a dor de cabeça for frequente ou se o cansaço não melhora com os ajustes acima. O grau pode estar desatualizado, e só o exame mostra isso.
+Este artigo é informativo e não substitui consulta. Procure um oftalmologista se os olhos ficam constantemente vermelhos, embaçados ou lacrimejando, se surgir sensibilidade à luz ou dor, se a dor de cabeça for frequente ou se o cansaço não melhora com os ajustes acima. O grau pode estar desatualizado, e só o exame mostra isso.
 
 ## Veredito
 

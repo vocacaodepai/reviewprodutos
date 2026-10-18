@@ -180,7 +180,7 @@ Os relatos são de blogs, em sua maioria anteriores à fórmula B5+, então indi
 ## Alternativas que vale considerar
 
 - **Bepantol Derma Multirrestaurador:** custa menos por tubo e rende bem em calcanhar, cotovelo, mão e cutícula, mas tem lanolina e é mais oleoso. Tem uma análise frente a frente no nosso comparativo entre Cicaplast e Bepantol Derma.
-- **Hidratante facial leve com protetor solar:** para quem tem pele oleosa e queria o Cicaplast como hidratante de rosto, o caminho costuma ser um produto leve de uso diário. Veja o nosso guia de protetor solar facial para pele oleosa.
+- **Hidratante facial leve com protetor solar:** para quem tem pele oleosa e queria o Cicaplast como hidratante de rosto, o caminho costuma ser um produto leve de uso diário. Veja o nosso artigo de protetor solar facial para pele oleosa.
 - **Pomada ou creme de pantenol de farmácia comum:** resolve lábio rachado e área de atrito por uma fração do valor, mas sem os outros ativos.
 
 ## Dicas para tirar o máximo do Cicaplast

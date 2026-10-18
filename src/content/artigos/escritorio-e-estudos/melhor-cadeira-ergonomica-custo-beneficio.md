@@ -405,17 +405,17 @@ relacionados: ["dor-nas-costas-no-home-office", "cadeira-gamer-ou-cadeira-de-esc
 
 A melhor cadeira ergonômica custo-benefício desta lista é a **DT3 Vita**: encosto em tela, lombar e apoio de cabeça ajustáveis e conformidade com a NR-17 declarada pela marca, com preço de mercado bem abaixo das premium. A **Plaxmetal Brizza** é o melhor custo-benefício de longo prazo, porque a ficha de venda informa 5 anos de garantia. Se você senta oito horas ou mais e pode pagar mais, a **ThunderX3 XTC Mesh** tem as regulagens mais completas. Para quem é alto ou pesado, a **Luvinco BT07** é a mais indicada. A **Genebra G500** é a mais barata, mas só para quem é leve e senta pouco.
 
-## Para quem é este guia
+## Para quem é este artigo
 
-Você passa o dia sentado, sente a lombar reclamar na terceira hora e sabe que a cadeira da cozinha ou a "presidente" básica não está ajudando. Ao mesmo tempo, as cadeiras corporativas que aparecem nos guias custam o que um mês de aluguel custa. Este guia é para esse meio-termo: cadeiras com regulagem de verdade, de faixas de preço diferentes, para escolher sem pagar por recurso que você não usa.
+Você passa o dia sentado, sente a lombar reclamar na terceira hora e sabe que a cadeira da cozinha ou a "presidente" básica não está ajudando. Ao mesmo tempo, as cadeiras corporativas que aparecem nos artigos custam o que um mês de aluguel custa. Este artigo é para esse meio-termo: cadeiras com regulagem de verdade, de faixas de preço diferentes, para escolher sem pagar por recurso que você não usa.
 
-Antes de comprar, vale fazer os ajustes gratuitos descritos no guia de [dor nas costas no home office](/melhores/dor-nas-costas-no-home-office/): altura do assento, pés apoiados, tela na altura dos olhos e pausas. E se a dúvida é entre uma cadeira gamer e uma de escritório, a [comparação entre a TGC12 e a XTC Mesh](/comparativos/cadeira-gamer-ou-cadeira-de-escritorio/) mostra as diferenças na prática. As demais opções estão na página de [cadeiras e mesas](/categoria/escritorio-e-estudos/cadeiras-e-mesas/).
+Antes de comprar, vale fazer os ajustes gratuitos descritos no artigo de [dor nas costas no home office](/melhores/dor-nas-costas-no-home-office/): altura do assento, pés apoiados, tela na altura dos olhos e pausas. E se a dúvida é entre uma cadeira gamer e uma de escritório, a [comparação entre a TGC12 e a XTC Mesh](/comparativos/cadeira-gamer-ou-cadeira-de-escritorio/) mostra as diferenças na prática. As demais opções estão na página de [cadeiras e mesas](/categoria/escritorio-e-estudos/cadeiras-e-mesas/).
 
 ## Como escolhemos
 
 Partimos de seis modelos candidatos e trocamos os que não tinham anúncio confirmado na Amazon.com.br, ou ficha técnica suficiente, por equivalentes de faixas de preço diferentes. O resultado cobre uma cadeira de entrada (Genebra G500), quatro intermediárias (DT3 Vita, Plaxmetal Brizza, Luvinco BT07 e ThunderX3 Yama1) e uma premium (ThunderX3 XTC Mesh).
 
-Cada cadeira recebeu nota de 0 a 10 em cinco critérios: ergonomia e regulagens (peso 30), conforto em jornada longa (20), construção e durabilidade (15), garantia e assistência (10) e custo-benefício (25). A nota final é a média ponderada. Usamos fichas técnicas de fabricantes e lojas, análises de veículos especializados (GDM, Revisalar, Promotop, Ergocadeiras, Cadeira Certa) e faixas de preço de comparadores e lojas. Esta é uma análise de especificações e de relatos publicados fora da Amazon; não houve teste físico pela nossa equipe. O dado próprio do guia é a comparação de carga, regulagens e garantia, mais a matriz por perfil mais abaixo.
+Cada cadeira recebeu nota de 0 a 10 em cinco critérios: ergonomia e regulagens (peso 30), conforto em jornada longa (20), construção e durabilidade (15), garantia e assistência (10) e custo-benefício (25). A nota final é a média ponderada. Usamos fichas técnicas de fabricantes e lojas, análises de veículos especializados (GDM, Revisalar, Promotop, Ergocadeiras, Cadeira Certa) e faixas de preço de comparadores e lojas. Esta é uma análise de especificações e de relatos publicados fora da Amazon; não houve teste físico pela nossa equipe. O dado próprio do artigo é a comparação de carga, regulagens e garantia, mais a matriz por perfil mais abaixo.
 
 ## 1. DT3 Vita: melhor escolha geral
 
@@ -511,10 +511,10 @@ O prazo no anúncio varia mais que a qualidade entre as cadeiras. Compare antes 
 
 ## Quando procurar um profissional
 
-Cadeira nenhuma trata dor de origem clínica. Procure um fisioterapeuta ou médico se a dor não melhorar em duas semanas de ajustes e pausas, se piorar, se descer para a perna ou vier com formigamento, dormência ou fraqueza, se acordar você à noite ou vier com febre. Este guia é informativo e não substitui avaliação profissional.
+Cadeira nenhuma trata dor de origem clínica. Procure um fisioterapeuta ou médico se a dor não melhorar em duas semanas de ajustes e pausas, se piorar, se descer para a perna ou vier com formigamento, dormência ou fraqueza, se acordar você à noite ou vier com febre. Este artigo é informativo e não substitui avaliação profissional.
 
 ## Veredito
 
 Se você quer uma cadeira ergonômica boa sem pagar o preço de premium, compre a **DT3 Vita**. Se a garantia longa pesa mais, compre a **Plaxmetal Brizza** e confirme que a versão do anúncio é a de tela. Se você senta o dia inteiro e pode pagar, a **ThunderX3 XTC Mesh** é a mais completa. Para quem é alto ou pesado, a **Luvinco BT07** é a mais indicada, e a **Genebra G500** só faz sentido para quem é leve e senta pouco. A **Yama1** perde por preço e garantia.
 
-Para ajustar o resto da estação de trabalho, veja o guia de [dor nas costas no home office](/melhores/dor-nas-costas-no-home-office/) e o [melhor monitor para home office](/melhores/melhor-monitor-para-home-office/). Mais opções em [cadeiras e mesas](/categoria/escritorio-e-estudos/cadeiras-e-mesas/) e na categoria [escritório e estudos](/categoria/escritorio-e-estudos/).
+Para ajustar o resto da estação de trabalho, veja o artigo de [dor nas costas no home office](/melhores/dor-nas-costas-no-home-office/) e o [melhor monitor para home office](/melhores/melhor-monitor-para-home-office/). Mais opções em [cadeiras e mesas](/categoria/escritorio-e-estudos/cadeiras-e-mesas/) e na categoria [escritório e estudos](/categoria/escritorio-e-estudos/).

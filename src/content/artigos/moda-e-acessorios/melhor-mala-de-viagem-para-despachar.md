@@ -339,11 +339,11 @@ Para a maioria das viagens com mala despachada, a **Samsonite Octolite média** 
 
 O erro mais comum não é a marca: é comprar o tamanho errado. Uma mala grande cheia é difícil de levantar sozinho, e uma média pequena demais obriga a pagar por uma segunda bagagem.
 
-## Para quem é este guia
+## Para quem é este artigo
 
 Você provavelmente chegou aqui por um destes motivos: a rodinha da última mala quebrou na primeira viagem, o puxador ficou com folga no meio do caminho, ou você está comprando a primeira mala "de verdade" e não sabe se leva média ou grande. Ainda existe a dúvida clássica entre Samsonite e American Tourister, duas marcas que dividem a mesma central de garantia no Brasil.
 
-Este guia é sobre mala **de viagem para despachar**, em tamanhos médio e grande. Se você procura uma mala de mão que passe no gabarito do embarque, a intenção é outra e a escolha também: veja o nosso [guia de mala de bordo](/melhores/melhor-mala-de-bordo-padrao-companhias-aereas/). Aqui, o foco é resistência, litros, peso vazio e garantia.
+Este artigo é sobre mala **de viagem para despachar**, em tamanhos médio e grande. Se você procura uma mala de mão que passe no gabarito do embarque, a intenção é outra e a escolha também: veja o nosso [guia de mala de bordo](/melhores/melhor-mala-de-bordo-padrao-companhias-aereas/). Aqui, o foco é resistência, litros, peso vazio e garantia.
 
 ## Como escolhemos
 
@@ -351,7 +351,7 @@ Partimos de mais de dez modelos de malas médias e grandes das linhas mais vendi
 
 As notas seguem cinco critérios com pesos declarados: resistência e materiais (25), capacidade e organização (20), peso e manuseio (20), segurança e garantia (15) e custo-benefício (20). A nota final é a média ponderada.
 
-Esta análise se baseia em especificações oficiais publicadas pela Samsonite Brasil e pela American Tourister Brasil, nas fichas dos anúncios e em guias especializados sobre materiais de mala (Melhores Destinos e Mala de Aventuras). Não houve teste físico das malas. O dado próprio deste guia é a tabela abaixo, que cruza litros e peso vazio para mostrar quanta capacidade você leva por quilo de mala:
+Esta análise se baseia em especificações oficiais publicadas pela Samsonite Brasil e pela American Tourister Brasil, nas fichas dos anúncios e em guias especializados sobre materiais de mala (Melhores Destinos e Mala de Aventuras). Não houve teste físico das malas. O dado próprio deste artigo é a tabela abaixo, que cruza litros e peso vazio para mostrar quanta capacidade você leva por quilo de mala:
 
 | Modelo | Capacidade | Peso vazio | Litros por kg de mala |
 | --- | --- | --- | --- |
@@ -366,7 +366,7 @@ Quanto maior o número, mais volume útil para cada quilo que a própria mala oc
 
 ## 1. Samsonite Octolite média: melhor no geral
 
-A Octolite entrou em primeiro porque junta, em tamanho médio, o que mais importa para quem despacha: casco **100% polipropileno**, **75 litros**, cadeado TSA integrado, zíper de expansão e quatro rodas duplas. A página oficial da Samsonite Brasil informa 68 x 48 x 33 cm e **3,8 kg** vazia, além de garantia de **10 anos**, o prazo mais longo do guia junto com a Varro.
+A Octolite entrou em primeiro porque junta, em tamanho médio, o que mais importa para quem despacha: casco **100% polipropileno**, **75 litros**, cadeado TSA integrado, zíper de expansão e quatro rodas duplas. A página oficial da Samsonite Brasil informa 68 x 48 x 33 cm e **3,8 kg** vazia, além de garantia de **10 anos**, o prazo mais longo do artigo junto com a Varro.
 
 O polipropileno é o material que costuma ser indicado como o melhor equilíbrio de custo e resistência: segundo o Melhores Destinos, ele tem boa resistência a impacto, ainda que possa arranhar mais que o policarbonato. O que decepciona é o peso, que consome parte da franquia da sua passagem, e a faixa de preço, premium entre as médias.
 
@@ -388,19 +388,19 @@ Sobre a garantia, a página da Samsonite Brasil lista 5 anos para malas de viage
 
 ## 4. Samsonite Upscape grande: melhor para famílias
 
-A Upscape é a grande de uso mais confortável do guia. O site oficial informa 74 x 51 x 30 cm, **3,4 kg** e cerca de **100 litros**, com polipropileno, cadeado TSA, zíper de expansão e **porta USB integrada**. O anúncio na Amazon cita 104 litros; a diferença é pequena, mas vale conferir. A garantia informada pela marca é de 5 anos.
+A Upscape é a grande de uso mais confortável do artigo. O site oficial informa 74 x 51 x 30 cm, **3,4 kg** e cerca de **100 litros**, com polipropileno, cadeado TSA, zíper de expansão e **porta USB integrada**. O anúncio na Amazon cita 104 litros; a diferença é pequena, mas vale conferir. A garantia informada pela marca é de 5 anos.
 
 Para famílias, o argumento é a combinação de volume com peso razoável (3,4 kg para 75 cm de altura) e organização interna com cintas e divisor. A ficha não explica como a porta USB funciona; confirme antes de contar com ela para carregar o celular. O que pesa contra é a faixa de preço, a mais alta entre as grandes, e o fato de que mala cheia nessa capacidade não se levanta sem esforço.
 
 ## 5. Samsonite Quartz média: melhor para quem despacha o tempo todo
 
-A Quartz é a única do guia com casco 100% **policarbonato**, o material que o Melhores Destinos descreve como o mais resistente entre os rígidos: aguenta quedas, batidas e pressão sem rachar, e costuma ter preço mais alto. A página oficial da Samsonite Brasil informa 68 x 43 x 29 cm, **72 litros**, **3,9 kg**, cadeado TSA integrado, quatro rodas duplas de 360 graus e o sistema EazyHook, que serve para pendurar sacolas.
+A Quartz é a única do artigo com casco 100% **policarbonato**, o material que o Melhores Destinos descreve como o mais resistente entre os rígidos: aguenta quedas, batidas e pressão sem rachar, e costuma ter preço mais alto. A página oficial da Samsonite Brasil informa 68 x 43 x 29 cm, **72 litros**, **3,9 kg**, cadeado TSA integrado, quatro rodas duplas de 360 graus e o sistema EazyHook, que serve para pendurar sacolas.
 
 Os contras são objetivos: é a mais pesada das médias, tem garantia de 5 anos (metade da Octolite e da Varro) e o custo-benefício é menor. Vale para quem despacha toda semana, passa por conexões e sabe que a mala será empilhada no porão.
 
 ## 6. American Tourister Frankfurt média: melhor para gastar menos e carregar menos
 
-A Frankfurt é a única mala flexível do guia, de **poliéster**, e a mais leve: **2,93 kg** vazia, segundo a ficha do anúncio, com **76 litros** e 43 x 30 x 68 cm. Em volume útil por quilo, só perde para a Upscape. A fechadura é de combinação integrada, e a ficha não menciona TSA, ponto a pesar em viagens internacionais. A garantia informada no anúncio é de 3 anos.
+A Frankfurt é a única mala flexível do artigo, de **poliéster**, e a mais leve: **2,93 kg** vazia, segundo a ficha do anúncio, com **76 litros** e 43 x 30 x 68 cm. Em volume útil por quilo, só perde para a Upscape. A fechadura é de combinação integrada, e a ficha não menciona TSA, ponto a pesar em viagens internacionais. A garantia informada no anúncio é de 3 anos.
 
 O tecido é mais leve e flexível, mas, como lembra o Melhores Destinos, oferece menos proteção que o casco rígido e pode rasgar ou molhar. É boa para viagens nacionais de carro ou avião com roupas e itens resistentes, e uma escolha ruim para quem leva eletrônicos, perfumes ou lembranças frágeis.
 
@@ -408,11 +408,11 @@ O tecido é mais leve e flexível, mas, como lembra o Melhores Destinos, oferece
 
 ### Tamanho: média ou grande
 
-Os nomes P, M e G são comerciais e não seguem uma regra única das companhias. Pelas fichas deste guia, as médias ficam entre 68 cm de altura e 72 a 76 litros, e as grandes têm de 74 a 78 cm e cerca de 100 litros ou mais. O que limita o que você leva é a franquia da sua tarifa, que varia por companhia e por bilhete: confira peso e dimensões no site da empresa antes de comprar a mala.
+Os nomes P, M e G são comerciais e não seguem uma regra única das companhias. Pelas fichas deste artigo, as médias ficam entre 68 cm de altura e 72 a 76 litros, e as grandes têm de 74 a 78 cm e cerca de 100 litros ou mais. O que limita o que você leva é a franquia da sua tarifa, que varia por companhia e por bilhete: confira peso e dimensões no site da empresa antes de comprar a mala.
 
 ### Material do casco
 
-- **Policarbonato:** o mais resistente, mais caro e, em geral, o mais pesado dos exemplos deste guia.
+- **Policarbonato:** o mais resistente, mais caro e, em geral, o mais pesado dos exemplos deste artigo.
 - **Polipropileno:** boa resistência a impacto, melhor custo-benefício, mas arranha mais.
 - **ABS:** o mais barato entre os rígidos e menos resistente a impactos fortes; pode rachar se for despachado com frequência, segundo o Melhores Destinos.
 - **Tecido:** mais leve, mais barato e expansível, com menos proteção e mais exposição à chuva e à abrasão.
@@ -427,7 +427,7 @@ Prefira quatro rodas duplas giratórias, que distribuem melhor o peso, segundo o
 
 ### Cadeado TSA
 
-O cadeado TSA permite que a inspeção abra a mala com chave-mestra, sem romper a trava. É mais relevante em voos internacionais. Todas as malas rígidas deste guia têm TSA; a Frankfurt de tecido não informa.
+O cadeado TSA permite que a inspeção abra a mala com chave-mestra, sem romper a trava. É mais relevante em voos internacionais. Todas as malas rígidas deste artigo têm TSA; a Frankfurt de tecido não informa.
 
 ### Garantia e assistência
 

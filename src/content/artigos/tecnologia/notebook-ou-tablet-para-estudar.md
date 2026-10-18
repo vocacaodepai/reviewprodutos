@@ -171,7 +171,7 @@ Para a maioria dos estudantes, o **Lenovo IdeaPad Slim 3** é a escolha mais seg
 
 A dúvida "notebook ou tablet" costuma aparecer quando o orçamento é curto e a lista de necessidades é longa: escrever trabalhos, assistir aulas EAD, ler PDFs, fazer provas online e, às vezes, usar um programa que o professor exige. Comprar o aparelho errado significa gastar duas vezes ou passar o semestre limitado.
 
-Escolhemos dois produtos de entrada que representam bem cada lado da decisão: o **Galaxy Tab A9+ Wi-Fi (4 GB de RAM e 64 GB)** e o **IdeaPad Slim 3 de 15,3 polegadas (Core 3 100U, 8 GB e 256 GB)**. Se você quer ver mais opções de computador, veja a página de [notebooks e computadores](/categoria/tecnologia/notebooks-e-computadores/) e o guia [melhor celular custo-benefício](/melhores/melhor-celular-custo-beneficio/), já que muita gente também usa o celular para estudar.
+Escolhemos dois produtos de entrada que representam bem cada lado da decisão: o **Galaxy Tab A9+ Wi-Fi (4 GB de RAM e 64 GB)** e o **IdeaPad Slim 3 de 15,3 polegadas (Core 3 100U, 8 GB e 256 GB)**. Se você quer ver mais opções de computador, veja a página de [notebooks e computadores](/categoria/tecnologia/notebooks-e-computadores/) e o artigo [melhor celular custo-benefício](/melhores/melhor-celular-custo-beneficio/), já que muita gente também usa o celular para estudar.
 
 Esta é uma análise de especificações oficiais, análises publicadas por veículos especializados e fichas de lojas; não houve teste físico pela nossa equipe.
 

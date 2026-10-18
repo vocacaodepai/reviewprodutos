@@ -288,7 +288,7 @@ Nosso dado próprio é a matriz abaixo, que cruza o que cada tipo de produto exi
 
 ## O que procurar em um filtro ou purificador para o gosto de cloro
 
-**Carvão ativado.** É o material que o fabricante cita para reduzir cloro, gosto e odor. Os três produtos deste guia usam carvão ativado, cada um em formato diferente (refil, estágio da torneira ou vela cerâmica).
+**Carvão ativado.** É o material que o fabricante cita para reduzir cloro, gosto e odor. Os três produtos deste artigo usam carvão ativado, cada um em formato diferente (refil, estágio da torneira ou vela cerâmica).
 
 **Norma ou certificação citada.** Procure no anúncio ou no manual se o fabricante cita ensaios pela ABNT NBR 16098 ou registro do Inmetro para o modelo. Isso não garante resultado na sua água, mas indica que alguém mediu. O Electrolux PE11B é o único dos três que traz essas referências nas fichas que consultamos.
 
@@ -296,7 +296,7 @@ Nosso dado próprio é a matriz abaixo, que cruza o que cada tipo de produto exi
 
 **Tomada e pressão.** Purificadores com refrigeração precisam de tomada e de pressão de água dentro da faixa do fabricante. Se a sua pressão é baixa, filtros de barro ou de torneira costumam ser mais seguros.
 
-**Origem da água.** Todo o guia assume água de rede tratada. Água de poço, nascente ou caminhão-pipa pede análise e tratamento específicos, e velas ou filtros comuns não bastam.
+**Origem da água.** Todo o artigo assume água de rede tratada. Água de poço, nascente ou caminhão-pipa pede análise e tratamento específicos, e velas ou filtros comuns não bastam.
 
 ## 1. Electrolux PE11B: melhor no geral
 
@@ -336,7 +336,7 @@ O que decepciona: ocupa espaço (51 cm de altura por 29,5 cm de diâmetro) e ped
 
 - **Filtro sem origem identificada.** Refis genéricos e velas sem marca nem modelo aparecem a preço baixo, mas sem norma citada ou compatibilidade confirmada. Prefira o refil indicado pelo fabricante do seu aparelho.
 - **Tentar "corrigir" a água com produtos na caixa d'água.** Adicionar cloro, vinagre ou qualquer produto por conta própria só piora o problema. Se a suspeita é a caixa, limpe do jeito certo ou contrate quem saiba.
-- **Filtro para água de poço ou nascente.** Nenhum dos produtos deste guia é indicado para isso. Água sem tratamento exige análise e solução específica.
+- **Filtro para água de poço ou nascente.** Nenhum dos produtos deste artigo é indicado para isso. Água sem tratamento exige análise e solução específica.
 - **Esperar que o filtro faça milagre.** Um filtro de carvão trata gosto e cheiro. Não use como atalho para água que você já não bebe por segurança.
 
 ## Veredito
@@ -345,4 +345,4 @@ Comece pelo teste grátis: jarra tampada na geladeira por uma semana. Se o gosto
 
 Qualquer que seja o filtro, troque o refil ou a vela no prazo, porque filtro vencido piora a água. E se a mudança de gosto ou de cheiro foi súbita, ou se vem com cor, turbidez ou mal-estar, chame a concessionária antes de pensar em comprar algo.
 
-Para ver outras opções de água em casa, visite a categoria [purificadores e filtros](/categoria/cozinha/purificadores-e-filtros/). Se estiver montando a cozinha, veja também a [cafeteira Dolce Gusto Genio S](/reviews/dolce-gusto-genio-s-e-boa/) e o guia de [micro-ondas por tamanho](/melhores/melhor-microondas-por-tamanho/). O panorama completo está na página de [cozinha](/categoria/cozinha/).
+Para ver outras opções de água em casa, visite a categoria [purificadores e filtros](/categoria/cozinha/purificadores-e-filtros/). Se estiver montando a cozinha, veja também a [cafeteira Dolce Gusto Genio S](/reviews/dolce-gusto-genio-s-e-boa/) e o artigo de [micro-ondas por tamanho](/melhores/melhor-microondas-por-tamanho/). O panorama completo está na página de [cozinha](/categoria/cozinha/).

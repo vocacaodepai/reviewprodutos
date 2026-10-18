@@ -213,7 +213,7 @@ O Reclame Aqui agrupa as queixas pela marca, e não pelo modelo; entre as reclam
 - **Philips Walita Série 1000 XL NA130 (6,2 litros, 1.700 W):** mesma marca e mesmos 24 meses de garantia, com espaço para família de 4 a 5 pessoas. Vence se a sua casa tem mais de 3 pessoas.
 - **Philips Walita Série 3000 RI9252 (4,1 litros, digital):** mesma capacidade com painel de toque e programas prontos. Vence para quem quer presets e não se importa em pagar mais.
 
-Para famílias grandes, nosso guia de air fryers de 5 litros ou mais compara seis modelos com cesto amplo.
+Para famílias grandes, nosso artigo de air fryers de 5 litros ou mais compara seis modelos com cesto amplo.
 
 ## Dicas para tirar o máximo da Philips Walita Série 3000
 

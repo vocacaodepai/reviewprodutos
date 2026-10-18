@@ -389,9 +389,9 @@ relacionados: []
 
 Se você quer o fone Bluetooth barato mais equilibrado de 2026, vá de **JBL Wave Buds 2**: cancelamento de ruído ativo, 40 horas somando o estojo, resistência IP54 e garantia da Harman no Brasil, por um valor que ainda cabe na faixa de entrada. Se a prioridade é pagar o mínimo possível sem abrir mão de ANC e app com equalizador, o **QCY T13 ANC** é o melhor custo-benefício. Para quem quer o ANC mais forte da faixa, o **Haylou Moripro**; para gastar o mínimo, o **Xiaomi Redmi Buds 6 Active**; para quem só quer simplicidade e bateria longa, o **Edifier X2 Plus**; e para orelhas pequenas que não seguram nenhum fone, o **Baseus Bowie WM02** (3,8 g por lado) é o que menos cai.
 
-## Para quem é este guia
+## Para quem é este artigo
 
-Este guia é para quem já se frustrou com fone barato: o par que caía toda vez que você andava mais rápido, a bateria que prometia 30 horas e não aguentava uma tarde, o som embolado em que a voz do podcast some atrás do grave. Esses três problemas (encaixe, bateria e som fraco) foram os critérios que mais pesaram na seleção abaixo.
+Este artigo é para quem já se frustrou com fone barato: o par que caía toda vez que você andava mais rápido, a bateria que prometia 30 horas e não aguentava uma tarde, o som embolado em que a voz do podcast some atrás do grave. Esses três problemas (encaixe, bateria e som fraco) foram os critérios que mais pesaram na seleção abaixo.
 
 Também é para quem procura por nome: Wave Buds 2, T13 ANC, Moripro, Redmi Buds 6 Active, X2 Plus, WM02. Cada um tem uma seção própria com o que ele faz bem, onde decepciona e para quem faz sentido. Se você ainda não sabe qual tipo de fone combina com você, pule para a seção "Como escolher" antes de olhar os modelos. Para outras faixas e formatos, veja a página de [fones de ouvido](/categoria/tecnologia/fones-de-ouvido/) e a de [tecnologia](/categoria/tecnologia/).
 
@@ -401,7 +401,7 @@ Partimos de 14 fones sem fio de entrada vendidos na Amazon.com.br em outubro de 
 
 Os seis que sobraram foram avaliados em seis critérios com pesos (som 30, conforto e encaixe 15, bateria 15, conectividade e recursos 15, construção 10, custo-benefício 15). As notas vêm de especificações oficiais, análises de veículos especializados (Canaltech, Tecnoblog, Scarbir, EarbudsArena), relatos públicos no Reclame Aqui e em comunidades, e da comparação das fichas. **Não houve teste físico**: esta é uma análise de dados e fontes, e dizemos isso em todo artigo em que vale.
 
-O dado próprio deste guia é a tabela de garantia e assistência no Brasil, mais abaixo, porque é nela que fone barato costuma dar prejuízo.
+O dado próprio deste artigo é a tabela de garantia e assistência no Brasil, mais abaixo, porque é nela que fone barato costuma dar prejuízo.
 
 ## 1. JBL Wave Buds 2: melhor para quem quer ANC, marca e garantia sem sair da faixa de entrada
 
@@ -470,7 +470,7 @@ A regra prática: para fones acima da faixa mais baixa, a diferença de garantia
 
 ### Encaixe (o motivo número 1 de devolução)
 
-Fone cai por dois motivos: ponteira do tamanho errado ou formato que não combina com a sua orelha. Modelos intra-auriculares com ponteira de silicone (todos deste guia) vedam melhor que earbuds abertos. Experimente as três ponteiras da caixa; o Canaltech lembra que a maior nem sempre segura mais, e muita gente precisa de tamanhos diferentes em cada lado. Fones leves (abaixo de 4,5 g) e com haste curta tendem a ficar mais estáveis.
+Fone cai por dois motivos: ponteira do tamanho errado ou formato que não combina com a sua orelha. Modelos intra-auriculares com ponteira de silicone (todos deste artigo) vedam melhor que earbuds abertos. Experimente as três ponteiras da caixa; o Canaltech lembra que a maior nem sempre segura mais, e muita gente precisa de tamanhos diferentes em cada lado. Fones leves (abaixo de 4,5 g) e com haste curta tendem a ficar mais estáveis.
 
 ### Bateria real, não a do anúncio
 

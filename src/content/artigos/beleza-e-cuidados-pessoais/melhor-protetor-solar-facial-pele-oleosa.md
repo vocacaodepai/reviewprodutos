@@ -334,19 +334,19 @@ relacionados: ["melhor-secador-de-cabelo-5-modelos-do-basico-ao-profissional"]
 
 ## Resposta rápida
 
-Se a sua pele brilha antes do almoço e todo protetor solar parece pesar uma tonelada, o **La Roche-Posay Anthelios Airlicium+ FPS 80** é a compra mais segura: proteção mais alta do guia (FPS 80 e PPD 27 declarados) e micropartículas que absorvem sebo ao longo do dia. Para a maioria das peles oleosas, o **Neostrata Minesol Oil Control FPS 70** entrega 12 horas de controle de brilho, fórmula não comedogênica e cinco tons por uma faixa intermediária, e por isso é o melhor custo-benefício.
+Se a sua pele brilha antes do almoço e todo protetor solar parece pesar uma tonelada, o **La Roche-Posay Anthelios Airlicium+ FPS 80** é a compra mais segura: proteção mais alta do artigo (FPS 80 e PPD 27 declarados) e micropartículas que absorvem sebo ao longo do dia. Para a maioria das peles oleosas, o **Neostrata Minesol Oil Control FPS 70** entrega 12 horas de controle de brilho, fórmula não comedogênica e cinco tons por uma faixa intermediária, e por isso é o melhor custo-benefício.
 
 Quem tem cravos e espinhas ativas deve olhar o **Vichy Capital Soleil UV-Clear FPS 60**, único com niacinamida e ácido salicílico. Quem treina, sua ou reaplica no meio do dia encontra no **ISDIN Fusion Water FPS 60** a textura mais leve, aplicável até na pele molhada. E quem precisa de FPS alto gastando pouco resolve com o **Nivea Sun Toque Seco FPS 70**.
 
 Em todos os casos, a regra que mais pesa não é a marca: é a quantidade aplicada e a reaplicação.
 
-## Para quem é este guia
+## Para quem é este artigo
 
 Você provavelmente chegou aqui por um de dois caminhos. Ou está pesquisando "melhor protetor solar para pele oleosa" e se perdeu entre dezenas de bisnagas que prometem "toque seco", ou já comprou dois ou três protetores que deixaram o rosto brilhando às 11 da manhã, soltaram a maquiagem ou renderam uma safra de espinhas, e não quer repetir o erro.
 
-Este guia serve para os dois. Reunimos cinco protetores solares faciais vendidos na Amazon Brasil, de farmácia e dermocosméticos, e comparamos o que de fato muda entre eles: FPS e PPD declarados, ativos antioleosidade, horas de efeito matte prometidas, presença de fragrância e álcool, e se a marca testou a fórmula para não obstruir poros. Pele oleosa não é um tipo só: há quem tenha brilho moderado na zona T, quem tenha oleosidade intensa o dia todo e quem tenha acne ativa. Cada perfil tem um vencedor diferente aqui.
+Este artigo serve para os dois. Reunimos cinco protetores solares faciais vendidos na Amazon Brasil, de farmácia e dermocosméticos, e comparamos o que de fato muda entre eles: FPS e PPD declarados, ativos antioleosidade, horas de efeito matte prometidas, presença de fragrância e álcool, e se a marca testou a fórmula para não obstruir poros. Pele oleosa não é um tipo só: há quem tenha brilho moderado na zona T, quem tenha oleosidade intensa o dia todo e quem tenha acne ativa. Cada perfil tem um vencedor diferente aqui.
 
-Um aviso antes de seguir: este é um guia de compra, não uma orientação médica. Acne persistente, pele sensível ou tratamentos com ácidos e retinoides mudam a escolha. Nesses casos, consulte um dermatologista.
+Um aviso antes de seguir: este é um artigo de compra, não uma orientação médica. Acne persistente, pele sensível ou tratamentos com ácidos e retinoides mudam a escolha. Nesses casos, consulte um dermatologista.
 
 ## Como escolhemos
 
@@ -354,7 +354,7 @@ Partimos de 14 protetores faciais com apelo "toque seco" ou "oil control" das ma
 
 As notas seguem cinco critérios com pesos declarados: proteção UVB e UVA (30), controle de oleosidade (25), textura e conforto (15), tolerância da fórmula (10) e custo-benefício (20). A nota final é a média ponderada, com uma casa decimal.
 
-Esta análise se baseia nas fichas oficiais das marcas, na RDC 30/2012 da Anvisa, em reportagens com dermatologistas (ELLE Brasil) e em guias especializados (Buscapé). Não houve teste físico dos produtos. O dado próprio deste guia é a matriz abaixo, montada a partir das páginas oficiais em outubro de 2026, que mostra quanto cada marca de fato declara:
+Esta análise se baseia nas fichas oficiais das marcas, na RDC 30/2012 da Anvisa, em reportagens com dermatologistas (ELLE Brasil) e em guias especializados (Buscapé). Não houve teste físico dos produtos. O dado próprio deste artigo é a matriz abaixo, montada a partir das páginas oficiais em outubro de 2026, que mostra quanto cada marca de fato declara:
 
 | Produto | FPS | PPD publicado | Horas de controle declaradas | Não comedogênico | Fragrância | Álcool na lista |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -368,7 +368,7 @@ O que salta aos olhos: só uma marca publica o PPD, e duas não dizem se a fórm
 
 ## 1. La Roche-Posay Anthelios Airlicium+ FPS 80: melhor para oleosidade intensa
 
-O Anthelios Airlicium+ entrou em primeiro por resolver o problema central deste guia com margem. A tecnologia Airlicium usa micropartículas encapsuladas em ar que entram em ação quando a pele produz sebo ou umidade, absorvendo os dois. A marca declara redução de 35% da oleosidade em uma semana e sensação de pele limpa por 12 horas. É a única ficha oficial que publica o PPD (27), junto com o maior FPS do guia (80), o que importa para quem mancha com facilidade.
+O Anthelios Airlicium+ entrou em primeiro por resolver o problema central deste artigo com margem. A tecnologia Airlicium usa micropartículas encapsuladas em ar que entram em ação quando a pele produz sebo ou umidade, absorvendo os dois. A marca declara redução de 35% da oleosidade em uma semana e sensação de pele limpa por 12 horas. É a única ficha oficial que publica o PPD (27), junto com o maior FPS do artigo (80), o que importa para quem mancha com facilidade.
 
 A textura é um gel-creme sem cor, com filtros como dióxido de titânio, etilhexil triazona e octocrileno, reforçados pela água termal da marca. Há versão com cor em quatro tons (1.0 a 4.0) para quem quer dispensar a base, com a mesma base de controle de oleosidade.
 
@@ -384,13 +384,13 @@ As ressalvas: a Neostrata não publica o PPD, e as fichas divergem sobre fragrâ
 
 ## 3. Vichy Capital Soleil UV-Clear FPS 60: melhor para pele oleosa com acne
 
-Se além do brilho você convive com cravos e espinhas, o UV-Clear é o único do guia que combina protetor solar com ativos de tratamento: niacinamida, ácido salicílico, sarcosina e frações probióticas, numa fórmula testada clinicamente em peles mistas a oleosas. A tecnologia Netlock DRY promete proteção contra UVA, UVA longo e UVB, com efeito matte declarado por até 12 horas. A textura aqua-fluida seca rápido e não deixa resíduo branco, e há versões com cor 2.0 e 4.0.
+Se além do brilho você convive com cravos e espinhas, o UV-Clear é o único do artigo que combina protetor solar com ativos de tratamento: niacinamida, ácido salicílico, sarcosina e frações probióticas, numa fórmula testada clinicamente em peles mistas a oleosas. A tecnologia Netlock DRY promete proteção contra UVA, UVA longo e UVB, com efeito matte declarado por até 12 horas. A textura aqua-fluida seca rápido e não deixa resíduo branco, e há versões com cor 2.0 e 4.0.
 
 O que pesa contra é a tolerância. A lista de ingredientes traz álcool e fragrância, uma combinação que pode arder em pele sensível ou ressecada por tratamentos. Quem já usa retinoides ou ácidos à noite deve conversar com o dermatologista antes de somar ácido salicílico pela manhã. O PPD não aparece na página brasileira, e lojas citam valores diferentes para a formulação. A marca afirma que 90% dos usuários sentiram menos oleosidade, mas o número é do próprio fabricante.
 
 ## 4. ISDIN Fusion Water FPS 60: melhor para quem sua e treina
 
-O Fusion Water é o protetor da leveza. A fórmula em fase aquosa, oil-free, absorve na hora e, segundo a marca, pode ser aplicada sobre a pele molhada sem perder a proteção, o que resolve a reaplicação depois do treino, da corrida ou do mergulho. É não comedogênico (teste com 32 voluntários de pele oleosa), oftalmologicamente testado para não arder nos olhos e sem álcool na lista de ingredientes, com ácido hialurônico para hidratar. O frasco de 50 ml é o maior do guia, e duas dermatologistas ouvidas pela ELLE Brasil o recomendam para pele oleosa.
+O Fusion Water é o protetor da leveza. A fórmula em fase aquosa, oil-free, absorve na hora e, segundo a marca, pode ser aplicada sobre a pele molhada sem perder a proteção, o que resolve a reaplicação depois do treino, da corrida ou do mergulho. É não comedogênico (teste com 32 voluntários de pele oleosa), oftalmologicamente testado para não arder nos olhos e sem álcool na lista de ingredientes, com ácido hialurônico para hidratar. O frasco de 50 ml é o maior do artigo, e duas dermatologistas ouvidas pela ELLE Brasil o recomendam para pele oleosa.
 
 Onde ele fica atrás: o controle de oleosidade é declarado sem horas. Ele matifica, mas não é o mais potente contra brilho intenso, e a classificação "5 Stars" de UVA da marca não vem com PPD numérico. Contém fragrância. O preço fica na faixa premium, próximo ao do Anthelios, o que faz sentido para quem precisa da versatilidade da pele molhada e menos para quem só quer controle de brilho.
 
@@ -398,7 +398,7 @@ Onde ele fica atrás: o controle de oleosidade é declarado sem horas. Ele matif
 
 O Nivea Sun Toque Seco é o lembrete de que protetor solar bom é o que você usa todo dia e reaplica. Por uma fração do preço dos dermocosméticos, ele entrega FPS 70, proteção UVA/UVB declarada, fórmula oil-free de absorção rápida e controle do brilho excessivo, com teste dermatológico. Para pele mista com oleosidade moderada, que precisa de proteção alta no trajeto para o trabalho e no almoço, ele cumpre.
 
-O que decepciona é o que a marca não diz: não há PPD publicado, não há dados de comedogenicidade e a composição completa só aparece no rótulo. O guia do Buscapé, que analisou 13 protetores para pele oleosa, observa que ele não serve para quem precisa de controle de oleosidade por muitas horas. Há ainda uma inconsistência curiosa na página oficial, que descreve FPS 70 no texto e marca "50+" no campo de filtro; a embalagem informa 70. Para pele muito oleosa ou acneica, vale subir de faixa.
+O que decepciona é o que a marca não diz: não há PPD publicado, não há dados de comedogenicidade e a composição completa só aparece no rótulo. O artigo do Buscapé, que analisou 13 protetores para pele oleosa, observa que ele não serve para quem precisa de controle de oleosidade por muitas horas. Há ainda uma inconsistência curiosa na página oficial, que descreve FPS 70 no texto e marca "50+" no campo de filtro; a embalagem informa 70. Para pele muito oleosa ou acneica, vale subir de faixa.
 
 ## Como escolher protetor solar para pele oleosa: o que importa de verdade
 
@@ -431,14 +431,14 @@ A regra dos dois dedos (duas linhas de produto no comprimento do indicador e do 
 - **Protetores importados por terceiros, sem registro na Anvisa:** muitas unidades de marcas asiáticas populares, como o Bioré UV Aqua Rich, chegam ao Brasil por importação paralela, sem rótulo em português e sem registro. O PA++++ japonês não é o padrão de medição brasileiro, e sem registro não há a quem recorrer em caso de reação. Só compre importados com rótulo nacional.
 - **Protetor corporal no rosto:** fórmulas para o corpo costumam ter mais óleo e filtros mais pesados; é a receita para brilho e poros obstruídos em pele oleosa.
 - **Base ou pó com FPS como única proteção:** a quantidade aplicada é muito menor que a necessária para atingir o FPS do rótulo. Serve como complemento, não como substituto.
-- **Episol Sec OC FPS 60 como primeira escolha neste guia:** é um bom produto, com 12 horas de controle declaradas, mas a versão sem cor estava sem ficha e imagem consistentes na Amazon durante a apuração; as versões com cor seguem disponíveis e valem para quem busca cobertura.
+- **Episol Sec OC FPS 60 como primeira escolha neste artigo:** é um bom produto, com 12 horas de controle declaradas, mas a versão sem cor estava sem ficha e imagem consistentes na Amazon durante a apuração; as versões com cor seguem disponíveis e valem para quem busca cobertura.
 
 ## Quando procurar um dermatologista
 
-Protetor solar não trata acne. Se você tem lesões inflamadas, cicatrizes, manchas que não melhoram ou pele que arde com qualquer produto, o dermatologista pode indicar o fotoprotetor compatível com o tratamento e ajustar a rotina. Também procure orientação se notar vermelhidão, coceira ou ardência persistente após usar qualquer item deste guia: suspenda o uso e leve a embalagem à consulta.
+Protetor solar não trata acne. Se você tem lesões inflamadas, cicatrizes, manchas que não melhoram ou pele que arde com qualquer produto, o dermatologista pode indicar o fotoprotetor compatível com o tratamento e ajustar a rotina. Também procure orientação se notar vermelhidão, coceira ou ardência persistente após usar qualquer item deste artigo: suspenda o uso e leve a embalagem à consulta.
 
 ## Veredito
 
 Para oleosidade intensa e quem quer a proteção mais alta, o **Anthelios Airlicium+ FPS 80** é a compra que se justifica. Para a maioria das peles oleosas, o **Minesol Oil Control FPS 70** é o melhor custo-benefício, com 12 horas de controle, fórmula não comedogênica e cinco tons. Quem tem acne ativa deve ir de **Vichy UV-Clear**; quem sua e treina, de **ISDIN Fusion Water**; e quem precisa de FPS alto todo dia gastando pouco, de **Nivea Sun Toque Seco FPS 70**.
 
-Antes de comprar, confira o número de registro na Anvisa e a validade na embalagem, aplique a quantidade certa e reaplique. Veja mais guias em [pele e skincare](/categoria/beleza-e-cuidados-pessoais/pele-e-skincare/) e na categoria [beleza e cuidados pessoais](/categoria/beleza-e-cuidados-pessoais/). Se o seu problema é cabelo, não pele, temos também o guia de [secadores de cabelo do básico ao profissional](/melhores/melhor-secador-de-cabelo-5-modelos-do-basico-ao-profissional/).
+Antes de comprar, confira o número de registro na Anvisa e a validade na embalagem, aplique a quantidade certa e reaplique. Veja mais guias em [pele e skincare](/categoria/beleza-e-cuidados-pessoais/pele-e-skincare/) e na categoria [beleza e cuidados pessoais](/categoria/beleza-e-cuidados-pessoais/). Se o seu problema é cabelo, não pele, temos também o artigo de [secadores de cabelo do básico ao profissional](/melhores/melhor-secador-de-cabelo-5-modelos-do-basico-ao-profissional/).

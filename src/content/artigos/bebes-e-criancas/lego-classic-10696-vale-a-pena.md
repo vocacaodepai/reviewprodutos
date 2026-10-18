@@ -175,7 +175,7 @@ Não localizamos, em português e fora da Amazon, um volume consolidado de relat
 
 ## Compra segura: falsificações e vendedores terceiros
 
-Marcas "compatíveis" e cópias de blocos existem, e o preço muito abaixo do praticado é o primeiro alerta. Segundo um guia de peças falsificadas, as originais costumam ter o logo gravado nos pinos, as cópias podem ter rebarbas e o texto da embalagem pode ter erro de grafia. Desconfie de anúncios com "compatível com as principais marcas". Verifique se o título traz LEGO e o código 10696, prefira loja oficial ou vendedor conhecido, e evite misturar peças originais com cópias, que podem ter tamanhos ligeiramente diferentes.
+Marcas "compatíveis" e cópias de blocos existem, e o preço muito abaixo do praticado é o primeiro alerta. Segundo um artigo de peças falsificadas, as originais costumam ter o logo gravado nos pinos, as cópias podem ter rebarbas e o texto da embalagem pode ter erro de grafia. Desconfie de anúncios com "compatível com as principais marcas". Verifique se o título traz LEGO e o código 10696, prefira loja oficial ou vendedor conhecido, e evite misturar peças originais com cópias, que podem ter tamanhos ligeiramente diferentes.
 
 Os comparadores mostram que o mesmo código aparece com preços bem distintos entre vendedores. Compare pelo código, não pelo nome.
 

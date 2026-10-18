@@ -295,9 +295,9 @@ relacionados: ["fire-tv-stick-4k-ou-hd", "dialogos-da-tv-dificeis-de-entender", 
 
 A **LG 50UA85** é a melhor smart TV de 50 polegadas para a maioria das pessoas em 2026: processador α7 de 8ª geração, webOS 25 com 5 anos de atualizações e três HDMI com eARC. A **TCL 50P7K** é a melhor para filmes e séries em HDR, porque traz QLED, Dolby Vision e HDMI 2.1 na faixa de preço de uma TV comum. A **Philips 50PUG7019** é o melhor custo-benefício, com Google TV e a menor faixa de preço de mercado. A **Samsung U8600F** serve a quem quer Tizen e 7 anos de atualizações, e a **Samsung Q7F** é a opção premium de cores mais vivas. Um aviso que vale para as cinco: nenhuma tem painel nativo acima de 60 Hz.
 
-## Para quem é este guia
+## Para quem é este artigo
 
-Este guia é para quem vai trocar a TV da sala e quer uma de 50 polegadas com 4K de verdade, boa para streaming, TV aberta e jogos no videogame, sem pagar por recurso que não vai usar. Também é para quem está esperando a Black Friday e quer chegar à época de ofertas sabendo qual modelo vale a pena, e não decidindo no impulso diante de um valor riscado.
+Este artigo é para quem vai trocar a TV da sala e quer uma de 50 polegadas com 4K de verdade, boa para streaming, TV aberta e jogos no videogame, sem pagar por recurso que não vai usar. Também é para quem está esperando a Black Friday e quer chegar à época de ofertas sabendo qual modelo vale a pena, e não decidindo no impulso diante de um valor riscado.
 
 O problema comum é cair em modelo defasado: TVs com sistema que deixa de receber atualização, painel sem HDR útil ou entradas HDMI que não aceitam o que o videogame manda. Se a sua dúvida é mais ampla, comece pela página de [TVs e vídeo](/categoria/tecnologia/tvs-e-video/).
 
@@ -309,7 +309,7 @@ Os critérios, com peso: qualidade de imagem (30%), sistema e apps (15%), recurs
 
 Não houve teste físico destes modelos pela nossa equipe: esta é uma análise de especificações oficiais, fontes especializadas e relatos públicos de consumidores fora da Amazon. Onde não achamos teste independente do modelo exato, dizemos.
 
-O dado próprio deste guia é a **matriz de taxa de atualização e HDMI**: as cinco TVs têm painel de 60 Hz nativos e três entradas HDMI, e só a TCL anuncia HDMI 2.1. Isso muda a escolha para quem joga.
+O dado próprio deste artigo é a **matriz de taxa de atualização e HDMI**: as cinco TVs têm painel de 60 Hz nativos e três entradas HDMI, e só a TCL anuncia HDMI 2.1. Isso muda a escolha para quem joga.
 
 ## 1. LG 50UA85: melhor no geral
 
@@ -361,7 +361,7 @@ Para jogar a 60 quadros por segundo, qualquer uma serve. Para 120 Hz, você prec
 
 ### Som
 
-Todas têm 20 W de potência. Para filmes e diálogos claros, uma soundbar compensa; veja nosso guia sobre [diálogos da TV difíceis de entender](/melhores/dialogos-da-tv-dificeis-de-entender/).
+Todas têm 20 W de potência. Para filmes e diálogos claros, uma soundbar compensa; veja nosso artigo sobre [diálogos da TV difíceis de entender](/melhores/dialogos-da-tv-dificeis-de-entender/).
 
 ### Garantia e conferência na compra
 

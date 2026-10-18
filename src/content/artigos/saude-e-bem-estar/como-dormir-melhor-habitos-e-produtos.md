@@ -218,7 +218,7 @@ Dormir mal raramente tem uma causa só. Os fatores que mais aparecem nas orienta
 
 Há também o efeito da rotina: quem vai dormir de madrugada no fim de semana e acorda cedo na segunda cria um "jet lag social" que cansa mesmo com as horas somadas. E dormir as horas certas não garante descanso quando o sono é leve e fragmentado por luz e ruído.
 
-Algumas causas são clínicas e não se resolvem com acessório: ronco alto com pausas respiratórias, dor, refluxo, ansiedade, depressão e efeitos de remédios. Por isso, a seção final deste guia diz quando procurar um profissional.
+Algumas causas são clínicas e não se resolvem com acessório: ronco alto com pausas respiratórias, dor, refluxo, ansiedade, depressão e efeitos de remédios. Por isso, a seção final deste artigo diz quando procurar um profissional.
 
 ## O que você pode fazer hoje sem comprar nada
 
@@ -268,7 +268,7 @@ Eles abafam ronco, trânsito e conversa, mas não eliminam som; quem busca silê
 
 A Cup não é uma luminária "para dormir" no sentido médico; é uma luminária de mesa recarregável que resolve um hábito: em vez de acender a lâmpada branca do teto para ler ou ajeitar a cama, você usa uma luz pequena, quente e com intensidade ajustável. Os dados da ficha são 4 W, 300 lúmens, três temperaturas de cor (3000 K, 4000 K e 6500 K), controle touch com dimmer, bateria de lítio recarregável por USB e haste flexível. Mede 12 x 12 x 42 cm e pesa 280 g.
 
-O ponto forte é a flexibilidade: no modo de 3000 K e intensidade baixa, ela se aproxima do que o MSD Manuals recomenda, que é evitar luzes brilhantes e azuladas antes de dormir. A ressalva é que 300 lúmens e as cores frias servem para tarefas do dia, e a ficha não informa a autonomia da bateria. Não é um despertador de luz nem tem temporizador. Se você já lê na cama com luz forte, é o upgrade mais barato de rotina deste guia.
+O ponto forte é a flexibilidade: no modo de 3000 K e intensidade baixa, ela se aproxima do que o MSD Manuals recomenda, que é evitar luzes brilhantes e azuladas antes de dormir. A ressalva é que 300 lúmens e as cores frias servem para tarefas do dia, e a ficha não informa a autonomia da bateria. Não é um despertador de luz nem tem temporizador. Se você já lê na cama com luz forte, é o upgrade mais barato de rotina deste artigo.
 
 ## 4. Alaska Bear Máscara 2 Alças: melhor para quem dorme de lado e se mexe
 
@@ -300,8 +300,8 @@ Para tampões, procure um otorrinolaringologista se tiver dor, coceira, secreç�
 
 Reunimos acessórios simples para os três problemas ambientais mais comuns: luz, barulho e iluminação da rotina noturna. Dos seis candidatos iniciais, travesseiro já está coberto em [travesseiro para dor no pescoço](/melhores/travesseiro-para-dor-no-pescoco-os-5-melhores/) e na [review do Nasa-X Alto Duoflex](/reviews/travesseiro-nasa-x-alto-duoflex-e-bom/); o protetor de espuma e o difusor ficaram de fora por falta de dados confiáveis. Não houve teste físico: a análise se baseia em fichas técnicas do anúncio, em orientações de higiene do sono do MSD Manuals e em análises independentes fora da Amazon.
 
-O dado próprio do guia é a tabela de "qual produto para qual problema" e os pesos de avaliação: eficácia percebida 30, conforto 20, segurança e materiais 15, praticidade 15 e custo-benefício 20.
+O dado próprio do artigo é a tabela de "qual produto para qual problema" e os pesos de avaliação: eficácia percebida 30, conforto 20, segurança e materiais 15, praticidade 15 e custo-benefício 20.
 
 ## Veredito
 
-Primeiro ajuste horário, luz e barulho do quarto. Depois: se a luz incomoda, comece pela Nap; se você se mexe muito, a Alaska Bear com a ressalva do nariz; se o barulho incomoda, os Mack's com cuidado de higiene; se você usa luz forte e tela à noite, a Taschibra Cup em 3000 K e dimmer baixo. Para dor no pescoço ao dormir, veja nosso guia de [travesseiros](/melhores/travesseiro-para-dor-no-pescoco-os-5-melhores/). Se o bebê é quem não dorme, leia [bebê não dorme: o que fazer](/melhores/bebe-nao-dorme-o-que-fazer-rotina-do-sono/).
+Primeiro ajuste horário, luz e barulho do quarto. Depois: se a luz incomoda, comece pela Nap; se você se mexe muito, a Alaska Bear com a ressalva do nariz; se o barulho incomoda, os Mack's com cuidado de higiene; se você usa luz forte e tela à noite, a Taschibra Cup em 3000 K e dimmer baixo. Para dor no pescoço ao dormir, veja nosso artigo de [travesseiros](/melhores/travesseiro-para-dor-no-pescoco-os-5-melhores/). Se o bebê é quem não dorme, leia [bebê não dorme: o que fazer](/melhores/bebe-nao-dorme-o-que-fazer-rotina-do-sono/).

@@ -388,11 +388,11 @@ Quem quer a garrafa mais durável e aceita importado deve olhar a **Hydro Flask 
 
 Em todas, a regra que mais importa não está na ficha: encha com gelo, não só com água gelada, e mantenha a garrafa fora do sol.
 
-## Para quem é este guia
+## Para quem é este artigo
 
 Você provavelmente chegou aqui por um de dois caminhos. Ou está pesquisando "melhor garrafa térmica" e se perdeu entre dezenas de modelos "inox" que prometem 24 horas de gelo, ou já comprou uma garrafa que entregou água morna no meio do treino, suou por fora depois de uma queda ou enferrujou no bocal em três meses, e não quer repetir o erro.
 
-Este guia serve para os dois. Reunimos seis garrafas térmicas de aço inox com parede dupla a vácuo vendidas na Amazon Brasil e explicamos o que muda entre elas de verdade: horas de frio declaradas (e o que esse número significa), tipo de tampa, se dá para beber com uma mão, se cabe no porta-copos, o que a garantia cobre e, algo que quase ninguém compara, como cada marca trata o cliente quando a garrafa vaza ou enferruja. Treino, expediente e praia pedem garrafas diferentes, e o ranking reflete isso.
+Este artigo serve para os dois. Reunimos seis garrafas térmicas de aço inox com parede dupla a vácuo vendidas na Amazon Brasil e explicamos o que muda entre elas de verdade: horas de frio declaradas (e o que esse número significa), tipo de tampa, se dá para beber com uma mão, se cabe no porta-copos, o que a garantia cobre e, algo que quase ninguém compara, como cada marca trata o cliente quando a garrafa vaza ou enferruja. Treino, expediente e praia pedem garrafas diferentes, e o ranking reflete isso.
 
 ## Como escolhemos
 
@@ -400,7 +400,7 @@ Partimos de 16 garrafas de inox das marcas mais procuradas no Brasil (Stanley, C
 
 As notas seguem cinco critérios com pesos declarados: retenção de frio (30), tampa, vedação e uso com uma mão (20), construção e materiais (15), garantia e pós-venda (15) e custo-benefício (20). A nota final é a média ponderada.
 
-Esta análise se baseia em fichas oficiais dos fabricantes, no teste comparativo do Revisa Lar (sete garrafas lado a lado), em fichas de comparadores (Zoom) e no histórico de reclamações no Reclame Aqui. Não houve teste físico das garrafas. O dado próprio deste guia é a tabela de reputação das marcas no Reclame Aqui, consultada em outubro de 2026:
+Esta análise se baseia em fichas oficiais dos fabricantes, no teste comparativo do Revisa Lar (sete garrafas lado a lado), em fichas de comparadores (Zoom) e no histórico de reclamações no Reclame Aqui. Não houve teste físico das garrafas. O dado próprio deste artigo é a tabela de reputação das marcas no Reclame Aqui, consultada em outubro de 2026:
 
 | Marca (perfil) | Reputação | Nota | Reclamações respondidas | Resolvidas | Observação |
 | --- | --- | --- | --- | --- | --- |
@@ -412,7 +412,7 @@ Esta análise se baseia em fichas oficiais dos fabricantes, no teste comparativo
 
 ## 1. Stanley IceFlow Flip Straw 887 ml: melhor para beber com uma mão o dia todo
 
-A IceFlow entrou em primeiro por equilibrar tudo o que o problema deste guia exige. O corpo é de **aço inox 18/8 com parede dupla a vácuo**, e a Stanley declara **12 horas de água gelada e até 48 horas com gelo**, números compatíveis com o que o teste do Revisa Lar observou na linha de hidratação da marca (cubos ainda intactos horas depois). Os 887 ml cobrem um treino longo e a manhã de trabalho sem reabastecer.
+A IceFlow entrou em primeiro por equilibrar tudo o que o problema deste artigo exige. O corpo é de **aço inox 18/8 com parede dupla a vácuo**, e a Stanley declara **12 horas de água gelada e até 48 horas com gelo**, números compatíveis com o que o teste do Revisa Lar observou na linha de hidratação da marca (cubos ainda intactos horas depois). Os 887 ml cobrem um treino longo e a manhã de trabalho sem reabastecer.
 
 O que a diferencia é a tampa: um canudo retrátil que abre com o polegar, para beber dirigindo ou entre séries, mais a alça dobrável e uma base que cabe no porta-copos. Pode ir à lava-louças, e a Stanley oferece garantia vitalícia para compras em revendedores autorizados. No Reclame Aqui, o perfil verificado "Stanley 1913" aparece com reputação Ótimo (8,5/10) em outubro de 2026.
 
@@ -420,7 +420,7 @@ O que decepciona é o preço, na faixa premium, e três cuidados. Com a tampa ab
 
 ## 2. Coleman FreeFlow AUTOSEAL 709 ml: melhor custo-benefício para academia
 
-A FreeFlow é a resposta para quem quer beber com uma mão sem pagar o preço da Stanley. A tampa **AUTOSEAL** tem um botão: você aperta para beber e, ao soltar, a tampa veda sozinha. Uma trava deslizante impede o acionamento dentro da mochila, e uma capa protege o bico da areia e do chão da academia. A Coleman declara **até 31 horas de bebida fria** (e 11 de quente), o maior tempo entre as garrafas individuais do guia, e relatos de uso reunidos pelo Zoom falam em 30 a 36 horas com água e gelo.
+A FreeFlow é a resposta para quem quer beber com uma mão sem pagar o preço da Stanley. A tampa **AUTOSEAL** tem um botão: você aperta para beber e, ao soltar, a tampa veda sozinha. Uma trava deslizante impede o acionamento dentro da mochila, e uma capa protege o bico da areia e do chão da academia. A Coleman declara **até 31 horas de bebida fria** (e 11 de quente), o maior tempo entre as garrafas individuais do artigo, e relatos de uso reunidos pelo Zoom falam em 30 a 36 horas com água e gelo.
 
 Os 709 ml são o volume que guias de treino apontam como ideal: dura uma sessão longa sem pesar. O acabamento fosco em inox esconde riscos.
 
@@ -430,7 +430,7 @@ As ressalvas: o mecanismo da tampa é difícil de limpar e exige escovinha, segu
 
 Nem todo mundo bebe de canudo. A Classic é a garrafa que fez a fama da Stanley: **950 ml de inox 18/8 a vácuo**, com **24 horas de frio ou calor declaradas**, boca larga que aceita cubos de gelo e uma tampa de rosca antivazamento que vira copo. Para quem trabalha em campo, faz trilha ou acampa, isso resolve dois problemas: água gelada para mais de uma pessoa de manhã e café quente à tarde, na mesma garrafa.
 
-A construção é a mais robusta do guia, com pintura martelada que esconde riscos e alça lateral, e ela vai à lava-louças. A garantia vitalícia em revendedores autorizados vale aqui também.
+A construção é a mais robusta do artigo, com pintura martelada que esconde riscos e alça lateral, e ela vai à lava-louças. A garantia vitalícia em revendedores autorizados vale aqui também.
 
 O que decepciona é o uso em movimento. Beber exige desrosquear tampa e copo, com as duas mãos; não cabe em porta-copos; e é mais pesada e larga que as garrafas de academia. O preço fica na faixa premium, e há relatos no Reclame Aqui de trocas por garantia que passaram de 30 dias. Para treino, prefira a IceFlow ou a Coleman; para o dia todo fora de casa com paradas, a Classic é a melhor do grupo.
 
@@ -444,21 +444,21 @@ O problema é que, no Brasil, ela é **produto importado**: a compra inclui taxa
 
 A Pacco virou a garrafa de escritório e academia mais vista no Brasil, e a linha Vyta é a versão mais recente: **650 ml em aço inox 18/10 a vácuo**, com 24 horas gelada e 12 horas quente declaradas, pegada ergonômica no corpo e na tampa, alça flexível e base antiderrapante. É compacta, cabe em porta-copos e em bolsos de mochila, e tem a maior variedade de cores, incluindo versão espelhada e personalização.
 
-O dado que mais pesa a favor é o pós-venda: no Reclame Aqui, a PACCO aparece com reputação Ótimo (8,7/10), 99,4% das 674 reclamações respondidas e 93% resolvidas entre março e agosto de 2026, com 80,1% dos clientes dispostos a comprar de novo. É a marca mais responsiva do guia.
+O dado que mais pesa a favor é o pós-venda: no Reclame Aqui, a PACCO aparece com reputação Ótimo (8,7/10), 99,4% das 674 reclamações respondidas e 93% resolvidas entre março e agosto de 2026, com 80,1% dos clientes dispostos a comprar de novo. É a marca mais responsiva do artigo.
 
 O que decepciona: o preço, premium para 650 ml, acima da Coleman de 709 ml; os relatos recorrentes de ferrugem no bocal e de kit de vedação do bico que se solta; a garantia que não cobre amassados (a empresa afirma que o amassado compromete o vácuo); e a regra de que garrafa personalizada não é trocada. Apesar da marca nacional, a fabricação é chinesa. Para treinos longos ou praia, 650 ml acabam rápido.
 
 ## 6. Coleman Growler 1,8 L: melhor para a família na praia
 
-Quando o problema é água gelada para o grupo, e não para uma pessoa, a resposta é volume. A Growler tem **1,8 litro em inox 18/8 a vácuo** e a Coleman declara **até 76 horas de frio e 41 de quente**, o maior tempo do guia. Abastece de três a quatro pessoas numa manhã de praia ou um churrasco inteiro sem reabastecer, e a boca larga facilita encher com gelo e lavar. A alça ajuda no transporte.
+Quando o problema é água gelada para o grupo, e não para uma pessoa, a resposta é volume. A Growler tem **1,8 litro em inox 18/8 a vácuo** e a Coleman declara **até 76 horas de frio e 41 de quente**, o maior tempo do artigo. Abastece de três a quatro pessoas numa manhã de praia ou um churrasco inteiro sem reabastecer, e a boca larga facilita encher com gelo e lavar. A alça ajuda no transporte.
 
-O que decepciona é o que o formato implica: é pesada e volumosa, não cabe em porta-copos nem serve para academia, e a tampa de rosca grande, sem bico, exige copo para servir. Os pontos fracos de pós-venda são os mesmos da FreeFlow: garantia condicionada a revendedores autorizados e reputação apenas "Bom" no Reclame Aqui. Para quem monta o kit de praia, ela combina com um cooler para as latas; veja o guia de [o que levar para festa na praia](/melhores/o-que-levar-para-festa-na-praia/).
+O que decepciona é o que o formato implica: é pesada e volumosa, não cabe em porta-copos nem serve para academia, e a tampa de rosca grande, sem bico, exige copo para servir. Os pontos fracos de pós-venda são os mesmos da FreeFlow: garantia condicionada a revendedores autorizados e reputação apenas "Bom" no Reclame Aqui. Para quem monta o kit de praia, ela combina com um cooler para as latas; veja o artigo de [o que levar para festa na praia](/melhores/o-que-levar-para-festa-na-praia/).
 
 ## Como escolher garrafa térmica: o que importa de verdade
 
 ### "Gelada por 12 horas" e "com gelo por 48" não são a mesma coisa
 
-As marcas publicam dois números. O primeiro mede quanto tempo a água já gelada continua fria sem gelo; o segundo, quanto tempo sobram cubos dentro da garrafa. O segundo é sempre maior e é o que vale para "o dia todo": com gelo pela manhã, qualquer garrafa de vácuo deste guia chega fria ao fim de 10 horas. Sol direto, abrir toda hora e garrafa meio vazia derrubam os dois números.
+As marcas publicam dois números. O primeiro mede quanto tempo a água já gelada continua fria sem gelo; o segundo, quanto tempo sobram cubos dentro da garrafa. O segundo é sempre maior e é o que vale para "o dia todo": com gelo pela manhã, qualquer garrafa de vácuo deste artigo chega fria ao fim de 10 horas. Sol direto, abrir toda hora e garrafa meio vazia derrubam os dois números.
 
 ### Vácuo e parede dupla são obrigatórios
 
