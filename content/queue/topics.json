@@ -4829,7 +4829,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "nespresso-essenza-mini-vale-a-pena",
+      "published_at": "2026-10-18"
     },
     {
       "id": "cozinha-review-007",
@@ -5105,7 +5107,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "philips-serie-3000-barbeador-vale-a-pena",
+      "published_at": "2026-10-18"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-009",
@@ -5943,7 +5947,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "toalha-karsten-ou-buddemeyer",
+      "published_at": "2026-10-18"
     },
     {
       "id": "cozinha-comparativo-005",
@@ -6083,7 +6089,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "irrigador-oral-ou-fio-dental",
+      "published_at": "2026-10-18"
     },
     {
       "id": "saude-e-bem-estar-comparativo-007",
@@ -6361,7 +6369,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "areia-de-silica-ou-argila-para-gatos",
+      "published_at": "2026-10-18"
     },
     {
       "id": "pets-comparativo-007",
