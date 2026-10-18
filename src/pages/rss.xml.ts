@@ -6,7 +6,7 @@ import { getArtigos, articleUrl } from '@/lib/articles';
 export async function GET(context: APIContext) {
   const artigos = (await getArtigos()).slice(0, 50);
   return rss({
-    title: `${SITE.name} — Reviews, comparativos e guias de compra`,
+    title: `${SITE.name} — Reviews e comparativos`,
     description: SITE.description,
     site: context.site ?? SITE.url,
     items: artigos.map((a) => ({

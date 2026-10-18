@@ -7,7 +7,7 @@ const autores = await getCollection('autores');
 const artigos = await getArtigos();
 const count = (id: string) => artigos.filter((a) => a.data.autor.id === id).length;
 ---
-<BaseLayout title="Quem escreve no Review Produtos" description="Conheça a equipe que pesquisa, analisa e escreve os reviews, comparativos e guias de compra do Review Produtos." canonical="/autores/">
+<BaseLayout title="Quem escreve no Review Produtos" description="Conheça a equipe que pesquisa, analisa e escreve os reviews e comparativos do Review Produtos." canonical="/autores/">
   <div class="container-site py-8">
     <Breadcrumbs items={[{ name: 'Autores' }]} />
     <h1 class="mt-4 text-3xl font-extrabold sm:text-4xl">Quem escreve aqui</h1>

@@ -56,6 +56,23 @@ export function produtoUrl(p: Produto): string {
   return p.url ?? amazonUrl(p.asin);
 }
 
+/**
+ * Produto em destaque do artigo (caixas de compra, barra lateral e barra fixa do celular).
+ * Em artigos com mais de um produto, alterna toda semana entre os que ficaram a até 0,5 ponto da maior nota,
+ * para testar qual tem mais chance de clique sem destacar um produto pior. Estável dentro de cada semana.
+ */
+export function produtoDestaque(artigo: Artigo, ordenados: Produto[]): Produto {
+  const editor = ordenados.find((p) => p.selo === 'escolha-do-editor') ?? ordenados[0];
+  if (ordenados.length < 2) return editor;
+  const max = Math.max(...ordenados.map((p) => p.nota));
+  const candidatos = ordenados.filter((p) => p.nota >= max - 0.5);
+  if (candidatos.length < 2) return editor;
+  const semana = Math.floor(Date.now() / (7 * 24 * 3600 * 1000));
+  let h = 0;
+  for (const c of artigo.id) h = (h * 31 + c.charCodeAt(0)) >>> 0;
+  return candidatos[(h + semana) % candidatos.length];
+}
+
 export function absoluteUrl(path: string): string {
   return new URL(path, SITE.url).toString();
 }

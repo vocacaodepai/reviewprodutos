@@ -115,7 +115,7 @@ function userPrompt(t) {
     : '(ainda não há artigos nesta categoria; linke para /categoria/' + t.categoria + '/)';
   return `TEMA DA FILA EDITORIAL
 id: ${t.id}
-tipo: ${t.tipo}  (review = 1 produto | comparativo = 2 | lista = 3 a 7)
+tipo: ${t.tipo}  (review = 1 produto | comparativo = 2 ou 3 | lista = 3 a 7)
 categoria: ${t.categoria} / subcategoria: ${t.subcategoria}
 estágio de funil: ${t.funil}
 título sugerido: ${t.titulo_sugerido}

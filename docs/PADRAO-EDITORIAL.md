@@ -28,6 +28,7 @@
 - **Transparente sobre o método.** Quando não houve teste físico, o artigo diz que a análise se baseia em especificações oficiais, fontes especializadas e relatos públicos de consumidores fora da Amazon. Nunca escrever "testamos" sem `testadoFisicamente: true`.
 - **Sem exagero.** Proibidos: "o melhor do mundo", "imperdível", "promoção", "corra", promessas de cura, superlativos sem evidência.
 - **Cauteloso em saúde e bebê (YMYL).** Linguagem informativa, "quando procurar um profissional", disclaimer automático do layout, nenhum produto medicamentoso.
+- **Palavra "artigo", nunca "guia".** Por decisão do dono, o site e os textos usam "artigo" ("neste artigo", "para quem é este artigo") no lugar de "guia". Vale para o corpo, o veredito, o FAQ e a interface. Só ficam como estão nomes próprios e fontes (ex.: "Guia do Tênis") e manuais de produto ("guia de uso rápido").
 - **Sem menção a IA.** Por decisão do dono, o site não menciona que o conteúdo é produzido com apoio de inteligência artificial (nem em artigos, nem em páginas institucionais, nem em metadados visíveis). Isso não autoriza enganar: nunca alegar teste físico, uso pessoal ou experiência que não aconteceu; a nota de método ("análise de especificações e dados") continua. IA como característica de produto (ex.: Alexa+) pode ser citada normalmente.
 
 ## 3. Os três formatos de artigo
@@ -54,11 +55,11 @@ Seções do corpo, nesta ordem (H2):
 7. `## Dicas para tirar o máximo do [produto]` — 4 a 6 bullets práticos (uso, limpeza, segurança).
 8. `## Veredito final` — decisão clara: compre se…; não compre se…; o que conferir antes (voltagem, tomada, tamanho).
 
-### 3.2 Comparativo (`tipo: comparativo`, exatamente 2 produtos)
+### 3.2 Comparativo (`tipo: comparativo`, 2 ou 3 produtos)
 
 - **Intenção:** meio de funil ("A vs B", "A ou B: qual comprar?", "X ou Y" entre tipos de produto).
 - **Tamanho:** 1.100 a 1.800 palavras.
-- **Título:** `[A] vs [B]: qual [produto] vale mais a pena em 2026?` ou `[A] ou [B]: qual comprar?`
+- **Título:** `[A] vs [B]: qual [produto] vale mais a pena em 2026?`, `[A] ou [B]: qual comprar?` ou, com 3 modelos, `Comparamos 3 [produtos]: qual comprar?`
 - **Veredito:** quem vence no geral, quem vence por preço, e a regra de decisão ("se você…, escolha A; se…, escolha B").
 - **Selos:** normalmente `escolha-do-editor` para o vencedor geral e `melhor-custo-beneficio` (ou `melhor-premium`) para o outro.
 

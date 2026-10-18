@@ -14,9 +14,10 @@ import RelatedArticles from '@/components/RelatedArticles.astro';
 import AdSlot from '@/components/AdSlot.astro';
 import Icon from '@/components/Icon.astro';
 import ProductImage from '@/components/ProductImage.astro';
+import ComparativoCapa from '@/components/ComparativoCapa.astro';
 import { render } from 'astro:content';
 import { ARTICLE_TYPES, FUNNEL_LABELS, SITE } from '@/site.config';
-import { getArtigos, getAutor, getCategoria, articleUrl, categoriaUrl, formatDate, readingTime, relatedArticles, absoluteUrl, produtoUrl, type Artigo } from '@/lib/articles';
+import { getArtigos, getAutor, getCategoria, articleUrl, categoriaUrl, formatDate, readingTime, relatedArticles, absoluteUrl, produtoUrl, produtoDestaque, type Artigo } from '@/lib/articles';
 import { articleSchema, graph } from '@/lib/schema';
 
 interface Props { artigo: Artigo; }
@@ -37,7 +38,8 @@ const tipo = ARTICLE_TYPES[d.tipo];
 const isLista = d.tipo === 'lista';
 const isComparativo = d.tipo === 'comparativo';
 const produtosOrdenados = isLista ? [...d.produtos].sort((a, b) => b.nota - a.nota) : d.produtos;
-const topPick = produtosOrdenados.find((p) => p.selo === 'escolha-do-editor') ?? produtosOrdenados[0];
+const topPick = produtoDestaque(artigo, produtosOrdenados);
+const tituloDestaque = d.tipo === 'review' ? 'Onde comprar' : 'Em destaque';
 const valuePick = produtosOrdenados.find((p) => p.selo === 'melhor-custo-beneficio' && p.asin !== topPick.asin);
 const norm = (t: string) => t.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 const GENERIC = new Set(['air', 'fryer', 'fritadeira', 'sem', 'oleo', 'com', 'para', 'preto', 'preta', 'branco', 'branca', 'inox', 'litros', 'mala', 'bordo', 'kit', 'fone', 'bluetooth', 'monitor', 'garrafa', 'termica', 'travesseiro', 'protetor', 'solar', 'secador', 'cabelo', 'polegadas', 'versao', 'modelo', 'serie', 'unidades', 'pet', 'para', 'and', 'the']);
@@ -100,12 +102,20 @@ const tocExtras = [
 
     <div class="mt-8 grid gap-10 lg:grid-cols-[minmax(0,1fr)_300px]">
       <div class="min-w-0">
-        <figure class="card overflow-hidden bg-white">
-          <ProductImage src={d.imagem.src} alt={d.imagem.alt} width={d.imagem.largura} height={d.imagem.altura} class="mx-auto max-h-[420px] w-full object-contain p-6" sizes="(min-width: 1024px) 800px, 100vw" loading="eager" fetchpriority="high" data-pagefind-meta="image[src], image_alt[alt]" />
-          {d.imagem.credito && <figcaption class="border-t border-soft px-4 py-2 text-xs muted">{d.imagem.credito}</figcaption>}
-        </figure>
-
-        <BuyBox produto={topPick} titulo={d.tipo === 'review' ? 'Onde comprar' : 'Nossa escolha'} />
+        {isComparativo ? (
+          <>
+            <span class="hidden" data-pagefind-meta={`image:${d.imagem.src}`}></span>
+            <ComparativoCapa produtos={produtosOrdenados} destaqueAsin={topPick.asin} />
+          </>
+        ) : (
+          <>
+            <figure class="card overflow-hidden bg-white">
+              <ProductImage src={d.imagem.src} alt={d.imagem.alt} width={d.imagem.largura} height={d.imagem.altura} class="mx-auto max-h-[420px] w-full object-contain p-6" sizes="(min-width: 1024px) 800px, 100vw" loading="eager" fetchpriority="high" data-pagefind-meta="image[src], image_alt[alt]" />
+              {d.imagem.credito && <figcaption class="border-t border-soft px-4 py-2 text-xs muted">{d.imagem.credito}</figcaption>}
+            </figure>
+            <BuyBox produto={topPick} titulo={tituloDestaque} />
+          </>
+        )}
 
         <div class="mt-8"><VerdictBox veredito={d.veredito} produtos={produtosOrdenados} tipo={d.tipo} /></div>
 
@@ -119,7 +129,7 @@ const tocExtras = [
           })}
         </div>
 
-        {valuePick ? <BuyBox produto={valuePick} titulo="Quer gastar menos? Melhor custo-benefício" /> : <BuyBox produto={topPick} titulo={d.tipo === 'review' ? 'Gostou? Garanta o seu' : 'Nossa escolha'} />}
+        {valuePick ? <BuyBox produto={valuePick} titulo="Quer gastar menos? Melhor custo-benefício" /> : <BuyBox produto={topPick} titulo={d.tipo === 'review' ? 'Gostou? Garanta o seu' : 'Em destaque'} />}
 
         <AdSlot />
 
@@ -151,7 +161,9 @@ const tocExtras = [
 
         <FAQ itens={d.faq} />
 
-        <BuyBox produto={topPick} titulo={d.tipo === 'review' ? 'Pronto para decidir?' : 'Ainda em dúvida? Fique com a nossa escolha'} />
+        {isComparativo
+          ? <div class="mt-10"><ComparativoCapa produtos={produtosOrdenados} destaqueAsin={topPick.asin} titulo="Já decidiu? Compre o seu" variant="final" /></div>
+          : <BuyBox produto={topPick} titulo={d.tipo === 'review' ? 'Pronto para decidir?' : 'Ainda em dúvida? Em destaque'} />}
 
 
         <div class="mt-6"><Share url={absUrl} title={d.title} /></div>
@@ -162,10 +174,10 @@ const tocExtras = [
 
       <aside class="hidden lg:block">
         <div class="sticky top-24 space-y-6">
-          <BuyBox produto={topPick} variant="sidebar" titulo={d.tipo === 'review' ? 'Onde comprar' : 'Nossa escolha'} />
+          <BuyBox produto={topPick} variant="sidebar" titulo={tituloDestaque} />
           <TOC headings={headings} extras={tocExtras} />
           <div class="card p-5 text-sm">
-            <p class="text-xs font-bold uppercase tracking-wider muted">Para quem é este guia</p>
+            <p class="text-xs font-bold uppercase tracking-wider muted">Para quem é este artigo</p>
             <p class="mt-2">{FUNNEL_LABELS[d.funil.estagio]}</p>
             {d.funil.problema && <p class="mt-2 muted">Resolve: <span class="font-medium text-[var(--fg)]">{d.funil.problema}</span></p>}
             <p class="mt-3 flex flex-wrap gap-1">{d.tags.slice(0, 6).map((t) => <a href={`/busca/?q=${encodeURIComponent(t)}`} class="chip text-xs">{t}</a>)}</p>
@@ -187,7 +199,7 @@ const tocExtras = [
 
   <script>
     // Espalha caixas de compra pelo texto: depois da seção de cada produto citado num H2;
-    // se o texto não tiver H2 por produto (reviews e guias), repete a escolha principal a cada 3 seções.
+    // se o texto não tiver H2 por produto (reviews e artigos), repete a escolha principal a cada 3 seções.
     const norm = (t: string) => t.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
     const prose = document.querySelector<HTMLElement>('[data-prose-artigo]');
     const tpls = Array.from(document.querySelectorAll<HTMLTemplateElement>('template[data-cta-produto]'));

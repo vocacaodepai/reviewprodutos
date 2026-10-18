@@ -21,7 +21,7 @@ const referencia = itens.map((p) => p.precoMercado!.referencia).sort().at(-1);
 {itens.length >= 2 && (
   <section class="mt-12" aria-labelledby="precos-h">
     <h2 id="precos-h" class="mb-2 text-2xl font-bold">Quanto custa cada um no mercado</h2>
-    <p class="muted">Faixas típicas nas principais lojas em {referencia && mesAno(referencia)}{periodos.length > 1 ? ' e como o preço variou nos últimos meses' : ''}. É uma estimativa: o valor final aparece na loja no momento da compra.</p>
+    <p class="muted">Faixas típicas nas principais lojas em {referencia && mesAno(referencia)}{periodos.length > 1 ? ' e como o preço variou nos últimos meses' : ''}. Faixa de preço consultada na internet, em várias lojas e comparadores (não é o preço da Amazon): o valor final aparece na loja no momento da compra.</p>
     <div class="card mt-4 p-4 sm:p-5">
       <ul class="space-y-4">
         {itens.map((p, i) => (
