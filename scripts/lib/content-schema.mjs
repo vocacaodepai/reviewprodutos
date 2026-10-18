@@ -66,7 +66,7 @@ export function validateFrontmatter(data, { categorias = loadCategorias(), autor
   else {
     const n = data.produtos.length;
     if (data.tipo === 'review' && n !== 1) errs.push('review exige exatamente 1 produto');
-    if (data.tipo === 'comparativo' && n !== 2) errs.push('comparativo exige exatamente 2 produtos');
+    if (data.tipo === 'comparativo' && (n < 2 || n > 3)) errs.push('comparativo exige 2 ou 3 produtos');
     if (data.tipo === 'lista' && n < 3) errs.push('lista exige 3+ produtos');
     if (n > 12) errs.push('máximo 12 produtos');
     const asins = new Set();
