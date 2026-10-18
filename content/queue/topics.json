@@ -4969,7 +4969,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "balanca-xiaomi-body-composition-scale-2-e-boa",
+      "published_at": "2026-10-18"
     },
     {
       "id": "saude-e-bem-estar-review-008",
@@ -5529,7 +5531,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "capacete-ls2-ff353-rapid-e-bom",
+      "published_at": "2026-10-18"
     },
     {
       "id": "automotivo-review-009",
@@ -5766,7 +5770,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "galaxy-a17-redmi-15c-moto-g15-qual-comprar",
+      "published_at": "2026-10-18"
     },
     {
       "id": "tecnologia-comparativo-006",
@@ -6003,7 +6009,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "batedeira-planetaria-ou-simples-kitchenaid-mondial",
+      "published_at": "2026-10-18"
     },
     {
       "id": "cozinha-comparativo-007",
@@ -6563,7 +6571,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "tapete-yoga-pvc-tpe-ou-eva",
+      "published_at": "2026-10-18"
     },
     {
       "id": "automotivo-comparativo-005",
