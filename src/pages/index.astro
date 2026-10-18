@@ -35,7 +35,7 @@ const totalProdutos = artigos.reduce((n, a) => n + a.data.produtos.length, 0);
           <button type="submit" class="btn-primary px-5">Buscar</button>
         </form>
         <ul class="mt-6 flex flex-wrap gap-x-6 gap-y-2 text-sm muted">
-          <li class="inline-flex items-center gap-1.5"><Icon name="check" size={16} class="text-check-600" /> {artigos.length} guias publicados</li>
+          <li class="inline-flex items-center gap-1.5"><Icon name="check" size={16} class="text-check-600" /> {artigos.length} artigos publicados</li>
           <li class="inline-flex items-center gap-1.5"><Icon name="check" size={16} class="text-check-600" /> {totalProdutos} produtos analisados</li>
           <li class="inline-flex items-center gap-1.5"><Icon name="check" size={16} class="text-check-600" /> Atualizado diariamente</li>
         </ul>
@@ -60,7 +60,7 @@ const totalProdutos = artigos.reduce((n, a) => n + a.data.produtos.length, 0);
           <a href={categoriaUrl(c.id)} class="card flex h-full flex-col items-start gap-3 p-4 transition hover:-translate-y-0.5 hover:shadow-lg">
             <span class="inline-flex h-11 w-11 items-center justify-center rounded-xl text-white" style={`background:${c.data.cor}`}><Icon name={c.data.icone} size={22} /></span>
             <span class="font-bold leading-tight">{c.data.nome}</span>
-            <span class="mt-auto text-xs muted">{countByCat(c.id)} {countByCat(c.id) === 1 ? 'guia' : 'guias'}</span>
+            <span class="mt-auto text-xs muted">{countByCat(c.id)} {countByCat(c.id) === 1 ? 'artigo' : 'artigos'}</span>
           </a>
         </li>
       ))}
@@ -87,7 +87,7 @@ const totalProdutos = artigos.reduce((n, a) => n + a.data.produtos.length, 0);
         <div class="max-w-2xl">
           <p class="text-xs font-bold uppercase tracking-wider text-brand-600">Comece pelo problema</p>
           <h2 id="solucoes" class="mt-2 text-2xl font-bold sm:text-3xl">Qual é a sua dor hoje? A gente mostra o que resolve.</h2>
-          <p class="mt-2 muted">Dor nas costas ao dirigir, casa cheia de mosquitos, café sem sabor, bebê que não dorme: guias práticos com os produtos que realmente ajudam.</p>
+          <p class="mt-2 muted">Dor nas costas ao dirigir, casa cheia de mosquitos, café sem sabor, bebê que não dorme: artigos práticos com os produtos que realmente ajudam.</p>
         </div>
         <ul class="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
           {solucoes.map((a) => (

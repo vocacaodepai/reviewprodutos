@@ -5,7 +5,7 @@
 export const SITE = {
   name: 'Review Produtos',
   shortName: 'ReviewProdutos',
-  tagline: 'Reviews honestos, comparativos e guias de compra',
+  tagline: 'Reviews honestos e comparativos de produtos',
   description:
     'Reviews honestos, comparativos e listas dos melhores produtos vendidos no Brasil. Analisamos especificações, avaliações reais de consumidores e testes para você comprar sem erro.',
   url: 'https://reviewprodutos.com.br',

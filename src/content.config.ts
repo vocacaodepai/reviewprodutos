@@ -127,7 +127,7 @@ const artigos = defineCollection({
     .superRefine((data, ctx) => {
       const n = data.produtos.length;
       if (data.tipo === 'review' && n !== 1) ctx.addIssue({ code: 'custom', message: 'Review individual precisa de exatamente 1 produto', path: ['produtos'] });
-      if (data.tipo === 'comparativo' && n !== 2) ctx.addIssue({ code: 'custom', message: 'Comparativo precisa de exatamente 2 produtos', path: ['produtos'] });
+      if (data.tipo === 'comparativo' && (n < 2 || n > 3)) ctx.addIssue({ code: 'custom', message: 'Comparativo precisa de 2 ou 3 produtos', path: ['produtos'] });
       if (data.tipo === 'lista' && n < 3) ctx.addIssue({ code: 'custom', message: 'Lista precisa de 3 ou mais produtos', path: ['produtos'] });
       const asins = data.produtos.map((p) => p.asin);
       if (new Set(asins).size !== asins.length) ctx.addIssue({ code: 'custom', message: 'ASINs duplicados no mesmo artigo', path: ['produtos'] });
