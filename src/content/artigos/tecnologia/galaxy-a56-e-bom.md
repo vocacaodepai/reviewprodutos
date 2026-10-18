@@ -224,7 +224,7 @@ As queixas também se repetem: **carregador de 15 W** num aparelho que suporta 4
 - **Motorola Edge 60 Fusion:** vence em carregador rápido na caixa e tela curva, e a Motorola lidera o índice de solução entre as marcas de celular no Reclame Aqui no mesmo levantamento. Perde em tempo de atualização.
 - **Poco X7 Pro e Redmi Note Pro:** os rivais chineses vencem em desempenho em jogos e carregamento, mas com suporte de software mais curto e assistência menos presente fora das capitais.
 
-Para completar a troca de celular, veja nosso guia do **melhor fone Bluetooth barato** e, se a ideia é usar o celular para controlar a casa, o review do **Echo Pop**.
+Para completar a troca de celular, veja nosso artigo do **melhor fone Bluetooth barato** e, se a ideia é usar o celular para controlar a casa, o review do **Echo Pop**.
 
 ## Dicas para tirar o máximo do Galaxy A56
 

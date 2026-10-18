@@ -226,7 +226,7 @@ No Reclame Aqui, as queixas sobre máquinas Dolce Gusto se concentram em defeito
 ## Alternativas que vale considerar
 
 - **Genio S Plus (DGS2, DGS3, DGS6):** a escolha para quem toma espresso puro ou quer controlar a temperatura. Mesmos 15 bar e tanque, com Espresso Boost, 4 níveis de temperatura e bandeja em inox. Custa um degrau acima.
-- **Nespresso Essenza Mini:** vence em espresso e lungo, com 19 bar, cápsula de alumínio e muitas compatíveis no Brasil, mas só faz café e tem tanque menor. Comparamos as duas no nosso guia Dolce Gusto ou Nespresso.
+- **Nespresso Essenza Mini:** vence em espresso e lungo, com 19 bar, cápsula de alumínio e muitas compatíveis no Brasil, mas só faz café e tem tanque menor. Comparamos as duas no nosso artigo Dolce Gusto ou Nespresso.
 - **Cafeteira elétrica de filtro ou máquina de grãos:** se a casa toma 5 ou mais cafés por dia, o custo por dose de qualquer cápsula fica alto, e o café coado ou moído na hora sai bem mais barato por xícara.
 
 ## Dicas para tirar o máximo da Genio S Basic

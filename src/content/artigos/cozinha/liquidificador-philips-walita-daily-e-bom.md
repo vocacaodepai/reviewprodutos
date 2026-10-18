@@ -182,7 +182,7 @@ A assistência funciona pelos canais da Philips Home: SAC 0800 701 0203 (segunda
 
 ## O que dizem os consumidores
 
-Não encontramos, fora da Amazon, um volume consolidado de reclamações específico sobre o RI2110; o Reclame Aqui agrupa as queixas por marca, e não por modelo. O retrato que sai dos guias especializados é consistente: o TechTudo, no guia de marcas de setembro de 2026, coloca a Philips Walita entre os grandes fabricantes de eletroportáteis, com destaque para qualidade de materiais e construção robusta, e observa que a marca faz mais sentido para quem usa com frequência e aceita pagar um pouco mais. Comparadores como o Zoom, por sua vez, encaminham quem busca "liquidificador para gelo" para modelos da marca de maior potência, nunca para o Daily.
+Não encontramos, fora da Amazon, um volume consolidado de reclamações específico sobre o RI2110; o Reclame Aqui agrupa as queixas por marca, e não por modelo. O retrato que sai dos guias especializados é consistente: o TechTudo, no artigo de marcas de setembro de 2026, coloca a Philips Walita entre os grandes fabricantes de eletroportáteis, com destaque para qualidade de materiais e construção robusta, e observa que a marca faz mais sentido para quem usa com frequência e aceita pagar um pouco mais. Comparadores como o Zoom, por sua vez, encaminham quem busca "liquidificador para gelo" para modelos da marca de maior potência, nunca para o Daily.
 
 Traduzindo: a reputação da marca é um ponto a favor, e as limitações apontadas sobre este modelo são as esperadas de um aparelho de 550 W. Se você comprar o Daily sabendo que ele não é um triturador de gelo, a chance de decepção é pequena.
 

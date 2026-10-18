@@ -313,9 +313,9 @@ O **Fibrasca Nasa Ortopédico Cervical** é o melhor custo-benefício: mesma ide
 
 Uma ressalva antes de qualquer compra: travesseiro ajuda quando a dor vem da posição de dormir. Se ela persiste, irradia para o braço ou vem com formigamento, o problema não está no travesseiro, e você vai encontrar a seção "Quando procurar um profissional" mais abaixo.
 
-## Para quem é este guia
+## Para quem é este artigo
 
-Este guia é para duas pessoas. A primeira já ouviu falar em travesseiro cervical, viscoelástico ou "Nasa" e quer saber qual modelo comprar no Brasil sem cair em promessa de fabricante. A segunda nem sabe o nome do produto: só sabe que acorda com dor no pescoço, às vezes com dor de cabeça junto, e desconfia que o travesseiro de fibra que já afundou tem culpa nisso.
+Este artigo é para duas pessoas. A primeira já ouviu falar em travesseiro cervical, viscoelástico ou "Nasa" e quer saber qual modelo comprar no Brasil sem cair em promessa de fabricante. A segunda nem sabe o nome do produto: só sabe que acorda com dor no pescoço, às vezes com dor de cabeça junto, e desconfia que o travesseiro de fibra que já afundou tem culpa nisso.
 
 Para as duas, a lógica é a mesma. O pescoço tem uma curva natural, e o travesseiro precisa preenchê-la sem empurrar a cabeça para cima nem deixá-la cair. Quando ele é alto demais, o queixo encosta no peito e os músculos da nuca passam a noite esticados; quando é baixo demais, a cabeça pende para o lado (se você dorme de lado) ou para trás (se dorme de costas). Em ambos os casos, você acorda com a musculatura contraída.
 

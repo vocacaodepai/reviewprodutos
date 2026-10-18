@@ -391,9 +391,9 @@ Se você quer uma mochila escolar que aguente o ano inteiro sem pesar demais, a 
 
 Para criança pequena ou quem carrega muito material num trajeto plano, a **Sestini Rolling Crinkle** com rodinhas tira o peso das costas. Quem precisa de espaço deve olhar a **adidas Classic 3 Barras** (27,5 L e 350 g); quem leva notebook todo dia, a **Sestini Connect**; quem leva pouco, a **PUMA Phase**; e, para o fundamental I, a **Dermiwil Miraculous Thermo** junta rodinha e lancheira térmica.
 
-## Para quem é este guia
+## Para quem é este artigo
 
-Este guia é para pais e mães que já passaram por uma das duas frustrações clássicas da volta às aulas. A primeira: a mochila comprada em fevereiro chega a julho com a alça descosturada, o zíper travado ou o fundo furado. A segunda: a mochila até é resistente, mas pesa tanto vazia que, com cadernos, livros e garrafa, a criança chega em casa reclamando de dor nos ombros.
+Este artigo é para pais e mães que já passaram por uma das duas frustrações clássicas da volta às aulas. A primeira: a mochila comprada em fevereiro chega a julho com a alça descosturada, o zíper travado ou o fundo furado. A segunda: a mochila até é resistente, mas pesa tanto vazia que, com cadernos, livros e garrafa, a criança chega em casa reclamando de dor nos ombros.
 
 Também serve para adolescentes que vão escolher a própria mochila e querem algo que não pareça infantil, aguente notebook ou tablet e dure mais de um ano letivo. Organizamos as recomendações por idade e por tipo de trajeto, porque a melhor mochila para uma criança de 7 anos que vai de carro até a porta da escola não é a mesma de um aluno de 15 anos que pega dois ônibus.
 
@@ -403,7 +403,7 @@ Consideramos cerca de 20 mochilas escolares e juvenis vendidas na Amazon Brasil 
 
 Não houve teste físico destes modelos pela nossa equipe: esta é uma análise de fichas técnicas oficiais, orientações de entidades de saúde, lojas e relatos públicos de consumidores fora da Amazon, como o Reclame Aqui.
 
-O dado próprio deste guia é a **tabela de margem de carga**: quanto sobra para o material depois de descontar o peso da mochila vazia, usando a orientação da Sociedade Brasileira de Pediatria de que a mochila cheia não passe de 10% do peso corporal.
+O dado próprio deste artigo é a **tabela de margem de carga**: quanto sobra para o material depois de descontar o peso da mochila vazia, usando a orientação da Sociedade Brasileira de Pediatria de que a mochila cheia não passe de 10% do peso corporal.
 
 | Peso da criança | Carga máxima (10%) | Sobra com mochila de 280 a 370 g | Sobra com mochila de 0,5 kg | Sobra com mochila de rodinha de 1,1 kg nas costas |
 | --- | --- | --- | --- | --- |

@@ -391,9 +391,9 @@ relacionados: ["air-fryer-mondial-afn-40-bi-4l-vale-a-pena"]
 
 Se você cozinha para 4 pessoas ou mais e está cansado de fazer duas fornadas, a **Electrolux EAF50** é a melhor air fryer grande de 2026 no geral: o cesto de 5 litros dentro de uma cuba de 6,5 L acomoda uma refeição inteira, o painel traz 8 receitas prontas e as peças vão à lava-louças. O **melhor custo-benefício** é a **Mondial Grand Family AFN-50**: 1.900 W e cesto quadrado por preço de entrada, com dois poréns que explicamos abaixo. A **Midea WideMax 5,5 L** é a escolha para quem tem armário baixo, a **Oster OFRT930** para quem quer inox e painel touch, e a **Britânia BAF45A** para quem quer gastar o mínimo.
 
-## Para quem é este guia
+## Para quem é este artigo
 
-Este guia é para quem já tem (ou já teve) uma air fryer pequena e descobriu o problema na prática: cesto de 3 ou 4 litros não resolve o jantar de uma família. Você faz a batata, depois o frango, e quando o frango fica pronto a batata já esfriou. Também serve para quem vai comprar a primeira air fryer e sabe que a casa tem 4, 5 ou 6 bocas para alimentar, recebe visitas com frequência ou tem adolescentes que comem por dois.
+Este artigo é para quem já tem (ou já teve) uma air fryer pequena e descobriu o problema na prática: cesto de 3 ou 4 litros não resolve o jantar de uma família. Você faz a batata, depois o frango, e quando o frango fica pronto a batata já esfriou. Também serve para quem vai comprar a primeira air fryer e sabe que a casa tem 4, 5 ou 6 bocas para alimentar, recebe visitas com frequência ou tem adolescentes que comem por dois.
 
 Se a sua casa tem até 3 pessoas, provavelmente uma de 4 litros basta; leia nosso [review da Mondial AFN-40-BI de 4 litros](/reviews/air-fryer-mondial-afn-40-bi-4l-vale-a-pena/) antes de gastar mais. Para ver todas as opções da subcategoria, visite a página de [air fryers](/categoria/cozinha/air-fryer/).
 
@@ -403,7 +403,7 @@ Consideramos 14 modelos de 5 litros ou mais vendidos na Amazon Brasil em outubro
 
 Não houve teste físico destes modelos pela nossa equipe: esta é uma análise de especificações oficiais, fontes especializadas e relatos públicos de consumidores fora da Amazon.
 
-O dado próprio deste guia é a **estimativa de consumo mensal** de cada modelo, calculada a partir da potência nominal com 30 minutos de uso por dia: 1.900 W rendem cerca de 28,5 kWh/mês, 1.800 W cerca de 27 kWh, 1.700 W cerca de 25,5 kWh e 1.500 W cerca de 22,5 kWh. É uma conta simplificada (a resistência não fica ligada o tempo todo), mas mostra a ordem de grandeza: a diferença entre a mais e a menos potente é de uns 6 kWh por mês.
+O dado próprio deste artigo é a **estimativa de consumo mensal** de cada modelo, calculada a partir da potência nominal com 30 minutos de uso por dia: 1.900 W rendem cerca de 28,5 kWh/mês, 1.800 W cerca de 27 kWh, 1.700 W cerca de 25,5 kWh e 1.500 W cerca de 22,5 kWh. É uma conta simplificada (a resistência não fica ligada o tempo todo), mas mostra a ordem de grandeza: a diferença entre a mais e a menos potente é de uns 6 kWh por mês.
 
 ## 1. Electrolux EAF50: melhor para famílias de 4 a 6 pessoas
 

@@ -196,7 +196,7 @@ Em resumo: quem compra para dormir na velocidade baixa tende a ficar satisfeito;
 
 - **Arno Ultra Silence Force VD4C:** o mesmo ventilador de coluna sem repelente. Serve para quem mora em apartamento com tela nas janelas.
 - **Arno Ultra Silence Force VD40:** versão de mesa, de 126 W e 3,1 kg segundo as fichas, mais fácil de mover e de guardar. Cabe melhor em quarto pequeno.
-- **Ventiladores de coluna de outras linhas da Arno, como o X-TREME 7:** priorizam o vento forte em vez do silêncio. Veja a comparação completa no guia de melhor ventilador de coluna.
+- **Ventiladores de coluna de outras linhas da Arno, como o X-TREME 7:** priorizam o vento forte em vez do silêncio. Veja a comparação completa no artigo de melhor ventilador de coluna.
 
 ## Dicas para tirar o máximo do VD5C
 

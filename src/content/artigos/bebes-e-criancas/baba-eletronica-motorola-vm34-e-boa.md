@@ -147,7 +147,7 @@ O maior trunfo da VM34 é o que ela não tem. Sem Wi-Fi, não existe senha padr�
 
 ### Homologação e cuidados com o fio
 
-A VM34 tem homologação da Anatel (número 11843-21-08069, impresso no guia brasileiro), exigida para qualquer aparelho que transmite por rádio no país. O próprio guia traz o alerta mais importante para a segurança física do bebê: mantenha a câmera e o fio da fonte a mais de 1 metro do berço, porque cabos ao alcance da criança oferecem risco de estrangulamento. Não use extensão e use só as fontes que vêm na caixa.
+A VM34 tem homologação da Anatel (número 11843-21-08069, impresso no artigo brasileiro), exigida para qualquer aparelho que transmite por rádio no país. O próprio guia traz o alerta mais importante para a segurança física do bebê: mantenha a câmera e o fio da fonte a mais de 1 metro do berço, porque cabos ao alcance da criança oferecem risco de estrangulamento. Não use extensão e use só as fontes que vêm na caixa.
 
 Julgamento: **excelente** em privacidade e com documentação brasileira correta.
 
@@ -167,7 +167,7 @@ Julgamento: **bom** para o objetivo, sem imagem de alta definição.
 
 ### Bateria do monitor: o ponto fraco
 
-O guia brasileiro informa uma bateria de íon de lítio de **1.200 mAh** no monitor; lojas europeias anunciam até cerca de 5 horas de uso. Na vida real, ela resolve o cochilo da tarde com o monitor andando pela casa, mas não a noite inteira. O TechTudo lista justamente a bateria que descarrega rápido como o principal contra do modelo. A solução é simples: à noite, deixe o monitor na fonte, na cabeceira. Antes do primeiro uso, a Motorola pede 16 horas de carga.
+O artigo brasileiro informa uma bateria de íon de lítio de **1.200 mAh** no monitor; lojas europeias anunciam até cerca de 5 horas de uso. Na vida real, ela resolve o cochilo da tarde com o monitor andando pela casa, mas não a noite inteira. O TechTudo lista justamente a bateria que descarrega rápido como o principal contra do modelo. A solução é simples: à noite, deixe o monitor na fonte, na cabeceira. Antes do primeiro uso, a Motorola pede 16 horas de carga.
 
 ### Câmera de ajuste manual
 
@@ -181,7 +181,7 @@ Julgamento: **razoável**, puxado para baixo pela bateria.
 
 ## Durabilidade, garantia e assistência
 
-A garantia do guia brasileiro é de **12 meses** para o produto e **90 dias** para acessórios, a partir da compra, válida para o primeiro comprador e com exigência de nota fiscal. O suporte técnico no Brasil é feito pelo e-mail sac@motorolanurserybr.com; não encontramos uma rede de assistências técnicas com endereço publicada, o que significa que um defeito provavelmente vai exigir envio do aparelho. Lojas do Reino Unido anunciam 2 anos de cobertura, mas isso vale para lá, não aqui.
+A garantia do artigo brasileiro é de **12 meses** para o produto e **90 dias** para acessórios, a partir da compra, válida para o primeiro comprador e com exigência de nota fiscal. O suporte técnico no Brasil é feito pelo e-mail sac@motorolanurserybr.com; não encontramos uma rede de assistências técnicas com endereço publicada, o que significa que um defeito provavelmente vai exigir envio do aparelho. Lojas do Reino Unido anunciam 2 anos de cobertura, mas isso vale para lá, não aqui.
 
 O TechTudo cita ainda instabilidade no sensor de temperatura, que pode mostrar variações sem mudança real no quarto. Trate a leitura como indicativa e use um termômetro de parede se precisar de precisão. A bateria merece atenção especial: segundo o próprio guia, ela só é coberta pela garantia quando a capacidade com carga completa cai abaixo de 80% da nominal ou quando há vazamento; a perda gradual de autonomia dentro desse limite é tratada como desgaste normal.
 
@@ -198,7 +198,7 @@ Traduzindo: quem compra a VM34 esperando um monitor de cabeceira privado e confi
 - **Motorola VM64 Connect:** combina monitor dedicado e aplicativo no celular. Vence para quem quer olhar o bebê também fora de casa, aceitando os cuidados de segurança de um aparelho conectado.
 - **Philips Avent SCD643/26:** câmera Full HD só pelo aplicativo, sem monitor. Vence em qualidade de imagem, mas depende do Wi-Fi e do celular.
 
-Todas aparecem comparadas no nosso guia de melhores babás eletrônicas com vídeo.
+Todas aparecem comparadas no nosso artigo de melhores babás eletrônicas com vídeo.
 
 ## Dicas para tirar o máximo da Motorola VM34
 

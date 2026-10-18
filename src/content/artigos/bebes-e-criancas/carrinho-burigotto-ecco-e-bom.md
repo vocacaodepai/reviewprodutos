@@ -143,7 +143,7 @@ Segurança pesa mais na nota de qualquer produto de bebê, e aqui o Ecco entrega
 
 Dois cuidados valem para este e qualquer carrinho. O primeiro: o carrinho **não substitui a cadeirinha do carro** nem o berço. O segundo: não pendure bolsas pesadas no encosto nem encha a cesta além do limite do manual, porque o carrinho pode tombar para trás.
 
-Sobre a certificação: um guia especializado afirma que os produtos da Burigotto são certificados pelo Inmetro, mas nenhuma das fichas que consultamos mostra o registro específico do Ecco. Antes de comprar, procure a etiqueta ou o selo no produto e no manual. Se não encontrar, peça a informação ao SAC da marca. Para saber mais sobre dispositivos de segurança no carro, veja nosso comparativo [bebê conforto ou cadeirinha](/comparativos/bebe-conforto-ou-cadeirinha/).
+Sobre a certificação: um artigo especializado afirma que os produtos da Burigotto são certificados pelo Inmetro, mas nenhuma das fichas que consultamos mostra o registro específico do Ecco. Antes de comprar, procure a etiqueta ou o selo no produto e no manual. Se não encontrar, peça a informação ao SAC da marca. Para saber mais sobre dispositivos de segurança no carro, veja nosso comparativo [bebê conforto ou cadeirinha](/comparativos/bebe-conforto-ou-cadeirinha/).
 
 O julgamento: **segurança básica adequada**, com a certificação específica por confirmar.
 
@@ -161,7 +161,7 @@ O julgamento: **conforto adequado** para a faixa, com atenção à posição do 
 
 Aqui está o ponto que decide a compra para muita gente. As fichas indicam **entre 8,3 e 8,75 kg** (uma loja informa 8,3 kg; a Amazon, 8,75 kg) e medidas abertas de cerca de 90 x 56 x 101 cm. É um carrinho tradicional, não um modelo de viagem.
 
-O que os especialistas apontam como ponto fraco é o fechamento: não existe sistema de dobra ultracompacto, e o guia da Melhor Carrinho de Bebê diz que o Ecco é mais pesado que o Rio, outro modelo da marca, e ocupa mais espaço dobrado. Já o blog Bem Mãe elogia a facilidade de manobra em ambientes urbanos, mas diz que ele não é ideal para quem carrega o carrinho em escadas.
+O que os especialistas apontam como ponto fraco é o fechamento: não existe sistema de dobra ultracompacto, e o artigo da Melhor Carrinho de Bebê diz que o Ecco é mais pesado que o Rio, outro modelo da marca, e ocupa mais espaço dobrado. Já o blog Bem Mãe elogia a facilidade de manobra em ambientes urbanos, mas diz que ele não é ideal para quem carrega o carrinho em escadas.
 
 Nenhuma das fontes que abrimos traz o tamanho exato do carrinho fechado. **Meça o porta-malas do seu carro antes de comprar** e compare com a ficha do manual. Se o carro é pequeno, vale considerar um modelo mais compacto.
 
@@ -193,7 +193,7 @@ Vale lembrar que alguns desses textos contêm links de afiliados; por isso cruza
 - **Carrinhos compactos de outras marcas (como Galzerano e Cosco Kids):** costumam pesar menos e dobrar menor, mas variam em preço e acabamento. Compare peso, tamanho fechado e rodas modelo a modelo.
 - **Ecco em kit com bebê conforto:** quem pretende usar a cadeirinha do carro como "ovo" nos primeiros meses pode preferir o kit. Vale conferir primeiro [bebê conforto ou cadeirinha](/comparativos/bebe-conforto-ou-cadeirinha/) para decidir se faz sentido para a sua rotina.
 
-Quem monta o quarto também deve pensar no monitoramento do bebê. Veja nosso guia de [melhor babá eletrônica com vídeo](/melhores/melhor-baba-eletronica-com-video/).
+Quem monta o quarto também deve pensar no monitoramento do bebê. Veja nosso artigo de [melhor babá eletrônica com vídeo](/melhores/melhor-baba-eletronica-com-video/).
 
 ## Dicas para tirar o máximo do Burigotto Ecco
 

@@ -137,15 +137,15 @@ Este review responde a três perguntas: o que a Octoo realmente informa sobre o 
 
 O Uptable é um suporte compacto, dobrável e de regulagem simples para notebooks e tablets. A ficha oficial da Octoo informa **estrutura de aço e resina termoplástica**, **300 g líquidos** (350 g brutos), dimensões de 26 x 2 x 12 (largura, altura e profundidade) e compatibilidade com **notebooks e tablets de até 16 polegadas**. Existe em cinco cores: cromado, preto, prata, rosa e branco. O ASIN deste review é a versão preta, e o título do anúncio fala em 290 g e até 17 polegadas.
 
-Dois pontos pedem cuidado. O primeiro é o tamanho: a ficha oficial diz 16 polegadas, o anúncio diz 17 e um guia especializado chega a citar 21 polegadas e 4 kg. Quando as fontes divergem, vale o limite da fabricante. O segundo é o material: alguns guias o descrevem como alumínio, mas a Octoo fala em aço e resina. Neste texto usamos só o que a marca declara.
+Dois pontos pedem cuidado. O primeiro é o tamanho: a ficha oficial diz 16 polegadas, o anúncio diz 17 e um artigo especializado chega a citar 21 polegadas e 4 kg. Quando as fontes divergem, vale o limite da fabricante. O segundo é o material: alguns guias o descrevem como alumínio, mas a Octoo fala em aço e resina. Neste texto usamos só o que a marca declara.
 
 A linha da Octoo inclui outros suportes, como o Uptable Cooler (com ventoinha) e o LiteStand Note, descrito pela marca como suporte portátil que evita o superaquecimento do aparelho. Como a página da Octoo não traz ficha detalhada do LiteStand, ele aparece aqui só como alternativa da mesma marca.
 
 ## Eficácia na postura
 
-O princípio é correto: elevar a tela reduz a flexão do pescoço. A régua é simples. A borda superior da tela deve ficar na altura dos olhos, a uns 40 a 70 cm de distância, como descrevem as cartilhas de ergonomia citadas em nosso guia sobre [dor nas costas no home office](/melhores/dor-nas-costas-no-home-office/).
+O princípio é correto: elevar a tela reduz a flexão do pescoço. A régua é simples. A borda superior da tela deve ficar na altura dos olhos, a uns 40 a 70 cm de distância, como descrevem as cartilhas de ergonomia citadas em nosso artigo sobre [dor nas costas no home office](/melhores/dor-nas-costas-no-home-office/).
 
-O problema é que a Octoo **não publica a altura máxima do Uptable em centímetros nem os ângulos**; a página fala apenas em "regulagem simples". Uma loja que revende a versão cromada informa cinco níveis de altura, e um guia cita inclinação de 30° a 60°, mas nenhum desses números vem da fabricante. Na prática, isso significa que você não consegue saber de antemão se ele chega à linha dos seus olhos. Meça a altura do seu olhar sentado e compare com a do notebook elevado antes de apostar.
+O problema é que a Octoo **não publica a altura máxima do Uptable em centímetros nem os ângulos**; a página fala apenas em "regulagem simples". Uma loja que revende a versão cromada informa cinco níveis de altura, e um artigo cita inclinação de 30° a 60°, mas nenhum desses números vem da fabricante. Na prática, isso significa que você não consegue saber de antemão se ele chega à linha dos seus olhos. Meça a altura do seu olhar sentado e compare com a do notebook elevado antes de apostar.
 
 Outra condição inegociável: **teclado e mouse externos**. Com a tela elevada, o teclado do notebook sobe junto e fica alto para digitar. Sem periféricos, você troca dor no pescoço por dor nos ombros. Julgamento: **eficaz para quem usa periféricos externos**, com incerteza sobre a altura máxima.
 
@@ -163,7 +163,7 @@ A limpeza indicada pela marca é simples: flanela seca ou pano macio, sem esponj
 
 ## Praticidade e portabilidade
 
-É o ponto mais forte. Com cerca de 300 g e dimensões de 26 x 2 x 12 segundo a ficha, o Uptable cabe em mochila ou bolsa de notebook, e a regulagem simples dispensa manual. Quem alterna entre mesa de casa, café e biblioteca ganha muito. Um guia especializado destaca ainda o design dobrável e compacto. Julgamento: **muito prático**, a melhor nota do produto.
+É o ponto mais forte. Com cerca de 300 g e dimensões de 26 x 2 x 12 segundo a ficha, o Uptable cabe em mochila ou bolsa de notebook, e a regulagem simples dispensa manual. Quem alterna entre mesa de casa, café e biblioteca ganha muito. Um artigo especializado destaca ainda o design dobrável e compacto. Julgamento: **muito prático**, a melhor nota do produto.
 
 ## Garantia e assistência
 
@@ -177,7 +177,7 @@ Nossa leitura prudente: o Uptable é conhecido e barato, mas o histórico públi
 
 ## Alternativas que vale considerar
 
-- **Nulaxy de dois braços (alumínio, 10 a 17 polegadas, até 10 kg):** a opção para quem trabalha o dia todo no notebook e quer regular altura e ângulo com folga. Custa mais, pesa mais e ocupa mais mesa. Analisamos no guia de [dor nas costas no home office](/melhores/dor-nas-costas-no-home-office/).
+- **Nulaxy de dois braços (alumínio, 10 a 17 polegadas, até 10 kg):** a opção para quem trabalha o dia todo no notebook e quer regular altura e ângulo com folga. Custa mais, pesa mais e ocupa mais mesa. Analisamos no artigo de [dor nas costas no home office](/melhores/dor-nas-costas-no-home-office/).
 - **Octoo LiteStand Note:** da mesma marca, descrito pela Octoo como suporte portátil que evita o superaquecimento do aparelho. A ficha na loja da marca não traz medidas, então compare na página de compra.
 - **Monitor externo com ajuste de altura:** se o notebook fica fixo na mesa, a solução definitiva é uma segunda tela na altura dos olhos. Veja o [melhor monitor para home office](/melhores/melhor-monitor-para-home-office/).
 

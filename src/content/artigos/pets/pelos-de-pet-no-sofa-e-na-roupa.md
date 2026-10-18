@@ -321,7 +321,7 @@ Antes de gastar, mude a rotina. A maior parte do efeito vem de hábitos:
 4. **Cuide da alimentação.** Dieta de baixa qualidade e falta de nutrientes (proteínas, ômega 3, zinco) aparecem entre as causas de pelo fraco e queda aumentada. Não suplemente por conta própria: o ômega 3 e outros suplementos são com orientação do veterinário.
 5. **Mantenha os antiparasitários em dia.** Pulgas, carrapatos e ácaros causam coceira e queda localizada. Use apenas o que o veterinário indicar.
 6. **Reduza o estresse.** Rotina estável, passeios e brincadeiras diminuem a lambedura compulsiva, que também derruba o pelo.
-7. **Proteja os tecidos.** Uma manta ou capa lavável no sofá e na cama do pet concentra o pelo em um lugar que vai para a máquina. O mesmo vale para a caminha: veja o guia de [melhor caminha para cachorro](/melhores/melhor-caminha-para-cachorro/).
+7. **Proteja os tecidos.** Uma manta ou capa lavável no sofá e na cama do pet concentra o pelo em um lugar que vai para a máquina. O mesmo vale para a caminha: veja o artigo de [melhor caminha para cachorro](/melhores/melhor-caminha-para-cachorro/).
 8. **Não corte nem raspe o pelo para "resolver" a queda sem orientação.** O pelo faz parte da proteção da pele e da regulação de temperatura do animal, e a raspagem não é solução para a muda. Se achar que o pet está com calor ou com pelo demais, pergunte ao veterinário ou ao tosador.
 
 ## O que procurar em um produto contra pelo de pet
@@ -363,7 +363,7 @@ O que decepciona: cerdas finas de metal podem arranhar a pele se você pressiona
 
 Alguns pets fogem da escova, mas aceitam carinho. A luva resolve isso: é uma luva de borracha com pontas de silicone na palma, de tamanho único ajustável (23 x 17 cm), que você usa para acariciar o animal enquanto o pelo solto fica preso nas pontas. O anúncio a indica para cães, gatos e outros animais, e a luva pesa 190 g, segundo a ficha.
 
-Para quem é: gatos, cães de pelo curto a médio e animais ansiosos. Para quem quer começar a escovação sem estresse, é a porta de entrada, e o preço é o mais baixo deste guia.
+Para quem é: gatos, cães de pelo curto a médio e animais ansiosos. Para quem quer começar a escovação sem estresse, é a porta de entrada, e o preço é o mais baixo deste artigo.
 
 O que decepciona: ela tira o pelo da superfície, mas não alcança o subpelo de cães de pelo duplo, e rende pouco em pelo longo. A borracha cansa com o uso e a garantia é a do vendedor. Passe em movimentos suaves, no sentido do pelo, e tire o pelo da luva entre as passadas.
 
@@ -379,7 +379,7 @@ O que decepciona: é vendido pela Amazon Global (produto importado), a faixa de 
 
 Quando o pelo já entrou na costura do sofá, só a sucção resolve. O APS1200PET é um aspirador portátil com fio, de 1.200 W, reservatório de 800 ml, cabo de 4 m e filtro permanente lavável. Vem com o bocal Turbo Pet, mais um bocal de cantos e uma escova para estofados, e tem função sopro. O fabricante dá 1 ano de garantia. A análise do site GDM mediu uma sucção forte, e o aspirador limpou o pelo de pouco mais de 1 m² de tapete em cerca de 1,5 minuto.
 
-Para quem é: quem tem sofá, cama e banco do carro cheios de pelo, e prefere um aspirador dedicado a trocar o aspirador da casa. Para o resto do piso, veja o guia de [melhor robô aspirador custo-benefício](/melhores/melhor-robo-aspirador-custo-beneficio/) e o comparativo entre [robô aspirador e aspirador vertical](/comparativos/robo-aspirador-ou-aspirador-vertical/).
+Para quem é: quem tem sofá, cama e banco do carro cheios de pelo, e prefere um aspirador dedicado a trocar o aspirador da casa. Para o resto do piso, veja o artigo de [melhor robô aspirador custo-benefício](/melhores/melhor-robo-aspirador-custo-beneficio/) e o comparativo entre [robô aspirador e aspirador vertical](/comparativos/robo-aspirador-ou-aspirador-vertical/).
 
 O que decepciona: tem fio e não tem bateria, é barulhento com o bocal pet (cerca de 94 dB na medição do GDM), é pesado para o formato de mão na mesma medição e o filtro lavável não é HEPA. Há versões de 127V e 220V com códigos diferentes: confira a voltagem antes de comprar.
 
@@ -410,7 +410,7 @@ Quem já tem [robô aspirador](/categoria/casa-e-jardim/limpeza/) resolve o pelo
 
 ## Quando procurar o veterinário
 
-A queda normal acontece sem falhas na pelagem e sem coceira. Procure o veterinário se houver queda excessiva ou irregular, principalmente fora das épocas de muda; áreas sem pelo, descamação, feridas ou mudança na textura da pele; vermelhidão, coceira constante ou lambedura excessiva; ou perda de pelo junto com mudança de peso ou apatia. Parasitas, alergias, doenças de pele e problemas hormonais estão entre as causas possíveis e exigem diagnóstico. Este guia é informativo e não substitui avaliação veterinária.
+A queda normal acontece sem falhas na pelagem e sem coceira. Procure o veterinário se houver queda excessiva ou irregular, principalmente fora das épocas de muda; áreas sem pelo, descamação, feridas ou mudança na textura da pele; vermelhidão, coceira constante ou lambedura excessiva; ou perda de pelo junto com mudança de peso ou apatia. Parasitas, alergias, doenças de pele e problemas hormonais estão entre as causas possíveis e exigem diagnóstico. Este artigo é informativo e não substitui avaliação veterinária.
 
 ## Veredito
 

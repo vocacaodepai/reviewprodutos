@@ -311,11 +311,11 @@ Se a dor aparece na ponta da coluna depois de uma hora na cadeira, a **Theva 753
 
 Se a queixa é mais na lombar do que no cóccix, os modelos com encosto fazem mais sentido: a **Theva Super Seat** para quem passa o dia no carro e a **Ortho Pauher Pró-Coluna** para quem trabalha em cadeira mole ou sem encosto firme. A **Ortho Pauher Egg Sit**, de gel em colmeia, entra para quem só quer amaciar e ventilar um assento duro.
 
-## Para quem é este guia
+## Para quem é este artigo
 
-Este guia é para quem passa o dia sentado e sente o corpo cobrar: o atendente que não sai da cadeira, quem trabalha em home office na cadeira da cozinha, o motorista de aplicativo, o estudante em época de prova. A dor típica começa como um incômodo no fim da coluna, logo acima da divisão dos glúteos, piora em superfície dura e dá uma pontada na hora de levantar. Em outros casos, o problema é a lombar que cansa porque a cadeira não sustenta a bacia.
+Este artigo é para quem passa o dia sentado e sente o corpo cobrar: o atendente que não sai da cadeira, quem trabalha em home office na cadeira da cozinha, o motorista de aplicativo, o estudante em época de prova. A dor típica começa como um incômodo no fim da coluna, logo acima da divisão dos glúteos, piora em superfície dura e dá uma pontada na hora de levantar. Em outros casos, o problema é a lombar que cansa porque a cadeira não sustenta a bacia.
 
-Uma almofada não substitui uma cadeira regulada nem as pausas, mas é a correção mais barata e rápida para o assento que você já tem. Se o seu caso é a estação de trabalho inteira (tela, mesa, pés), comece pelo nosso guia de dor nas costas no home office; se o problema aparece ao volante, o guia de dor nas costas ao dirigir explica os ajustes do banco.
+Uma almofada não substitui uma cadeira regulada nem as pausas, mas é a correção mais barata e rápida para o assento que você já tem. Se o seu caso é a estação de trabalho inteira (tela, mesa, pés), comece pelo nosso artigo de dor nas costas no home office; se o problema aparece ao volante, o artigo de dor nas costas ao dirigir explica os ajustes do banco.
 
 ## Como escolhemos
 
@@ -323,7 +323,7 @@ Partimos das almofadas de assento de marca identificável vendidas na Amazon Bra
 
 Não houve teste físico destes modelos pela nossa equipe: esta é uma análise de fichas técnicas oficiais e de lojas, guias especializados e relatos públicos de consumidores fora da Amazon.
 
-O dado próprio deste guia é a **tabela de quanto cada almofada te levanta**, um detalhe que quase nenhum anúncio destaca e que muda a sua postura inteira:
+O dado próprio deste artigo é a **tabela de quanto cada almofada te levanta**, um detalhe que quase nenhum anúncio destaca e que muda a sua postura inteira:
 
 | Almofada | Altura somada ao assento | Efeito prático |
 | --- | --- | --- |
@@ -343,7 +343,7 @@ O que decepciona: os 8 cm de altura. Com a almofada, muita gente fica com os pé
 
 ## 2. Supermedy COC3D: melhor custo-benefício
 
-A COC3D é a forma mais barata de ter um recorte de verdade para o cóccix. O formato 3D encaixa coxas e glúteos e evita que o corpo escorregue para a frente, um vício comum de quem fica horas no computador. O guia do Busca Melhores descreve o recorte traseiro como profundo, a ponto de deixar o cóccix totalmente suspenso, e a estrutura como mais firme que a de muitas espumas simples.
+A COC3D é a forma mais barata de ter um recorte de verdade para o cóccix. O formato 3D encaixa coxas e glúteos e evita que o corpo escorregue para a frente, um vício comum de quem fica horas no computador. O artigo do Busca Melhores descreve o recorte traseiro como profundo, a ponto de deixar o cóccix totalmente suspenso, e a estrutura como mais firme que a de muitas espumas simples.
 
 A ficha do fabricante informa espuma viscoelástica em gel, peso de 750 g e capa lavável na máquina, o que facilita levar a almofada entre casa, escritório e carro. Pela faixa de preço de mercado, é a que entrega mais por menos entre as almofadas com recorte.
 
@@ -353,7 +353,7 @@ O que decepciona: a firmeza inicial pode incomodar quem prefere uma superfície 
 
 A Super Seat junta duas coisas que o motorista precisa: um assento fino de 3,5 cm e um encosto de 13 cm, ambos em espuma viscoelástica sobre poliuretano. O assento fino quase não muda a sua altura no banco, então o ajuste de espelhos e volante continua valendo, e o encosto preenche o vão que muitos bancos deixam na altura da cintura. O tecido deixa o ar passar, o forro do assento é antiderrapante e um elástico prende o conjunto no banco.
 
-É a escolha para quem sente o quadril e a lombar juntos depois de horas ao volante, situação que detalhamos no guia de dor nas costas ao dirigir. Também funciona em cadeira de escritório de encosto muito fundo.
+É a escolha para quem sente o quadril e a lombar juntos depois de horas ao volante, situação que detalhamos no artigo de dor nas costas ao dirigir. Também funciona em cadeira de escritório de encosto muito fundo.
 
 O que decepciona: não há recorte para o cóccix, então quem tem dor bem na ponta da coluna sente menos alívio do que com a Theva 7530. O encosto de 13 cm empurra o corpo para a frente em cadeiras de assento curto, e o fabricante não diz se a capa é removível, o que complica a limpeza.
 
@@ -417,4 +417,4 @@ Enquanto isso, as medidas simples continuam valendo: faça pausas para levantar 
 
 Para dor no cóccix, compre uma almofada com recorte. A **Theva 7530** é a escolha mais segura: viscoelástico alto, capa com zíper e limite de 120 kg; só confira a altura da cadeira depois de colocá-la. A **Supermedy COC3D** faz o mesmo trabalho por menos, se você pesa até 100 kg e aceita uma espuma mais firme.
 
-Se a dor é na lombar, escolha pelo lugar onde você passa mais tempo: a **Theva Super Seat** no carro e a **Ortho Pauher Pró-Coluna** em cadeira mole ou sem encosto. A **Egg Sit** só faz sentido para amaciar e ventilar um assento duro. Para completar a correção de postura, veja também nossos guias de dor nas costas no home office e de travesseiro para dor no pescoço.
+Se a dor é na lombar, escolha pelo lugar onde você passa mais tempo: a **Theva Super Seat** no carro e a **Ortho Pauher Pró-Coluna** em cadeira mole ou sem encosto. A **Egg Sit** só faz sentido para amaciar e ventilar um assento duro. Para completar a correção de postura, veja também nossos artigos de dor nas costas no home office e de travesseiro para dor no pescoço.

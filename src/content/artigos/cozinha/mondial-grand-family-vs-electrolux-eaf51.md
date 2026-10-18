@@ -202,7 +202,7 @@ A **Electrolux EAF51** vence no geral: cabe um pouco mais (5,1 L úteis contra 4
 
 Você já decidiu que quer uma air fryer de 5 litros, o tamanho que resolve o jantar de 4 a 5 pessoas sem fazer duas fornadas, e agora esbarra em duas marcas conhecidas, com preço e aparência parecidos. A dúvida é prática: qual delas cozinha melhor, qual é mais segura e qual dá menos dor de cabeça depois da compra?
 
-Esta é uma análise de especificações oficiais, de testes publicados por veículos especializados e de relatos públicos de consumidores fora da Amazon; não houve teste físico pela nossa equipe. Se você ainda não sabe se precisa de 5 litros, veja o guia das [melhores air fryers para família grande](/melhores/melhor-air-fryer-familia-grande/) e a página de [air fryers](/categoria/cozinha/air-fryer/).
+Esta é uma análise de especificações oficiais, de testes publicados por veículos especializados e de relatos públicos de consumidores fora da Amazon; não houve teste físico pela nossa equipe. Se você ainda não sabe se precisa de 5 litros, veja o artigo das [melhores air fryers para família grande](/melhores/melhor-air-fryer-familia-grande/) e a página de [air fryers](/categoria/cozinha/air-fryer/).
 
 ## Frente a frente: o que muda na prática
 

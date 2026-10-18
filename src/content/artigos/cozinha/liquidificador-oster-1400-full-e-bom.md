@@ -175,7 +175,7 @@ Guarde a nota fiscal e confira o canal de assistência da Oster no momento da co
 
 ## O que dizem os consumidores
 
-Fora da Amazon, o padrão de relatos nos guias independentes é bem consistente. Os elogios vão para a potência, a facilidade com gelo e o tamanho da jarra. As queixas vão para o barulho, a trepidação em velocidades altas com preparos pesados, a fragilidade do seletor e alguns relatos de pás danificadas com alimentos duros. Comparadores como Buscapé e Zoom descrevem o modelo como potente e versátil, e o apontam como boa relação entre potência e preço dentro da linha Oster.
+Fora da Amazon, o padrão de relatos nos artigos independentes é bem consistente. Os elogios vão para a potência, a facilidade com gelo e o tamanho da jarra. As queixas vão para o barulho, a trepidação em velocidades altas com preparos pesados, a fragilidade do seletor e alguns relatos de pás danificadas com alimentos duros. Comparadores como Buscapé e Zoom descrevem o modelo como potente e versátil, e o apontam como boa relação entre potência e preço dentro da linha Oster.
 
 Traduzindo: quem compra sabendo que vai ter barulho e que não deve forçar sólidos secos costuma ficar satisfeito. Quem espera um aparelho silencioso se decepciona.
 
@@ -185,7 +185,7 @@ Traduzindo: quem compra sabendo que vai ter barulho e que não deve forçar sól
 - **Liquidificadores de 1.000 W com jarra de vidro ou SAN premium:** mais silenciosos e com garantia maior em algumas marcas, por preço mais alto. Valem para quem usa todo dia.
 - **Processador de alimentos:** se a sua dor são castanhas, pastas e cortes, ele resolve melhor do que qualquer liquidificador.
 
-Se você está montando a cozinha do zero, veja também nosso guia da [melhor air fryer para família grande](/melhores/melhor-air-fryer-familia-grande/).
+Se você está montando a cozinha do zero, veja também nosso artigo da [melhor air fryer para família grande](/melhores/melhor-air-fryer-familia-grande/).
 
 ## Dicas para tirar o máximo do Oster 1400 Full
 

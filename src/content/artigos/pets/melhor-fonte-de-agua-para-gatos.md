@@ -335,11 +335,11 @@ Se você quer a fonte que mais gatos aceitam e com reposição garantida, a **Ca
 
 E a resposta para a dor que trouxe você aqui: gato que bebe pouco precisa de vários pontos de água, potes largos longe da comida, água trocada todo dia e, muitas vezes, ração úmida. A fonte é uma dessas medidas, não a única.
 
-## Para quem é este guia
+## Para quem é este artigo
 
 Você provavelmente está em uma de duas situações. Ou já decidiu comprar uma fonte e quer saber qual, entre Catit, Amicus, Petlon e Furacão Pet, funciona de verdade e não vira um pote de plástico parado depois de dois meses. Ou o veterinário disse que o seu gato está bebendo pouco, talvez depois de um episódio de cistite ou de um exame de rim, e você quer entender o que fazer.
 
-Este guia serve para os dois. Explicamos por que gatos bebem pouco, o que muda entre as fontes (fluxo, filtro, bomba, voltagem, limpeza) e o que mais fazer em casa. Se o seu gato é macho, está acima do peso, come só ração seca e vive em apartamento, ele reúne os fatores de risco que a Cornell lista para doença do trato urinário inferior, e a hidratação é a frente mais barata de prevenção.
+Este artigo serve para os dois. Explicamos por que gatos bebem pouco, o que muda entre as fontes (fluxo, filtro, bomba, voltagem, limpeza) e o que mais fazer em casa. Se o seu gato é macho, está acima do peso, come só ração seca e vive em apartamento, ele reúne os fatores de risco que a Cornell lista para doença do trato urinário inferior, e a hidratação é a frente mais barata de prevenção.
 
 ## Como escolhemos
 
@@ -347,7 +347,7 @@ Partimos de 12 fontes vendidas na Amazon.com.br das marcas mais presentes no var
 
 As notas seguem cinco critérios com pesos declarados: funcionalidade e estímulo ao beber (30), segurança e materiais (20), facilidade de limpeza (20), durabilidade e reposição (10) e custo-benefício (20). A nota final é a média ponderada.
 
-A análise se baseia nas fichas dos fabricantes, nas páginas de venda, em orientações veterinárias públicas (Cornell Feline Health Center, International Cat Care) e em relatos públicos de consumidores no Reclame Aqui e nas páginas de perguntas de lojas especializadas. Não houve teste físico. O dado próprio deste guia é a tabela de manutenção e reposição, que pesa tanto quanto o preço de compra ao longo de um ano:
+A análise se baseia nas fichas dos fabricantes, nas páginas de venda, em orientações veterinárias públicas (Cornell Feline Health Center, International Cat Care) e em relatos públicos de consumidores no Reclame Aqui e nas páginas de perguntas de lojas especializadas. Não houve teste físico. O dado próprio deste artigo é a tabela de manutenção e reposição, que pesa tanto quanto o preço de compra ao longo de um ano:
 
 | Fonte | Volume por gato (dias de autonomia aprox.) | Filtro e troca | Bomba avulsa à venda? | Voltagem na água |
 | --- | --- | --- | --- | --- |

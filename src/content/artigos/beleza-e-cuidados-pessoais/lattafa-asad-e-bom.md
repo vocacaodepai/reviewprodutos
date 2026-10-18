@@ -163,7 +163,7 @@ Como regra, os relatos concordam em três coisas: a projeção é forte no come�
 
 As resenhas indicam outono e inverno, noites, encontros e eventos. Desaconselham dias muito quentes, onde o perfume pode ficar pesado e enjoativo, e pedem moderação no escritório e em ambientes fechados. No clima brasileiro, isso significa que, em boa parte do ano e do país, ele pede mão leve.
 
-Como presente, funciona para quem já gosta de perfume marcante ou de notas de baunilha e especiarias. Para quem recebe e não conhece o estilo, um perfil mais neutro costuma errar menos. Se estiver em dúvida entre ele e o Khamrah, que é mais doce, veja nossa comparação das opções no guia de [melhor perfume masculino custo-benefício](/melhores/melhor-perfume-masculino-custo-beneficio/).
+Como presente, funciona para quem já gosta de perfume marcante ou de notas de baunilha e especiarias. Para quem recebe e não conhece o estilo, um perfil mais neutro costuma errar menos. Se estiver em dúvida entre ele e o Khamrah, que é mais doce, veja nossa comparação das opções no artigo de [melhor perfume masculino custo-benefício](/melhores/melhor-perfume-masculino-custo-beneficio/).
 
 ## Autenticidade: como conferir antes e depois de comprar
 
@@ -205,7 +205,7 @@ A amostra de clientes é pequena e os blogs mais detalhados são de lojas, entã
 - **Antonio Banderas Blue Seduction e Nautica Voyage:** frescos e Eau de Toilette, mais seguros para o calor e para o trabalho, com duração menor.
 - **Decant ou amostra do próprio Asad:** vence para quem ainda não sabe se gosta de perfume árabe.
 
-Todas essas opções estão no nosso guia de [perfumes masculinos de bom custo-benefício](/melhores/melhor-perfume-masculino-custo-beneficio/). Para mais produtos da categoria, visite a página de [perfumes](/categoria/beleza-e-cuidados-pessoais/perfumes/).
+Todas essas opções estão no nosso artigo de [perfumes masculinos de bom custo-benefício](/melhores/melhor-perfume-masculino-custo-beneficio/). Para mais produtos da categoria, visite a página de [perfumes](/categoria/beleza-e-cuidados-pessoais/perfumes/).
 
 ## Dicas para tirar o máximo do Lattafa Asad
 

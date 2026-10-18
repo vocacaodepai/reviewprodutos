@@ -311,7 +311,7 @@ Se nada disso bastar, aí entram os produtos.
 - **Consumo em watts**: um ventilador de 126 W por 8 horas gasta cerca de 1 kWh por noite; um split de 9.000 BTU, 3 a 5 vezes isso.
 - **Tecido respirável** na cama: 100% algodão em trama percal é o mais fresco; cetim sintético e microfibra retêm calor.
 
-A matriz abaixo é o dado próprio deste guia e resume para quem cada tipo de produto serve.
+A matriz abaixo é o dado próprio deste artigo e resume para quem cada tipo de produto serve.
 
 | Produto | Clima úmido (litoral, SP, Sul no verão) | Clima seco (interior, Centro-Oeste) | Quarto pequeno | Quarto grande |
 | --- | --- | --- | --- | --- |
@@ -376,8 +376,8 @@ Ventiladores e climatizadores não são bivolt (o umidificador HC115 é). Todos 
 
 ## Quando procurar um profissional
 
-Insônia que persiste por mais de 3 semanas, mesmo com o quarto fresco, merece avaliação médica: calor é um gatilho comum, mas apneia, ansiedade e alterações hormonais também causam suor noturno e despertares. Idosos, bebês e pessoas com doenças cardíacas ou respiratórias são mais vulneráveis ao calor; se houver tontura, confusão, febre ou falta de ar em noites quentes, procure atendimento. Este guia é informativo e não substitui orientação médica.
+Insônia que persiste por mais de 3 semanas, mesmo com o quarto fresco, merece avaliação médica: calor é um gatilho comum, mas apneia, ansiedade e alterações hormonais também causam suor noturno e despertares. Idosos, bebês e pessoas com doenças cardíacas ou respiratórias são mais vulneráveis ao calor; se houver tontura, confusão, febre ou falta de ar em noites quentes, procure atendimento. Este artigo é informativo e não substitui orientação médica.
 
 ## Veredito
 
-Para a maioria das casas brasileiras, a receita é **ventilador + lençol de algodão + rotina de fechar o quarto de dia**. O **Arno Turbo Force VF42** é a melhor compra para quarto pequeno e orçamento curto. O **Bem Lunar percal** completa o conjunto por pouco. O Arno Ultra Silence Force VD5C, antes recomendado aqui para quem tem sono leve, está indisponível na Amazon no momento. Climatizador e umidificador são escolhas regionais: valem no clima seco, decepcionam no úmido. Veja mais opções em [climatização](/categoria/casa-e-jardim/climatizacao/) e nos guias de [casa e jardim](/categoria/casa-e-jardim/); para a cozinha, nossa lista de [air fryers para família grande](/melhores/melhor-air-fryer-familia-grande/) mostra como aplicamos os mesmos critérios de consumo.
+Para a maioria das casas brasileiras, a receita é **ventilador + lençol de algodão + rotina de fechar o quarto de dia**. O **Arno Turbo Force VF42** é a melhor compra para quarto pequeno e orçamento curto. O **Bem Lunar percal** completa o conjunto por pouco. O Arno Ultra Silence Force VD5C, antes recomendado aqui para quem tem sono leve, está indisponível na Amazon no momento. Climatizador e umidificador são escolhas regionais: valem no clima seco, decepcionam no úmido. Veja mais opções em [climatização](/categoria/casa-e-jardim/climatizacao/) e nos artigos de [casa e jardim](/categoria/casa-e-jardim/); para a cozinha, nossa lista de [air fryers para família grande](/melhores/melhor-air-fryer-familia-grande/) mostra como aplicamos os mesmos critérios de consumo.

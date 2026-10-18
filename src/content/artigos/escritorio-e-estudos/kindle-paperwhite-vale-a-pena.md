@@ -203,7 +203,7 @@ Entre usuários brasileiros, a reclamação mais forte não é sobre o aparelho 
 
 ## Alternativas que vale considerar
 
-- **Kindle 16 GB (2024):** a escolha se você lê em casa e no transporte, quer o leitor mais leve e gastar menos. Tem tela de 6 polegadas e 16 GB, mas não tem luz quente nem proteção contra água, e a autonomia declarada é menor. Veja a comparação completa no nosso guia "Kindle ou Kindle Paperwhite".
+- **Kindle 16 GB (2024):** a escolha se você lê em casa e no transporte, quer o leitor mais leve e gastar menos. Tem tela de 6 polegadas e 16 GB, mas não tem luz quente nem proteção contra água, e a autonomia declarada é menor. Veja a comparação completa no nosso artigo "Kindle ou Kindle Paperwhite".
 - **Kindle Paperwhite Signature Edition:** dobra o armazenamento para 32 GB e acrescenta sensor automático de luz e carregamento sem fio. Vale para quem lê em ambientes com luz variando o tempo todo; para os demais, a diferença de preço compra pouco.
 - **Kobo Clara BW:** usa a mesma tecnologia de tela em 6 polegadas e lê EPUB sem conversão, mas tem presença pequena no varejo brasileiro e não acessa a loja Kindle.
 - **Continuar no celular:** se você lê poucas páginas por mês, o aplicativo Kindle no celular custa zero e já dá acesso à mesma biblioteca. O Paperwhite só se paga quando a leitura vira hábito.
@@ -221,4 +221,4 @@ Entre usuários brasileiros, a reclamação mais forte não é sobre o aparelho 
 
 O **Kindle Paperwhite 16 GB (2024)** é a compra certa para quem quer ler mais e com conforto: a tela de 7 polegadas, a luz quente e a bateria para semanas tornam a leitura mais agradável que no celular, e a biblioteca digital resolve o espaço e o peso dos livros de papel. **Compre** se você lê várias vezes por semana, principalmente à noite ou perto de água. **Não compre** se lê pouco, se quer o leitor mais leve e barato (o Kindle básico atende) ou se botões físicos de página são indispensáveis para você.
 
-Antes de fechar, confira se o anúncio é do modelo 2024 de 7 polegadas, guarde a nota fiscal e teste a tela nos primeiros dias. Se você lê para estudar ou trabalhar, vale também cuidar da postura e da iluminação do seu canto de leitura, tema dos nossos guias de escritório e estudos.
+Antes de fechar, confira se o anúncio é do modelo 2024 de 7 polegadas, guarde a nota fiscal e teste a tela nos primeiros dias. Se você lê para estudar ou trabalhar, vale também cuidar da postura e da iluminação do seu canto de leitura, tema dos nossos artigos de escritório e estudos.

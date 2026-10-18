@@ -135,7 +135,7 @@ Falta, em comparação com mochilas escolares mais organizadas, um bolso frontal
 
 O peso vazio de 370 g é um dos pontos fortes: mochilas escolares comuns passam de meio quilo antes de entrar o primeiro caderno. As alças são acolchoadas, com reguladores, e o painel das costas é em mesh 3D, que ajuda a ventilar e reduz o calor no contato com a camiseta.
 
-A limitação é estrutural. Não há **cinta peitoral** nem **alça de cintura**, e o acolchoamento é fino, típico de mochila de entrada. Com pouca carga, isso não incomoda. Com muito peso, a carga fica toda nos ombros. A regra prática vale para qualquer mochila: pese a bolsa cheia e mantenha até 10% do peso do usuário, especialmente em crianças e adolescentes. Para quem já sente dor nas costas, nosso guia da [melhor mochila escolar](/melhores/melhor-mochila-escolar/) traz modelos com rodinhas e mais sustentação.
+A limitação é estrutural. Não há **cinta peitoral** nem **alça de cintura**, e o acolchoamento é fino, típico de mochila de entrada. Com pouca carga, isso não incomoda. Com muito peso, a carga fica toda nos ombros. A regra prática vale para qualquer mochila: pese a bolsa cheia e mantenha até 10% do peso do usuário, especialmente em crianças e adolescentes. Para quem já sente dor nas costas, nosso artigo da [melhor mochila escolar](/melhores/melhor-mochila-escolar/) traz modelos com rodinhas e mais sustentação.
 
 Julgamento: **confortável para carga leve**, aquém do ideal para carga alta.
 
@@ -155,8 +155,8 @@ Não encontramos, fora da Amazon, resenhas independentes em blog ou vídeo que t
 
 ## Alternativas que vale considerar
 
-- **Olympikus Prime:** do mesmo fabricante, tem cerca de 21 litros, três bolsos frontais com zíper e tecido mais encorpado, mas é mais pesada (cerca de 0,5 kg). Está no nosso guia da [melhor mochila escolar](/melhores/melhor-mochila-escolar/). Vence para quem leva notebook e material todo dia.
-- **Xeryus Trendy:** também no guia, é leve (370 g) em nylon crinkle e vale como alternativa de custo-benefício.
+- **Olympikus Prime:** do mesmo fabricante, tem cerca de 21 litros, três bolsos frontais com zíper e tecido mais encorpado, mas é mais pesada (cerca de 0,5 kg). Está no nosso artigo da [melhor mochila escolar](/melhores/melhor-mochila-escolar/). Vence para quem leva notebook e material todo dia.
+- **Xeryus Trendy:** também no artigo, é leve (370 g) em nylon crinkle e vale como alternativa de custo-benefício.
 - **Mochila com rodinhas:** para criança pequena com muito material e trajeto plano, tirar o peso das costas é melhor do que qualquer mochila leve.
 
 ## Dicas para tirar o máximo da Essential

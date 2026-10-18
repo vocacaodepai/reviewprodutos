@@ -237,7 +237,7 @@ O esmalte comum fica na **faixa de entrada**; o conjunto do gel, mesmo com a lâ
 
 ## Quando procurar um dermatologista
 
-Pare o uso do gel e procure um dermatologista se aparecer coceira, vermelhidão, inchaço, bolhas, dor ao redor da unha ou descamação nas mãos depois de uma manicure. A National Geographic Brasil lembra que a alergia a acrilatos costuma ser permanente, então insistir depois do primeiro sinal não é uma boa ideia. Quem tem unhas frágeis, doenças de pele nas mãos ou gestação deve falar com o profissional antes de começar. Para cuidar da pele irritada depois da pausa, veja também a comparação [Cicaplast B5 ou Bepantol Derma](/comparativos/cicaplast-b5-ou-bepantol-derma/) e o guia de [protetor solar facial](/melhores/melhor-protetor-solar-facial-pele-oleosa/) para escolher um filtro de textura leve; o produto para o rosto não substitui a orientação médica.
+Pare o uso do gel e procure um dermatologista se aparecer coceira, vermelhidão, inchaço, bolhas, dor ao redor da unha ou descamação nas mãos depois de uma manicure. A National Geographic Brasil lembra que a alergia a acrilatos costuma ser permanente, então insistir depois do primeiro sinal não é uma boa ideia. Quem tem unhas frágeis, doenças de pele nas mãos ou gestação deve falar com o profissional antes de começar. Para cuidar da pele irritada depois da pausa, veja também a comparação [Cicaplast B5 ou Bepantol Derma](/comparativos/cicaplast-b5-ou-bepantol-derma/) e o artigo de [protetor solar facial](/melhores/melhor-protetor-solar-facial-pele-oleosa/) para escolher um filtro de textura leve; o produto para o rosto não substitui a orientação médica.
 
 ## Veredito
 

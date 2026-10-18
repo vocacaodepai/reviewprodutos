@@ -262,7 +262,7 @@ O robô tem reservatório nominal de 250 ml (o GDM mediu cerca de 150 ml úteis)
 
 ## Preço e custo-benefício
 
-Os dois ficam na **faixa de entrada** dos aspiradores. O W100 aparece nos comparadores em várias lojas, e a faixa de preço de mercado está no card. Do High Speed, os comparadores que consultamos mostraram o modelo em uma única loja, por isso não montamos faixa de preço de mercado para ele; confira as ofertas antes de decidir. A diferença de custo entre os dois é pequena perto do que cada um resolve. O robô compra tempo livre; o vertical compra alcance e potência. Se o orçamento só permite um, escolha pela sua casa: piso liso e pouca paciência, robô; tapete, escada ou sofá, vertical. Para robôs com base de recarga e app, veja o nosso guia dos [melhores robôs aspiradores custo-benefício](/melhores/melhor-robo-aspirador-custo-beneficio/).
+Os dois ficam na **faixa de entrada** dos aspiradores. O W100 aparece nos comparadores em várias lojas, e a faixa de preço de mercado está no card. Do High Speed, os comparadores que consultamos mostraram o modelo em uma única loja, por isso não montamos faixa de preço de mercado para ele; confira as ofertas antes de decidir. A diferença de custo entre os dois é pequena perto do que cada um resolve. O robô compra tempo livre; o vertical compra alcance e potência. Se o orçamento só permite um, escolha pela sua casa: piso liso e pouca paciência, robô; tapete, escada ou sofá, vertical. Para robôs com base de recarga e app, veja o nosso artigo dos [melhores robôs aspiradores custo-benefício](/melhores/melhor-robo-aspirador-custo-beneficio/).
 
 ## Escolha o WAP Robot W100 se...
 

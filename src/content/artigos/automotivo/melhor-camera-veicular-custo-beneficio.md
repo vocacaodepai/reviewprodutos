@@ -366,9 +366,9 @@ Se você quer registrar o trânsito para ter prova em um acidente ou golpe sem g
 
 Quem precisa de GPS e câmera traseira deve olhar a **70mai A500S-1**; motorista de aplicativo que quer gravar frente e passageiros ao mesmo tempo, a **Intelbras DC 3201 2K+**. A **70mai M310** continua uma boa compra quando aparece bem abaixo da Plus, e a **70mai 1S** ficou para trás.
 
-## Para quem é este guia
+## Para quem é este artigo
 
-Este guia é para quem já ouviu (ou viveu) a história: alguém bate no seu carro e muda a versão na hora de chamar o seguro, um motociclista simula uma batida para pedir dinheiro, ou uma discussão no trânsito vira a sua palavra contra a do outro. Uma câmera veicular resolve esse problema com um vídeo, desde que o vídeo seja nítido e o aparelho não pare de funcionar no primeiro verão.
+Este artigo é para quem já ouviu (ou viveu) a história: alguém bate no seu carro e muda a versão na hora de chamar o seguro, um motociclista simula uma batida para pedir dinheiro, ou uma discussão no trânsito vira a sua palavra contra a do outro. Uma câmera veicular resolve esse problema com um vídeo, desde que o vídeo seja nítido e o aparelho não pare de funcionar no primeiro verão.
 
 Também serve para quem pesquisou "70mai 1S ou M310" e se perdeu no mar de modelos parecidos com nomes quase iguais. A boa notícia é que, para o uso urbano, não é preciso gastar muito. A má é que as câmeras baratas economizam justamente onde o brasileiro mais sofre: calor dentro do carro e imagem noturna. Se você quer o detalhe de um modelo específico, leia também nosso review da 70mai M310.
 
@@ -378,7 +378,7 @@ Partimos de modelos de 70mai e Intelbras vendidos na Amazon Brasil em outubro de
 
 Não houve teste físico destes modelos pela nossa equipe: esta é uma análise de especificações oficiais das fabricantes, avaliações técnicas independentes (como as do DashCamTalk) e relatos públicos de usuários em fóruns, fora da Amazon.
 
-O dado próprio deste guia é a **matriz de calor**: o tipo de reserva de energia e a temperatura máxima declarada de cada câmera. É o ponto que mais derruba dash cam no Brasil e que quase nenhum anúncio destaca.
+O dado próprio deste artigo é a **matriz de calor**: o tipo de reserva de energia e a temperatura máxima declarada de cada câmera. É o ponto que mais derruba dash cam no Brasil e que quase nenhum anúncio destaca.
 
 | Modelo | Reserva de energia | Temperatura máxima declarada | Segunda câmera | GPS |
 | --- | --- | --- | --- | --- |
@@ -470,4 +470,4 @@ Use microSD de alta resistência e respeite o limite de cada modelo. Teste o app
 
 Para a maioria dos motoristas, a **70mai M310 Plus 2K** é a escolha: imagem 2K, lente luminosa para a noite e flexibilidade da lente giratória, sem passar para a faixa das câmeras com GPS. Se o seu carro fica no sol todos os dias ou você quer gastar o mínimo com garantia nacional, vá de **Intelbras DC1** e aceite o Full HD. Precisa de GPS e traseira? **70mai A500S-1**, sabendo que a bateria pede cuidado no verão. Dirige por aplicativo? **Intelbras DC 3201 2K+**, que grava a cabine no escuro. A **M310** só vale com desconto grande sobre a Plus, e a **1S** ficou para trás.
 
-Antes de comprar, confira no anúncio o nome exato do modelo, o que vem na caixa (cartão, kit de alimentação, câmera traseira) e quem é o vendedor. Para entender a fundo a câmera mais vendida da 70mai, leia nosso review da 70mai M310; e, se você passa horas ao volante, veja também nosso guia sobre dor nas costas ao dirigir, com mais opções na categoria de eletrônicos automotivos.
+Antes de comprar, confira no anúncio o nome exato do modelo, o que vem na caixa (cartão, kit de alimentação, câmera traseira) e quem é o vendedor. Para entender a fundo a câmera mais vendida da 70mai, leia nosso review da 70mai M310; e, se você passa horas ao volante, veja também nosso artigo sobre dor nas costas ao dirigir, com mais opções na categoria de eletrônicos automotivos.

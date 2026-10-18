@@ -156,7 +156,7 @@ A página do produto informa **garantia contra defeitos de fabricação**, sem d
 
 ## O que dizem os consumidores
 
-Fora da Amazon, o que existe são blogs de corrida e canais especializados, e a maioria é favorável. Os guias para iniciantes tratam o Corre 4 como "pau para toda obra", do primeiro trote até os primeiros 10 km, e o O2Corre o classifica na categoria custo-benefício, destacando leveza e estabilidade como pontos fortes. Rodrigo Roehniss vai além e diz que, para uma maratona, escolheria o Corre 4 em vez de um importado que custa mais que o dobro, pelo encaixe e pela sensação.
+Fora da Amazon, o que existe são blogs de corrida e canais especializados, e a maioria é favorável. Os artigos para iniciantes tratam o Corre 4 como "pau para toda obra", do primeiro trote até os primeiros 10 km, e o O2Corre o classifica na categoria custo-benefício, destacando leveza e estabilidade como pontos fortes. Rodrigo Roehniss vai além e diz que, para uma maratona, escolheria o Corre 4 em vez de um importado que custa mais que o dobro, pelo encaixe e pela sensação.
 
 Duas ressalvas. Primeiro, alguns textos são de lojas ou de parceiros comerciais e não listam defeitos. Segundo, a crítica real, nos relatos mais independentes, é a lingueta sem enchimento e a dúvida sobre a durabilidade do solado a longo prazo.
 

@@ -375,9 +375,9 @@ Se você quer começar a tomar whey sem pagar caro e sem cair em produto ruim, o
 
 Quem quer o padrão importado deve olhar o **Optimum Nutrition Gold Standard**, com 24 g de proteína e whey isolado como base, pagando bem mais por isso. Para gastar o mínimo, **Probiótica 100% Pure Whey** e **Integralmédica Whey 100% Pure** fazem o básico com 21 g por dose. O **Black Skull Whey 100% HD** fecha a lista com uma ressalva importante sobre colágeno na fórmula.
 
-## Para quem é este guia
+## Para quem é este artigo
 
-Este guia é para quem vai comprar o primeiro pote de whey, ou para quem já compra e desconfia que está pagando caro demais. A dúvida é sempre a mesma: com dezenas de marcas na prateleira, qual entrega a proteína que promete sem custar uma fortuna? E, depois das notícias de 2024 sobre marcas com proteína abaixo do rótulo, qual dá para confiar?
+Este artigo é para quem vai comprar o primeiro pote de whey, ou para quem já compra e desconfia que está pagando caro demais. A dúvida é sempre a mesma: com dezenas de marcas na prateleira, qual entrega a proteína que promete sem custar uma fortuna? E, depois das notícias de 2024 sobre marcas com proteína abaixo do rótulo, qual dá para confiar?
 
 Aqui não há fórmula mágica. Whey é proteína do soro do leite em pó: um alimento prático para completar a proteína do dia, não um remédio nem um atalho para ganhar músculo. Ele ajuda quem tem dificuldade de bater a meta de proteína só com comida, quem treina e quer praticidade no lanche, e idosos que comem pouca carne. Se você já come bem, talvez nem precise.
 
@@ -387,7 +387,7 @@ Partimos das marcas mais citadas em guias de compra brasileiros, como os da Busc
 
 Não houve teste físico destes produtos pela nossa equipe: esta é uma análise de rótulos e fichas oficiais, de notícias sobre laudos e de fontes especializadas.
 
-O dado próprio deste guia é a **proteína por pote**. Preço muda todo dia, mas a quantidade de proteína no pote não. Com ela, você calcula o custo real em segundos:
+O dado próprio deste artigo é a **proteína por pote**. Preço muda todo dia, mas a quantidade de proteína no pote não. Com ela, você calcula o custo real em segundos:
 
 | Produto | Proteína por dose | % de proteína na dose | Proteína por pote |
 | --- | --- | --- | --- |
@@ -408,7 +408,7 @@ Para quem é: quem quer um concentrado nacional com proteína acima da média e 
 
 ## 2. Max Titanium 100% Whey: melhor custo-benefício
 
-O Max Titanium é o concentrado que costuma aparecer nos guias de "whey barato" da Buscapé, e por bons motivos: 21 g de proteína por dose de 30 g, 4,6 g de BCAA e 10 g de aminoácidos essenciais, segundo a ficha da embalagem, com preço de entrada. Os ingredientes são proteína concentrada do soro do leite, aromatizante, espessante, edulcorantes e lecitina de soja, e o produto é sem glúten.
+O Max Titanium é o concentrado que costuma aparecer nos artigos de "whey barato" da Buscapé, e por bons motivos: 21 g de proteína por dose de 30 g, 4,6 g de BCAA e 10 g de aminoácidos essenciais, segundo a ficha da embalagem, com preço de entrada. Os ingredientes são proteína concentrada do soro do leite, aromatizante, espessante, edulcorantes e lecitina de soja, e o produto é sem glúten.
 
 Sobre confiabilidade, o histórico pede contexto. Outros dois produtos da marca, o Whey Blend e o Whey Pro, apareceram na lista da Abenutri que motivou a Senacon em 2024; este 100% Whey não estava nela. Segundo o ICTQ, uma perícia judicial no processo movido pela Supley, dona da marca, considerou os produtos dentro das normas vigentes, e a Anvisa não encontrou irregularidade de teor no procedimento da Senacon. Para quem é: iniciantes que querem gastar pouco. O que decepciona: contém lactose e há versão refil com outro código, então confira se está comprando o pote.
 
@@ -470,4 +470,4 @@ Whey é alimento, mas não é para todo mundo sem orientação. Converse com mé
 
 ## Veredito
 
-Para a maioria das pessoas que querem começar no whey gastando bem, compre o **Dux Whey Protein Concentrado**: mais proteína por dose, ingredientes simples e sem controvérsias. Se o orçamento manda, o **Max Titanium 100% Whey** entrega 21 g por dose com o menor custo por grama entre as marcas conhecidas. Quer o importado de referência? **Optimum Nutrition Gold Standard**. Intolerante à lactose? Procure a versão Zero Lactose da **Probiótica**. Em qualquer caso, faça a conta da proteína por pote antes de pagar e lembre que o whey só completa a proteína que falta na sua alimentação. Para montar a rotina de treino em casa, veja também nossos guias de equipamentos de musculação e esteiras na categoria de esportes e lazer.
+Para a maioria das pessoas que querem começar no whey gastando bem, compre o **Dux Whey Protein Concentrado**: mais proteína por dose, ingredientes simples e sem controvérsias. Se o orçamento manda, o **Max Titanium 100% Whey** entrega 21 g por dose com o menor custo por grama entre as marcas conhecidas. Quer o importado de referência? **Optimum Nutrition Gold Standard**. Intolerante à lactose? Procure a versão Zero Lactose da **Probiótica**. Em qualquer caso, faça a conta da proteína por pote antes de pagar e lembre que o whey só completa a proteína que falta na sua alimentação. Para montar a rotina de treino em casa, veja também nossos artigos de equipamentos de musculação e esteiras na categoria de esportes e lazer.

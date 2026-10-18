@@ -188,7 +188,7 @@ A garantia das lavadoras residenciais da Kärcher é de **1 ano**: 3 meses de ga
 
 ## O que dizem os consumidores
 
-Não conseguimos consolidar, fora da Amazon, um volume de reclamações específico da K2 Plus: o Reclame Aqui agrupa por empresa e o acesso à página da Kärcher foi bloqueado durante a pesquisa, por isso não citamos nota ou número de queixas. O que encontramos em fontes abertas é consistente. O relato de uso doméstico do Schahin elogia a praticidade e a facilidade de trocar bicos, e lista como contras a mangueira curta, a espuma pouco densa, a demora em sujeira pesada e o acabamento da alça. O guia do Melhor Lavadora de Pressão (julho de 2026) destaca o peso baixo e a boa adequação a limpezas rápidas, e repete a limitação: pressão contida para quintais grandes e motor que não é para uso diário. Ambos são sites com links de afiliados, então vale ler como opiniões, não como testes de laboratório.
+Não conseguimos consolidar, fora da Amazon, um volume de reclamações específico da K2 Plus: o Reclame Aqui agrupa por empresa e o acesso à página da Kärcher foi bloqueado durante a pesquisa, por isso não citamos nota ou número de queixas. O que encontramos em fontes abertas é consistente. O relato de uso doméstico do Schahin elogia a praticidade e a facilidade de trocar bicos, e lista como contras a mangueira curta, a espuma pouco densa, a demora em sujeira pesada e o acabamento da alça. O artigo do Melhor Lavadora de Pressão (julho de 2026) destaca o peso baixo e a boa adequação a limpezas rápidas, e repete a limitação: pressão contida para quintais grandes e motor que não é para uso diário. Ambos são sites com links de afiliados, então vale ler como opiniões, não como testes de laboratório.
 
 ## Alternativas que vale considerar
 
@@ -196,7 +196,7 @@ Não conseguimos consolidar, fora da Amazon, um volume de reclamações específ
 - **Kärcher K3 Force Turbo:** 1815 psi, 360 l/h e 1500 W, com canhão de espuma, alça longa e Stop Total, indicada pela marca para uso mais frequente e pesado (muros, calçadas, telhados). É o salto natural para quem acha a K2 pequena.
 - **Kärcher K5:** 2100 psi, 380 l/h e motor de indução, para garagens, calçadas e muros com uso frequente. Custa bem mais, mas resolve o limite de durabilidade do motor universal.
 
-Se você está equipando a casa com tecnologia que faz o trabalho pesado por você, veja também nosso review do [robô aspirador WAP Robot W100](/reviews/robo-aspirador-wap-robot-w100-vale-a-pena/) e o guia de [melhor robô aspirador custo-benefício](/melhores/melhor-robo-aspirador-custo-beneficio/).
+Se você está equipando a casa com tecnologia que faz o trabalho pesado por você, veja também nosso review do [robô aspirador WAP Robot W100](/reviews/robo-aspirador-wap-robot-w100-vale-a-pena/) e o artigo de [melhor robô aspirador custo-benefício](/melhores/melhor-robo-aspirador-custo-beneficio/).
 
 ## Dicas para tirar o máximo da K2 Plus
 

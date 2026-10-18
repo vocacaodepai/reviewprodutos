@@ -300,11 +300,11 @@ Se você quer a melhor mala de bordo sem pensar muito, a **Samsonite Bahia Lite*
 
 Em todos os casos, a regra que mais derruba viajante no portão não é a medida, é o peso: os 10 kg incluem a mala vazia.
 
-## Para quem é este guia
+## Para quem é este artigo
 
 Você provavelmente chegou aqui por um de dois caminhos. Ou está pesquisando "melhor mala de bordo" para a próxima viagem e se perdeu entre dezenas de anúncios que prometem "aprovada pela ANAC", ou já teve uma mala barrada no gabarito, despachada à força para o porão, e não quer repetir a experiência.
 
-Este guia serve para os dois. Reunimos cinco malas de mão de 10 kg vendidas na Amazon Brasil que respeitam os **55 x 35 x 25 cm** usados por Gol, Latam e Azul, e explicamos o que muda entre elas de verdade: polímero do casco, peso vazio, qualidade das rodas, tipo de cadeado e, algo que quase ninguém compara, como cada marca trata o cliente quando a mala quebra. Antes de olhar produtos, vale entender por que tanta mala "dentro do padrão" acaba no porão.
+Este artigo serve para os dois. Reunimos cinco malas de mão de 10 kg vendidas na Amazon Brasil que respeitam os **55 x 35 x 25 cm** usados por Gol, Latam e Azul, e explicamos o que muda entre elas de verdade: polímero do casco, peso vazio, qualidade das rodas, tipo de cadeado e, algo que quase ninguém compara, como cada marca trata o cliente quando a mala quebra. Antes de olhar produtos, vale entender por que tanta mala "dentro do padrão" acaba no porão.
 
 ## Como escolhemos
 
@@ -312,7 +312,7 @@ Partimos de 14 modelos de mala de bordo rígida das marcas mais vendidas no Bras
 
 As notas seguem cinco critérios com pesos declarados: resistência e materiais (25), medidas e peso dentro do padrão (20), rodas e manuseio (20), segurança e organização interna (15) e custo-benefício (20). A nota final é a média ponderada.
 
-Esta análise se baseia em especificações oficiais dos fabricantes e das fichas de venda, em guias especializados (Melhores Destinos, Mala de Aventuras), em reportagens sobre as regras de bagagem (Idec, Jornal do Comércio, Catraca Livre) e no histórico de reclamações no Reclame Aqui. Não houve teste físico das malas. O dado próprio deste guia é a tabela de reputação das marcas no Reclame Aqui, consultada em outubro de 2026:
+Esta análise se baseia em especificações oficiais dos fabricantes e das fichas de venda, em guias especializados (Melhores Destinos, Mala de Aventuras), em reportagens sobre as regras de bagagem (Idec, Jornal do Comércio, Catraca Livre) e no histórico de reclamações no Reclame Aqui. Não houve teste físico das malas. O dado próprio deste artigo é a tabela de reputação das marcas no Reclame Aqui, consultada em outubro de 2026:
 
 | Marca | Reputação | Nota média | Reclamações resolvidas | Período |
 | --- | --- | --- | --- | --- |
@@ -324,7 +324,7 @@ Esta análise se baseia em especificações oficiais dos fabricantes e das ficha
 
 ## 1. Samsonite Bahia Lite: melhor para quem viaja com frequência
 
-A Bahia Lite entrou em primeiro por resolver o problema central deste guia com margem: ela pesa **2,1 kg** vazia e tem **40 litros**, o que deixa quase 8 kg de franquia para suas roupas. Nas Sestini e na Swiss Move, dependendo da versão, você perde até 2,9 kg só com a mala. As medidas de 55 x 35 x 25 cm são exatamente o teto do padrão, então ela passa no gabarito fechada, e as quatro rodas duplas de 360 graus e o cadeado TSA completam o pacote que se espera de uma mala premium.
+A Bahia Lite entrou em primeiro por resolver o problema central deste artigo com margem: ela pesa **2,1 kg** vazia e tem **40 litros**, o que deixa quase 8 kg de franquia para suas roupas. Nas Sestini e na Swiss Move, dependendo da versão, você perde até 2,9 kg só com a mala. As medidas de 55 x 35 x 25 cm são exatamente o teto do padrão, então ela passa no gabarito fechada, e as quatro rodas duplas de 360 graus e o cadeado TSA completam o pacote que se espera de uma mala premium.
 
 O que mais pesa a favor é a **garantia de 5 anos**, contra 3 meses nas marcas de entrada. A Samsonite Brasil mantém reputação "Ótimo" no Reclame Aqui, com 87,3% das reclamações resolvidas, mas as queixas recentes merecem atenção: há relatos de garantia negada sem inspeção física e de confusão sobre quais modelos têm cobertura de 10 anos. Guarde a nota fiscal e abra o chamado pelo formulário oficial.
 
@@ -356,11 +356,11 @@ As ressalvas são as mesmas da irmã: fichas que divergem no peso vazio (2 kg a 
 
 ## 5. Swiss Move Londres: melhor para quem viaja pouco e quer gastar o mínimo
 
-A Swiss Move Londres é a mala de entrada deste guia e tem um diferencial raro na faixa: **rodas removíveis com um clique**. A roda é a peça que mais quebra em mala de bordo, e aqui você troca em casa, sem assistência técnica. As medidas de 55 x 35 x 22 cm ficam dentro do padrão, com 3 cm de folga na profundidade, e o cadeado embutido de segredo resolve voos nacionais.
+A Swiss Move Londres é a mala de entrada deste artigo e tem um diferencial raro na faixa: **rodas removíveis com um clique**. A roda é a peça que mais quebra em mala de bordo, e aqui você troca em casa, sem assistência técnica. As medidas de 55 x 35 x 22 cm ficam dentro do padrão, com 3 cm de folga na profundidade, e o cadeado embutido de segredo resolve voos nacionais.
 
 A surpresa positiva é a reputação: a Swiss Move aparece com "Ótimo" no Reclame Aqui, nota 8,0/10 e 93,9% das reclamações resolvidas entre fevereiro e julho de 2026, melhor que a Sestini e perto da Samsonite. A garantia, porém, é de apenas 3 meses.
 
-O que decepciona é o material. O **ABS** é o polímero mais barato entre os cascos rígidos: mais leve que o policarbonato na teoria, mas, nesta mala, o peso vazio fica na casa de 2,9 kg segundo guias especializados, o maior do guia, e o ABS trinca em quedas fortes onde o polipropileno apenas amassa e volta. Para uma ou duas viagens por ano, em que a mala vai no bagageiro superior e volta para o armário, isso é aceitável. Para quem viaja todo mês ou despacha com frequência, não.
+O que decepciona é o material. O **ABS** é o polímero mais barato entre os cascos rígidos: mais leve que o policarbonato na teoria, mas, nesta mala, o peso vazio fica na casa de 2,9 kg segundo guias especializados, o maior do artigo, e o ABS trinca em quedas fortes onde o polipropileno apenas amassa e volta. Para uma ou duas viagens por ano, em que a mala vai no bagageiro superior e volta para o armário, isso é aceitável. Para quem viaja todo mês ou despacha com frequência, não.
 
 ## Como escolher mala de bordo: o que importa de verdade
 
@@ -398,7 +398,7 @@ Além da mala de bordo, você tem direito a um item pessoal que caiba sob o asse
 
 ## O que não recomendamos (e por quê)
 
-- **Jacki Design Premium de bordo (ABS, 57 x 38 x 22 cm):** o anúncio diz que está "dentro do padrão aprovado pela ANAC", mas a própria ficha informa 57 cm de altura e 38 cm de largura, acima dos 55 x 35 cm. Pode passar em um gabarito mais tolerante e ser barrada em outro. Para um guia sobre não ter a mala despachada, é um risco que não vale correr. A marca também não tem reputação definida no Reclame Aqui e levou, em média, 37 dias para responder reclamações no primeiro semestre de 2026.
+- **Jacki Design Premium de bordo (ABS, 57 x 38 x 22 cm):** o anúncio diz que está "dentro do padrão aprovado pela ANAC", mas a própria ficha informa 57 cm de altura e 38 cm de largura, acima dos 55 x 35 cm. Pode passar em um gabarito mais tolerante e ser barrada em outro. Para um artigo sobre não ter a mala despachada, é um risco que não vale correr. A marca também não tem reputação definida no Reclame Aqui e levou, em média, 37 dias para responder reclamações no primeiro semestre de 2026.
 - **Malas de 55 x 40 x 25 cm vendidas como "padrão ANAC":** alguns anúncios usam 40 cm de largura, medida aceita por companhias estrangeiras, não pelo gabarito brasileiro de 35 cm.
 - **Malas genéricas sem marca com garantia não informada:** sem fabricante identificável, não há a quem recorrer quando a roda quebra. Na faixa de entrada, a Swiss Move Londres custa pouco mais e tem reputação verificável.
 

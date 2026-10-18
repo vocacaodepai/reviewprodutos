@@ -197,7 +197,7 @@ Não encontramos um volume consolidado de reclamações da marca no Reclame Aqui
 - **Amicus Aqua Mini (1,2 litro):** tigela e torneira de aço inox e bomba USB de 5 V, sem tensão de tomada na água. Menor capacidade, mas é a mais fácil de lavar e a mais segura em casa com filhote.
 - **Petlon Premium (2,5 litros):** a irmã com acabamento metalizado e o mesmo princípio de cascata, nascente e reservatório. Vale se você gosta do visual, mas a bomba e a garantia seguem o mesmo padrão da Clássica.
 
-Para ver as cinco fontes lado a lado, com a tabela de manutenção e reposição, consulte o nosso guia de melhor fonte de água para gatos.
+Para ver as cinco fontes lado a lado, com a tabela de manutenção e reposição, consulte o nosso artigo de melhor fonte de água para gatos.
 
 ## Dicas para tirar o máximo da fonte Petlon
 

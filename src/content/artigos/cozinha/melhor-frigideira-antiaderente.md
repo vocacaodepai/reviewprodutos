@@ -293,9 +293,9 @@ relacionados: ["melhor-air-fryer-familia-grande"]
 
 Se a sua frigideira antiaderente começou a grudar e a descascar em poucos meses, o problema costuma estar menos na marca e mais no tipo de revestimento, no fogão e na rotina de lavagem. Entre as cinco de 24 cm que comparamos, a **Tramontina Mônaco Induction** é a melhor no geral: corpo de 3 mm, antiaderente Starflon Premium dentro e fora, tampa, lava-louças liberada e fundo de indução. O **melhor custo-benefício** é a **Tramontina Loreto Funda**, leve e barata, desde que o seu fogão seja a gás, elétrico ou vitrocerâmico. Se você quer cerâmica com indução, a **Brinox Sirius** é a candidata, e precisa ser lavada à mão.
 
-## Para quem é este guia
+## Para quem é este artigo
 
-Este guia é para quem já trocou de frigideira mais de uma vez porque o ovo passou a grudar, a pintura soltou ou a base empenou. Também serve para quem acabou de instalar um cooktop de indução e descobriu que parte das panelas antigas não funciona nele. A pergunta de fundo é simples: qual frigideira antiaderente entrega o melhor uso diário e o que fazer para ela durar mais?
+Este artigo é para quem já trocou de frigideira mais de uma vez porque o ovo passou a grudar, a pintura soltou ou a base empenou. Também serve para quem acabou de instalar um cooktop de indução e descobriu que parte das panelas antigas não funciona nele. A pergunta de fundo é simples: qual frigideira antiaderente entrega o melhor uso diário e o que fazer para ela durar mais?
 
 Fixamos o diâmetro em 24 cm, o tamanho mais comum para uma ou duas pessoas, para comparar o que é comparável. Se você procura outros itens de cozinha, veja a página de [panelas e frigideiras](/categoria/cozinha/panelas-e-frigideiras/) e a de [cozinha](/categoria/cozinha/).
 
@@ -305,7 +305,7 @@ Partimos de uma lista de nomes muito vendidos no Brasil (Tramontina Paris, Lyon 
 
 Os critérios, com peso: antiaderência e revestimento (25%), compatibilidade com fogões (15%), limpeza e praticidade (20%), durabilidade e construção (20%) e custo-benefício (20%). Não houve teste físico dos produtos pela nossa equipe: a análise se baseia em especificações oficiais, fontes especializadas e informações públicas.
 
-O dado próprio deste guia é a **matriz de compatibilidade e cuidados** abaixo, montada só com o que cada fabricante declara na ficha.
+O dado próprio deste artigo é a **matriz de compatibilidade e cuidados** abaixo, montada só com o que cada fabricante declara na ficha.
 
 | Modelo | Corpo | Revestimento | Indução | Lava-louças | Garantia |
 | --- | --- | --- | --- | --- | --- |
@@ -347,9 +347,9 @@ Vale para uma ou duas pessoas que querem cerâmica e indução. Como a Sirius, n
 
 ## Durabilidade, garantia e o que dizem as fontes
 
-Nenhum fabricante da lista divulga vida útil em anos. A Tramontina declara 90 dias de garantia contra vícios ou defeitos de fabricação, o que cobre defeito de fábrica, não desgaste normal do antiaderente. Um guia de compras que consultamos estima de 2 a 5 anos de vida útil para antiaderentes Tramontina com bom uso, mas é uma estimativa editorial, não uma medição. O mesmo guia lembra que o Starflon é um antiaderente à base de PTFE: "livre de PFOA" não quer dizer "livre de PTFE".
+Nenhum fabricante da lista divulga vida útil em anos. A Tramontina declara 90 dias de garantia contra vícios ou defeitos de fabricação, o que cobre defeito de fábrica, não desgaste normal do antiaderente. Um artigo de compras que consultamos estima de 2 a 5 anos de vida útil para antiaderentes Tramontina com bom uso, mas é uma estimativa editorial, não uma medição. O mesmo guia lembra que o Starflon é um antiaderente à base de PTFE: "livre de PFOA" não quer dizer "livre de PTFE".
 
-Também não encontramos relatos independentes e consistentes, fora da Amazon, sobre quanto tempo cada um destes modelos específicos dura. Por isso, em vez de prometer anos, o guia se apoia no que os fabricantes declaram e nos cuidados que eles pedem.
+Também não encontramos relatos independentes e consistentes, fora da Amazon, sobre quanto tempo cada um destes modelos específicos dura. Por isso, em vez de prometer anos, o artigo se apoia no que os fabricantes declaram e nos cuidados que eles pedem.
 
 ## Como fazer a frigideira antiaderente durar
 
@@ -396,4 +396,4 @@ A garantia declarada pela Tramontina nas fichas é de 90 dias. Guarde a nota fis
 
 Para a maioria das casas, compre a **Tramontina Mônaco Induction**: é a que melhor combina parede grossa, revestimento dentro e fora, tampa e indução. Se o orçamento é curto e o fogão é a gás, elétrico ou vitrocerâmico, a **Tramontina Loreto Funda** resolve o dia a dia. Para cerâmica com indução, escolha a **Brinox Sirius** e lave à mão. A **Paris reta** serve a quem quer tampa em fogão sem indução, e a **Botanika** a quem cozinha porções pequenas.
 
-Antes de comprar, confira o fogão, o diâmetro e a cor exata do anúncio. Para outros itens da cozinha, veja o guia de [melhor air fryer para família grande](/melhores/melhor-air-fryer-familia-grande/) e a página de [cozinha](/categoria/cozinha/).
+Antes de comprar, confira o fogão, o diâmetro e a cor exata do anúncio. Para outros itens da cozinha, veja o artigo de [melhor air fryer para família grande](/melhores/melhor-air-fryer-familia-grande/) e a página de [cozinha](/categoria/cozinha/).

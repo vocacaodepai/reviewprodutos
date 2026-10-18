@@ -198,7 +198,7 @@ Para trabalhar o dia todo, a **ThunderX3 XTC Mesh** vence: encosto em tela que r
 
 Você monta (ou reforma) o home office e a pergunta aparece: a cadeira gamer, bonita e com almofadas, aguenta oito horas de trabalho, ou é só visual? A dúvida é legítima, porque a diferença entre as duas categorias não está no desenho, está nas regulagens e no material do assento e do encosto.
 
-Para a comparação ser justa, escolhemos duas cadeiras da **mesma marca**, a ThunderX3: a gamer **TGC12** e a ergonômica de escritório **XTC Mesh**. Assim, a diferença que sobra é a da categoria, não a de fabricante. Elas não estão na mesma faixa de preço, e isso entra na conta mais abaixo. Se você ainda está decidindo o resto da estação de trabalho, o guia de [dor nas costas no home office](/melhores/dor-nas-costas-no-home-office/) mostra os ajustes gratuitos que vêm antes de qualquer compra, e a página de [cadeiras e mesas](/categoria/escritorio-e-estudos/cadeiras-e-mesas/) reúne outras opções.
+Para a comparação ser justa, escolhemos duas cadeiras da **mesma marca**, a ThunderX3: a gamer **TGC12** e a ergonômica de escritório **XTC Mesh**. Assim, a diferença que sobra é a da categoria, não a de fabricante. Elas não estão na mesma faixa de preço, e isso entra na conta mais abaixo. Se você ainda está decidindo o resto da estação de trabalho, o artigo de [dor nas costas no home office](/melhores/dor-nas-costas-no-home-office/) mostra os ajustes gratuitos que vêm antes de qualquer compra, e a página de [cadeiras e mesas](/categoria/escritorio-e-estudos/cadeiras-e-mesas/) reúne outras opções.
 
 Esta é uma análise de especificações oficiais, de análises publicadas por veículos e blogs especializados e de relatos públicos de consumidores fora da Amazon; não houve teste físico pela nossa equipe.
 
@@ -210,7 +210,7 @@ Esta é uma análise de especificações oficiais, de análises publicadas por v
 
 ### Lombar
 
-Na TGC12, o apoio lombar é uma **almofada** que acompanha a cadeira, junto com a de pescoço. Funciona como o teste da toalha enrolada que sugerimos no guia de ergonomia: ajuda, mas não acompanha o movimento das costas. Na XTC Mesh, a lombar é de **ajuste automático**, segundo a loja oficial, e uma análise especializada diz que ela funciona bem durante o uso. O custo é a peça rígida no centro das costas, que algumas análises citam como desconfortável para certos biotipos.
+Na TGC12, o apoio lombar é uma **almofada** que acompanha a cadeira, junto com a de pescoço. Funciona como o teste da toalha enrolada que sugerimos no artigo de ergonomia: ajuda, mas não acompanha o movimento das costas. Na XTC Mesh, a lombar é de **ajuste automático**, segundo a loja oficial, e uma análise especializada diz que ela funciona bem durante o uso. O custo é a peça rígida no centro das costas, que algumas análises citam como desconfortável para certos biotipos.
 
 ### Braços e apoio de cabeça
 
@@ -222,7 +222,7 @@ A XTC Mesh traz o mecanismo **SYNC5**, em que encosto e assento se movem juntos 
 
 ### Altura, pistão e tamanho
 
-As duas têm pistão a gás **classe 4** com 8 cm de curso. Para a maioria das mesas, isso basta; quem tem mesa alta e é baixo vai querer um apoio para os pés, como explicamos no guia de ergonomia. A XTC Mesh mede 68 x 70 cm de base e 118 a 126 cm de altura; a TGC12, 68 x 71 cm e 128 a 138 cm, mais alta pelo encosto de corrida. O Olhar Digital indica a TGC12 para quem tem até 1,85 m.
+As duas têm pistão a gás **classe 4** com 8 cm de curso. Para a maioria das mesas, isso basta; quem tem mesa alta e é baixo vai querer um apoio para os pés, como explicamos no artigo de ergonomia. A XTC Mesh mede 68 x 70 cm de base e 118 a 126 cm de altura; a TGC12, 68 x 71 cm e 128 a 138 cm, mais alta pelo encosto de corrida. O Olhar Digital indica a TGC12 para quem tem até 1,85 m.
 
 ### Carga máxima
 
@@ -275,4 +275,4 @@ As duas ficam em degraus diferentes: a TGC12 na **faixa intermediária** e a XTC
 
 ## Veredito
 
-Se a pergunta é "cadeira gamer ou cadeira de escritório para o home office", a resposta é a de escritório quando a jornada é longa. A **ThunderX3 XTC Mesh** leva nossa escolha do editor por ventilar, ter lombar automática e regulagens que a gamer não oferece. A **ThunderX3 TGC12** é a opção barata e honesta para uso leve ou para quem joga mais do que trabalha. O terceiro caminho, para quem quer uma cadeira de escritório mais em conta que a XTC, está no guia de [dor nas costas no home office](/melhores/dor-nas-costas-no-home-office/), que analisa a DT3 Vita. Se a tela também é um problema, veja o [melhor monitor para home office](/melhores/melhor-monitor-para-home-office/). E lembre: dor nas costas que não melhora em duas semanas pede avaliação de fisioterapeuta ou médico, não uma cadeira nova.
+Se a pergunta é "cadeira gamer ou cadeira de escritório para o home office", a resposta é a de escritório quando a jornada é longa. A **ThunderX3 XTC Mesh** leva nossa escolha do editor por ventilar, ter lombar automática e regulagens que a gamer não oferece. A **ThunderX3 TGC12** é a opção barata e honesta para uso leve ou para quem joga mais do que trabalha. O terceiro caminho, para quem quer uma cadeira de escritório mais em conta que a XTC, está no artigo de [dor nas costas no home office](/melhores/dor-nas-costas-no-home-office/), que analisa a DT3 Vita. Se a tela também é um problema, veja o [melhor monitor para home office](/melhores/melhor-monitor-para-home-office/). E lembre: dor nas costas que não melhora em duas semanas pede avaliação de fisioterapeuta ou médico, não uma cadeira nova.

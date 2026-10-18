@@ -329,9 +329,9 @@ relacionados: ["melhor-air-fryer-familia-grande", "mondial-grand-family-vs-elect
 
 Para a maioria das casas, o **LG MS3091BC de 30 litros** é o micro-ondas mais equilibrado desta lista: selo Procel A, 16 receitas, revestimento Easy Clean e tamanho que atende bem de 3 a 5 pessoas. O **melhor custo-benefício** é o **Panasonic NN-ST25LWRU de 21 litros**, para quem mora sozinho ou em casal. O **Electrolux MI41S** vence no acabamento, o **Consul CMS46AR** na capacidade e o **Philco PMO23EB** no espaço ocupado.
 
-## Para quem é este guia
+## Para quem é este artigo
 
-Este guia é para quem precisa trocar o micro-ondas e já se perdeu entre litros, watts e voltagem. O erro mais comum é comprar pelo número do anúncio: um aparelho de 31 litros pode ter bem menos espaço útil, e uma potência de 1.100 W pode ser só o consumo na tomada. O resultado é um micro-ondas que não aceita o prato da família ou demora para esquentar.
+Este artigo é para quem precisa trocar o micro-ondas e já se perdeu entre litros, watts e voltagem. O erro mais comum é comprar pelo número do anúncio: um aparelho de 31 litros pode ter bem menos espaço útil, e uma potência de 1.100 W pode ser só o consumo na tomada. O resultado é um micro-ondas que não aceita o prato da família ou demora para esquentar.
 
 Aqui a escolha é organizada pelo tamanho da cozinha e da casa. Se você também está montando a cozinha, veja a página de [geladeiras, fogões e micro-ondas](/categoria/cozinha/geladeiras-fogoes-e-micro-ondas/) e o [guia de air fryer para família grande](/melhores/melhor-air-fryer-familia-grande/).
 
@@ -341,7 +341,7 @@ Partimos de seis nomes muito procurados: Electrolux MI41S, LG MS3091BC, Panasoni
 
 Os critérios, com peso: desempenho e potência (25%), capacidade e tamanho (20%), facilidade de uso e limpeza (20%), construção e garantia (15%) e custo-benefício (20%). Não houve teste físico dos produtos pela nossa equipe: a análise se baseia em fichas técnicas, comparadores e informações públicas.
 
-O dado próprio deste guia é a tabela abaixo, que separa **litros anunciados** da **potência informada**, porque os dois números enganam.
+O dado próprio deste artigo é a tabela abaixo, que separa **litros anunciados** da **potência informada**, porque os dois números enganam.
 
 | Modelo | Litros | Potência informada | Largura | Peso |
 | --- | --- | --- | --- | --- |
@@ -367,13 +367,13 @@ O que decepciona é a usabilidade do painel: parte dos botões só funciona com 
 
 O Consul traz a maior capacidade da lista, 32 litros, com 900 W, 10 níveis de potência, display digital, prato giratório, luz interna e trava de segurança. O Menu Fácil prepara pipoca, bolo de caneca, brigadeiro, omelete, arroz e pizza com um toque, e há descongelamento rápido e Tira Odor. A garantia é de 12 meses, sendo 3 legais e 9 do fabricante.
 
-Em compensação, é o maior e mais pesado: 53,8 cm de largura e 16,4 kg. O modelo anterior da linha, o CMS45, aparecia com selo Procel B em comparadores, então confira a etiqueta do CMS46 antes de decidir pelo consumo. Um guia de compras registra, para outro micro-ondas Consul, reclamação de barulho e demora para esquentar, o que vale checar no seu uso.
+Em compensação, é o maior e mais pesado: 53,8 cm de largura e 16,4 kg. O modelo anterior da linha, o CMS45, aparecia com selo Procel B em comparadores, então confira a etiqueta do CMS46 antes de decidir pelo consumo. Um artigo de compras registra, para outro micro-ondas Consul, reclamação de barulho e demora para esquentar, o que vale checar no seu uso.
 
 ## 4. Panasonic NN-ST25LWRU: melhor custo-benefício
 
 O Panasonic é a escolha racional para 1 a 3 pessoas. Com 21 litros, 700 W declarados e 10 níveis de potência, ele cuida do que se faz no dia a dia: esquentar comida, descongelar carne e preparar arroz, pipoca e brigadeiro. O Buscapé destaca a função Pega Fácil, que devolve o prato à posição em que você o deixou, a memória para três receitas e o revestimento Antibacteria Ag.
 
-O limite é o tamanho. O guia do Buscapé o indica para quem mora sozinho ou com mais uma pessoa, e outro guia diz que 21 litros ficam justos para família grande. Não aceita travessas largas, e o painel é de botões, sem Limpa Fácil. Garantia de 12 meses.
+O limite é o tamanho. O artigo do Buscapé o indica para quem mora sozinho ou com mais uma pessoa, e outro guia diz que 21 litros ficam justos para família grande. Não aceita travessas largas, e o painel é de botões, sem Limpa Fácil. Garantia de 12 meses.
 
 ## 5. Philco PMO23EB: melhor para cozinha mínima
 
@@ -418,4 +418,4 @@ Todos os modelos da lista informam 12 meses no anúncio. Guarde a nota fiscal e 
 
 Se a sua cozinha comporta, compre o **LG MS3091BC**: tamanho de família, Procel A e uso simples. Para casa pequena ou casal, o **Panasonic NN-ST25LWRU** entrega o essencial por menos. O **Electrolux MI41S** vale para quem quer o visual de painel integrado e aceita o aprendizado dos botões, o **Consul CMS46AR** para quem precisa de 32 litros e o **Philco PMO23EB** para espaço mínimo.
 
-Antes de comprar, confira a tomada, o diâmetro do prato e a largura da bancada. Para completar a cozinha, veja também o comparativo [Mondial Grand Family vs Electrolux EAF51](/comparativos/mondial-grand-family-vs-electrolux-eaf51/) e o guia de [melhor frigideira antiaderente](/melhores/melhor-frigideira-antiaderente/).
+Antes de comprar, confira a tomada, o diâmetro do prato e a largura da bancada. Para completar a cozinha, veja também o comparativo [Mondial Grand Family vs Electrolux EAF51](/comparativos/mondial-grand-family-vs-electrolux-eaf51/) e o artigo de [melhor frigideira antiaderente](/melhores/melhor-frigideira-antiaderente/).

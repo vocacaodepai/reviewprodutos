@@ -189,7 +189,7 @@ Se você quer um **liso definido, com brilho e que dure**, escolha a **prancha T
 
 Quem pesquisa "prancha ou escova secadora" quase sempre quer a mesma coisa: sair de casa com o cabelo liso e brilhoso sem passar horas no salão e sem sentir que está queimando os fios. As duas ferramentas prometem isso, mas por caminhos diferentes. A prancha alisa mecha por mecha, em cabelo já seco. A escova secadora junta secador e escova em um só aparelho e alinha enquanto seca.
 
-Escolhemos a **Taiff Titanium 450 Colors** e a **Philco Soft Brush** porque representam bem cada tipo: uma prancha de linha profissional de fabricante nacional e uma escova secadora de entrada, de marca conhecida e fácil de achar. Quem quiser ver outros secadores para a rotina de cabelo encontra opções em [cabelo](/categoria/beleza-e-cuidados-pessoais/cabelo/) e no nosso guia dos [melhores secadores de cabelo](/melhores/melhor-secador-de-cabelo-5-modelos-do-basico-ao-profissional/).
+Escolhemos a **Taiff Titanium 450 Colors** e a **Philco Soft Brush** porque representam bem cada tipo: uma prancha de linha profissional de fabricante nacional e uma escova secadora de entrada, de marca conhecida e fácil de achar. Quem quiser ver outros secadores para a rotina de cabelo encontra opções em [cabelo](/categoria/beleza-e-cuidados-pessoais/cabelo/) e no nosso artigo dos [melhores secadores de cabelo](/melhores/melhor-secador-de-cabelo-5-modelos-do-basico-ao-profissional/).
 
 Esta é uma análise de especificações oficiais, de fontes especializadas e de relatos públicos de consumidores fora da Amazon; não houve teste físico pela nossa equipe.
 
@@ -211,7 +211,7 @@ A Philco oferece opções de temperatura que incluem ar frio, mas **não informa
 
 ### Cuidado com os fios
 
-Nenhuma das duas é inofensiva. A Academia Americana de Dermatologia (AAD) afirma que calor excessivo pode danificar qualquer tipo de cabelo e orienta limitar o uso de secador e chapinha, preferir calor baixo ou médio e usar um produto que proteja do calor. Um guia da Catraca Livre sobre escovas secadoras chega à mesma ideia: o risco está no calor alto e no tempo parado em uma mecha, com ressecamento e pontas duplas quando se usa calor alto sem protetor térmico. As fontes que consultamos não declaram um vencedor claro entre os dois tipos; o que pesa é temperatura, frequência e tempo de contato. Quem tem queda de cabelo, quebra intensa ou química recente deve conversar com um dermatologista antes de aumentar o uso de calor.
+Nenhuma das duas é inofensiva. A Academia Americana de Dermatologia (AAD) afirma que calor excessivo pode danificar qualquer tipo de cabelo e orienta limitar o uso de secador e chapinha, preferir calor baixo ou médio e usar um produto que proteja do calor. Um artigo da Catraca Livre sobre escovas secadoras chega à mesma ideia: o risco está no calor alto e no tempo parado em uma mecha, com ressecamento e pontas duplas quando se usa calor alto sem protetor térmico. As fontes que consultamos não declaram um vencedor claro entre os dois tipos; o que pesa é temperatura, frequência e tempo de contato. Quem tem queda de cabelo, quebra intensa ou química recente deve conversar com um dermatologista antes de aumentar o uso de calor.
 
 ### Manuseio e aprendizado
 

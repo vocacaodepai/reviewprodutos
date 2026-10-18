@@ -156,7 +156,7 @@ Se você trabalha fora, a pergunta "comedouro automático vale a pena?" costuma 
 
 Comparamos dois **tipos** de solução, cada um representado por um modelo real: de um lado o alimentador automático **Intelar 4L**, de outro o comedouro manual de inox **Chalesco Duplo**. A ideia não é eleger a "melhor marca", e sim ajudar você a decidir se a máquina resolve o seu caso ou se um pote bom já basta. Esta é uma análise de especificações publicadas, de uma matéria especializada do TechTudo e de relatos públicos de consumidores fora da Amazon; não houve teste físico pela nossa equipe.
 
-Se o seu problema é água, veja também a [fonte de água Petlon 2L](/reviews/fonte-petlon-2l-e-boa/) e o guia de [fontes de água para gatos](/melhores/melhor-fonte-de-agua-para-gatos/). Mais opções na categoria de [alimentação e comedouros](/categoria/pets/alimentacao-e-comedouros/).
+Se o seu problema é água, veja também a [fonte de água Petlon 2L](/reviews/fonte-petlon-2l-e-boa/) e o artigo de [fontes de água para gatos](/melhores/melhor-fonte-de-agua-para-gatos/). Mais opções na categoria de [alimentação e comedouros](/categoria/pets/alimentacao-e-comedouros/).
 
 ## Frente a frente: o que muda na prática
 
@@ -232,4 +232,4 @@ Uma conta útil: se você consegue servir a ração em casa de manhã e à noite
 
 Para o leitor deste texto, que trabalha fora e quer manter os horários de alimentação, o **Intelar 4L** é a escolha mais coerente, desde que você trate a máquina como apoio e não como substituta. Programe as doses com orientação do veterinário, use pilhas novas como reserva e confira o equipamento no mesmo dia em que voltar. O **Chalesco Duplo** continua sendo o melhor custo-benefício para quem serve a ração em casa, e combina bem com a máquina como pote de água ou para as refeições de fim de semana.
 
-Se o pet fica sozinho por longos períodos e mostra sinais de ansiedade, vale ver também o guia sobre [cachorro destruindo a casa quando fica sozinho](/melhores/cachorro-destruindo-casa-sozinho/). E se a dúvida for a ração em si, o comparativo [Golden ou Premier](/comparativos/racao-golden-ou-premier/) ajuda.
+Se o pet fica sozinho por longos períodos e mostra sinais de ansiedade, vale ver também o artigo sobre [cachorro destruindo a casa quando fica sozinho](/melhores/cachorro-destruindo-casa-sozinho/). E se a dúvida for a ração em si, o comparativo [Golden ou Premier](/comparativos/racao-golden-ou-premier/) ajuda.

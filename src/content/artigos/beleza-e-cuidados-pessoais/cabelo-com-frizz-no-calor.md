@@ -359,7 +359,7 @@ Partimos de cinco categorias que respondem a etapas diferentes da rotina: um ól
 
 Não houve teste físico destes produtos pela nossa equipe: esta é uma análise de fichas oficiais, descrições de lojas e orientações de dermatologia. Por isso, as promessas aparecem atribuídas ao fabricante, e não como resultado garantido. Nenhum produto elimina o frizz de forma definitiva.
 
-O dado próprio deste guia é a matriz abaixo, que organiza cada item pelo momento da rotina em que ele entra:
+O dado próprio deste artigo é a matriz abaixo, que organiza cada item pelo momento da rotina em que ele entra:
 
 | Produto | Momento da rotina | Cabelo indicado | Passo extra |
 | --- | --- | --- | --- |

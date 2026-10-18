@@ -200,13 +200,13 @@ O erro mais comum é comprar a Adventure para treinar e descobrir que ela exige 
 
 A Adventure tem tampa antivazamento que também funciona como copo. Para beber, você desrosqueia, serve e fecha. É um ritual de pausa, bom em mesa, carro parado, barraca ou beira de rio, ruim em movimento.
 
-A Quick Flip troca isso por um sistema de abertura com botão de acionamento rápido. Segundo a Stanley, dá para abrir e beber com uma mão, por um bocal de alto fluxo, e a trava de segurança impede a abertura acidental dentro de bolsas e mochilas. Um guia de compras acrescenta alça integrada e boca larga para colocar gelo e limpar, e a página da cor Polar na Stanley Brasil também cita a alça.
+A Quick Flip troca isso por um sistema de abertura com botão de acionamento rápido. Segundo a Stanley, dá para abrir e beber com uma mão, por um bocal de alto fluxo, e a trava de segurança impede a abertura acidental dentro de bolsas e mochilas. Um artigo de compras acrescenta alça integrada e boca larga para colocar gelo e limpar, e a página da cor Polar na Stanley Brasil também cita a alça.
 
 ### Peso, tamanho e porta-copos
 
 Aqui está a maior diferença física. A Adventure pesa 679 g vazia e mede 8,9 x 8,9 x 30,5 cm; a Quick Flip pesa 410 g e mede 8,1 x 10,2 x 28,3 cm. Como 1 litro de água pesa cerca de 1 kg, a Adventure cheia chega a aproximadamente 1,7 kg, contra cerca de 1,1 kg da Quick Flip cheia. Na mochila de academia ou de bicicleta, isso se sente.
 
-No carro, a Adventure, com 8,9 cm de diâmetro, dificilmente entra no porta-copos. Um guia de compras descreve a Quick Flip como compatível com a maioria dos porta-copos; confirme as medidas do seu antes de comprar.
+No carro, a Adventure, com 8,9 cm de diâmetro, dificilmente entra no porta-copos. Um artigo de compras descreve a Quick Flip como compatível com a maioria dos porta-copos; confirme as medidas do seu antes de comprar.
 
 ### Retenção térmica: o que a Stanley declara
 
@@ -218,7 +218,7 @@ No carro, a Adventure, com 8,9 cm de diâmetro, dificilmente entra no porta-copo
 
 Os números da Adventure vêm da página da cor Matte Black na Stanley Brasil. A página da cor Ash traz outros números no texto descritivo (24 horas quente, 24 horas gelada e 8 dias com gelo), e a dimensão aparece incompleta. O recado prático é o mesmo em qualquer cor: com a garrafa cheia, o café da manhã chega ao fim do expediente.
 
-Na Quick Flip, as páginas da Stanley Brasil que abrimos (Black 2.0, Polar e Pomelo) concordam em 12 horas gelada e 40 horas com gelo, e nenhuma informa horas de bebida quente. Sites de terceiros divergem entre si: um guia de compras cita até 8 horas quente e uma matéria de revista cita 16 horas de conservação sem separar quente e fria. Como não há número oficial, trate a Quick Flip como garrafa de água gelada e deixe o café para a Adventure.
+Na Quick Flip, as páginas da Stanley Brasil que abrimos (Black 2.0, Polar e Pomelo) concordam em 12 horas gelada e 40 horas com gelo, e nenhuma informa horas de bebida quente. Sites de terceiros divergem entre si: um artigo de compras cita até 8 horas quente e uma matéria de revista cita 16 horas de conservação sem separar quente e fria. Como não há número oficial, trate a Quick Flip como garrafa de água gelada e deixe o café para a Adventure.
 
 Lembre que esses são tempos declarados, com a garrafa cheia e fechada. Garrafa pela metade e aberturas frequentes derrubam o resultado, e vale a regra de escaldar ou gelar a garrafa antes.
 
