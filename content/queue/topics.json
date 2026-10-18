@@ -5433,7 +5433,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "saco-de-dormir-nautika-viper-e-bom",
+      "published_at": "2026-10-18"
     },
     {
       "id": "esportes-e-lazer-review-009",
@@ -5479,7 +5481,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "scanner-obd2-elm327-bluetooth-e-bom",
+      "published_at": "2026-10-18"
     },
     {
       "id": "automotivo-review-007",
@@ -5619,7 +5623,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "brother-dcp-t530dw-e-boa",
+      "published_at": "2026-10-18"
     },
     {
       "id": "escritorio-e-estudos-review-009",
@@ -5855,7 +5861,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "ssd-ou-hd-externo-fotos-backup",
+      "published_at": "2026-10-18"
     },
     {
       "id": "casa-e-jardim-comparativo-005",
@@ -6878,7 +6886,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "relogio-digital-ou-analogico-casio",
+      "published_at": "2026-10-18"
     },
     {
       "id": "moda-e-acessorios-comparativo-009",
