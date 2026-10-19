@@ -4923,7 +4923,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "geladeira-consul-crm40mb-e-boa",
+      "published_at": "2026-10-19"
     },
     {
       "id": "saude-e-bem-estar-review-006",
@@ -5063,7 +5065,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-007",
@@ -6341,7 +6343,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mamadeira-de-vidro-ou-plastico",
+      "published_at": "2026-10-19"
     },
     {
       "id": "pets-comparativo-005",
@@ -6527,7 +6531,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "saco-de-dormir-nautika-ou-guepardo",
+      "published_at": "2026-10-19"
     },
     {
       "id": "esportes-e-lazer-comparativo-008",
@@ -6805,7 +6811,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "pilot-g2-ou-pentel-energel",
+      "published_at": "2026-10-19"
     },
     {
       "id": "moda-e-acessorios-comparativo-005",
