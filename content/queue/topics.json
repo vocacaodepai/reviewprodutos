@@ -4737,7 +4737,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "casa-e-jardim-review-008",
@@ -5341,7 +5341,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "casinha-furacao-pet-n3-e-boa",
+      "published_at": "2026-10-19"
     },
     {
       "id": "pets-review-009",
@@ -6850,7 +6852,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mala-de-bordo-rigida-ou-flexivel",
+      "published_at": "2026-10-19"
     },
     {
       "id": "moda-e-acessorios-comparativo-007",
