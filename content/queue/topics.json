@@ -2527,7 +2527,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "suporte-de-celular-magnetico-ou-garra",
+      "published_at": "2026-10-19"
     },
     {
       "id": "escritorio-e-estudos-lista-002",
@@ -3478,7 +3480,9 @@
       ],
       "prioridade": 3,
       "sazonal": "natal",
-      "status": "pending"
+      "status": "published",
+      "published_slug": "ps5-slim-digital-ou-xbox-series-s",
+      "published_at": "2026-10-19"
     },
     {
       "id": "casa-e-jardim-comparativo-004",
@@ -3693,7 +3697,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "lg-ultragear-24g411a-ou-samsung-odyssey-g3",
+      "published_at": "2026-10-19"
     },
     {
       "id": "moda-e-acessorios-comparativo-003",
@@ -4785,7 +4791,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "kit-jardinagem-tramontina-vale-a-pena",
+      "published_at": "2026-10-19"
     },
     {
       "id": "casa-e-jardim-review-010",
@@ -5255,7 +5263,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "ginasio-fisher-price-3-em-1-vale-a-pena",
+      "published_at": "2026-10-19"
     },
     {
       "id": "bebes-e-criancas-review-010",
