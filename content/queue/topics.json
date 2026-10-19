@@ -3716,7 +3716,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mochila-ou-bolsa-para-notebook",
+      "published_at": "2026-10-19"
     },
     {
       "id": "tecnologia-lista-005",
@@ -4691,7 +4693,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "casa-e-jardim-review-006",
@@ -4877,7 +4879,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "tramontina-paris-jogo-de-panelas-vale-a-pena",
+      "published_at": "2026-10-19"
     },
     {
       "id": "cozinha-review-009",
@@ -5297,7 +5301,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "racao-premier-formula-racas-pequenas-e-boa",
+      "published_at": "2026-10-19"
     },
     {
       "id": "pets-review-007",
@@ -6719,7 +6725,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "logitech-mx-master-3s-ou-mx-anywhere-3s",
+      "published_at": "2026-10-19"
     },
     {
       "id": "escritorio-e-estudos-comparativo-006",
