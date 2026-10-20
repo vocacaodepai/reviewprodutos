@@ -3835,7 +3835,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "medidor-de-pressao-braco-ou-pulso",
+      "published_at": "2026-10-20"
     },
     {
       "id": "beleza-e-cuidados-pessoais-lista-004",
@@ -4665,7 +4667,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "xiaomi-smart-band-10-e-boa",
+      "published_at": "2026-10-20"
     },
     {
       "id": "tecnologia-review-009",
@@ -4878,7 +4882,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "kitchenaid-artisan-batedeira-vale-a-pena",
+      "published_at": "2026-10-20"
     },
     {
       "id": "cozinha-review-008",
@@ -5500,7 +5506,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "oculos-natacao-speedo-hydrovision-e-bom",
+      "published_at": "2026-10-20"
     },
     {
       "id": "automotivo-review-006",
@@ -6732,7 +6740,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "carregador-veicular-baseus-ou-anker",
+      "published_at": "2026-10-20"
     },
     {
       "id": "escritorio-e-estudos-comparativo-005",
