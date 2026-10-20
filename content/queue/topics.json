@@ -3553,7 +3553,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "whey-concentrado-ou-isolado",
+      "published_at": "2026-10-20"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-004",
@@ -3674,7 +3676,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "cera-liquida-ou-pasta-qual-vale-mais",
+      "published_at": "2026-10-20"
     },
     {
       "id": "escritorio-e-estudos-comparativo-004",
@@ -4676,7 +4680,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "tp-link-archer-ax23-e-bom",
+      "published_at": "2026-10-20"
     },
     {
       "id": "tecnologia-review-010",
@@ -5384,7 +5390,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "peitoral-julius-k9-idc-powerharness-vale-a-pena",
+      "published_at": "2026-10-20"
     },
     {
       "id": "esportes-e-lazer-review-006",
@@ -5432,7 +5440,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "capacete-absolute-nero-e-bom",
+      "published_at": "2026-10-20"
     },
     {
       "id": "esportes-e-lazer-review-008",
