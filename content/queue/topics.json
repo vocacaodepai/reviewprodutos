@@ -3505,7 +3505,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "furadeira-ou-parafusadeira-qual-comprar",
+      "published_at": "2026-10-20"
     },
     {
       "id": "cozinha-review-005",
@@ -3603,7 +3605,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "baba-eletronica-ou-camera-wifi",
+      "published_at": "2026-10-20"
     },
     {
       "id": "pets-comparativo-004",
@@ -3937,7 +3941,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "caixa-termica-coleman-ou-mor",
+      "published_at": "2026-10-20"
     },
     {
       "id": "automotivo-comparativo-004",
@@ -4634,7 +4640,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "jbl-tune-520bt-e-bom",
+      "published_at": "2026-10-20"
     },
     {
       "id": "tecnologia-review-008",
@@ -4918,7 +4926,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "tramontina-vancouver-4-5-l-e-boa",
+      "published_at": "2026-10-20"
     },
     {
       "id": "cozinha-review-010",
