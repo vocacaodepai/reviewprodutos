@@ -5122,7 +5122,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "effaclar-duo-m-vale-a-pena",
+      "published_at": "2026-10-20"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-008",
@@ -5262,7 +5264,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "lenco-umedecido-huggies-recem-nascido-e-bom",
+      "published_at": "2026-10-20"
     },
     {
       "id": "bebes-e-criancas-review-009",
@@ -5748,7 +5752,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mochila-xiaomi-city-backpack-2-vale-a-pena",
+      "published_at": "2026-10-20"
     },
     {
       "id": "moda-e-acessorios-review-008",
@@ -6506,7 +6512,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "kong-classic-ou-nylabone",
+      "published_at": "2026-10-20"
     },
     {
       "id": "esportes-e-lazer-comparativo-005",
@@ -6790,7 +6798,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mouse-vertical-ou-comum",
+      "published_at": "2026-10-20"
     },
     {
       "id": "escritorio-e-estudos-comparativo-007",
