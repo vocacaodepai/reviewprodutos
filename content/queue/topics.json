@@ -4836,7 +4836,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "toalha-karsten-imperial-e-boa",
+      "published_at": "2026-10-21"
     },
     {
       "id": "cozinha-review-006",
@@ -5708,7 +5710,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "caneta-pilot-g2-vale-a-pena",
+      "published_at": "2026-10-21"
     },
     {
       "id": "moda-e-acessorios-review-006",
@@ -6094,7 +6098,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "consul-crm40mb-vs-brastemp-brm44",
+      "published_at": "2026-10-21"
     },
     {
       "id": "cozinha-comparativo-008",
@@ -6190,7 +6196,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "balanca-bioimpedancia-ou-balanca-comum",
+      "published_at": "2026-10-21"
     },
     {
       "id": "saude-e-bem-estar-comparativo-008",
@@ -6687,7 +6695,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "ls2-ff353-ou-pro-tork-evolution-g7",
+      "published_at": "2026-10-21"
     },
     {
       "id": "automotivo-comparativo-007",
