@@ -4986,7 +4986,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "oral-b-vitality-100-pro-series-1-e-boa",
+      "published_at": "2026-10-21"
     },
     {
       "id": "saude-e-bem-estar-review-007",
@@ -5176,7 +5178,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "malbec-tradicional-boticario-e-bom",
+      "published_at": "2026-10-21"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-010",
@@ -5662,7 +5666,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "benq-screenbar-pro-e-bom",
+      "published_at": "2026-10-21"
     },
     {
       "id": "escritorio-e-estudos-review-008",
@@ -6432,7 +6438,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "premier-ou-royal-canin-racao-caes-adultos",
+      "published_at": "2026-10-21"
     },
     {
       "id": "pets-comparativo-006",
@@ -6913,7 +6921,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "revolution-7-duramo-sl-2-corre-4",
+      "published_at": "2026-10-21"
     },
     {
       "id": "moda-e-acessorios-comparativo-006",
