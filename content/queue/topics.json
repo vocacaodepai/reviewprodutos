@@ -4619,7 +4619,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "xiaomi-redmi-note-14-e-bom",
+      "published_at": "2026-10-21"
     },
     {
       "id": "tecnologia-review-007",
@@ -5314,7 +5316,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "banco-imobiliario-estrela-vale-a-pena",
+      "published_at": "2026-10-21"
     },
     {
       "id": "pets-review-006",
@@ -5946,7 +5950,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mop-giratorio-ou-vassoura-e-rodo",
+      "published_at": "2026-10-21"
     },
     {
       "id": "casa-e-jardim-comparativo-006",
@@ -6560,7 +6566,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "corda-de-pular-ou-elastico-de-resistencia",
+      "published_at": "2026-10-21"
     },
     {
       "id": "esportes-e-lazer-comparativo-007",
@@ -6991,7 +6999,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "havaianas-top-ou-ipanema-anatomic",
+      "published_at": "2026-10-21"
     }
   ]
 }
