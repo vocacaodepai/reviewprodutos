@@ -7233,7 +7233,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "acer-aspire-go-15-ou-ideapad-slim-3",
+      "published_at": "2026-10-22"
     },
     {
       "id": "casa-e-jardim-review-011",
@@ -7299,7 +7301,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "furadeira-bosch-gsb-13-re-e-boa",
+      "published_at": "2026-10-22"
     },
     {
       "id": "casa-e-jardim-review-014",
@@ -7614,7 +7618,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "philips-walita-serie-5000-ou-mondial-turbo",
+      "published_at": "2026-10-22"
     },
     {
       "id": "cozinha-comparativo-011",
@@ -8380,7 +8386,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "furminator-pelo-curto-vale-a-pena",
+      "published_at": "2026-10-22"
     },
     {
       "id": "pets-review-012",
@@ -9055,7 +9063,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "logitech-k380s-vale-a-pena",
+      "published_at": "2026-10-22"
     },
     {
       "id": "escritorio-e-estudos-review-012",
