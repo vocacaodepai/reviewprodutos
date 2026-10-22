@@ -7187,7 +7187,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "fire-tv-stick-4k-ou-roku-stick-plus",
+      "published_at": "2026-10-22"
     },
     {
       "id": "tecnologia-comparativo-013",
@@ -7257,7 +7259,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "xiaomi-robot-vacuum-s40c-vale-a-pena",
+      "published_at": "2026-10-22"
     },
     {
       "id": "casa-e-jardim-review-012",
@@ -7689,7 +7693,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "nespresso-essenza-mini-ou-vertuo-pop",
+      "published_at": "2026-10-22"
     },
     {
       "id": "saude-e-bem-estar-review-011",
@@ -8523,7 +8529,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "kong-wobbler-ou-tapete-de-lamber",
+      "published_at": "2026-10-22"
     },
     {
       "id": "pets-comparativo-013",
@@ -9131,7 +9139,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "elements-magna-e-boa",
+      "published_at": "2026-10-22"
     },
     {
       "id": "escritorio-e-estudos-comparativo-010",
