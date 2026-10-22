@@ -7,7 +7,7 @@ categoria: casa-e-jardim
 subcategoria: ferramentas
 tags: ["furadeira", "parafusadeira", "ferramentas para casa", "furadeira de impacto", "pendurar prateleira"]
 pubDate: 2026-10-20
-updatedDate: 2026-10-20
+updatedDate: 2026-10-22
 autor: bruno-danello
 imagem:
   src: "https://m.media-amazon.com/images/I/71Bnm202WgL._AC_SL1500_.jpg"
@@ -22,50 +22,54 @@ funil:
   intencao: "Decidir entre uma parafusadeira a bateria e uma furadeira de impacto com fio para as tarefas domésticas do dia a dia"
 veredito: "Para quem tem parede de concreto ou alvenaria e vai pendurar prateleira, nicho e suporte de TV, a Bosch GSB 13 RE vence: é furadeira de impacto de verdade, com mandril de 13 mm. Para montar móvel e fazer furos leves, a WAP WF 12K4.2 resolve sem fio, com 18 níveis de torque, impacto e custo menor. Regra: muita parede dura, escolha a Bosch; muito móvel e parafuso, escolha a WAP."
 produtos:
-  - nome: "Bosch Furadeira de Impacto GSB 13 RE 220V com Maleta"
+  - nome: "Bosch Furadeira de Impacto GSB 13 RE-M 750W 220V em maleta"
     marca: "Bosch"
     modelo: "GSB 13 RE"
-    asin: "B076VMP93C"
+    asin: "B0C4Z6GF7J"
     voltagem: "220V"
+    variantes:
+      - rotulo: "Versão 127V"
+        asin: "B0C51C4ZTZ"
     imagem:
-      src: "https://m.media-amazon.com/images/I/614yA4bjFCL._AC_SL1500_.jpg"
+      src: "https://m.media-amazon.com/images/I/61FeVJ1UrUL._AC_SL1500_.jpg"
       fonte: amazon
-      largura: 903
-      altura: 898
-      alt: "Furadeira de impacto Bosch GSB 13 RE azul com maleta"
+      largura: 973
+      altura: 950
+      alt: "Furadeira de impacto Bosch GSB 13 RE-M 750W azul com maleta de transporte"
     nota: 7.9
     selo: escolha-do-editor
-    resumo: "Furadeira de impacto com fio, mandril de 13 mm e rotação alta: a mais segura desta comparação para furar concreto e alvenaria. É maior, precisa de tomada e o mandril usa chave."
+    resumo: "Furadeira de impacto com fio, de 750 W, mandril de 13 mm e 3.800 rpm: a mais segura desta comparação para furar concreto e alvenaria. É maior, precisa de tomada e o mandril usa chave."
     pros:
-      - "Impacto de verdade, indicado pela Bosch para concreto, alvenaria, madeira e aço"
+      - "Impacto de verdade: a ficha da Bosch indica furo em concreto e alvenaria de até 13 mm, madeira de até 25 mm e aço de até 10 mm"
       - "Sem bateria: não perde força nem precisa carregar antes de um serviço longo"
-      - "Mandril de 13 mm aceita brocas mais grossas, como as de buchas para prateleira pesada"
+      - "Mandril com faixa de aperto de 1,5 a 13 mm aceita brocas mais grossas, como as de buchas para prateleira pesada"
       - "Gatilho de velocidade variável, reversão e botão de trava para trabalho contínuo"
-      - "Acompanha maleta, e a linha tem assistência e peças da Bosch no Brasil"
+      - "Acompanha maleta, empunhadura auxiliar e limitador de profundidade, e a linha tem assistência e peças da Bosch no Brasil"
     contras:
       - "Mandril com chave: trocar de broca para bit de parafuso é lento"
-      - "Precisa de tomada ou extensão; o anúncio listado é da versão 220V"
-      - "Pesa cerca de 1,8 kg e é desajeitada para parafusar móvel por muito tempo"
+      - "Precisa de tomada ou extensão; o anúncio listado é da versão 220V, e a de 127V é outro anúncio"
+      - "Pesa 1,7 kg e é desajeitada para parafusar móvel por muito tempo"
       - "Sem controle de torque: apertar parafuso em MDF exige cuidado com o gatilho"
     especificacoes:
       "Tipo": "Furadeira de impacto com fio"
-      "Potência": "650 W no anúncio (a linha atual da Bosch Brasil traz 750 W)"
-      "Rotação máxima": "Até 3.150 rpm (ficha de loja do modelo de 650 W)"
-      "Mandril": "13 mm, com chave"
+      "Potência": "750 W (potência nominal absorvida)"
+      "Rotação máxima": "3.800 rpm em vazio"
+      "Mandril": "Faixa de aperto de 1,5 a 13 mm, com chave"
+      "Capacidade em concreto": "13 mm"
       "Capacidade em madeira": "25 mm"
       "Capacidade em aço": "10 mm"
-      "Peso": "1,8 kg"
-      "Voltagem": "220V"
-      "Garantia": "Conforme certificado do fabricante (confira na compra)"
+      "Peso": "1,7 kg"
+      "Voltagem": "220V neste ASIN; versão 127V em outro anúncio"
+      "Garantia": "2 anos Bosch, conforme o anúncio (confira o certificado)"
     faixaPreco: "$$"
     precoMercado:
-      min: 500
-      max: 720
+      min: 390
+      max: 640
       referencia: "2026-10"
-      observacao: "Faixa de anúncios da GSB 13 RE em comparadores; varia com a voltagem e com kits de acessórios."
+      observacao: "Faixa de ofertas da versão 750 W 220 V em comparadores; varia com a loja, a voltagem e o kit de acessórios."
       fontes:
-        - { nome: "Zoom — Furadeira de Impacto 1/2 650W Bosch GSB 13 RE", url: "https://www.zoom.com.br/furadeira-parafusadeira/furadeira-impacto-1-2-600-w-bosch-gsb-13-re" }
-        - { nome: "Buscapé — Furadeira de Impacto 1/2 650W Bosch GSB 13 RE", url: "https://www.buscape.com.br/furadeira-parafusadeira/furadeira-impacto-1-2-600-w-bosch-gsb-13-re" }
+        - { nome: "Zoom — Furadeira de Impacto Bosch GSB 13 RE 750W 220V", url: "https://www.zoom.com.br/furadeira-parafusadeira/furadeira-de-impacto-bosch-gsb-13-re-750w-220v" }
+        - { nome: "Buscapé — Furadeira de Impacto Bosch GSB 13 RE 750W 220V", url: "https://www.buscape.com.br/furadeira-parafusadeira/furadeira-de-impacto-bosch-gsb-13-re-750w-220v" }
     idealPara: "Quem tem parede de concreto ou alvenaria e vai furar para prateleira, suporte de TV, cortina e varal"
     naoIndicadoPara: "Quem quer só montar móveis ou não tem tomada perto, e quem mora em casa com tomada 127V sem conferir a versão"
     notasCriterios:
@@ -150,24 +154,24 @@ faq:
   - pergunta: "O que mais preciso para furar parede em casa?"
     resposta: "Brocas de vídia para alvenaria, buchas do tamanho do parafuso, lápis e fita para marcar, óculos de proteção e, de preferência, um detector de fios e canos. Verifique por onde passam a fiação e a tubulação antes de furar, principalmente em cima de tomadas e interruptores."
 fontes:
-  - nome: "Bosch Professional Brasil — GSB 13 RE 127V (0 601 2B8 0D0)"
+  - nome: "Bosch Professional Brasil — GSB 13 RE BR-127V (dados técnicos)"
     url: "https://www.bosch-professional.com/br/pt/products/gsb-13re-06012B80D0"
-  - nome: "Bosch Professional Brasil — GSB 13 RE 127V com maleta (0 601 2B8 0D1)"
+  - nome: "Bosch Professional Brasil — GSB 13 RE 127V com maleta (dados técnicos)"
     url: "https://www.bosch-professional.com/br/pt/products/gsb-13re-06012B80D1"
-  - nome: "Telhanorte — Furadeira de impacto Bosch 650W 220V com maleta"
-    url: "https://www.telhanorte.com.br/furadeira-de-impacto-bosch-650w-220v-com-5-brocas-e-maleta-bosch-1489690/p"
-  - nome: "AECweb — Furadeira de impacto Bosch GSB 13 RE"
-    url: "https://www.aecweb.com.br/produto/furadeira-de-impacto-bosch-gsb-13-re/53198"
-  - nome: "Zoom — Ficha da Bosch GSB 13 RE"
-    url: "https://www.zoom.com.br/furadeira-parafusadeira/furadeira-impacto-1-2-600-w-bosch-gsb-13-re"
-  - nome: "Buscapé — Ficha da Bosch GSB 13 RE"
-    url: "https://www.buscape.com.br/furadeira-parafusadeira/furadeira-impacto-1-2-600-w-bosch-gsb-13-re"
+  - nome: "Bosch Professional Brasil — manual de instruções GSB 13 RE e GSB 16 RE (2022)"
+    url: "https://bosch-professional.com/binary/manualsmedia/o388482v21_160992A6YY_202205.pdf"
+  - nome: "Bosch Professional Brasil — garantia de produtos"
+    url: "https://www.bosch-professional.com/br/pt/servicos/garantia-de-produtos/"
+  - nome: "Zoom — Furadeira de Impacto Bosch GSB 13 RE 750W 220V"
+    url: "https://www.zoom.com.br/furadeira-parafusadeira/furadeira-de-impacto-bosch-gsb-13-re-750w-220v"
+  - nome: "Buscapé — Furadeira de Impacto Bosch GSB 13 RE 750W 220V"
+    url: "https://www.buscape.com.br/furadeira-parafusadeira/furadeira-de-impacto-bosch-gsb-13-re-750w-220v"
   - nome: "Fast Shop — Parafusadeira e furadeira de impacto WAP 12V WF 12K4.2"
     url: "https://site.fastshop.com.br/parafusadeira-e-furadeira-de-impacto-wap-12v-wf-12k4-2-183353/p"
   - nome: "Amazon.com.br — Ficha do fabricante (WAP WF 12K4.2)"
     url: "https://www.amazon.com.br/dp/B0F2JMYPQ9"
-  - nome: "Amazon.com.br — Ficha do fabricante (Bosch GSB 13 RE)"
-    url: "https://www.amazon.com.br/dp/B076VMP93C"
+  - nome: "Amazon.com.br — Ficha do fabricante (Bosch GSB 13 RE-M)"
+    url: "https://www.amazon.com.br/dp/B0C4Z6GF7J"
 testadoFisicamente: false
 rascunho: false
 destaque: false
@@ -192,13 +196,13 @@ Esta é uma análise de fichas técnicas oficiais, páginas de lojas e comparado
 
 ## Bosch GSB 13 RE: a furadeira de impacto para parede dura
 
-A GSB 13 RE é uma furadeira de impacto com fio, de linha profissional, que a Bosch indica para concreto, alvenaria, madeira e aço. O mandril é de 13 mm, a rotação sobe a milhares de rotações por minuto e o gatilho é de velocidade variável, com reversão e botão de trava.
+A GSB 13 RE é uma furadeira de impacto com fio, de linha profissional, que a Bosch indica para concreto, alvenaria, madeira e aço. Pela ficha da Bosch Brasil, são 750 W, 3.800 rpm em vazio e mandril com faixa de aperto de 1,5 a 13 mm, e o gatilho é de velocidade variável, com reversão e botão de trava.
 
 O ponto forte é a constância: sem bateria, a força é a mesma no primeiro e no décimo furo. Isso importa quando você vai fazer seis furos para um painel de TV em parede de concreto.
 
-Os pontos fracos aparecem fora da parede. O mandril usa chave, então trocar a broca por um bit de parafuso é trabalhoso, e não há ajuste de torque: em MDF é fácil afundar ou espanar o parafuso. O peso, perto de 1,8 kg, cansa em montagem longa.
+Os pontos fracos aparecem fora da parede. O mandril usa chave, então trocar a broca por um bit de parafuso é trabalhoso, e não há ajuste de torque: em MDF é fácil afundar ou espanar o parafuso. O peso, de 1,7 kg, cansa em montagem longa.
 
-Atenção à voltagem e à potência. O anúncio listado é da versão **220V** e informa 650 W, enquanto o site da Bosch Brasil traz a linha atual com 750 W e opções em 127V. Confira a tensão da sua tomada antes de comprar.
+Atenção à voltagem. O anúncio listado é da versão em maleta (RE-M) de 750 W em **220V**; a versão de 127V é outro anúncio, com ASIN próprio, e o botão dela também está neste artigo. Confira a tensão da sua tomada antes de comprar: tensão errada queima a ferramenta.
 
 ## WAP WF 12K4.2: a parafusadeira a bateria que também fura
 
