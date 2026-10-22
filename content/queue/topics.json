@@ -6690,7 +6690,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "scanner-obd2-simples-ou-profissional",
+      "published_at": "2026-10-22"
     },
     {
       "id": "automotivo-comparativo-006",
@@ -7599,7 +7601,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "electrolux-mi41s-ou-consul-cms45",
+      "published_at": "2026-10-22"
     },
     {
       "id": "cozinha-comparativo-010",
@@ -7739,7 +7743,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "waterpik-wp-100-vale-a-pena",
+      "published_at": "2026-10-22"
     },
     {
       "id": "saude-e-bem-estar-review-013",
@@ -7986,7 +7992,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "maybelline-sky-high-e-bom",
+      "published_at": "2026-10-22"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-015",
@@ -8189,7 +8197,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "dobble-galapagos-e-bom",
+      "published_at": "2026-10-22"
     },
     {
       "id": "bebes-e-criancas-review-014",
