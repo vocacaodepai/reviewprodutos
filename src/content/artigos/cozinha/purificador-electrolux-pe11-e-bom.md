@@ -66,15 +66,6 @@ produtos:
       "Peso": "4,7 kg"
       "Voltagem": "Bivolt"
     faixaPreco: "$$"
-    precoMercado:
-      min: 450
-      max: 500
-      referencia: "2026-10"
-      observacao: "Há anúncios bem mais caros em marketplaces. O PE11X (cinza prata) costuma custar um pouco mais que o PE11B."
-      fontes:
-        - { nome: "Zoom: Electrolux PE11B", url: "https://www.zoom.com.br/purificador-de-agua/purificador-de-agua-electrolux-pe11b" }
-        - { nome: "Buscapé: Electrolux PE11B", url: "https://www.buscape.com.br/purificador-de-agua/purificador-de-agua-electrolux-pe11b" }
-        - { nome: "Loja oficial Electrolux: PE11B", url: "https://loja.electrolux.com.br/purificador-de-agua-branco-com-painel-touch-pe11b/p" }
     idealPara: "Casas e apartamentos pequenos com pressão de água boa que querem sair do galão sem gastar muito"
     naoIndicadoPara: "Quem quer água realmente gelada em grande volume, família numerosa ou ponto de água com pouca pressão"
     notasCriterios:

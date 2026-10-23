@@ -5038,7 +5038,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "umidificador-relaxmedic-compact-air-e-bom",
+      "published_at": "2026-10-23"
     },
     {
       "id": "saude-e-bem-estar-review-009",
@@ -7449,7 +7451,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "wap-ousada-plus-2200-ou-karcher-pratica-black",
+      "published_at": "2026-10-23"
     },
     {
       "id": "casa-e-jardim-comparativo-013",
@@ -7655,7 +7659,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "electrolux-pe11b-ou-consul-cpb36",
+      "published_at": "2026-10-23"
     },
     {
       "id": "cozinha-comparativo-012",
@@ -7952,7 +7958,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "neutrogena-hydro-boost-water-gel-e-bom",
+      "published_at": "2026-10-23"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-012",
@@ -8179,7 +8187,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "esterilizador-avent-vapor-scf291-vale-a-pena",
+      "published_at": "2026-10-23"
     },
     {
       "id": "bebes-e-criancas-review-013",
