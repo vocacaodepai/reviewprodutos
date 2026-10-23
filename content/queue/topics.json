@@ -6356,7 +6356,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "pampers-ou-huggies-lenco-umedecido",
+      "published_at": "2026-10-23"
     },
     {
       "id": "bebes-e-criancas-comparativo-006",
@@ -6865,7 +6867,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "brother-dcp-t530dw-ou-canon-g3110",
+      "published_at": "2026-10-23"
     },
     {
       "id": "escritorio-e-estudos-comparativo-008",
@@ -7061,7 +7065,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "moto-g86-5g-256gb-e-bom",
+      "published_at": "2026-10-23"
     },
     {
       "id": "tecnologia-review-012",
@@ -7432,7 +7438,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mondial-nvt-40c-8p-b-ou-arno-x-treme-7",
+      "published_at": "2026-10-23"
     },
     {
       "id": "casa-e-jardim-comparativo-012",
@@ -7546,7 +7554,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "cozinha-review-014",
