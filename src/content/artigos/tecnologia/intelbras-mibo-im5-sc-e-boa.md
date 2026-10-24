@@ -67,7 +67,7 @@ produtos:
       min: 220
       max: 330
       referencia: "2026-10"
-      observacao: "Os comparadores mostram a iM5 SC avulsa a partir de cerca de R$ 224; alguns anúncios, em especial os com cartão microSD incluído, passam de R$ 500."
+      observacao: "Faixa da câmera avulsa nos comparadores; alguns anúncios, em especial os com cartão microSD incluído, custam bem mais que a faixa."
       fontes:
         - { nome: "Zoom — Intelbras iM5 SC", url: "https://www.zoom.com.br/search?q=intelbras%20im5%20sc" }
         - { nome: "Buscapé — Intelbras iM5 SC", url: "https://www.buscape.com.br/search?q=intelbras+im5+sc" }
