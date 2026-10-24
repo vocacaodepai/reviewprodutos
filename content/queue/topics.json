@@ -7135,7 +7135,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "intelbras-mibo-im5-sc-e-boa",
+      "published_at": "2026-10-24"
     },
     {
       "id": "tecnologia-review-015",
@@ -7532,7 +7534,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "liquidificador-philips-walita-serie-5000-e-bom",
+      "published_at": "2026-10-24"
     },
     {
       "id": "cozinha-review-013",
@@ -8088,7 +8092,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "prancha-philips-ou-prancha-taiff",
+      "published_at": "2026-10-24"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-011",
@@ -8709,7 +8715,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "caixa-termica-coleman-28qt-e-boa",
+      "published_at": "2026-10-24"
     },
     {
       "id": "esportes-e-lazer-review-014",
@@ -9308,7 +9316,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "stabilo-boss-ou-faber-castell-textliner",
+      "published_at": "2026-10-24"
     }
   ]
 }
