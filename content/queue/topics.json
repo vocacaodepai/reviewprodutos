@@ -7582,7 +7582,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "brinox-ceramic-life-suprema-24-cm-e-boa",
+      "published_at": "2026-10-24"
     },
     {
       "id": "cozinha-review-015",
@@ -7864,7 +7866,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "oral-b-pro-2000-ou-sonicare-2100",
+      "published_at": "2026-10-24"
     },
     {
       "id": "saude-e-bem-estar-comparativo-010",
@@ -8352,7 +8356,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "pampers-confort-sec-ou-huggies-tripla-protecao",
+      "published_at": "2026-10-24"
     },
     {
       "id": "bebes-e-criancas-comparativo-012",
@@ -8699,7 +8705,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "bola-pilates-acte-sports-65-cm-e-boa",
+      "published_at": "2026-10-24"
     },
     {
       "id": "esportes-e-lazer-review-013",
@@ -8952,7 +8960,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "transmissor-fm-bluetooth-joyroom-e-bom",
+      "published_at": "2026-10-24"
     },
     {
       "id": "automotivo-review-014",
