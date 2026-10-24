@@ -7113,7 +7113,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "echo-show-5-vale-a-pena",
+      "published_at": "2026-10-24"
     },
     {
       "id": "tecnologia-review-014",
@@ -8163,7 +8165,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "risque-ou-colorama-esmalte-vermelho",
+      "published_at": "2026-10-24"
     },
     {
       "id": "bebes-e-criancas-review-011",
@@ -8416,7 +8420,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "royal-canin-mini-adult-e-bom",
+      "published_at": "2026-10-24"
     },
     {
       "id": "pets-review-011",
@@ -8858,7 +8864,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "automotivo-review-010",
@@ -9222,7 +9228,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "epson-l3250-ou-hp-smart-tank-584",
+      "published_at": "2026-10-24"
     },
     {
       "id": "escritorio-e-estudos-comparativo-011",
