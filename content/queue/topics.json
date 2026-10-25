@@ -7200,7 +7200,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "galaxy-a36-ou-redmi-note-14-pro",
+      "published_at": "2026-10-25"
     },
     {
       "id": "tecnologia-comparativo-012",
@@ -7321,7 +7323,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "ventilador-mondial-turbo-nvt-40c-8p-e-bom",
+      "published_at": "2026-10-25"
     },
     {
       "id": "casa-e-jardim-review-013",
@@ -8070,7 +8074,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-009",
@@ -8586,7 +8590,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "furminator-ou-rasqueadeira-autolimpante",
+      "published_at": "2026-10-25"
     },
     {
       "id": "pets-comparativo-012",
@@ -9329,7 +9335,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "elements-magna-ou-thunderx3-xtc-mesh",
+      "published_at": "2026-10-25"
     },
     {
       "id": "escritorio-e-estudos-comparativo-014",
