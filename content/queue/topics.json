@@ -5626,7 +5626,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "aromatizante-little-trees-black-ice-vale-a-pena",
+      "published_at": "2026-10-25"
     },
     {
       "id": "escritorio-e-estudos-review-006",
@@ -5824,7 +5826,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "ray-ban-aviator-classico-vale-a-pena",
+      "published_at": "2026-10-25"
     },
     {
       "id": "tecnologia-comparativo-005",
@@ -6170,7 +6174,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "escova-eletrica-ou-manual-vale-a-pena",
+      "published_at": "2026-10-25"
     },
     {
       "id": "saude-e-bem-estar-comparativo-006",
@@ -6391,7 +6397,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "bebes-e-criancas-comparativo-007",
@@ -7371,7 +7377,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "vaso-autoirrigavel-raiz-vale-a-pena",
+      "published_at": "2026-10-25"
     },
     {
       "id": "casa-e-jardim-review-015",
