@@ -4018,7 +4018,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "olympikus-ultraleve-ou-mizuno-wave-rider",
+      "published_at": "2026-10-25"
     },
     {
       "id": "tecnologia-lista-006",
@@ -4742,7 +4744,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mop-giratorio-flash-limp-agua-limpa-e-bom",
+      "published_at": "2026-10-25"
     },
     {
       "id": "casa-e-jardim-review-007",
@@ -6076,7 +6080,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "cafeteira-capsula-ou-filtro",
+      "published_at": "2026-10-25"
     },
     {
       "id": "cozinha-comparativo-006",
@@ -6518,7 +6524,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "peitoral-ou-coleira-passeio-cachorro",
+      "published_at": "2026-10-25"
     },
     {
       "id": "pets-comparativo-008",
@@ -8036,7 +8044,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "elseve-oleo-extraordinario-e-bom",
+      "published_at": "2026-10-25"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-013",
