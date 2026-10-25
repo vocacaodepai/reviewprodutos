@@ -5576,7 +5576,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "shampoo-vonixx-v-floc-e-bom",
+      "published_at": "2026-10-25"
     },
     {
       "id": "automotivo-review-008",
@@ -6339,7 +6341,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mascara-capilar-ou-condicionador-pantene",
+      "published_at": "2026-10-25"
     },
     {
       "id": "bebes-e-criancas-comparativo-005",
@@ -6900,7 +6904,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "monitor-24-ou-27-polegadas",
+      "published_at": "2026-10-25"
     },
     {
       "id": "escritorio-e-estudos-comparativo-009",
@@ -7169,7 +7175,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "controle-dualsense-ps5-vale-a-pena",
+      "published_at": "2026-10-25"
     },
     {
       "id": "tecnologia-comparativo-010",
@@ -7614,7 +7622,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "panela-de-arroz-mondial-pratic-rice-10i-vale-a-pena",
+      "published_at": "2026-10-25"
     },
     {
       "id": "cozinha-comparativo-009",
