@@ -5207,7 +5207,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "bebes-e-criancas-review-006",
@@ -5797,7 +5797,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "american-tourister-linex-mala-de-bordo-e-boa",
+      "published_at": "2026-10-25"
     },
     {
       "id": "moda-e-acessorios-review-009",
@@ -5920,7 +5922,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "jbl-go-4-clip-5-charge-5",
+      "published_at": "2026-10-25"
     },
     {
       "id": "tecnologia-comparativo-009",
@@ -5993,7 +5997,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "bosch-gsr-120-li-vs-makita-df333d",
+      "published_at": "2026-10-25"
     },
     {
       "id": "casa-e-jardim-comparativo-007",
@@ -6525,7 +6531,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "casinha-de-plastico-ou-caminha-para-cachorro",
+      "published_at": "2026-10-25"
     },
     {
       "id": "pets-comparativo-009",
