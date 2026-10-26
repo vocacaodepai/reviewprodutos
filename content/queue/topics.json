@@ -4124,7 +4124,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "pistola-de-massagem-ou-massageador-de-pescoco",
+      "published_at": "2026-10-26"
     },
     {
       "id": "beleza-e-cuidados-pessoais-lista-005",
@@ -5259,7 +5261,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "bebes-e-criancas-review-008",
@@ -8121,7 +8123,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "cerave-locao-ou-hydro-boost-hidratante-facial",
+      "published_at": "2026-10-26"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-010",
@@ -8566,7 +8570,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "pets-comparativo-010",
@@ -9340,7 +9344,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "samsung-s3-27-ou-aoc-24b2h2",
+      "published_at": "2026-10-26"
     },
     {
       "id": "escritorio-e-estudos-comparativo-013",
