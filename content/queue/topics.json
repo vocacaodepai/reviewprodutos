@@ -7534,7 +7534,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "bosch-gsb-13-re-vs-makita-hp1640",
+      "published_at": "2026-10-26"
     },
     {
       "id": "cozinha-review-011",
@@ -8674,7 +8676,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "furacao-pet-n3-ou-mec-pet-caixa-transporte",
+      "published_at": "2026-10-26"
     },
     {
       "id": "pets-comparativo-014",
@@ -9470,7 +9474,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "echo-dot-5-geracao-e-bom",
+      "published_at": "2026-10-26"
     },
     {
       "id": "tecnologia-review-019",
@@ -9717,7 +9723,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "nespresso-vertuo-pop-e-boa",
+      "published_at": "2026-10-26"
     },
     {
       "id": "cozinha-review-019",
@@ -10931,7 +10939,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "moda-e-acessorios-comparativo-011",
