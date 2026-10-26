@@ -3968,7 +3968,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "almofada-lombar-espuma-ou-inflavel-carro",
+      "published_at": "2026-10-26"
     },
     {
       "id": "escritorio-e-estudos-lista-005",
@@ -6032,7 +6034,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "ar-condicionado-inverter-ou-convencional",
+      "published_at": "2026-10-26"
     },
     {
       "id": "casa-e-jardim-comparativo-008",
@@ -7550,7 +7554,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "electrolux-mi41s-vale-a-pena",
+      "published_at": "2026-10-26"
     },
     {
       "id": "cozinha-review-012",
@@ -8703,7 +8709,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "nautika-indy-gt-barraca-e-boa",
+      "published_at": "2026-10-26"
     },
     {
       "id": "esportes-e-lazer-review-011",
@@ -9233,7 +9241,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "stabilo-boss-original-vale-a-pena",
+      "published_at": "2026-10-26"
     },
     {
       "id": "escritorio-e-estudos-review-014",
