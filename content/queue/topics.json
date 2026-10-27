@@ -7847,7 +7847,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "termometro-infravermelho-g-tech-go-e-bom",
+      "published_at": "2026-10-27"
     },
     {
       "id": "saude-e-bem-estar-review-014",
@@ -9102,7 +9104,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped",
+      "published_slug": "70mai-a400-ou-a500s",
+      "published_at": "2026-10-27"
     },
     {
       "id": "automotivo-comparativo-012",
@@ -9528,7 +9532,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped",
+      "published_slug": "galaxy-buds-fe-e-bom",
+      "published_at": "2026-10-27"
     },
     {
       "id": "tecnologia-review-021",
@@ -9689,7 +9695,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mondial-dolce-arome-c-30-e-boa",
+      "published_at": "2026-10-27"
     },
     {
       "id": "cozinha-review-017",
@@ -10053,7 +10061,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped",
+      "published_slug": "garnier-ou-bioderma-agua-micelar",
+      "published_at": "2026-10-27"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-015",
