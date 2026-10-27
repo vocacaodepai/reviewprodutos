@@ -36,7 +36,7 @@ export function validateImagem(img, path, errs) {
   if (!img || typeof img !== 'object') return errs.push(`${path}: imagem ausente`);
   if (!isUrl(img.src)) errs.push(`${path}.src: URL inválida`);
   if (!isStr(img.alt, 8, 160)) errs.push(`${path}.alt: alt text precisa ter 8-160 caracteres`);
-  if (img.fonte !== undefined && !['amazon', 'fabricante', 'propria', 'api', 'outra'].includes(img.fonte)) errs.push(`${path}.fonte: amazon | fabricante | propria | api | outra`);
+  if (img.fonte !== undefined && !['amazon', 'shopee', 'fabricante', 'propria', 'api', 'outra'].includes(img.fonte)) errs.push(`${path}.fonte: amazon | shopee | fabricante | propria | api | outra`);
 }
 
 export function validateFrontmatter(data, { categorias = loadCategorias(), autores = loadAutores() } = {}) {
@@ -73,8 +73,19 @@ export function validateFrontmatter(data, { categorias = loadCategorias(), autor
     data.produtos.forEach((p, i) => {
       const path = `produtos[${i}]`;
       if (!isStr(p.nome, 3, 140)) errs.push(`${path}.nome: 3-140 caracteres`);
-      if (!/^[A-Z0-9]{10}$/.test(p.asin ?? '')) errs.push(`${path}.asin: ASIN inválido`);
-      if (asins.has(p.asin)) errs.push(`${path}.asin: duplicado no artigo`); asins.add(p.asin);
+      const shopee = p.loja === 'shopee';
+      if (p.loja !== undefined && !['amazon', 'shopee'].includes(p.loja)) errs.push(`${path}.loja: amazon | shopee`);
+      if (shopee) {
+        const sp = p.shopee;
+        if (!sp || !Number.isInteger(sp.itemId) || !Number.isInteger(sp.shopId)) errs.push(`${path}.shopee: itemId e shopId numéricos obrigatórios`);
+        else if (!/^https:\/\/s\.shopee\.com\.br\/[A-Za-z0-9]+$/.test(sp.link ?? '')) errs.push(`${path}.shopee.link: use o offerLink curto da API (https://s.shopee.com.br/...)`);
+        if (p.asin !== undefined) errs.push(`${path}.asin: produto da Shopee não leva ASIN`);
+        const id = `shopee:${sp?.itemId}`;
+        if (asins.has(id)) errs.push(`${path}.shopee: duplicado no artigo`); asins.add(id);
+      } else {
+        if (!/^[A-Z0-9]{10}$/.test(p.asin ?? '')) errs.push(`${path}.asin: ASIN inválido`);
+        if (asins.has(p.asin)) errs.push(`${path}.asin: duplicado no artigo`); asins.add(p.asin);
+      }
       if (p.url !== undefined && !isUrl(p.url)) errs.push(`${path}.url: URL inválida`);
       validateImagem(p.imagem, `${path}.imagem`, errs);
       if (!isNum(p.nota, 0, 10)) errs.push(`${path}.nota: número 0-10`);

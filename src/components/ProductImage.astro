@@ -6,8 +6,8 @@
 import { Image } from 'astro:assets';
 interface Props { src: string; alt: string; width?: number; height?: number; class?: string; sizes?: string; loading?: 'lazy' | 'eager'; fetchpriority?: 'high' | 'low' | 'auto'; }
 const { src, alt, width, height, class: className = '', sizes, loading = 'lazy', fetchpriority = 'auto', ...rest } = Astro.props as Props & Record<string, unknown>;
-// Imagens da Amazon são exibidas por link direto, sem download/cache/derivados (Contrato do Programa de Associados BR).
-const isAmazon = /(^|\.)(media-amazon\.com|ssl-images-amazon\.com|images-amazon\.com)$/i.test(new URL(src).hostname);
+// Imagens da Amazon e da Shopee (API de Afiliados) são exibidas por link direto, sem download/cache/derivados (Contrato do Programa de Associados BR).
+const isAmazon = /(^|\.)(media-amazon\.com|ssl-images-amazon\.com|images-amazon\.com|shopee\.com\.br|shopee\.com|susercontent\.com)$/i.test(new URL(src).hostname);
 const passthrough = isAmazon || import.meta.env.IMAGES_PASSTHROUGH === 'true';
 const w = width ?? 800;
 ---

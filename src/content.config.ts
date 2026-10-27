@@ -6,7 +6,7 @@ import { z } from 'astro/zod';
 const imagem = z.object({
   src: z.url(),
   /** Origem da imagem: amazon (link direto, sem cópia), fabricante (site oficial), propria, api (Creators API), outra. */
-  fonte: z.enum(['amazon', 'fabricante', 'propria', 'api', 'outra']).default('amazon'),
+  fonte: z.enum(['amazon', 'shopee', 'fabricante', 'propria', 'api', 'outra']).default('amazon'),
   alt: z.string().min(8, { error: 'alt text precisa descrever o produto (mín. 8 caracteres)' }).max(160),
   credito: z.string().optional(),
   largura: z.number().int().positive().optional(),
@@ -30,8 +30,19 @@ const produto = z.object({
   nome: z.string().min(3).max(140),
   marca: z.string().optional(),
   modelo: z.string().optional(),
-  /** ASIN da Amazon.com.br (10 caracteres alfanuméricos). */
-  asin: z.string().regex(/^[A-Z0-9]{10}$/, { error: 'ASIN inválido: use 10 caracteres maiúsculos/dígitos' }),
+  /** Loja do botão de compra (padrão: amazon). */
+  loja: z.enum(['amazon', 'shopee']).default('amazon'),
+  /** ASIN da Amazon.com.br (10 caracteres alfanuméricos). Obrigatório quando loja = amazon. */
+  asin: z.string().regex(/^[A-Z0-9]{10}$/, { error: 'ASIN inválido: use 10 caracteres maiúsculos/dígitos' }).optional(),
+  /** Dados da Shopee (API de Afiliados): itemId/shopId do anúncio e link curto de afiliado (offerLink). Obrigatório quando loja = shopee. */
+  shopee: z
+    .object({
+      itemId: z.number().int().positive(),
+      shopId: z.number().int().positive(),
+      link: z.url().refine((u) => /^https:\/\/s\.shopee\.com\.br\//.test(u), { error: 'link da Shopee precisa ser o offerLink curto (https://s.shopee.com.br/...) gerado pela API de Afiliados' }),
+      loja: z.string().min(2).max(80).optional(),
+    })
+    .optional(),
   /** Link alternativo (se vazio, gerado a partir do ASIN + tag de afiliado). */
   url: z.url().optional(),
   imagem,
@@ -129,8 +140,11 @@ const artigos = defineCollection({
       if (data.tipo === 'review' && n !== 1) ctx.addIssue({ code: 'custom', message: 'Review individual precisa de exatamente 1 produto', path: ['produtos'] });
       if (data.tipo === 'comparativo' && (n < 2 || n > 3)) ctx.addIssue({ code: 'custom', message: 'Comparativo precisa de 2 ou 3 produtos', path: ['produtos'] });
       if (data.tipo === 'lista' && n < 3) ctx.addIssue({ code: 'custom', message: 'Lista precisa de 3 ou mais produtos', path: ['produtos'] });
-      const asins = data.produtos.map((p) => p.asin);
-      if (new Set(asins).size !== asins.length) ctx.addIssue({ code: 'custom', message: 'ASINs duplicados no mesmo artigo', path: ['produtos'] });
+      data.produtos.forEach((p, i) => {
+        if (p.loja === 'amazon' && !p.asin) ctx.addIssue({ code: 'custom', message: 'Produto da Amazon precisa de asin', path: ['produtos', i, 'asin'] });
+        if (p.loja === 'shopee' && !p.shopee) ctx.addIssue({ code: 'custom', message: 'Produto da Shopee precisa do bloco shopee (itemId, shopId, link)', path: ['produtos', i, 'shopee'] });
+      });
+      if (new Set(data.produtos.map((p) => (p.loja === 'shopee' ? p.shopee?.itemId : p.asin))).size !== n) ctx.addIssue({ code: 'custom', message: 'Produtos duplicados no mesmo artigo', path: ['produtos'] });
       if (data.funil.estagio === 'topo' && !data.funil.problema) ctx.addIssue({ code: 'custom', message: 'Artigo de topo de funil precisa declarar o problema/dor do leitor', path: ['funil', 'problema'] });
     }),
 });

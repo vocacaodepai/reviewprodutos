@@ -8,7 +8,8 @@ import { readFileSync, writeFileSync, renameSync } from 'node:fs';
 import { join } from 'node:path';
 
 const ROOT = new URL('../', import.meta.url).pathname;
-const QUEUE = join(ROOT, 'content/queue/topics.json');
+// QUEUE_FILE permite usar outra fila (ex.: content/queue/topics-shopee.json).
+const QUEUE = join(ROOT, process.env.QUEUE_FILE || 'content/queue/topics.json');
 const [id, status, slugArg, ...rest] = process.argv.slice(2);
 if (!id || !['pending', 'in_progress', 'published', 'skipped'].includes(status)) {
   console.error('Uso: node scripts/update-queue.mjs <id> <pending|in_progress|published|skipped> [published_slug] [--erro "msg"]');

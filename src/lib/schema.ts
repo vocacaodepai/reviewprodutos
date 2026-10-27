@@ -1,6 +1,6 @@
 import { SITE } from '@/site.config';
 import type { Artigo, Autor, Categoria } from './articles';
-import { absoluteUrl, articleUrl, autorUrl, produtoUrl, formatNota } from './articles';
+import { absoluteUrl, articleUrl, autorUrl, produtoUrl, produtoId, formatNota } from './articles';
 
 type JsonLd = Record<string, unknown>;
 
@@ -61,7 +61,7 @@ function productSchema(p: Artigo['data']['produtos'][number], autor: Autor, arti
     name: p.nome,
     image: [p.imagem.src],
     description: p.resumo,
-    sku: p.asin,
+    sku: produtoId(p),
     ...(p.marca ? { brand: { '@type': 'Brand', name: p.marca } } : {}),
     ...(p.modelo ? { model: p.modelo } : {}),
     url: produtoUrl(p),
