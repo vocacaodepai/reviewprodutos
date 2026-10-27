@@ -296,7 +296,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["melhor-robo-aspirador-custo-beneficio", "robo-aspirador-ou-aspirador-vertical", "melhor-caminha-para-cachorro"]
+relacionados: ["robo-aspirador-ou-aspirador-vertical", "melhor-caminha-para-cachorro"]
 ---
 
 ## Resposta rápida
@@ -379,7 +379,7 @@ O que decepciona: é vendido pela Amazon Global (produto importado), a faixa de 
 
 Quando o pelo já entrou na costura do sofá, só a sucção resolve. O APS1200PET é um aspirador portátil com fio, de 1.200 W, reservatório de 800 ml, cabo de 4 m e filtro permanente lavável. Vem com o bocal Turbo Pet, mais um bocal de cantos e uma escova para estofados, e tem função sopro. O fabricante dá 1 ano de garantia. A análise do site GDM mediu uma sucção forte, e o aspirador limpou o pelo de pouco mais de 1 m² de tapete em cerca de 1,5 minuto.
 
-Para quem é: quem tem sofá, cama e banco do carro cheios de pelo, e prefere um aspirador dedicado a trocar o aspirador da casa. Para o resto do piso, veja o artigo de [melhor robô aspirador custo-benefício](/melhores/melhor-robo-aspirador-custo-beneficio/) e o comparativo entre [robô aspirador e aspirador vertical](/comparativos/robo-aspirador-ou-aspirador-vertical/).
+Para quem é: quem tem sofá, cama e banco do carro cheios de pelo, e prefere um aspirador dedicado a trocar o aspirador da casa. Para o resto do piso, veja o artigo de melhor robô aspirador custo-benefício e o comparativo entre [robô aspirador e aspirador vertical](/comparativos/robo-aspirador-ou-aspirador-vertical/).
 
 O que decepciona: tem fio e não tem bateria, é barulhento com o bocal pet (cerca de 94 dB na medição do GDM), é pesado para o formato de mão na mesma medição e o filtro lavável não é HEPA. Há versões de 127V e 220V com códigos diferentes: confira a voltagem antes de comprar.
 

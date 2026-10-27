@@ -135,7 +135,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["robo-aspirador-wap-robot-w100-vale-a-pena", "melhor-robo-aspirador-custo-beneficio"]
+relacionados: ["robo-aspirador-wap-robot-w100-vale-a-pena"]
 ---
 
 ## Para quem é este review
@@ -196,7 +196,7 @@ Não conseguimos consolidar, fora da Amazon, um volume de reclamações específ
 - **Kärcher K3 Force Turbo:** 1815 psi, 360 l/h e 1500 W, com canhão de espuma, alça longa e Stop Total, indicada pela marca para uso mais frequente e pesado (muros, calçadas, telhados). É o salto natural para quem acha a K2 pequena.
 - **Kärcher K5:** 2100 psi, 380 l/h e motor de indução, para garagens, calçadas e muros com uso frequente. Custa bem mais, mas resolve o limite de durabilidade do motor universal.
 
-Se você está equipando a casa com tecnologia que faz o trabalho pesado por você, veja também nosso review do [robô aspirador WAP Robot W100](/reviews/robo-aspirador-wap-robot-w100-vale-a-pena/) e o artigo de [melhor robô aspirador custo-benefício](/melhores/melhor-robo-aspirador-custo-beneficio/).
+Se você está equipando a casa com tecnologia que faz o trabalho pesado por você, veja também nosso review do [robô aspirador WAP Robot W100](/reviews/robo-aspirador-wap-robot-w100-vale-a-pena/) e o artigo de melhor robô aspirador custo-benefício.
 
 ## Dicas para tirar o máximo da K2 Plus
 

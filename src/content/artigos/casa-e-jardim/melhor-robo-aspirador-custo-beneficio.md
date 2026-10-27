@@ -396,7 +396,7 @@ fontes:
   - nome: "Amazon.com.br — Ficha técnica do anúncio (Multi Mars HO400)"
     url: "https://www.amazon.com.br/dp/B07MTHP5SF"
 testadoFisicamente: false
-rascunho: false
+rascunho: true
 destaque: false
 relacionados: ["robo-aspirador-wap-robot-w100-vale-a-pena", "melhor-ventilador-de-coluna"]
 ---

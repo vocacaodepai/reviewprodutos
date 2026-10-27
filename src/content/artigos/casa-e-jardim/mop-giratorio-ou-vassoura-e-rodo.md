@@ -171,7 +171,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["robo-aspirador-ou-aspirador-vertical", "melhor-robo-aspirador-custo-beneficio"]
+relacionados: ["robo-aspirador-ou-aspirador-vertical"]
 ---
 
 ## Resposta rápida
@@ -256,4 +256,4 @@ O mop giratório fica na faixa intermediária de produtos de limpeza; a vassoura
 
 ## Veredito
 
-Para limpar o chão **com menos esforço**, o **Flash Limp Fit** leva a escolha do editor: a centrífuga resolve o pior da faxina e o conjunto é compacto. A **vassoura Noviça de silicone** é a melhor compra de baixo custo, principalmente para quem tem pets ou piso áspero, e fica ainda mais completa com um rodo. Um terceiro caminho, se a ideia é automatizar, é o robô aspirador, que você compara em [robô aspirador ou aspirador vertical](/comparativos/robo-aspirador-ou-aspirador-vertical/) e na lista de [melhor robô aspirador custo-benefício](/melhores/melhor-robo-aspirador-custo-beneficio/).
+Para limpar o chão **com menos esforço**, o **Flash Limp Fit** leva a escolha do editor: a centrífuga resolve o pior da faxina e o conjunto é compacto. A **vassoura Noviça de silicone** é a melhor compra de baixo custo, principalmente para quem tem pets ou piso áspero, e fica ainda mais completa com um rodo. Um terceiro caminho, se a ideia é automatizar, é o robô aspirador, que você compara em [robô aspirador ou aspirador vertical](/comparativos/robo-aspirador-ou-aspirador-vertical/) e na lista de melhor robô aspirador custo-benefício.

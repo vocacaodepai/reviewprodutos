@@ -114,7 +114,7 @@ fontes:
   - nome: "Tua Saúde — Dor no pescoço: causas e quando ir ao médico"
     url: "https://www.tuasaude.com/dor-no-pescoco/"
 testadoFisicamente: false
-rascunho: false
+rascunho: true
 destaque: false
 relacionados: ["travesseiro-para-dor-no-pescoco-os-5-melhores"]
 ---

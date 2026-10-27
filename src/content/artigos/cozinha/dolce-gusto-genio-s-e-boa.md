@@ -150,7 +150,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["dolce-gusto-ou-nespresso-cafeteira-de-capsula", "liquidificador-philips-walita-daily-e-bom", "air-fryer-philips-walita-serie-3000-vale-a-pena"]
+relacionados: ["dolce-gusto-ou-nespresso-cafeteira-de-capsula", "liquidificador-philips-walita-daily-e-bom"]
 ---
 
 ## Para quem é este review

@@ -169,7 +169,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["oral-b-io-series-2-e-boa", "massageador-de-pescoco-shiatsu-relaxmedic-e-bom"]
+relacionados: ["oral-b-io-series-2-e-boa"]
 ---
 
 ## Resposta rápida

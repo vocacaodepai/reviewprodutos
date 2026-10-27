@@ -302,7 +302,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["massageador-de-pescoco-shiatsu-relaxmedic-e-bom"]
+relacionados: []
 ---
 
 ## Resposta rápida
@@ -405,4 +405,4 @@ Travesseiro é apoio, não tratamento. Procure um ortopedista ou fisioterapeuta 
 
 Para a maioria das pessoas que acordam com dor no pescoço e dormem de costas ou de lado, o **Duoflex Nasa Cervical** é a compra que resolve por anos. Se o orçamento é curto, o **Fibrasca Nasa Ortopédico Cervical** entrega o essencial e lava a capa sem drama. Quem não sabe a altura certa e quer poder devolver escolhe o **Emma Original**; quem dorme de lado com ombro largo, o **Theva Shoulder**; quem quer só testar o formato, o **Fibrasca Cervical**.
 
-Dois complementos ajudam no mesmo problema: a tensão acumulada no fim do dia, que você pode trabalhar com um massageador cervical (veja nossa análise do [massageador de pescoço shiatsu Relaxmedic](/reviews/massageador-de-pescoco-shiatsu-relaxmedic-e-bom/)), e a postura ao longo do dia, tema da nossa seção de [dor e postura](/categoria/saude-e-bem-estar/dor-e-postura/). Para outros guias de sono, veja a categoria [sono e descanso](/categoria/saude-e-bem-estar/sono-e-descanso/) e a página de [saúde e bem-estar](/categoria/saude-e-bem-estar/).
+Outro complemento ajuda no mesmo problema: a postura ao longo do dia, tema da nossa seção de [dor e postura](/categoria/saude-e-bem-estar/dor-e-postura/). Para outros guias de sono, veja a categoria [sono e descanso](/categoria/saude-e-bem-estar/sono-e-descanso/) e a página de [saúde e bem-estar](/categoria/saude-e-bem-estar/).

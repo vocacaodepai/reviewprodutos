@@ -117,7 +117,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["mop-giratorio-ou-vassoura-e-rodo", "robo-aspirador-ou-aspirador-vertical", "melhor-robo-aspirador-custo-beneficio"]
+relacionados: ["mop-giratorio-ou-vassoura-e-rodo", "robo-aspirador-ou-aspirador-vertical"]
 ---
 
 ## Para quem é este review
@@ -166,7 +166,7 @@ Um dos testes ainda recomenda juntar à mão ou com vassoura o pelo solto em qua
 
 - **Flash Limp Fit MOP5010:** balde simples, base redonda e mais capacidade por balde; é a escolha para quem quer gastar menos e não liga para a água suja misturada. O [comparativo de mop giratório e vassoura com rodo](/comparativos/mop-giratorio-ou-vassoura-e-rodo/) explica o modelo.
 - **Flash Limp Duas Águas MOP7504:** outro mop de duas águas da marca, com balde maior; um dos sites que consultamos o considera menos eficiente que o Água Limpa na separação.
-- **Aspirador ou robô:** se o seu problema é pelo e poeira, e não passar pano, veja o [comparativo entre robô aspirador e aspirador vertical](/comparativos/robo-aspirador-ou-aspirador-vertical/) e a lista dos [melhores robôs aspiradores custo-benefício](/melhores/melhor-robo-aspirador-custo-beneficio/).
+- **Aspirador ou robô:** se o seu problema é pelo e poeira, e não passar pano, veja o [comparativo entre robô aspirador e aspirador vertical](/comparativos/robo-aspirador-ou-aspirador-vertical/) e a lista dos melhores robôs aspiradores custo-benefício.
 
 Mais ideias na categoria de [limpeza](/categoria/casa-e-jardim/limpeza/).
 

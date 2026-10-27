@@ -134,7 +134,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["robo-aspirador-wap-robot-w100-vale-a-pena", "melhor-robo-aspirador-custo-beneficio", "robo-aspirador-ou-aspirador-vertical"]
+relacionados: ["robo-aspirador-wap-robot-w100-vale-a-pena", "robo-aspirador-ou-aspirador-vertical"]
 ---
 
 ## Para quem é este review
@@ -204,7 +204,7 @@ Se o seu critério é mapa e cômodos, o E10 fica para trás. Se bastam app e ag
 - **Escolha o E10** (ou um robô de entrada) se a casa é pequena, de piso liso, e o orçamento é a prioridade.
 - **Suba para um modelo com estação** se você não quer esvaziar o pó e lavar o pano à mão.
 
-Veja também o [review do WAP Robot W100](/reviews/robo-aspirador-wap-robot-w100-vale-a-pena/), o ranking com os [melhores robôs aspiradores de custo-benefício](/melhores/melhor-robo-aspirador-custo-beneficio/) e a comparação entre [robô aspirador e aspirador vertical](/comparativos/robo-aspirador-ou-aspirador-vertical/).
+Veja também o [review do WAP Robot W100](/reviews/robo-aspirador-wap-robot-w100-vale-a-pena/), o ranking com os melhores robôs aspiradores de custo-benefício e a comparação entre [robô aspirador e aspirador vertical](/comparativos/robo-aspirador-ou-aspirador-vertical/).
 
 ## Dicas para tirar o máximo do S40C
 
