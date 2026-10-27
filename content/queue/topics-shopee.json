@@ -71,7 +71,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "fechadura-intelbras-fd-1000-e-boa",
+      "published_at": "2026-10-27"
     },
     {
       "id": "tecnologia-review-s004",
@@ -597,7 +599,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "purificador-electrolux-pe15x-e-bom",
+      "published_at": "2026-10-27"
     },
     {
       "id": "cozinha-comparativo-s001",
@@ -1094,7 +1098,9 @@
       ],
       "prioridade": 1,
       "sazonal": "verao",
-      "status": "pending"
+      "status": "published",
+      "published_slug": "nivea-sun-toque-seco-ou-neutrogena-sun-fresh",
+      "published_at": "2026-10-27"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-s002",
@@ -1472,7 +1478,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "whiskas-castrados-ou-quatree-gourmet-gatos",
+      "published_at": "2026-10-27"
     },
     {
       "id": "pets-comparativo-s002",
@@ -1567,7 +1575,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mizuno-wave-stratos-3-e-bom",
+      "published_at": "2026-10-27"
     },
     {
       "id": "esportes-e-lazer-review-s002",
