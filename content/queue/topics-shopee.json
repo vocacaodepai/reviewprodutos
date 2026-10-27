@@ -863,7 +863,8 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped",
+      "ultimo_erro": "Comparativo descartado: validação clínica do Omron e garantia só em fonte não aberta (YMYL); refazer com fonte oficial verificada"
     },
     {
       "id": "saude-e-bem-estar-comparativo-s002",
@@ -1288,7 +1289,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "burigotto-rio-22-ou-galzerano-napoli-carrinho-com-bebe-conforto",
+      "published_at": "2026-10-27"
     },
     {
       "id": "bebes-e-criancas-comparativo-s002",
@@ -1791,7 +1794,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "aspirador-wap-car-12v2-e-bom",
+      "published_at": "2026-10-27"
     },
     {
       "id": "automotivo-review-s003",
@@ -2074,7 +2079,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "canon-g3110-ou-epson-l3250",
+      "published_at": "2026-10-27"
     },
     {
       "id": "escritorio-e-estudos-comparativo-s002",
@@ -2216,7 +2223,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "puma-court-classic-clean-e-bom",
+      "published_at": "2026-10-27"
     },
     {
       "id": "moda-e-acessorios-review-s003",
