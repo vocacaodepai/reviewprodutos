@@ -302,7 +302,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["dor-nas-costas-no-home-office", "dor-nas-costas-ao-dirigir", "travesseiro-para-dor-no-pescoco-os-5-melhores", "massageador-de-pescoco-shiatsu-relaxmedic-e-bom"]
+relacionados: ["dor-nas-costas-no-home-office", "dor-nas-costas-ao-dirigir", "travesseiro-para-dor-no-pescoco-os-5-melhores"]
 ---
 
 ## Resposta rápida

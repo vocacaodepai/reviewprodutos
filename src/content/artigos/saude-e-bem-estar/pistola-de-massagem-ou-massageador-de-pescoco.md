@@ -176,7 +176,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["massageador-de-pescoco-shiatsu-relaxmedic-e-bom", "travesseiro-para-dor-no-pescoco-os-5-melhores"]
+relacionados: ["travesseiro-para-dor-no-pescoco-os-5-melhores"]
 ---
 
 ## Resposta rápida
@@ -266,4 +266,4 @@ Procure um profissional de saúde se a dor durar semanas, se vier com formigamen
 
 ## Veredito
 
-Para a maioria das pessoas que querem **um aparelho de massagem para o dia a dia**, a **Relaxmedic Mini Deep Therapy** é a compra mais versátil e a mais bem documentada. Se o incômodo é quase sempre no pescoço, o **Genis Relax Neck Spa** é a escolha correta, mesmo com menos dados nas fichas. Um terceiro caminho, quando a causa é a postura, é combinar qualquer um dos dois com pausas e ajuste da estação de trabalho; outro massageador de pescoço sem fio da Relaxmedic aparece no [review do Blue 6D](/reviews/massageador-de-pescoco-shiatsu-relaxmedic-e-bom/).
+Para a maioria das pessoas que querem **um aparelho de massagem para o dia a dia**, a **Relaxmedic Mini Deep Therapy** é a compra mais versátil e a mais bem documentada. Se o incômodo é quase sempre no pescoço, o **Genis Relax Neck Spa** é a escolha correta, mesmo com menos dados nas fichas. Um terceiro caminho, quando a causa é a postura, é combinar qualquer um dos dois com pausas e ajuste da estação de trabalho; outro massageador de pescoço sem fio da Relaxmedic aparece no review do Blue 6D.

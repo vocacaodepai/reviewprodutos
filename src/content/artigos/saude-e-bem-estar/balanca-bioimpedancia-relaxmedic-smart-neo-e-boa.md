@@ -107,7 +107,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["massageador-de-pescoco-shiatsu-relaxmedic-e-bom", "melhor-whey-protein-custo-beneficio"]
+relacionados: ["melhor-whey-protein-custo-beneficio"]
 ---
 
 ## Para quem é este review
@@ -187,4 +187,4 @@ Por isso, evitamos repetir impressões de uso que não conseguimos confirmar. Se
 
 **Não compre se** você precisa de precisão clínica, quer medição segmentada com barra de mãos, está grávida ou usa marca-passo ou implante eletrônico (nesses casos, só com liberação do médico), ou se tem dificuldade com aplicativos e manuais em inglês.
 
-Antes de fechar, confira se o código na embalagem é o RM-BD2403A, guarde a nota fiscal e combine os números com orientação profissional. Para ver outros aparelhos da categoria, visite [monitoramento de saúde](/categoria/saude-e-bem-estar/monitoramento-de-saude/) e a página de [saúde e bem-estar](/categoria/saude-e-bem-estar/). Se o seu objetivo também envolve alimentação e treino, veja o artigo de [whey protein com melhor custo-benefício](/melhores/melhor-whey-protein-custo-beneficio/) e o [review do massageador de pescoço Relaxmedic](/reviews/massageador-de-pescoco-shiatsu-relaxmedic-e-bom/).
+Antes de fechar, confira se o código na embalagem é o RM-BD2403A, guarde a nota fiscal e combine os números com orientação profissional. Para ver outros aparelhos da categoria, visite [monitoramento de saúde](/categoria/saude-e-bem-estar/monitoramento-de-saude/) e a página de [saúde e bem-estar](/categoria/saude-e-bem-estar/). Se o seu objetivo também envolve alimentação e treino, veja o artigo de [whey protein com melhor custo-benefício](/melhores/melhor-whey-protein-custo-beneficio/) e o review do massageador de pescoço Relaxmedic.

@@ -135,7 +135,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["air-fryer-oven-ou-tradicional", "melhor-air-fryer-familia-grande", "air-fryer-mondial-afn-40-bi-4l-vale-a-pena", "air-fryer-philips-walita-serie-3000-vale-a-pena"]
+relacionados: ["air-fryer-oven-ou-tradicional", "melhor-air-fryer-familia-grande", "air-fryer-mondial-afn-40-bi-4l-vale-a-pena"]
 ---
 
 ## Para quem é este review
@@ -217,7 +217,7 @@ Em resumo: o padrão é elogio ao resultado e ao acabamento, com reclamação de
 
 - **Air fryer de cesto de 5 litros:** para batata e empanados, rende mais por fornada, ocupa menos bancada e custa bem menos. Compare no [comparativo entre air fryer oven e tradicional](/comparativos/air-fryer-oven-ou-tradicional/).
 - **Electrolux EAF50:** para família de 4 a 6 pessoas que fritam mais do que assam, a EAF50 de cesto de 5 litros está entre nossas escolhas no artigo das [melhores air fryers para família grande](/melhores/melhor-air-fryer-familia-grande/).
-- **Air fryer de 4 litros:** se a casa tem até 3 pessoas, veja o [review da Mondial AFN-40](/reviews/air-fryer-mondial-afn-40-bi-4l-vale-a-pena/) ou o da [Philips Walita Série 3000](/reviews/air-fryer-philips-walita-serie-3000-vale-a-pena/), que ocupam menos espaço.
+- **Air fryer de 4 litros:** se a casa tem até 3 pessoas, veja o [review da Mondial AFN-40](/reviews/air-fryer-mondial-afn-40-bi-4l-vale-a-pena/) ou o da Philips Walita Série 3000, que ocupam menos espaço.
 
 ## Dicas para tirar o máximo da EAF90
 

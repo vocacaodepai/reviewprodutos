@@ -107,7 +107,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["como-dormir-melhor-habitos-e-produtos", "climatizador-elgin-7-5-litros-vale-a-pena", "massageador-de-pescoco-shiatsu-relaxmedic-e-bom"]
+relacionados: ["como-dormir-melhor-habitos-e-produtos", "climatizador-elgin-7-5-litros-vale-a-pena"]
 ---
 
 ## Resposta rápida

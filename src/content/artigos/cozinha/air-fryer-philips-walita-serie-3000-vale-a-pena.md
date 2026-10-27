@@ -132,7 +132,7 @@ fontes:
   - nome: "Amazon.com.br — Página do produto (título e variações de voltagem)"
     url: "https://www.amazon.com.br/dp/B0CQRYMXN6"
 testadoFisicamente: false
-rascunho: false
+rascunho: true
 destaque: false
 relacionados: ["air-fryer-mondial-afn-40-bi-4l-vale-a-pena", "melhor-air-fryer-familia-grande", "liquidificador-philips-walita-daily-e-bom"]
 ---

@@ -118,7 +118,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["travesseiro-para-dor-no-pescoco-os-5-melhores", "calor-para-dormir-refrescar-quarto-sem-ar-condicionado", "massageador-de-pescoco-shiatsu-relaxmedic-e-bom"]
+relacionados: ["travesseiro-para-dor-no-pescoco-os-5-melhores", "calor-para-dormir-refrescar-quarto-sem-ar-condicionado"]
 ---
 
 ## Para quem é este review
@@ -188,7 +188,7 @@ Se o calor é o seu problema principal, nenhum viscoelástico resolve bem; procu
 
 ## Quando procurar um profissional
 
-Travesseiro é apoio, não tratamento. Se a dor no pescoço durar mais de uma semana, vier com formigamento, dormência ou fraqueza nos braços, ou se piorar sem explicação, procure um ortopedista ou fisioterapeuta. O mesmo vale para ronco alto com pausas respiratórias e sonolência durante o dia, que pedem avaliação médica e não se resolvem trocando de travesseiro. Para o cansaço do fim do dia, veja nossa análise do [massageador de pescoço shiatsu](/reviews/massageador-de-pescoco-shiatsu-relaxmedic-e-bom/) e a página de [sono e descanso](/categoria/saude-e-bem-estar/sono-e-descanso/).
+Travesseiro é apoio, não tratamento. Se a dor no pescoço durar mais de uma semana, vier com formigamento, dormência ou fraqueza nos braços, ou se piorar sem explicação, procure um ortopedista ou fisioterapeuta. O mesmo vale para ronco alto com pausas respiratórias e sonolência durante o dia, que pedem avaliação médica e não se resolvem trocando de travesseiro. Para o cansaço do fim do dia, veja nossa análise do massageador de pescoço shiatsu e a página de [sono e descanso](/categoria/saude-e-bem-estar/sono-e-descanso/).
 
 ## Veredito final
 

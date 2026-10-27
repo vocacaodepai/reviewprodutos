@@ -200,7 +200,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["melhor-air-fryer-familia-grande", "air-fryer-mondial-afn-40-bi-4l-vale-a-pena", "air-fryer-philips-walita-serie-3000-vale-a-pena"]
+relacionados: ["melhor-air-fryer-familia-grande", "air-fryer-mondial-afn-40-bi-4l-vale-a-pena"]
 ---
 
 ## Resposta rápida

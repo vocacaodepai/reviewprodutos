@@ -126,7 +126,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["massageador-de-pescoco-shiatsu-relaxmedic-e-bom", "travesseiro-para-dor-no-pescoco-os-5-melhores", "philips-oneblade-ou-barbeador-eletrico-tradicional"]
+relacionados: ["travesseiro-para-dor-no-pescoco-os-5-melhores", "philips-oneblade-ou-barbeador-eletrico-tradicional"]
 ---
 
 ## Para quem é este review
