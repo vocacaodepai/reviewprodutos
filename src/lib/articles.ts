@@ -53,7 +53,18 @@ export function tipoUrl(tipo: keyof typeof ARTICLE_TYPES): string {
 }
 
 export function produtoUrl(p: Produto): string {
-  return p.url ?? amazonUrl(p.asin);
+  if (p.loja === 'shopee') return p.shopee!.link;
+  return p.url ?? amazonUrl(p.asin!);
+}
+
+/** Identificador estável do produto (ASIN na Amazon, itemId na Shopee). */
+export function produtoId(p: Produto): string {
+  return p.loja === 'shopee' ? String(p.shopee!.itemId) : p.asin!;
+}
+
+/** Nome da loja do botão de compra. */
+export function lojaNome(p: Produto): string {
+  return p.loja === 'shopee' ? 'Shopee' : 'Amazon';
 }
 
 /**

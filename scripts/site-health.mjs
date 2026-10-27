@@ -69,6 +69,10 @@ if (!existsSync(DIST)) {
       if (!m[1].includes(`tag=${TAG}`)) erros.push(`link Amazon sem tag ${TAG} em ${pagina}: ${m[1]}`);
       if (!/rel="[^"]*sponsored/.test(tag)) erros.push(`link Amazon sem rel="sponsored" em ${pagina}`);
     }
+    for (const m of s.matchAll(/<a\b[^>]*href="(https?:\/\/s\.shopee\.com\.br\/[^"]*)"[^>]*>/g)) {
+      afiliados++;
+      if (!/rel="[^"]*sponsored/.test(m[0])) erros.push(`link Shopee sem rel="sponsored" em ${pagina}`);
+    }
     const texto = s.replace(/<script[\s\S]*?<\/script>/g, '').replace(/<[^>]+>/g, ' ');
     for (const [re, nome] of proibidos) {
       if (re.test(texto)) erros.push(`${nome} em ${pagina}`);

@@ -1,0 +1,6 @@
+{
+  "versao": 1,
+  "gerado_em": "2026-10-27",
+  "instrucoes": "Fila dos artigos de produtos da Shopee. Mesmo formato de topics.json (sem 'lista'). Reponha com 100 temas (50 review + 50 comparativo) quando houver menos de 40 pendentes, conforme docs/rotinas/lote-shopee.md. Atualize com: QUEUE_FILE=content/queue/topics-shopee.json node scripts/update-queue.mjs <id> <status> [slug].",
+  "temas": []
+}

@@ -25,7 +25,7 @@ for (const f of targets) {
   const slug = slugFromPath(f);
   if (slugs.has(slug)) errs.push(`slug duplicado com ${relative(ROOT, slugs.get(slug))}`); else slugs.set(slug, f);
   if (data?.produtos && data.tipo) {
-    const key = `${data.tipo}:${[...data.produtos.map((p) => p.asin)].sort().join(',')}`;
+    const key = `${data.tipo}:${[...data.produtos.map((p) => p.asin ?? `shopee:${p.shopee?.itemId}`)].sort().join(',')}`;
     if (asinTipo.has(key)) errs.push(`mesmo conjunto de ASINs e tipo que ${relative(ROOT, asinTipo.get(key))} (conteúdo duplicado?)`); else asinTipo.set(key, f);
   }
   if (checkImages && data?.imagem?.src) {

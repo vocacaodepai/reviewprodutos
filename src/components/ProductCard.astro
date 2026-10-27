@@ -8,7 +8,7 @@ import AffiliateButton from './AffiliateButton.astro';
 import ProductImage from './ProductImage.astro';
 import PrecoMercado from './PrecoMercado.astro';
 import { BADGES } from '@/site.config';
-import { slugify, produtoUrl, type Produto } from '@/lib/articles';
+import { slugify, produtoUrl, produtoId, lojaNome, type Produto } from '@/lib/articles';
 interface Props { produto: Produto; posicao?: number; headingLevel?: 'h2' | 'h3'; mostrarEspecificacoes?: boolean; }
 const { produto: p, posicao, headingLevel = 'h3', mostrarEspecificacoes = true } = Astro.props;
 const Heading = headingLevel;
@@ -16,7 +16,7 @@ const selo = p.selo ? BADGES[p.selo] : null;
 const id = `produto-${slugify(p.nome)}`;
 const specs = Object.entries(p.especificacoes).slice(0, 8);
 ---
-<article id={id} class="card overflow-hidden scroll-mt-24" data-asin={p.asin}>
+<article id={id} class="card overflow-hidden scroll-mt-24" data-asin={produtoId(p)}>
   <div class="grid gap-6 p-5 sm:p-6 md:grid-cols-[260px_1fr]">
     <div class="relative">
       {typeof posicao === 'number' && <span class="absolute -left-2 -top-2 z-10 flex h-9 w-9 items-center justify-center rounded-full bg-brand-800 font-display text-base font-extrabold text-white shadow">{posicao}</span>}

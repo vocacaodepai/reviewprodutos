@@ -17,7 +17,7 @@ import ProductImage from '@/components/ProductImage.astro';
 import ComparativoCapa from '@/components/ComparativoCapa.astro';
 import { render } from 'astro:content';
 import { ARTICLE_TYPES, FUNNEL_LABELS, SITE } from '@/site.config';
-import { getArtigos, getAutor, getCategoria, articleUrl, categoriaUrl, formatDate, readingTime, relatedArticles, absoluteUrl, produtoUrl, produtoDestaque, type Artigo } from '@/lib/articles';
+import { getArtigos, getAutor, getCategoria, articleUrl, categoriaUrl, formatDate, readingTime, relatedArticles, absoluteUrl, produtoUrl, produtoId, produtoDestaque, type Artigo } from '@/lib/articles';
 import { articleSchema, graph } from '@/lib/schema';
 
 interface Props { artigo: Artigo; }
@@ -40,7 +40,7 @@ const isComparativo = d.tipo === 'comparativo';
 const produtosOrdenados = isLista ? [...d.produtos].sort((a, b) => b.nota - a.nota) : d.produtos;
 const topPick = produtoDestaque(artigo, produtosOrdenados);
 const tituloDestaque = d.tipo === 'review' ? 'Onde comprar' : 'Em destaque';
-const valuePick = produtosOrdenados.find((p) => p.selo === 'melhor-custo-beneficio' && p.asin !== topPick.asin);
+const valuePick = produtosOrdenados.find((p) => p.selo === 'melhor-custo-beneficio' && produtoId(p) !== produtoId(topPick));
 const norm = (t: string) => t.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 const GENERIC = new Set(['air', 'fryer', 'fritadeira', 'sem', 'oleo', 'com', 'para', 'preto', 'preta', 'branco', 'branca', 'inox', 'litros', 'mala', 'bordo', 'kit', 'fone', 'bluetooth', 'monitor', 'garrafa', 'termica', 'travesseiro', 'protetor', 'solar', 'secador', 'cabelo', 'polegadas', 'versao', 'modelo', 'serie', 'unidades', 'pet', 'para', 'and', 'the']);
 const ctaKeys = (p: (typeof produtosOrdenados)[number]) => {
@@ -105,7 +105,7 @@ const tocExtras = [
         {isComparativo ? (
           <>
             <span class="hidden" data-pagefind-meta={`image:${d.imagem.src}`}></span>
-            <ComparativoCapa produtos={produtosOrdenados} destaqueAsin={topPick.asin} />
+            <ComparativoCapa produtos={produtosOrdenados} destaqueAsin={produtoId(topPick)} />
           </>
         ) : (
           <>
@@ -162,7 +162,7 @@ const tocExtras = [
         <FAQ itens={d.faq} />
 
         {isComparativo
-          ? <div class="mt-10"><ComparativoCapa produtos={produtosOrdenados} destaqueAsin={topPick.asin} titulo="Já decidiu? Compre o seu" variant="final" /></div>
+          ? <div class="mt-10"><ComparativoCapa produtos={produtosOrdenados} destaqueAsin={produtoId(topPick)} titulo="Já decidiu? Compre o seu" variant="final" /></div>
           : <BuyBox produto={topPick} titulo={d.tipo === 'review' ? 'Pronto para decidir?' : 'Ainda em dúvida? Em destaque'} />}
 
 
@@ -193,7 +193,7 @@ const tocExtras = [
   <div class="fixed inset-x-0 bottom-0 z-40 border-t border-soft bg-[var(--bg)]/95 px-3 py-2 backdrop-blur lg:hidden" data-barra-compra hidden>
     <div class="mx-auto flex max-w-xl items-center gap-3">
       <span class="min-w-0 flex-1 truncate text-sm font-semibold">{topPick.nome}</span>
-      <a href={produtoUrl(topPick)} rel="sponsored nofollow noopener" target="_blank" class="btn-buy shrink-0 px-4 py-2 text-sm" data-asin={topPick.asin} data-track="affiliate-click">Comprar agora</a>
+      <a href={produtoUrl(topPick)} rel="sponsored nofollow noopener" target="_blank" class="btn-buy shrink-0 px-4 py-2 text-sm" data-asin={produtoId(topPick)} data-track="affiliate-click">Comprar agora</a>
     </div>
   </div>
 

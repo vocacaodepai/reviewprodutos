@@ -4,7 +4,7 @@
  * Usa só `precoMercado` (estimativa de várias lojas); nunca o preço da Amazon.
  */
 import Icon from './Icon.astro';
-import { produtoUrl, type Produto } from '@/lib/articles';
+import { produtoUrl, produtoId, lojaNome, type Produto } from '@/lib/articles';
 import { brl, mesAno, mesCurto } from '@/lib/precos';
 interface Props { produtos: Produto[]; }
 const itens = Astro.props.produtos.filter((p) => p.precoMercado);
@@ -62,7 +62,7 @@ const referencia = itens.map((p) => p.precoMercado!.referencia).sort().at(-1);
       )}
       <div class="mt-5 flex flex-wrap gap-2">
         {itens.map((p) => (
-          <a href={produtoUrl(p)} rel="sponsored nofollow noopener" target="_blank" class="btn-buy px-4 py-2 text-sm" data-asin={p.asin} data-track="affiliate-click"><Icon name="cart" size={16} /> Comprar {curto(p)}</a>
+          <a href={produtoUrl(p)} rel="sponsored nofollow noopener" target="_blank" class="btn-buy px-4 py-2 text-sm" data-asin={produtoId(p)} data-track="affiliate-click"><Icon name="cart" size={16} /> Comprar {curto(p)}</a>
         ))}
       </div>
     </div>
