@@ -180,7 +180,7 @@ const tocExtras = [
             <p class="text-xs font-bold uppercase tracking-wider muted">Para quem é este artigo</p>
             <p class="mt-2">{FUNNEL_LABELS[d.funil.estagio]}</p>
             {d.funil.problema && <p class="mt-2 muted">Resolve: <span class="font-medium text-[var(--fg)]">{d.funil.problema}</span></p>}
-            <p class="mt-3 flex flex-wrap gap-1">{d.tags.slice(0, 6).map((t) => <a href={`/busca/?q=${encodeURIComponent(t)}`} class="chip text-xs">{t}</a>)}</p>
+            <p class="mt-3 flex flex-wrap gap-1">{d.tags.slice(0, 6).map((t) => <a href="/busca/" data-busca={t} class="chip text-xs">{t}</a>)}</p>
           </div>
           <AdSlot format="rectangle" />
         </div>
@@ -198,6 +198,8 @@ const tocExtras = [
   </div>
 
   <script>
+    // Tags abrem a busca interna sem expor URLs /busca/?q= como links rastreáveis (o robots.txt bloqueia /busca/).
+    document.querySelectorAll<HTMLAnchorElement>('a[data-busca]').forEach((a) => a.addEventListener('click', (e) => { e.preventDefault(); location.href = `/busca/?q=${encodeURIComponent(a.dataset.busca ?? '')}`; }));
     // Espalha caixas de compra pelo texto: depois da seção de cada produto citado num H2;
     // se o texto não tiver H2 por produto (reviews e artigos), repete a escolha principal a cada 3 seções.
     const norm = (t: string) => t.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
