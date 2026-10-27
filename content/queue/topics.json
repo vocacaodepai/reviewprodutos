@@ -8556,7 +8556,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "kong-wobbler-vale-a-pena",
+      "published_at": "2026-10-27"
     },
     {
       "id": "pets-review-014",
@@ -8817,7 +8819,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "caloi-vulcan-aro-29-e-boa",
+      "published_at": "2026-10-27"
     },
     {
       "id": "esportes-e-lazer-comparativo-010",
@@ -9189,7 +9193,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "epson-ecotank-l3250-e-boa",
+      "published_at": "2026-10-27"
     },
     {
       "id": "escritorio-e-estudos-review-011",
@@ -9613,7 +9619,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "soundcore-life-q30-ou-jbl-tune-720bt",
+      "published_at": "2026-10-27"
     },
     {
       "id": "tecnologia-comparativo-018",
@@ -9839,7 +9847,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "fischer-gourmet-44l-ou-electrolux-eaf90",
+      "published_at": "2026-10-27"
     },
     {
       "id": "cozinha-comparativo-016",
