@@ -34,6 +34,28 @@ function articleLastmod() {
 }
 const LASTMOD = articleLastmod();
 
+/** Subcategorias com pelo menos um artigo publicado (as vazias ficam noindex e não entram no sitemap). */
+function filledSubcategories() {
+  /** @type {Set<string>} */
+  const set = new Set();
+  /** @param {string} dir */
+  const walk = (dir) => {
+    for (const f of readdirSync(dir)) {
+      const p = join(dir, f);
+      if (statSync(p).isDirectory()) walk(p);
+      else if (f.endsWith('.md')) {
+        try {
+          const { data } = matter(readFileSync(p, 'utf8'));
+          if (!data.rascunho && data.categoria && data.subcategoria) set.add(`${SITE}/categoria/${data.categoria}/${data.subcategoria}/`);
+        } catch { /* ignora arquivo inválido */ }
+      }
+    }
+  };
+  try { walk('./src/content/artigos'); } catch { /* sem artigos ainda */ }
+  return set;
+}
+const FILLED_SUBS = filledSubcategories();
+
 export default defineConfig({
   site: SITE,
   trailingSlash: 'always',
@@ -46,7 +68,8 @@ export default defineConfig({
   },
   integrations: [
     sitemap({
-      filter: (page) => !page.includes('/busca/') && !page.includes('/obrigado/') && !page.includes('/404'),
+      // Subcategorias sem artigo são noindex: fora do sitemap para não gerar "Excluída pela tag noindex" no Search Console.
+      filter: (page) => !page.includes('/busca/') && !page.includes('/obrigado/') && !page.includes('/404') && !(/\/categoria\/[^/]+\/[^/]+\/$/.test(page) && !FILLED_SUBS.has(page)),
       serialize(item) {
         // Google ignora priority/changefreq; lastmod só quando conhecido (data real do artigo).
         const lm = LASTMOD.get(item.url);
