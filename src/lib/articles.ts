@@ -18,6 +18,25 @@ export async function getArtigos(filter?: (a: Artigo) => boolean): Promise<Artig
   return list.sort((a, b) => (b.data.updatedDate ?? b.data.pubDate).valueOf() - (a.data.updatedDate ?? a.data.pubDate).valueOf());
 }
 
+/** Dias que o artigo em destaque da home fica no ar antes de trocar. */
+export const DESTAQUE_DIAS = 5;
+
+/**
+ * Artigo em destaque da home: muda a cada 5 dias (janelas contadas desde 2026-01-01 UTC).
+ * Só entram artigos publicados antes do início da janela, então novas publicações no meio dela
+ * não trocam o destaque. A escolha é determinística (sem sorteio), em saltos fixos pela lista.
+ */
+export function destaqueDaHome(artigos: Artigo[], agora: Date = new Date()): Artigo | undefined {
+  const DIA = 86_400_000;
+  const janela = Math.floor((agora.getTime() - Date.UTC(2026, 0, 1)) / (DIA * DESTAQUE_DIAS));
+  const inicio = Date.UTC(2026, 0, 1) + janela * DIA * DESTAQUE_DIAS;
+  const pool = artigos
+    .filter((a) => a.data.pubDate.valueOf() < inicio)
+    .sort((a, b) => a.id.localeCompare(b.id));
+  if (!pool.length) return artigos[0];
+  return pool[(janela * 7919) % pool.length];
+}
+
 export async function getCategorias(): Promise<Categoria[]> {
   const cats = await getCollection('categorias');
   return cats.sort((a, b) => a.data.ordem - b.data.ordem || a.data.nome.localeCompare(b.data.nome, 'pt-BR'));
