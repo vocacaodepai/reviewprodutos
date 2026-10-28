@@ -143,7 +143,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "qcy-ht08-ou-haylou-s40-anc",
+      "published_at": "2026-10-28"
     },
     {
       "id": "tecnologia-comparativo-s002",
@@ -653,7 +655,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "philco-ph900-ou-britania-blq1380p",
+      "published_at": "2026-10-28"
     },
     {
       "id": "cozinha-comparativo-s003",
@@ -1417,7 +1421,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "pedigree-dentastix-racas-pequenas-e-bom",
+      "published_at": "2026-10-28"
     },
     {
       "id": "pets-review-s003",
@@ -1728,7 +1734,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "esportes-e-lazer-comparativo-s004",
@@ -1825,7 +1831,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "alarme-positron-ex-360-e-bom",
+      "published_at": "2026-10-28"
     },
     {
       "id": "automotivo-review-s004",
