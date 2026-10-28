@@ -10056,7 +10056,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "good-girl-carolina-herrera-e-bom",
+      "published_at": "2026-10-28"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-014",
@@ -10239,7 +10241,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "casa-e-jardim-review-019",
@@ -10556,7 +10558,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "pedigree-ou-dog-chow-adultos",
+      "published_at": "2026-10-28"
     },
     {
       "id": "pets-comparativo-017",
@@ -11196,7 +11200,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "pegasus-41-ou-gel-cumulus-26",
+      "published_at": "2026-10-28"
     },
     {
       "id": "esportes-e-lazer-comparativo-016",
@@ -11311,7 +11317,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "automotivo-review-017",
