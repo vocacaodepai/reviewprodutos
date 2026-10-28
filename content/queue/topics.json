@@ -9823,7 +9823,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "potes-lock-lock-2-6-litros-vale-a-pena",
+      "published_at": "2026-10-28"
     },
     {
       "id": "cozinha-comparativo-014",
@@ -10802,7 +10804,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mx-keys-mini-ou-logitech-k380s",
+      "published_at": "2026-10-28"
     },
     {
       "id": "escritorio-e-estudos-comparativo-018",
@@ -11075,7 +11079,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "crocs-classic-ou-havaianas-top",
+      "published_at": "2026-10-28"
     },
     {
       "id": "esportes-e-lazer-review-015",
@@ -11232,7 +11238,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "cadeira-de-praia-mor-ou-nautika",
+      "published_at": "2026-10-28"
     },
     {
       "id": "esportes-e-lazer-comparativo-018",
