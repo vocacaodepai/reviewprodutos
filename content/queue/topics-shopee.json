@@ -244,7 +244,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "tp-link-ex1500-ou-intelbras-w6-1500",
+      "published_at": "2026-10-28"
     },
     {
       "id": "casa-e-jardim-review-s001",
@@ -438,7 +440,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "electrolux-qws1650-ou-ews1850p",
+      "published_at": "2026-10-28"
     },
     {
       "id": "casa-e-jardim-comparativo-s004",
@@ -557,7 +561,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "sanduicheira-mondial-master-grill-s-20-e-boa",
+      "published_at": "2026-10-28"
     },
     {
       "id": "cozinha-review-s004",
@@ -1037,7 +1043,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "wella-invigo-nutri-enrich-e-bom",
+      "published_at": "2026-10-28"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-s004",
@@ -1446,7 +1454,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "inaba-churu-dog-e-bom",
+      "published_at": "2026-10-28"
     },
     {
       "id": "pets-review-s004",
