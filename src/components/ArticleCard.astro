@@ -2,6 +2,7 @@
 /** Card de artigo para listagens (home, categorias, busca). Indexável pelo Pagefind via data-pagefind-*. */
 import Icon from './Icon.astro';
 import ProductImage from './ProductImage.astro';
+import CapaComparativo from './CapaComparativo.astro';
 import { ARTICLE_TYPES } from '@/site.config';
 import { articleUrl, formatDate, getCategoria, formatNota, type Artigo } from '@/lib/articles';
 interface Props { artigo: Artigo; variant?: 'default' | 'compact' | 'featured'; eager?: boolean; }
@@ -24,8 +25,12 @@ const tipoIcon = a.data.tipo === 'review' ? 'star' : a.data.tipo === 'comparativ
   </a>
 ) : (
   <article class={`card group flex h-full flex-col overflow-hidden transition hover:-translate-y-0.5 hover:shadow-lg ${variant === 'featured' ? 'md:flex-row' : ''}`} data-tipo={a.data.tipo} data-sub={a.data.subcategoria} data-cat={a.data.categoria.id}>
-    <a href={url} class={`flex items-center justify-center bg-white p-4 ${variant === 'featured' ? 'md:w-5/12 md:shrink-0 md:self-stretch' : ''}`} tabindex="-1" aria-hidden="true">
-      <ProductImage src={a.data.imagem.src} alt={a.data.imagem.alt} width={a.data.imagem.largura} height={a.data.imagem.altura} class={`mx-auto aspect-[4/3] w-full object-contain ${variant === 'featured' ? 'max-h-72' : 'max-h-48'}`} sizes="(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw" loading={eager ? 'eager' : 'lazy'} fetchpriority={eager ? 'high' : 'auto'} />
+    <a href={url} class={`flex items-center justify-center ${a.data.tipo === 'comparativo' && a.data.produtos.length >= 2 ? 'p-2' : 'bg-white p-4'} ${variant === 'featured' ? 'md:w-5/12 md:shrink-0 md:self-stretch' : ''}`} tabindex="-1" aria-hidden="true">
+      {a.data.tipo === 'comparativo' && a.data.produtos.length >= 2 ? (
+        <CapaComparativo produtos={a.data.produtos} titulo={a.data.title} variant="card" eager={eager} />
+      ) : (
+        <ProductImage src={a.data.imagem.src} alt={a.data.imagem.alt} width={a.data.imagem.largura} height={a.data.imagem.altura} class={`mx-auto aspect-[4/3] w-full object-contain ${variant === 'featured' ? 'max-h-72' : 'max-h-48'}`} sizes="(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw" loading={eager ? 'eager' : 'lazy'} fetchpriority={eager ? 'high' : 'auto'} />
+      )}
     </a>
     <div class="flex flex-1 flex-col p-5">
       <div class="flex flex-wrap items-center gap-2 text-[11px] font-bold uppercase tracking-wide">

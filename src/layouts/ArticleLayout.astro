@@ -15,6 +15,7 @@ import AdSlot from '@/components/AdSlot.astro';
 import Icon from '@/components/Icon.astro';
 import ProductImage from '@/components/ProductImage.astro';
 import ComparativoCapa from '@/components/ComparativoCapa.astro';
+import CapaComparativo from '@/components/CapaComparativo.astro';
 import { render } from 'astro:content';
 import { ARTICLE_TYPES, FUNNEL_LABELS, SITE } from '@/site.config';
 import { getArtigos, getAutor, getCategoria, articleUrl, categoriaUrl, formatDate, readingTime, relatedArticles, absoluteUrl, produtoUrl, produtoId, produtoDestaque, type Artigo } from '@/lib/articles';
@@ -105,7 +106,7 @@ const tocExtras = [
         {isComparativo ? (
           <>
             <span class="hidden" data-pagefind-meta={`image:${d.imagem.src}`}></span>
-            <ComparativoCapa produtos={produtosOrdenados} destaqueAsin={produtoId(topPick)} />
+            <figure class="m-0"><CapaComparativo produtos={produtosOrdenados} titulo={d.title} eager /></figure>
           </>
         ) : (
           <>

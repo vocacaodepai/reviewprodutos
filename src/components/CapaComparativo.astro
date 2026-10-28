@@ -1,0 +1,31 @@
+---
+/**
+ * Capa visual dos comparativos: os 2 ou 3 produtos lado a lado, cada um num cartão branco com o nome embaixo,
+ * sobre fundo claro 16:9 (mesmo desenho da capa do Portal da AI). Imagens por link direto (sem derivados).
+ * Usada no topo do artigo e nos cards de listagem (variant "card").
+ */
+import ProductImage from './ProductImage.astro';
+import type { Produto } from '@/lib/articles';
+interface Props { produtos: Produto[]; titulo: string; variant?: 'capa' | 'card'; eager?: boolean; }
+const { produtos, titulo, variant = 'capa', eager = false } = Astro.props;
+const lista = produtos.slice(0, 3);
+/** Nome enxuto para a legenda: corta no primeiro " - ", " com ", vírgula ou barra e limita a 6 palavras. */
+const curto = (nome: string) => nome.split(/\s[-–|]\s|,|\scom\s|\spara\s|\s\/\s/i)[0].trim().split(/\s+/).slice(0, 6).join(' ');
+const card = variant === 'card';
+---
+<div class={`capa-comparativo not-prose relative w-full ${card ? 'rounded-lg' : 'rounded-2xl'}`} role="img" aria-label={`Comparativo: ${lista.map((p) => p.nome).join(' x ')}`}>
+  <div class={`absolute inset-0 grid grid-rows-1 items-stretch ${card ? 'gap-2 p-2.5' : 'gap-4 p-4 sm:gap-6 sm:p-6'} ${lista.length >= 3 ? 'grid-cols-3' : 'grid-cols-2'}`}>
+    {lista.map((p, i) => (
+      <figure class="m-0 flex min-h-0 min-w-0 flex-col">
+        <div class={`flex min-h-0 flex-1 items-center justify-center bg-white shadow-sm ${card ? 'rounded-md p-1.5' : 'rounded-xl p-3 sm:p-5'}`}>
+          <ProductImage src={p.imagem.src} alt="" width={p.imagem.largura} height={p.imagem.altura} class="h-full max-h-full w-full object-contain" loading={eager ? 'eager' : 'lazy'} fetchpriority={eager && i === 0 ? 'high' : 'auto'} />
+        </div>
+        <figcaption class={`shrink-0 ${card ? 'line-clamp-1' : 'line-clamp-2'} text-center font-bold leading-tight ${card ? 'mt-1.5 text-[10px] sm:text-[11px]' : 'mt-3 min-h-[2.5em] text-xs sm:text-base'}`}>{curto(p.nome)}</figcaption>
+      </figure>
+    ))}
+  </div>
+</div>
+<style>
+  .capa-comparativo { aspect-ratio: 16 / 9; background: #e9eef7; color: #1b2538; overflow: hidden; }
+  .capa-comparativo figcaption { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+</style>
