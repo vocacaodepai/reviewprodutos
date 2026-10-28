@@ -410,7 +410,9 @@
       ],
       "prioridade": 2,
       "sazonal": "verao",
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mondial-vsp-40-b-ou-electrolux-efd40",
+      "published_at": "2026-10-28"
     },
     {
       "id": "casa-e-jardim-comparativo-s003",
@@ -723,7 +725,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "britania-perola-550-ou-mondial-pratica-b-44",
+      "published_at": "2026-10-28"
     },
     {
       "id": "saude-e-bem-estar-review-s001",
@@ -1052,7 +1056,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "secador-taiff-style-2000w-e-bom",
+      "published_at": "2026-10-28"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-s005",
@@ -1961,7 +1967,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "logitech-m720-triathlon-e-bom",
+      "published_at": "2026-10-28"
     },
     {
       "id": "escritorio-e-estudos-review-s002",
@@ -2200,7 +2208,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mochila-samsonite-equinox-vale-a-pena",
+      "published_at": "2026-10-28"
     },
     {
       "id": "moda-e-acessorios-review-s002",
