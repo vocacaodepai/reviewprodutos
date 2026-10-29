@@ -123,7 +123,9 @@
       ],
       "prioridade": 2,
       "sazonal": "natal",
-      "status": "pending"
+      "status": "published",
+      "published_slug": "nintendo-switch-lite-vale-a-pena",
+      "published_at": "2026-10-29"
     },
     {
       "id": "tecnologia-comparativo-s001",
@@ -327,7 +329,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "higienizador-mondial-vapor-wash-hg-01-e-bom",
+      "published_at": "2026-10-29"
     },
     {
       "id": "casa-e-jardim-review-s004",
@@ -1573,7 +1577,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "dreamies-ou-whiskas-anti-bola-de-pelo",
+      "published_at": "2026-10-29"
     },
     {
       "id": "pets-comparativo-s004",
@@ -1645,7 +1651,9 @@
       ],
       "prioridade": 2,
       "sazonal": "verao",
-      "status": "pending"
+      "status": "published",
+      "published_slug": "piscina-mor-7200-litros-e-boa",
+      "published_at": "2026-10-29"
     },
     {
       "id": "esportes-e-lazer-review-s003",
@@ -2427,7 +2435,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mochila-mormaii-20-l-ou-targus-intellect-advanced",
+      "published_at": "2026-10-29"
     },
     {
       "id": "moda-e-acessorios-comparativo-s005",
