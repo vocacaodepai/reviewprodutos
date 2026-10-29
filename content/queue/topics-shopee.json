@@ -48,7 +48,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "galaxy-fit3-e-bom",
+      "published_at": "2026-10-29"
     },
     {
       "id": "tecnologia-review-s003",
@@ -470,7 +472,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "electrolux-esi10-ou-mondial-f-32",
+      "published_at": "2026-10-29"
     },
     {
       "id": "casa-e-jardim-comparativo-s005",
@@ -693,7 +697,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mondial-dolce-arome-ou-philco-pcfe02",
+      "published_at": "2026-10-29"
     },
     {
       "id": "cozinha-comparativo-s004",
@@ -2018,7 +2024,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "logitech-mk120-e-bom",
+      "published_at": "2026-10-29"
     },
     {
       "id": "escritorio-e-estudos-review-s003",
@@ -2333,7 +2341,7 @@
       ],
       "prioridade": 2,
       "sazonal": "verao",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "moda-e-acessorios-comparativo-s002",
