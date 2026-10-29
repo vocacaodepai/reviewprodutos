@@ -3407,7 +3407,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "escritorio-e-estudos-comparativo-003",
@@ -9685,7 +9685,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "cozinha-review-016",
@@ -9848,7 +9848,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "tramontina-century-ou-victorinox-fibrox",
+      "published_at": "2026-10-29"
     },
     {
       "id": "cozinha-comparativo-015",
@@ -10152,7 +10154,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-018",
@@ -10285,7 +10287,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "tesoura-de-poda-tramontina-vale-a-pena",
+      "published_at": "2026-10-29"
     },
     {
       "id": "casa-e-jardim-comparativo-014",
