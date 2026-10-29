@@ -6803,7 +6803,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "little-trees-ou-bom-ar-spray-aromatizante-carro",
+      "published_at": "2026-10-29"
     },
     {
       "id": "automotivo-comparativo-009",
@@ -9614,7 +9616,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "tecnologia-comparativo-017",
@@ -9992,7 +9994,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "lola-meu-cacho-minha-vida-mascara-vale-a-pena",
+      "published_at": "2026-10-29"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-018",
@@ -10450,7 +10454,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "chuckit-ultra-ball-vale-a-pena",
+      "published_at": "2026-10-29"
     },
     {
       "id": "pets-review-017",
@@ -10753,7 +10759,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "escritorio-e-estudos-comparativo-015",
