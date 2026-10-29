@@ -173,7 +173,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "redmi-watch-5-active-ou-haylou-solar-lite-2",
+      "published_at": "2026-10-29"
     },
     {
       "id": "tecnologia-comparativo-s003",
@@ -348,7 +350,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "casa-e-jardim-review-s005",
@@ -600,7 +602,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "cozinha-review-s005",
@@ -1715,7 +1717,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "esportes-e-lazer-comparativo-s002",
@@ -1982,7 +1984,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "schulz-csi-6-6-ou-csi-8-6",
+      "published_at": "2026-10-29"
     },
     {
       "id": "escritorio-e-estudos-review-s001",
