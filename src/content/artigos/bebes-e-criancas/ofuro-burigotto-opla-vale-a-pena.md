@@ -101,7 +101,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["carrinho-burigotto-ecco-e-bom", "lenco-umedecido-huggies-recem-nascido-e-bom", "baba-eletronica-motorola-vm34-e-boa"]
+relacionados: ["carrinho-burigotto-ecco-e-bom", "lenco-umedecido-huggies-recem-nascido-e-bom"]
 ---
 
 ## Para quem é este review

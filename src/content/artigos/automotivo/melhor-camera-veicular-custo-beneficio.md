@@ -355,7 +355,7 @@ fontes:
   - nome: "Zoom — ofertas da Intelbras DC1"
     url: "https://www.zoom.com.br/search?q=intelbras+dc1"
 testadoFisicamente: false
-rascunho: false
+rascunho: true
 destaque: false
 relacionados: ["camera-veicular-70mai-m310-e-boa", "dor-nas-costas-ao-dirigir"]
 ---

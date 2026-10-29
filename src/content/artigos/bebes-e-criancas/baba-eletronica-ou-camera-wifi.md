@@ -179,7 +179,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["melhor-baba-eletronica-com-video", "baba-eletronica-motorola-vm34-e-boa", "bebe-nao-dorme-o-que-fazer-rotina-do-sono"]
+relacionados: ["melhor-baba-eletronica-com-video", "bebe-nao-dorme-o-que-fazer-rotina-do-sono"]
 ---
 
 ## Resposta rápida
@@ -190,7 +190,7 @@ Para vigiar o bebê durante a noite, a **babá eletrônica Motorola VM482** é a
 
 A dúvida é comum: uma câmera Wi-Fi de entrada custa bem menos que uma babá eletrônica, e muita gente já tem a câmera na lista de compras da casa. A pergunta real é se vale pagar mais por um aparelho feito para o quarto do bebê, ou se a câmera comum resolve.
 
-Comparamos os dois lados com um modelo de cada: a **Motorola VM482**, a babá eletrônica sem Wi-Fi de entrada da marca, e a **Intelbras iM3 C**, câmera interna popular entre as de baixo custo. A Motorola VM34, que aparece no nosso [review da Motorola VM34](/reviews/baba-eletronica-motorola-vm34-e-boa/), estava indisponível na Amazon quando conferimos; por isso a VM482 entrou no lugar, com a mesma lógica de conexão. Para ver outros modelos, veja a lista de [melhores babás eletrônicas com vídeo](/melhores/melhor-baba-eletronica-com-video/) e a página de [segurança e monitoramento](/categoria/bebes-e-criancas/seguranca-e-monitoramento/).
+Comparamos os dois lados com um modelo de cada: a **Motorola VM482**, a babá eletrônica sem Wi-Fi de entrada da marca, e a **Intelbras iM3 C**, câmera interna popular entre as de baixo custo. A Motorola VM34, que aparece no nosso review da Motorola VM34, estava indisponível na Amazon quando conferimos; por isso a VM482 entrou no lugar, com a mesma lógica de conexão. Para ver outros modelos, veja a lista de [melhores babás eletrônicas com vídeo](/melhores/melhor-baba-eletronica-com-video/) e a página de [segurança e monitoramento](/categoria/bebes-e-criancas/seguranca-e-monitoramento/).
 
 Esta análise se baseia em fichas técnicas oficiais, manuais dos fabricantes e matérias de segurança digital; não houve teste físico pela nossa equipe. Nenhum dos dois aparelhos previne problemas de saúde do bebê: são apoio para os pais, e a rotina de sono seguro vem antes de qualquer equipamento.
 

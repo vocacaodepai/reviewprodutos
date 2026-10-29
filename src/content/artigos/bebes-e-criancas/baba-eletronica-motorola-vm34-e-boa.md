@@ -122,7 +122,7 @@ fontes:
   - nome: "Sociedade Brasileira de Pediatria — bebê deve dormir de barriga para cima"
     url: "https://www.sbp.com.br/bebe-deve-dormir-de-barriga-para-cima-ou-de-lado-pediatras-reforcam-recomendacoes-para-o-sono-seguro/"
 testadoFisicamente: false
-rascunho: false
+rascunho: true
 destaque: false
 relacionados: ["melhor-baba-eletronica-com-video", "bebe-nao-dorme-o-que-fazer-rotina-do-sono"]
 ---
