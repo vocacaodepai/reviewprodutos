@@ -10036,7 +10036,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-020",
@@ -10381,7 +10381,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "casa-e-jardim-comparativo-018",
@@ -10494,7 +10494,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "whiskas-sache-carne-ao-molho-e-bom",
+      "published_at": "2026-10-29"
     },
     {
       "id": "pets-review-019",
@@ -10864,7 +10866,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "moda-e-acessorios-review-010",
@@ -10908,7 +10910,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "casio-vintage-a168wa-vale-a-pena",
+      "published_at": "2026-10-29"
     },
     {
       "id": "moda-e-acessorios-review-012",
