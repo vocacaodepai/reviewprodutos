@@ -162,9 +162,9 @@ fontes:
   - nome: "Ultra Eletrônicos — 70mai Pro Plus A500s (anúncio de loja nacional, item importado)"
     url: "https://ultraeletronicos.com/xiaomi-70mai-pro-plus-a500s.html"
 testadoFisicamente: false
-rascunho: false
+rascunho: true
 destaque: false
-relacionados: ["melhor-camera-veicular-custo-beneficio", "camera-veicular-70mai-m310-e-boa", "dor-nas-costas-ao-dirigir"]
+relacionados: ["camera-veicular-70mai-m310-e-boa", "dor-nas-costas-ao-dirigir"]
 ---
 
 ## Resposta rápida
@@ -175,7 +175,7 @@ A **70mai A800S-1** é a melhor das duas: grava em 4K com sensor Sony IMX415 e t
 
 Quem chega aqui já decidiu que quer uma câmera veicular de linha alta da 70mai, com GPS e câmera traseira, e travou numa pergunta: o 4K compensa a diferença de faixa de preço? A dúvida é razoável, porque as duas parecem iguais na caixa: mesmo campo de 140°, mesma abertura F1.8, mesma bateria, mesmo app.
 
-Esta é uma análise de especificações oficiais da 70mai, de reviews e fóruns de usuários fora da Amazon e de anúncios de lojas; não houve teste físico pela nossa equipe. Para um panorama de toda a linha, veja o artigo [melhor câmera veicular custo-benefício](/melhores/melhor-camera-veicular-custo-beneficio/) e as demais opções em [eletrônicos automotivos](/categoria/automotivo/eletronicos-automotivos/).
+Esta é uma análise de especificações oficiais da 70mai, de reviews e fóruns de usuários fora da Amazon e de anúncios de lojas; não houve teste físico pela nossa equipe. Para um panorama de toda a linha, veja o artigo melhor câmera veicular custo-benefício e as demais opções em [eletrônicos automotivos](/categoria/automotivo/eletronicos-automotivos/).
 
 ## Frente a frente: o que muda na prática
 
@@ -240,4 +240,4 @@ A A500S-1 fica numa faixa premium; a A800S-1, uma faixa acima. O que a diferenç
 
 ## Veredito
 
-Para a maioria dos motoristas, a **A500S-1** resolve: o pacote de recursos é o mesmo e a diferença de imagem é de um ponto na nota, não um salto. A **A800S-1** leva o selo de escolha do editor por entregar a melhor imagem das duas, e vale para quem roda muito em estrada. O terceiro caminho, se o seu carro fica no sol ou você quer garantia nacional, está no artigo de [melhor câmera veicular custo-benefício](/melhores/melhor-camera-veicular-custo-beneficio/), com opções de supercapacitor e marca brasileira. Se o orçamento é menor e o objetivo é só ter uma testemunha eletrônica, o [review da 70mai M310](/reviews/camera-veicular-70mai-m310-e-boa/) mostra até onde uma câmera de entrada resolve.
+Para a maioria dos motoristas, a **A500S-1** resolve: o pacote de recursos é o mesmo e a diferença de imagem é de um ponto na nota, não um salto. A **A800S-1** leva o selo de escolha do editor por entregar a melhor imagem das duas, e vale para quem roda muito em estrada. O terceiro caminho, se o seu carro fica no sol ou você quer garantia nacional, está no artigo de melhor câmera veicular custo-benefício, com opções de supercapacitor e marca brasileira. Se o orçamento é menor e o objetivo é só ter uma testemunha eletrônica, o [review da 70mai M310](/reviews/camera-veicular-70mai-m310-e-boa/) mostra até onde uma câmera de entrada resolve.

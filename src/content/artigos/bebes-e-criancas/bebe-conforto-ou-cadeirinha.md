@@ -187,7 +187,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["melhor-baba-eletronica-com-video", "bebe-nao-dorme-o-que-fazer-rotina-do-sono", "baba-eletronica-motorola-vm34-e-boa"]
+relacionados: ["melhor-baba-eletronica-com-video", "bebe-nao-dorme-o-que-fazer-rotina-do-sono"]
 ---
 
 ## Resposta rápida

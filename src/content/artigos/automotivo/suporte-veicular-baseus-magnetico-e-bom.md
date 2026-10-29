@@ -102,7 +102,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["camera-veicular-70mai-m310-e-boa", "melhor-camera-veicular-custo-beneficio", "dor-nas-costas-ao-dirigir"]
+relacionados: ["camera-veicular-70mai-m310-e-boa", "dor-nas-costas-ao-dirigir"]
 ---
 
 ## Para quem é este review
@@ -166,7 +166,7 @@ O padrão que se repete é claro: elogio ao ímã e ao acabamento, reclamação 
 - **Suporte de saída de ar com clipe:** evita cola, bom para carros muito expostos ao sol. Balança mais em grades frágeis.
 - **Suporte com garra e ventosa:** mais firme para celulares grandes e estrada ruim, porém mais volumoso e menos discreto.
 
-Para quem pensa em equipar o carro de vez, veja também o [review da câmera veicular 70mai M310](/reviews/camera-veicular-70mai-m310-e-boa/), o artigo [melhor câmera veicular custo-benefício](/melhores/melhor-camera-veicular-custo-beneficio/) e a página de [acessórios internos](/categoria/automotivo/acessorios-internos/).
+Para quem pensa em equipar o carro de vez, veja também o [review da câmera veicular 70mai M310](/reviews/camera-veicular-70mai-m310-e-boa/), o artigo melhor câmera veicular custo-benefício e a página de [acessórios internos](/categoria/automotivo/acessorios-internos/).
 
 ## Dicas para tirar o máximo do suporte
 

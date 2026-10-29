@@ -126,7 +126,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["melhor-baba-eletronica-com-video", "baba-eletronica-motorola-vm34-e-boa"]
+relacionados: ["melhor-baba-eletronica-com-video"]
 ---
 
 ## Para quem é este review

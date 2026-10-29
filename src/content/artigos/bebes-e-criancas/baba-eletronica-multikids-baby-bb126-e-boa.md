@@ -115,7 +115,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["baba-eletronica-motorola-vm34-e-boa", "melhor-baba-eletronica-com-video", "baba-eletronica-ou-camera-wifi"]
+relacionados: ["melhor-baba-eletronica-com-video", "baba-eletronica-ou-camera-wifi"]
 ---
 
 ## Para quem é este review
@@ -166,7 +166,7 @@ Fora da Amazon, não encontramos um volume consolidado de relatos sobre a BB126 
 
 ## Alternativas que vale considerar
 
-- **Motorola VM34:** tela de 4,3 polegadas, conexão privada com salto de frequência e visão noturna. Vence para quem vai olhar a tela com frequência e aceita pagar mais. Veja o [review da Motorola VM34](/reviews/baba-eletronica-motorola-vm34-e-boa/).
+- **Motorola VM34:** tela de 4,3 polegadas, conexão privada com salto de frequência e visão noturna. Vence para quem vai olhar a tela com frequência e aceita pagar mais. Veja o review da Motorola VM34.
 - **Modelos com câmera Wi-Fi e aplicativo:** vencem para quem quer ver o bebê fora de casa, aceitando depender de internet e de cuidados de segurança digital.
 - **Outros monitores com vídeo:** nossa seleção está em [melhor babá eletrônica com vídeo](/melhores/melhor-baba-eletronica-com-video/), com modelos de várias faixas.
 

@@ -124,7 +124,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["camera-veicular-70mai-m310-e-boa", "melhor-camera-veicular-custo-beneficio"]
+relacionados: ["camera-veicular-70mai-m310-e-boa"]
 ---
 
 ## Para quem é este review
@@ -191,7 +191,7 @@ Não encontramos review em vídeo ou texto independente, feito por veículo bras
 - **Compressor 12 V de tomada do carro:** não depende de bateria e roda por mais tempo, mas exige cabo longo e o carro ligado. Para quem enche pneu com frequência ou usa o carro para trabalho, é uma opção mais robusta.
 - **Calibrador do posto:** continua sendo a opção mais barata para uso eventual, só que exige chegar até o posto com o pneu baixo.
 
-Se você monta um kit de segurança para o carro, a [câmera veicular 70mai M310](/reviews/camera-veicular-70mai-m310-e-boa/) e a lista de [melhores câmeras veiculares custo-benefício](/melhores/melhor-camera-veicular-custo-beneficio/) completam a lista. Para mais acessórios do tipo, veja a página de [ferramentas e emergência](/categoria/automotivo/ferramentas-e-emergencia/).
+Se você monta um kit de segurança para o carro, a [câmera veicular 70mai M310](/reviews/camera-veicular-70mai-m310-e-boa/) e a lista de melhores câmeras veiculares custo-benefício completam a lista. Para mais acessórios do tipo, veja a página de [ferramentas e emergência](/categoria/automotivo/ferramentas-e-emergencia/).
 
 ## Dicas para tirar o máximo do compressor
 

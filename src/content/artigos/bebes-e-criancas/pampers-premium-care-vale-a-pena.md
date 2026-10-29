@@ -127,7 +127,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["bebe-nao-dorme-o-que-fazer-rotina-do-sono", "bebe-conforto-ou-cadeirinha", "baba-eletronica-motorola-vm34-e-boa"]
+relacionados: ["bebe-nao-dorme-o-que-fazer-rotina-do-sono", "bebe-conforto-ou-cadeirinha"]
 ---
 
 ## Para quem é este review
