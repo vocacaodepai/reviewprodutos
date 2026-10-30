@@ -9456,7 +9456,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "airpods-4-e-bom",
+      "published_at": "2026-10-30"
     },
     {
       "id": "tecnologia-review-017",
@@ -9900,7 +9902,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "nespresso-vertuo-pop-ou-dolce-gusto-mini-me",
+      "published_at": "2026-10-30"
     },
     {
       "id": "cozinha-comparativo-017",
@@ -10343,7 +10347,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "santista-prata-ou-karsten-200-fios",
+      "published_at": "2026-10-30"
     },
     {
       "id": "casa-e-jardim-comparativo-016",
@@ -10743,7 +10749,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "caderno-inteligente-a5-vale-a-pena",
+      "published_at": "2026-10-30"
     },
     {
       "id": "escritorio-e-estudos-review-019",
@@ -11181,7 +11189,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "acte-sports-foam-roller-t61-vale-a-pena",
+      "published_at": "2026-10-30"
     },
     {
       "id": "esportes-e-lazer-review-018",
