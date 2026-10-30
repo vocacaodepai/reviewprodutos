@@ -9572,7 +9572,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "deco-m4-vale-a-pena",
+      "published_at": "2026-10-30"
     },
     {
       "id": "tecnologia-comparativo-015",
@@ -10143,7 +10145,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "good-girl-ou-la-vie-est-belle",
+      "published_at": "2026-10-30"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-017",
@@ -11006,7 +11010,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "crocs-classic-vale-a-pena",
+      "published_at": "2026-10-30"
     },
     {
       "id": "moda-e-acessorios-comparativo-010",
@@ -11470,7 +11476,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "automotivo-comparativo-018",
@@ -11606,7 +11612,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "colgate-total-12-ou-sensodyne-repair",
+      "published_at": "2026-10-30"
     },
     {
       "id": "saude-e-bem-estar-comparativo-017",
