@@ -10185,7 +10185,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "casa-e-jardim-review-016",
@@ -10528,7 +10528,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "biofresh-racas-medias-adultos-e-boa",
+      "published_at": "2026-10-30"
     },
     {
       "id": "pets-comparativo-015",
@@ -10811,7 +10813,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "escritorio-e-estudos-comparativo-017",
@@ -11363,7 +11365,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "moura-60ah-m60gd-e-boa",
+      "published_at": "2026-10-30"
     },
     {
       "id": "automotivo-review-018",
@@ -11501,7 +11505,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "saude-e-bem-estar-review-017",
