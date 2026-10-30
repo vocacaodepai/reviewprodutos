@@ -3591,7 +3591,7 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-s007",
@@ -3827,7 +3827,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "monopoly-grab-go-ou-banco-imobiliario-mundo",
+      "published_at": "2026-10-30"
     },
     {
       "id": "bebes-e-criancas-comparativo-s007",
@@ -4501,7 +4503,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "philips-xtremevision-ou-osram-night-breaker-h7",
+      "published_at": "2026-10-30"
     },
     {
       "id": "escritorio-e-estudos-review-s006",
@@ -4545,7 +4549,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "lg-24ms500-b-e-bom",
+      "published_at": "2026-10-30"
     },
     {
       "id": "escritorio-e-estudos-review-s008",
@@ -4751,7 +4757,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "skechers-go-run-consistent-2-0-e-bom",
+      "published_at": "2026-10-30"
     },
     {
       "id": "moda-e-acessorios-comparativo-s006",
