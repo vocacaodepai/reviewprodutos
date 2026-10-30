@@ -2620,7 +2620,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "tapo-c200-ou-tapo-c210",
+      "published_at": "2026-10-30"
     },
     {
       "id": "tecnologia-comparativo-s007",
@@ -2739,7 +2741,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "electrolux-ergorapido-erg21-e-bom",
+      "published_at": "2026-10-30"
     },
     {
       "id": "casa-e-jardim-review-s007",
@@ -3090,7 +3094,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mondial-af-30-ou-electrolux-eaf40",
+      "published_at": "2026-10-30"
     },
     {
       "id": "cozinha-comparativo-s007",
@@ -3915,7 +3921,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "quatree-supreme-gatos-castrados-e-boa",
+      "published_at": "2026-10-30"
     },
     {
       "id": "pets-review-s006",
@@ -4145,7 +4153,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mizuno-cool-ride-3-e-bom",
+      "published_at": "2026-10-30"
     },
     {
       "id": "esportes-e-lazer-review-s006",
