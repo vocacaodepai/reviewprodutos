@@ -9923,7 +9923,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "atlas-monaco-ou-consul-5-bocas",
+      "published_at": "2026-10-30"
     },
     {
       "id": "cozinha-comparativo-018",
@@ -10227,7 +10229,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "casa-e-jardim-review-018",
@@ -10597,7 +10599,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "whiskas-sache-ou-sheba-sache-gatos",
+      "published_at": "2026-10-30"
     },
     {
       "id": "pets-comparativo-018",
@@ -10782,7 +10786,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "logitech-c920s-ou-c270",
+      "published_at": "2026-10-30"
     },
     {
       "id": "escritorio-e-estudos-comparativo-016",
@@ -10898,7 +10904,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "moda-e-acessorios-review-011",
