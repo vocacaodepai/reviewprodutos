@@ -377,7 +377,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "aquecedor-de-parede-britania-baq2200b-e-bom",
+      "published_at": "2026-10-30"
     },
     {
       "id": "casa-e-jardim-comparativo-s001",
@@ -1167,7 +1169,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "pantene-liso-extremo-ou-tresemme-brilho-lamelar",
+      "published_at": "2026-10-30"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-s003",
@@ -1798,7 +1802,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "colchao-inflavel-mor-ou-intex-queen",
+      "published_at": "2026-10-30"
     },
     {
       "id": "automotivo-review-s001",
@@ -1944,7 +1950,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "palheta-bosch-aerofit-ou-multiclip",
+      "published_at": "2026-10-30"
     },
     {
       "id": "automotivo-comparativo-s003",
@@ -2337,7 +2345,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "technos-racer-6p29alb-e-bom",
+      "published_at": "2026-10-30"
     },
     {
       "id": "moda-e-acessorios-comparativo-s001",
