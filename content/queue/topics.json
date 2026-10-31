@@ -9737,7 +9737,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "tramontina-century-8-faca-de-chef-vale-a-pena",
+      "published_at": "2026-10-31"
     },
     {
       "id": "cozinha-review-018",
@@ -10636,7 +10638,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "chuckit-ultra-ball-ou-kong-squeezz-ball",
+      "published_at": "2026-10-31"
     },
     {
       "id": "pets-comparativo-019",
@@ -10873,7 +10877,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "escritorio-e-estudos-comparativo-019",
@@ -11337,7 +11341,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "bosch-aerotwin-vale-a-pena",
+      "published_at": "2026-10-31"
     },
     {
       "id": "automotivo-review-016",
@@ -11543,7 +11549,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "saude-e-bem-estar-comparativo-014",
