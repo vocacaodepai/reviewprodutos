@@ -786,7 +786,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "saude-e-bem-estar-review-s002",
@@ -3621,7 +3621,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "dove-original-ou-dove-invisible-care-desodorante",
+      "published_at": "2026-10-31"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-s008",
@@ -4277,7 +4279,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "adidas-response-runner-2-ou-olympikus-corre-vento-3",
+      "published_at": "2026-10-31"
     },
     {
       "id": "esportes-e-lazer-comparativo-s006",
@@ -4463,7 +4467,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "intelbras-dc3201-duo-ou-dc1",
+      "published_at": "2026-10-31"
     },
     {
       "id": "automotivo-comparativo-s006",
@@ -4535,7 +4541,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "elg-ntb8520b-e-bom",
+      "published_at": "2026-10-31"
     },
     {
       "id": "escritorio-e-estudos-review-s007",
