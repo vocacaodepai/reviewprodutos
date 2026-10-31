@@ -114,7 +114,7 @@ fontes:
   - nome: "Amazon.com.br — Página da Bateria Moura M60GD (título e ficha)"
     url: "https://www.amazon.com.br/dp/B07D37XJLT"
 testadoFisicamente: false
-rascunho: false
+rascunho: true
 destaque: false
 relacionados: ["compressor-xiaomi-portatil-e-bom", "scanner-obd2-elm327-bluetooth-e-bom"]
 ---

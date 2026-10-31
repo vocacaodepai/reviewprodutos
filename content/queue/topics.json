@@ -9480,7 +9480,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "soundcore-life-q30-e-bom",
+      "published_at": "2026-10-31"
     },
     {
       "id": "tecnologia-review-018",
@@ -10124,7 +10126,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "lola-meu-cacho-minha-vida-ou-salon-line-todecacho",
+      "published_at": "2026-10-31"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-016",
@@ -10446,7 +10450,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "golden-gatos-castrados-frango-e-carne-e-boa",
+      "published_at": "2026-10-31"
     },
     {
       "id": "pets-review-016",
@@ -11108,7 +11114,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "adidas-duramo-sl-ou-asics-gel-excite-10",
+      "published_at": "2026-10-31"
     },
     {
       "id": "moda-e-acessorios-comparativo-014",
@@ -11459,7 +11467,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "automotivo-comparativo-017",
