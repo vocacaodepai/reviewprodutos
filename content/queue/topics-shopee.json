@@ -2504,7 +2504,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "tapo-c320ws-e-boa",
+      "published_at": "2026-10-31"
     },
     {
       "id": "tecnologia-review-s007",
@@ -2859,7 +2861,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "britania-bvt400-ou-arno-essential-ve2e",
+      "published_at": "2026-10-31"
     },
     {
       "id": "casa-e-jardim-comparativo-s007",
@@ -2978,7 +2982,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "liquidificador-electrolux-ebl1000-e-bom",
+      "published_at": "2026-10-31"
     },
     {
       "id": "cozinha-review-s007",
@@ -3332,7 +3338,7 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "saude-e-bem-estar-comparativo-s007",
@@ -3947,7 +3953,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "magnus-todo-dia-racas-pequenas-e-boa",
+      "published_at": "2026-10-31"
     },
     {
       "id": "pets-review-s007",
