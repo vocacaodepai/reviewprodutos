@@ -2481,7 +2481,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "samsonite-bahia-lite-ou-bon-x",
+      "published_at": "2026-10-31"
     },
     {
       "id": "tecnologia-review-s006",
@@ -2529,7 +2531,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "logitech-pebble-2-m350s-e-bom",
+      "published_at": "2026-10-31"
     },
     {
       "id": "tecnologia-review-s008",
@@ -2768,7 +2772,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "aspirador-philco-pas70-e-bom",
+      "published_at": "2026-10-31"
     },
     {
       "id": "casa-e-jardim-review-s008",
@@ -3053,7 +3059,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "cafeteira-cadence-single-up-e-boa",
+      "published_at": "2026-10-31"
     },
     {
       "id": "cozinha-review-s010",
@@ -4047,7 +4055,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "quatree-supreme-ou-guabi-natural-gatos-castrados",
+      "published_at": "2026-10-31"
     },
     {
       "id": "pets-comparativo-s006",
