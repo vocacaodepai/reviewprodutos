@@ -2556,7 +2556,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mouse-logitech-g203-lightsync-e-bom",
+      "published_at": "2026-10-31"
     },
     {
       "id": "tecnologia-review-s009",
@@ -2652,7 +2654,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "tecnologia-comparativo-s008",
@@ -2893,7 +2895,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "britania-bvc31a-ou-cadence-vtr830",
+      "published_at": "2026-10-31"
     },
     {
       "id": "casa-e-jardim-comparativo-s008",
@@ -3134,7 +3138,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "philco-pmp1600p-ou-mondial-turbo-chef",
+      "published_at": "2026-10-31"
     },
     {
       "id": "cozinha-comparativo-s008",
@@ -3581,7 +3587,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mondial-es-ju-03-ou-es-21-escova-secadora",
+      "published_at": "2026-10-31"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-s006",
@@ -3987,7 +3995,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "areia-viva-verde-graos-finos-e-boa",
+      "published_at": "2026-10-31"
     },
     {
       "id": "pets-review-s008",
@@ -4199,7 +4209,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "esportes-e-lazer-review-s007",
@@ -4809,7 +4819,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "moda-e-acessorios-comparativo-s007",
