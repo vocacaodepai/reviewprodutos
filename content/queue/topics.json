@@ -6264,7 +6264,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "creatina-growth-max-titanium-ou-dux",
+      "published_at": "2026-10-31"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-005",
@@ -7877,7 +7879,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "pistola-massagem-relaxmedic-mini-deep-therapy-e-boa",
+      "published_at": "2026-10-31"
     },
     {
       "id": "saude-e-bem-estar-review-015",
@@ -8210,7 +8214,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-013",
@@ -8376,7 +8380,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "bebes-e-criancas-comparativo-010",
@@ -9002,7 +9006,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "automotivo-review-012",
@@ -9528,7 +9532,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "tecnologia-review-020",
@@ -10225,7 +10229,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "casa-e-jardim-review-017",
@@ -10577,7 +10581,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "golden-gatos-castrados-ou-premier-gatos-castrados",
+      "published_at": "2026-10-31"
     },
     {
       "id": "pets-comparativo-016",
@@ -11076,7 +11082,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "oakley-holbrook-ou-ray-ban-wayfarer",
+      "published_at": "2026-10-31"
     },
     {
       "id": "moda-e-acessorios-comparativo-012",
@@ -11241,7 +11249,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "penalty-max-1000-bola-futsal-e-boa",
+      "published_at": "2026-10-31"
     },
     {
       "id": "esportes-e-lazer-comparativo-015",
@@ -11683,7 +11693,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "bebes-e-criancas-review-017",
