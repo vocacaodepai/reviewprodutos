@@ -9670,7 +9670,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "deco-m4-ou-archer-ax23",
+      "published_at": "2026-10-31"
     },
     {
       "id": "tecnologia-comparativo-019",
@@ -9787,7 +9789,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "fischer-gourmet-44l-vale-a-pena",
+      "published_at": "2026-10-31"
     },
     {
       "id": "cozinha-review-020",
@@ -10287,7 +10291,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "intelbras-fr-101-vale-a-pena",
+      "published_at": "2026-10-31"
     },
     {
       "id": "casa-e-jardim-review-020",
@@ -10669,7 +10675,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "biofresh-ou-premier-racas-medias",
+      "published_at": "2026-10-31"
     },
     {
       "id": "escritorio-e-estudos-review-015",
@@ -11163,7 +11171,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "nike-pegasus-41-e-bom",
+      "published_at": "2026-10-31"
     },
     {
       "id": "esportes-e-lazer-review-016",
