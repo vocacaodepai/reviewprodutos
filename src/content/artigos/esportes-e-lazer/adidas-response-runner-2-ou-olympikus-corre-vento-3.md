@@ -142,7 +142,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["olympikus-corre-4-e-bom", "pegasus-41-ou-gel-cumulus-26", "mizuno-wave-rider-ou-asics-gel-excite-10"]
+relacionados: ["olympikus-corre-4-e-bom", "mizuno-wave-rider-ou-asics-gel-excite-10"]
 ---
 
 ## Resposta rápida

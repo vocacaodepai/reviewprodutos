@@ -139,7 +139,7 @@ fontes:
   - nome: "Fleet Feet — Asics Gel-Cumulus 26 review"
     url: "https://www.fleetfeet.com/blog/asics-gel-cumulus-26-review"
 testadoFisicamente: false
-rascunho: false
+rascunho: true
 destaque: false
 relacionados: ["mizuno-wave-rider-ou-asics-gel-excite-10", "mizuno-wave-prorunner-e-bom", "olympikus-corre-4-e-bom"]
 ---
