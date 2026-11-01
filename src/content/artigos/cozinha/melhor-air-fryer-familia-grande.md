@@ -61,7 +61,10 @@ produtos:
     precoMercado:
       min: 340
       max: 390
-      referencia: "2026-10"
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 340, max: 390 }
+      tendencia: estavel
       fontes:
         - { nome: "Zoom — Electrolux EAF50 (comparação de lojas e histórico)", url: "https://www.zoom.com.br/fritadeira/fritadeira-eletrica-sem-oleo-electrolux-efficient-eaf50-5l" }
     idealPara: "Famílias de 4 a 6 pessoas que querem fazer uma refeição inteira de uma vez"
@@ -162,9 +165,12 @@ produtos:
       "Garantia": "12 meses"
     faixaPreco: "$$"
     precoMercado:
-      min: 350
+      min: 330
       max: 380
-      referencia: "2026-10"
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 350, max: 380 }
+      tendencia: estavel
       fontes:
         - { nome: "Midea — loja oficial (WideMax 5,5 L)", url: "https://www.midea.com.br/fritadeira-air-fryer-5-5l-widemax-preto-e-inox-midea/p" }
         - { nome: "Zoom — ofertas da Midea WideMax FWM55P1", url: "https://www.zoom.com.br/busca/fwm55p1" }
@@ -214,9 +220,12 @@ produtos:
       "Garantia": "12 meses"
     faixaPreco: "$$$"
     precoMercado:
-      min: 450
+      min: 420
       max: 560
-      referencia: "2026-10"
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 450, max: 560 }
+      tendencia: caindo
       fontes:
         - { nome: "Zoom — Oster OFRT930 (comparação de lojas e histórico)", url: "https://www.zoom.com.br/fritadeira/fritadeira-digital-inox-oster-5l-com-painel-touch-ofrt930" }
     idealPara: "Quem quer painel digital, presets e visual de inox para deixar à mostra"
@@ -264,12 +273,14 @@ produtos:
       "Garantia": "12 meses"
     faixaPreco: "$"
     precoMercado:
-      min: 280
-      max: 350
-      referencia: "2026-10"
+      min: 320
+      max: 390
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 280, max: 350 }
+      tendencia: subindo
       fontes:
         - { nome: "Zoom — Britânia BAF45A (comparação de lojas e histórico)", url: "https://www.zoom.com.br/fritadeira/fritadeira-air-fryer-britania-baf45a-5l-1500w-antiaderente-gold-tecnol" }
-        - { nome: "Britânia — loja oficial", url: "https://www.britania.com.br/fritadeira-air-fryer-baf45a-127v-063801122/p" }
     idealPara: "Famílias que querem 5 litros pelo menor investimento e não têm pressa"
     naoIndicadoPara: "Quem faz carnes grandes com frequência e quer rapidez"
     notasCriterios:

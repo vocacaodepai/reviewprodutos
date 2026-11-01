@@ -111,7 +111,7 @@ fontes:
   - nome: "Buscapé — Xiaomi Mi Body Composition Scale 2 (preços em várias lojas)"
     url: "https://www.buscape.com.br/search?q=xiaomi+mi+body+composition+scale+2"
 testadoFisicamente: false
-rascunho: false
+rascunho: true
 destaque: false
 relacionados: ["balanca-bioimpedancia-relaxmedic-smart-neo-e-boa", "amazfit-bip-6-e-bom", "melhor-whey-protein-custo-beneficio"]
 ---

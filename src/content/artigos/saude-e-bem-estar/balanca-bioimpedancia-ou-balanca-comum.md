@@ -168,7 +168,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["balanca-xiaomi-body-composition-scale-2-e-boa", "balanca-bioimpedancia-relaxmedic-smart-neo-e-boa", "medidor-de-pressao-braco-ou-pulso"]
+relacionados: ["balanca-bioimpedancia-relaxmedic-smart-neo-e-boa", "medidor-de-pressao-braco-ou-pulso"]
 ---
 
 ## Resposta rápida
@@ -183,7 +183,7 @@ Para acompanhar só o peso, a **G-Tech Glass 10** basta: sobe, lê no visor e pr
 
 Você chegou aqui com uma dúvida bem comum: comprar uma balança simples ou uma "inteligente", dessas que prometem percentual de gordura e massa muscular. O risco de errar nas duas pontas existe. Quem leva a mais cara só para ver o peso paga por recursos que não usa. Quem leva a barata esperando saber a gordura corporal vai se frustrar. Já quem compra a de bioimpedância pode se confundir com números que oscilam e passar a tratá-los como verdade.
 
-Escolhemos dois modelos reais que mostram os dois lados: a Glass 10, uma balança digital de vidro sem aplicativo, e a Xiaomi, uma bioimpedância de entrada. Esta é uma análise de especificações oficiais, de reportagens especializadas e de ofertas em comparadores. Não houve teste físico pela nossa equipe. Se você já decidiu pela Xiaomi, o [review da Xiaomi Mi Body Composition Scale 2](/reviews/balanca-xiaomi-body-composition-scale-2-e-boa/) tem o detalhamento completo. Outros aparelhos da área estão em [monitoramento de saúde](/categoria/saude-e-bem-estar/monitoramento-de-saude/).
+Escolhemos dois modelos reais que mostram os dois lados: a Glass 10, uma balança digital de vidro sem aplicativo, e a Xiaomi, uma bioimpedância de entrada. Esta é uma análise de especificações oficiais, de reportagens especializadas e de ofertas em comparadores. Não houve teste físico pela nossa equipe. Se você já decidiu pela Xiaomi, o review da Xiaomi Mi Body Composition Scale 2 tem o detalhamento completo. Outros aparelhos da área estão em [monitoramento de saúde](/categoria/saude-e-bem-estar/monitoramento-de-saude/).
 
 ## G-Tech Glass 10: a balança que só pesa
 

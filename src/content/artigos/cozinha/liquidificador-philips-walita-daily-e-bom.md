@@ -59,9 +59,12 @@ produtos:
     voltagem: "220V"
     faixaPreco: "$"
     precoMercado:
-      min: 88
-      max: 120
-      referencia: "2026-10"
+      min: 90
+      max: 110
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 88, max: 120 }
+      tendencia: estavel
       observacao: "O preço de tabela nas lojas costuma ficar perto de R$ 140. Confira a voltagem (127 V ou 220 V) antes de comprar."
       fontes:
         - { nome: "Buscapé — Philips Walita Daily RI2110", url: "https://www.buscape.com.br/liquidificador/liquidificador-philips-walita-daily-collection-ri2110-2-litros-2-velocidades-550-w" }

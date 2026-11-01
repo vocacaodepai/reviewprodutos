@@ -149,7 +149,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["balanca-xiaomi-body-composition-scale-2-e-boa", "irrigador-oral-ou-fio-dental", "balanca-bioimpedancia-relaxmedic-smart-neo-e-boa"]
+relacionados: ["irrigador-oral-ou-fio-dental", "balanca-bioimpedancia-relaxmedic-smart-neo-e-boa"]
 ---
 
 ## Resposta rápida
@@ -246,4 +246,4 @@ O G-Tech GP300 fica na faixa de **entrada** e o Omron HEM-7122 na **intermediár
 
 ## Veredito
 
-O **Omron HEM-7122** é a nossa escolha do editor: braço, braçadeira universal, alertas úteis e bom resultado em teste publicado. O **G-Tech GP300** entra como melhor compacto, bom para viagem ou como segundo aparelho, desde que a técnica seja rigorosa. Se a dúvida é saber o que fazer com os números, a resposta está na consulta médica. Para comparar outros aparelhos de monitoramento, veja a página de [saúde e bem-estar](/categoria/saude-e-bem-estar/), a [balança Xiaomi Body Composition Scale 2](/reviews/balanca-xiaomi-body-composition-scale-2-e-boa/) e o comparativo [irrigador oral ou fio dental](/comparativos/irrigador-oral-ou-fio-dental/).
+O **Omron HEM-7122** é a nossa escolha do editor: braço, braçadeira universal, alertas úteis e bom resultado em teste publicado. O **G-Tech GP300** entra como melhor compacto, bom para viagem ou como segundo aparelho, desde que a técnica seja rigorosa. Se a dúvida é saber o que fazer com os números, a resposta está na consulta médica. Para comparar outros aparelhos de monitoramento, veja a página de [saúde e bem-estar](/categoria/saude-e-bem-estar/), a balança Xiaomi Body Composition Scale 2 e o comparativo [irrigador oral ou fio dental](/comparativos/irrigador-oral-ou-fio-dental/).

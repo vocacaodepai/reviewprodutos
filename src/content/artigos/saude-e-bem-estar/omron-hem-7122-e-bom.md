@@ -114,7 +114,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["medidor-de-pressao-braco-ou-pulso", "balanca-xiaomi-body-composition-scale-2-e-boa"]
+relacionados: ["medidor-de-pressao-braco-ou-pulso"]
 ---
 
 ## Para quem é este review
@@ -173,7 +173,7 @@ Não temos um volume consolidado de queixas por modelo em fonte aberta, então t
 - **Outro Omron de braço com Bluetooth e memória para dois usuários:** compensa se a casa tem mais de uma pessoa medindo ou se você quer enviar os dados ao médico pelo celular. Custa mais.
 - **Aparelho profissional validado clinicamente:** para quem tem indicação médica de monitoramento mais rigoroso, vale perguntar ao seu médico qual modelo ele aceita.
 
-Se você está montando um kit de acompanhamento em casa, veja também o review da [balança Xiaomi Body Composition Scale 2](/reviews/balanca-xiaomi-body-composition-scale-2-e-boa/) e a categoria de [monitoramento de saúde](/categoria/saude-e-bem-estar/monitoramento-de-saude/).
+Se você está montando um kit de acompanhamento em casa, veja também o review da balança Xiaomi Body Composition Scale 2 e a categoria de [monitoramento de saúde](/categoria/saude-e-bem-estar/monitoramento-de-saude/).
 
 ## Dicas para medir melhor com o HEM-7122
 
