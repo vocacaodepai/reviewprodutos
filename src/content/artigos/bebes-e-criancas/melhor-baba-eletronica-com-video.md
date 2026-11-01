@@ -53,9 +53,13 @@ produtos:
       "Extras": "Sensor de temperatura, conversa bidirecional, canções de ninar, até 4 câmeras"
     faixaPreco: "$$$"
     precoMercado:
-      min: 950
+      min: 800
       max: 1200
-      referencia: "2026-10"
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 950, max: 1200 }
+      tendencia: caindo
+      observacao: "A faixa vai da oferta com Pix em loja especializada até o preço em grandes varejistas."
       fontes:
         - { nome: "Planeta do Bebê — Babá Eletrônica VM50G Motorola", url: "https://www.planetadobebe.com.br/baba-eletronica-vm50g-monitor-5-0-panoramica-e-zoom-motorola-p/p" }
         - { nome: "Zoom — ofertas da Motorola VM50G (Fast Shop)", url: "https://www.zoom.com.br/busca/vm50g" }
@@ -101,9 +105,12 @@ produtos:
     voltagem: "Bivolt"
     faixaPreco: "$$$$"
     precoMercado:
-      min: 1350
-      max: 1400
-      referencia: "2026-10"
+      min: 1150
+      max: 1200
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 1350, max: 1400 }
+      tendencia: caindo
       fontes:
         - { nome: "Starhouse — Babá Eletrônica Philips Avent SCD643/26", url: "https://www.starhouse.com.br/bebes/baba-eletronica/baba-eletronica-philips-avent-scd64326" }
         - { nome: "Zoom — ofertas da Philips Avent SCD643/26 (Magazine Luiza)", url: "https://www.zoom.com.br/busca/philips+avent+scd643" }

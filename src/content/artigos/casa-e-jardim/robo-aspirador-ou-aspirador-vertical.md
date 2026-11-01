@@ -182,7 +182,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["robo-aspirador-wap-robot-w100-vale-a-pena"]
+relacionados: []
 ---
 
 ## Resposta rápida
@@ -282,4 +282,4 @@ Os dois ficam na **faixa de entrada** dos aspiradores. O W100 aparece nos compar
 
 ## Veredito
 
-A pergunta "robô ou vertical?" tem resposta de acordo com o que mais atrapalha sua rotina. O **WAP Robot W100** leva nossa escolha do editor porque ataca a dor mais comum: pouco tempo e chão sujo todos os dias, com baixo ruído e consumo mínimo. Sua limitação é clara: piso liso, um cômodo por vez, sem tapete. O **WAP High Speed** leva o selo de custo-benefício porque, por um valor de entrada, cobre o que o robô não faz. Antes de comprar, confira a voltagem do vertical (127 V ou 220 V) e a altura livre embaixo dos móveis, que precisa passar de 8 cm para o robô. Se a sua casa tem muitos cômodos e você quer mais automação, o terceiro caminho é um robô com base e app, como mostra a lista dos melhores robôs aspiradores custo-benefício. Para entender o robô em detalhes, leia o [review do WAP Robot W100](/reviews/robo-aspirador-wap-robot-w100-vale-a-pena/).
+A pergunta "robô ou vertical?" tem resposta de acordo com o que mais atrapalha sua rotina. O **WAP Robot W100** leva nossa escolha do editor porque ataca a dor mais comum: pouco tempo e chão sujo todos os dias, com baixo ruído e consumo mínimo. Sua limitação é clara: piso liso, um cômodo por vez, sem tapete. O **WAP High Speed** leva o selo de custo-benefício porque, por um valor de entrada, cobre o que o robô não faz. Antes de comprar, confira a voltagem do vertical (127 V ou 220 V) e a altura livre embaixo dos móveis, que precisa passar de 8 cm para o robô. Se a sua casa tem muitos cômodos e você quer mais automação, o terceiro caminho é um robô com base e app, como mostra a lista dos melhores robôs aspiradores custo-benefício. Para entender o robô em detalhes, leia o review do WAP Robot W100.
