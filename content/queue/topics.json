@@ -5096,7 +5096,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-006",
@@ -6340,7 +6340,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "malbec-1-million-ou-asad-perfume-masculino",
+      "published_at": "2026-11-01"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-008",
@@ -6782,7 +6784,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "automotivo-comparativo-008",
@@ -10392,7 +10394,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "casa-e-jardim-comparativo-017",
@@ -10438,7 +10440,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "pets-review-015",
@@ -11203,7 +11205,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "cadeira-de-praia-mor-aluminio-8-posicoes-e-boa",
+      "published_at": "2026-11-01"
     },
     {
       "id": "esportes-e-lazer-review-017",
@@ -11464,7 +11468,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "automotivo-comparativo-016",
@@ -11600,7 +11604,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "saude-e-bem-estar-comparativo-015",
@@ -11715,7 +11719,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "bebes-e-criancas-review-018",
