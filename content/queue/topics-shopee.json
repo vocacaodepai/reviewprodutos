@@ -1223,7 +1223,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "bebes-e-criancas-review-s001",
@@ -1565,7 +1565,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "golden-special-ou-quatree-gourmet-racao-caes-adultos",
+      "published_at": "2026-11-01"
     },
     {
       "id": "pets-comparativo-s003",
@@ -2581,7 +2583,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "logitech-h111-e-bom",
+      "published_at": "2026-11-01"
     },
     {
       "id": "tecnologia-review-s010",
@@ -3021,7 +3025,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "pipoqueira-philco-ppie01a-e-boa",
+      "published_at": "2026-11-01"
     },
     {
       "id": "cozinha-review-s008",
@@ -4241,7 +4247,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "esportes-e-lazer-review-s008",
@@ -4665,7 +4671,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "lg-ultragear-24gs60f-ou-aoc-agon-g50-24g50f",
+      "published_at": "2026-11-01"
     },
     {
       "id": "escritorio-e-estudos-comparativo-s007",
@@ -4853,7 +4861,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "american-tourister-starvibe-ou-linex",
+      "published_at": "2026-11-01"
     },
     {
       "id": "moda-e-acessorios-comparativo-s008",
