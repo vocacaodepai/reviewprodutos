@@ -7955,7 +7955,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "saude-e-bem-estar-comparativo-011",
@@ -7978,7 +7978,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "saude-e-bem-estar-comparativo-012",
@@ -8024,7 +8024,9 @@
       ],
       "prioridade": 2,
       "sazonal": "agosto",
-      "status": "pending"
+      "status": "published",
+      "published_slug": "umidificador-relaxmedic-ou-britania",
+      "published_at": "2026-11-01"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-011",
@@ -9101,7 +9103,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "automotivo-comparativo-011",
@@ -9172,7 +9174,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "capa-de-chuva-alba-ou-pantaneiro-moto",
+      "published_at": "2026-11-01"
     },
     {
       "id": "automotivo-comparativo-014",
@@ -11811,6 +11815,2095 @@
         "Babá Eletrônica Multikids Baby BB002"
       ],
       "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-review-022",
+      "tipo": "review",
+      "categoria": "tecnologia",
+      "subcategoria": "fones-de-ouvido",
+      "funil": "fundo",
+      "titulo_sugerido": "Soundcore P20i é bom? Review completo: vale a pena em 2026?",
+      "problema": "Achar fone bluetooth sem fio barato com boa bateria e app de equalização",
+      "palavras_chave": [
+        "soundcore p20i é bom",
+        "soundcore p20i vale a pena",
+        "soundcore p20i review",
+        "soundcore p20i opinião",
+        "soundcore p20i custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Fone de Ouvido Bluetooth Soundcore P20i da Anker"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-review-023",
+      "tipo": "review",
+      "categoria": "tecnologia",
+      "subcategoria": "notebooks-e-computadores",
+      "funil": "meio",
+      "titulo_sugerido": "SSD externo Samsung T7 1TB é bom? Review completo: vale a pena em 2026?",
+      "problema": "Escolher SSD externo rápido para backup de fotos e arquivos",
+      "palavras_chave": [
+        "samsung t7 1tb é bom",
+        "samsung t7 1tb vale a pena",
+        "samsung t7 1tb review",
+        "samsung t7 1tb opinião",
+        "samsung t7 1tb custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "SSD Externo Samsung T7 1TB"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-review-024",
+      "tipo": "review",
+      "categoria": "tecnologia",
+      "subcategoria": "casa-inteligente",
+      "funil": "fundo",
+      "titulo_sugerido": "Tapo C100 é bom? Review completo: vale a pena em 2026?",
+      "problema": "Escolher câmera Wi-Fi interna barata para vigiar a casa pelo celular",
+      "palavras_chave": [
+        "tapo c100 é bom",
+        "tapo c100 vale a pena",
+        "tapo c100 review",
+        "tapo c100 opinião",
+        "tapo c100 custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Câmera de Segurança Wi-Fi TP-Link Tapo C100"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-review-025",
+      "tipo": "review",
+      "categoria": "tecnologia",
+      "subcategoria": "games",
+      "funil": "topo",
+      "titulo_sugerido": "Teclado Redragon Kumara K552 é bom? Review completo: vale a pena em 2026?",
+      "problema": "Sair do teclado de membrana e testar um teclado mecânico barato",
+      "palavras_chave": [
+        "redragon kumara k552 é bom",
+        "redragon kumara k552 vale a pena",
+        "redragon kumara k552 review",
+        "redragon kumara k552 opinião",
+        "redragon kumara k552 custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Teclado Mecânico Redragon Kumara K552-2 ABNT2"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-review-026",
+      "tipo": "review",
+      "categoria": "tecnologia",
+      "subcategoria": "celulares-e-acessorios",
+      "funil": "fundo",
+      "titulo_sugerido": "Power bank Anker 10.000 mAh 30W é bom? Review completo: vale a pena em 2026?",
+      "problema": "Escolher carregador portátil que recarregue celular rápido sem cabo extra",
+      "palavras_chave": [
+        "anker power bank 10.000 mah 30w é bom",
+        "anker power bank 10.000 mah 30w vale a pena",
+        "anker power bank 10.000 mah 30w review",
+        "anker power bank 10.000 mah 30w opinião",
+        "anker power bank 10.000 mah 30w custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Anker Power Bank 10.000mAh 30W com cabo USB-C integrado"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-comparativo-020",
+      "tipo": "comparativo",
+      "categoria": "tecnologia",
+      "subcategoria": "fones-de-ouvido",
+      "funil": "fundo",
+      "titulo_sugerido": "Soundcore P20i ou Redmi Buds 6 Play: qual vale mais a pena?",
+      "problema": "Decidir entre dois fones bluetooth baratos com foco em bateria e som",
+      "palavras_chave": [
+        "soundcore p20i ou redmi buds 6 play",
+        "soundcore p20i vs redmi buds 6 play",
+        "soundcore p20i ou redmi buds 6 play qual é melhor",
+        "melhor fone bluetooth barato",
+        "soundcore p20i é melhor que redmi buds 6 play"
+      ],
+      "produtos_candidatos": [
+        "Fone de Ouvido Bluetooth Soundcore P20i da Anker",
+        "Xiaomi Redmi Buds 6 Play"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-comparativo-021",
+      "tipo": "comparativo",
+      "categoria": "tecnologia",
+      "subcategoria": "notebooks-e-computadores",
+      "funil": "meio",
+      "titulo_sugerido": "Samsung T7 ou SanDisk Extreme Portátil: qual SSD externo vale mais a pena?",
+      "problema": "Escolher SSD externo de 1TB para backup e transferência rápida",
+      "palavras_chave": [
+        "samsung t7 ou sandisk extreme portátil",
+        "samsung t7 vs sandisk extreme portátil",
+        "samsung t7 ou sandisk extreme portátil qual é melhor",
+        "melhor ssd externo 1tb",
+        "samsung t7 é melhor que sandisk extreme portátil"
+      ],
+      "produtos_candidatos": [
+        "SSD Externo Samsung T7 1TB",
+        "SSD Externo Portátil SanDisk Extreme 1TB SDSSDE61"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-comparativo-022",
+      "tipo": "comparativo",
+      "categoria": "tecnologia",
+      "subcategoria": "casa-inteligente",
+      "funil": "fundo",
+      "titulo_sugerido": "Tapo C100 ou Tapo C200: qual vale mais a pena?",
+      "problema": "Escolher entre câmera fixa e câmera que gira 360 graus",
+      "palavras_chave": [
+        "tapo c100 ou tapo c200",
+        "tapo c100 vs tapo c200",
+        "tapo c100 ou tapo c200 qual é melhor",
+        "melhor câmera wi-fi interna",
+        "tapo c100 é melhor que tapo c200"
+      ],
+      "produtos_candidatos": [
+        "Câmera de Segurança Wi-Fi TP-Link Tapo C100",
+        "Câmera de Segurança Wi-Fi 360 TP-Link Tapo C200"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-comparativo-023",
+      "tipo": "comparativo",
+      "categoria": "tecnologia",
+      "subcategoria": "games",
+      "funil": "topo",
+      "titulo_sugerido": "Redragon Cobra V3 ou Logitech G203: qual vale mais a pena?",
+      "problema": "Escolher mouse gamer barato com bom sensor",
+      "palavras_chave": [
+        "redragon cobra v3 ou logitech g203",
+        "redragon cobra v3 vs logitech g203",
+        "redragon cobra v3 ou logitech g203 qual é melhor",
+        "melhor mouse gamer barato",
+        "redragon cobra v3 é melhor que logitech g203"
+      ],
+      "produtos_candidatos": [
+        "Mouse Gamer Redragon Cobra V3 M711 V3",
+        "Mouse Gamer Logitech G203 Lightsync"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-comparativo-024",
+      "tipo": "comparativo",
+      "categoria": "tecnologia",
+      "subcategoria": "games",
+      "funil": "meio",
+      "titulo_sugerido": "Redragon Kumara K552 ou Kumara Pro: qual vale mais a pena?",
+      "problema": "Decidir se vale pagar mais pelo teclado mecânico Kumara Pro",
+      "palavras_chave": [
+        "redragon kumara k552 ou kumara pro",
+        "redragon kumara k552 vs kumara pro",
+        "redragon kumara k552 ou kumara pro qual é melhor",
+        "melhor teclado mecânico barato",
+        "redragon kumara k552 é melhor que kumara pro"
+      ],
+      "produtos_candidatos": [
+        "Teclado Mecânico Redragon Kumara K552-2 ABNT2",
+        "Teclado Mecânico Redragon Kumara Pro RGB K552RGB-PRO"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-review-021",
+      "tipo": "review",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "iluminacao",
+      "funil": "topo",
+      "titulo_sugerido": "Lâmpada Philips LEDBulb 9W é boa? Review completo: vale a pena em 2026?",
+      "problema": "Trocar lâmpadas por LED econômico de marca confiável",
+      "palavras_chave": [
+        "lâmpada philips ledbulb 9w é bom",
+        "lâmpada philips ledbulb 9w vale a pena",
+        "lâmpada philips ledbulb 9w review",
+        "lâmpada philips ledbulb 9w opinião",
+        "lâmpada philips ledbulb 9w custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Lâmpada LED Philips LEDBulb 9W E27 Bivolt"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-review-022",
+      "tipo": "review",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "organizacao",
+      "funil": "meio",
+      "titulo_sugerido": "Caixa organizadora Sanremo 42 L é boa? Review completo: vale a pena em 2026?",
+      "problema": "Organizar armário e despensa com caixas empilháveis com tampa",
+      "palavras_chave": [
+        "sanremo top stock 42 l é bom",
+        "sanremo top stock 42 l vale a pena",
+        "sanremo top stock 42 l review",
+        "sanremo top stock 42 l opinião",
+        "sanremo top stock 42 l custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Caixa Organizadora Sanremo Top Stock 42 Litros"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-review-023",
+      "tipo": "review",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "limpeza",
+      "funil": "fundo",
+      "titulo_sugerido": "Aspirador portátil Black+Decker Dustbuster é bom? Review completo: vale a pena em 2026?",
+      "problema": "Limpar sofá, carro e cantos com aspirador de mão sem fio",
+      "palavras_chave": [
+        "black+decker dustbuster hhvi320 é bom",
+        "black+decker dustbuster hhvi320 vale a pena",
+        "black+decker dustbuster hhvi320 review",
+        "black+decker dustbuster hhvi320 opinião",
+        "black+decker dustbuster hhvi320 custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Aspirador Portátil Black+Decker Dustbuster HHVI320JR02 12V"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-review-024",
+      "tipo": "review",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "limpeza",
+      "funil": "fundo",
+      "titulo_sugerido": "Lavadora Black+Decker BEPW1750 é boa? Review completo: vale a pena em 2026?",
+      "problema": "Lavar quintal, carro e calçada com lavadora de alta pressão em casa",
+      "palavras_chave": [
+        "black+decker bepw1750 é bom",
+        "black+decker bepw1750 vale a pena",
+        "black+decker bepw1750 review",
+        "black+decker bepw1750 opinião",
+        "black+decker bepw1750 custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Lavadora de Alta Pressão Black+Decker BEPW1750"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-review-025",
+      "tipo": "review",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "limpeza",
+      "funil": "fundo",
+      "titulo_sugerido": "Aspirador vertical Electrolux STK15 é bom? Review completo: vale a pena em 2026?",
+      "problema": "Escolher aspirador vertical com fio potente e filtro HEPA",
+      "palavras_chave": [
+        "electrolux stk15 é bom",
+        "electrolux stk15 vale a pena",
+        "electrolux stk15 review",
+        "electrolux stk15 opinião",
+        "electrolux stk15 custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Aspirador Vertical Electrolux STK15 1450W"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-comparativo-019",
+      "tipo": "comparativo",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "climatizacao",
+      "funil": "meio",
+      "titulo_sugerido": "Mondial VTX-40-8P ou Mondial VTX-40C-8P: qual vale mais a pena?",
+      "problema": "Decidir entre ventilador de mesa e de coluna da mesma linha",
+      "palavras_chave": [
+        "mondial vtx-40-8p ou mondial vtx-40c-8p",
+        "mondial vtx-40-8p vs mondial vtx-40c-8p",
+        "mondial vtx-40-8p ou mondial vtx-40c-8p qual é melhor",
+        "melhor ventilador 40 cm",
+        "mondial vtx-40-8p é melhor que mondial vtx-40c-8p"
+      ],
+      "produtos_candidatos": [
+        "Ventilador Mondial Super Turbo 40cm VTX-40-8P",
+        "Ventilador de Coluna Mondial Turbo 40cm VTX-40C-8P"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-comparativo-020",
+      "tipo": "comparativo",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "limpeza",
+      "funil": "fundo",
+      "titulo_sugerido": "Electrolux STK12 ou Electrolux STK14: qual vale mais a pena?",
+      "problema": "Escolher entre dois aspiradores verticais com fio da Electrolux",
+      "palavras_chave": [
+        "electrolux stk12 ou electrolux stk14",
+        "electrolux stk12 vs electrolux stk14",
+        "electrolux stk12 ou electrolux stk14 qual é melhor",
+        "melhor aspirador vertical com fio",
+        "electrolux stk12 é melhor que electrolux stk14"
+      ],
+      "produtos_candidatos": [
+        "Aspirador Vertical Electrolux STK12 1100W",
+        "Aspirador Vertical Electrolux STK14 1450W"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-comparativo-021",
+      "tipo": "comparativo",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "iluminacao",
+      "funil": "topo",
+      "titulo_sugerido": "Lâmpada LED luz amarela ou branca: qual escolher para cada cômodo?",
+      "problema": "Escolher a cor da luz: amarela quente ou branca fria",
+      "palavras_chave": [
+        "philips ledbulb luz amarela ou branca",
+        "philips ledbulb luz amarela vs branca",
+        "philips ledbulb luz amarela ou branca qual é melhor",
+        "lâmpada led luz amarela ou branca",
+        "philips ledbulb luz amarela é melhor que branca"
+      ],
+      "produtos_candidatos": [
+        "Lâmpada LED Philips LEDBulb 9W 3000K",
+        "Lâmpada LED Philips LEDBulb 9W 6500K"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-comparativo-022",
+      "tipo": "comparativo",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "organizacao",
+      "funil": "topo",
+      "titulo_sugerido": "Sanremo 42 L ou Sanremo 56 L: qual vale mais a pena?",
+      "problema": "Escolher o tamanho certo de caixa organizadora para armário",
+      "palavras_chave": [
+        "sanremo 42 l ou sanremo 56 l",
+        "sanremo 42 l vs sanremo 56 l",
+        "sanremo 42 l ou sanremo 56 l qual é melhor",
+        "melhor caixa organizadora",
+        "sanremo 42 l é melhor que sanremo 56 l"
+      ],
+      "produtos_candidatos": [
+        "Caixa Organizadora Sanremo Top Stock 42 Litros",
+        "Caixa Organizadora Sanremo Top Stock 56,1 Litros"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-comparativo-023",
+      "tipo": "comparativo",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "limpeza",
+      "funil": "meio",
+      "titulo_sugerido": "Dustbuster HHVI320 ou Dustbuster QuickClean: qual vale mais a pena?",
+      "problema": "Escolher aspirador portátil sem fio para casa ou carro",
+      "palavras_chave": [
+        "dustbuster hhvi320 ou dustbuster quickclean",
+        "dustbuster hhvi320 vs dustbuster quickclean",
+        "dustbuster hhvi320 ou dustbuster quickclean qual é melhor",
+        "melhor aspirador portátil sem fio",
+        "dustbuster hhvi320 é melhor que dustbuster quickclean"
+      ],
+      "produtos_candidatos": [
+        "Aspirador Portátil Black+Decker Dustbuster HHVI320JR02 12V",
+        "Aspirador Portátil Black+Decker Dustbuster QuickClean HNVC215B10"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-review-022",
+      "tipo": "review",
+      "categoria": "cozinha",
+      "subcategoria": "air-fryer",
+      "funil": "fundo",
+      "titulo_sugerido": "Air fryer Mondial Dual AFD-01 é boa? Review completo: vale a pena em 2026?",
+      "problema": "Saber se a air fryer de dois cestos da Mondial compensa para cozinhar dois pratos ao mesmo tempo",
+      "palavras_chave": [
+        "air fryer mondial dual é boa",
+        "mondial afd-01 review",
+        "air fryer dois cestos vale a pena",
+        "air fryer duplo cesto 8l",
+        "mondial afd-01-bi"
+      ],
+      "produtos_candidatos": [
+        "Mondial Air Fryer Dual Duplo Cesto 8L AFD-01-BI"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-review-023",
+      "tipo": "review",
+      "categoria": "cozinha",
+      "subcategoria": "air-fryer",
+      "funil": "fundo",
+      "titulo_sugerido": "Air fryer Mondial AFN-80 8L é boa? Review completo: vale a pena em 2026?",
+      "problema": "Família grande querendo saber se uma air fryer de 8 litros de cesto único resolve",
+      "palavras_chave": [
+        "air fryer mondial 8 litros é boa",
+        "mondial afn-80-bi review",
+        "air fryer 8l vale a pena",
+        "air fryer grande família",
+        "air fryer mondial afn-80"
+      ],
+      "produtos_candidatos": [
+        "Mondial Air Fryer 8L AFN-80-BI"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-review-024",
+      "tipo": "review",
+      "categoria": "cozinha",
+      "subcategoria": "air-fryer",
+      "funil": "meio",
+      "titulo_sugerido": "Air fryer Philips Walita Duplo Cesto NA150 vale a pena? Review completo em 2026",
+      "problema": "Dúvida se vale pagar mais por uma air fryer dupla de marca premium",
+      "palavras_chave": [
+        "air fryer philips walita duplo cesto",
+        "philips walita na150 review",
+        "air fryer dupla vale a pena",
+        "airfryer philips 7,1l",
+        "philips walita na150 é boa"
+      ],
+      "produtos_candidatos": [
+        "Philips Walita Airfryer Duplo Cesto 7,1L NA150"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-review-025",
+      "tipo": "review",
+      "categoria": "cozinha",
+      "subcategoria": "eletroportateis",
+      "funil": "fundo",
+      "titulo_sugerido": "Chaleira elétrica Philips Walita Série 3000 é boa? Review completo: vale a pena em 2026?",
+      "problema": "Saber se uma chaleira elétrica de inox da Philips Walita vale o investimento no dia a dia",
+      "palavras_chave": [
+        "chaleira philips walita é boa",
+        "chaleira elétrica série 3000 review",
+        "chaleira elétrica inox vale a pena",
+        "chaleira philips walita hd9350",
+        "melhor chaleira elétrica"
+      ],
+      "produtos_candidatos": [
+        "Philips Walita Chaleira Elétrica Série 3000 Inox HD9350"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-review-026",
+      "tipo": "review",
+      "categoria": "cozinha",
+      "subcategoria": "cafeteiras",
+      "funil": "meio",
+      "titulo_sugerido": "Cafeteira espresso Oster OCAF900 é boa? Review completo: vale a pena em 2026?",
+      "problema": "Quem quer café espresso com espumador de leite em casa e não sabe se essa máquina entrega",
+      "palavras_chave": [
+        "cafeteira oster ocaf900 é boa",
+        "oster ocaf900 review",
+        "cafeteira espresso oster vale a pena",
+        "cafeteira espresso com espumador",
+        "melhor cafeteira espresso para casa"
+      ],
+      "produtos_candidatos": [
+        "Oster Cafeteira Espresso OCAF900 Digital"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-comparativo-019",
+      "tipo": "comparativo",
+      "categoria": "cozinha",
+      "subcategoria": "air-fryer",
+      "funil": "fundo",
+      "titulo_sugerido": "Mondial AFD-01 ou Philips Walita Duplo Cesto: qual air fryer dupla vale mais a pena?",
+      "problema": "Escolher entre uma air fryer dupla mais em conta e a versão premium da Philips Walita",
+      "palavras_chave": [
+        "mondial afd-01 ou philips walita duplo cesto",
+        "air fryer dupla qual comprar",
+        "air fryer dois cestos comparativo",
+        "mondial dual ou philips",
+        "melhor air fryer dupla 2026"
+      ],
+      "produtos_candidatos": [
+        "Mondial Air Fryer Dual Duplo Cesto 8L AFD-01-BI",
+        "Philips Walita Airfryer Duplo Cesto 7,1L NA150"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-comparativo-020",
+      "tipo": "comparativo",
+      "categoria": "cozinha",
+      "subcategoria": "air-fryer",
+      "funil": "meio",
+      "titulo_sugerido": "Mondial AFN-60 ou AFN-80: qual tamanho de air fryer vale mais a pena?",
+      "problema": "Dúvida entre 6 e 8 litros na mesma linha de air fryer Mondial",
+      "palavras_chave": [
+        "mondial afn-60 ou afn-80",
+        "air fryer 6 litros ou 8 litros",
+        "qual tamanho de air fryer comprar",
+        "air fryer mondial comparativo",
+        "air fryer 8l vale a pena"
+      ],
+      "produtos_candidatos": [
+        "Mondial Air Fryer 6L AFN-60-BI",
+        "Mondial Air Fryer 8L AFN-80-BI"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-comparativo-021",
+      "tipo": "comparativo",
+      "categoria": "cozinha",
+      "subcategoria": "eletroportateis",
+      "funil": "meio",
+      "titulo_sugerido": "Chaleira Philips Walita Série 3000 ou Britânia BCH12V: qual vale mais a pena?",
+      "problema": "Comparar uma chaleira elétrica premium com uma opção mais simples de marca nacional",
+      "palavras_chave": [
+        "chaleira philips walita ou britânia",
+        "chaleira elétrica qual comprar",
+        "chaleira britânia bch12v",
+        "chaleira philips série 3000",
+        "melhor chaleira elétrica 2026"
+      ],
+      "produtos_candidatos": [
+        "Philips Walita Chaleira Elétrica Série 3000 Inox HD9350",
+        "Britânia Chaleira Elétrica BCH12V 1,9L"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-comparativo-022",
+      "tipo": "comparativo",
+      "categoria": "cozinha",
+      "subcategoria": "panelas-e-frigideiras",
+      "funil": "fundo",
+      "titulo_sugerido": "Frigideira Tramontina Professional antiaderente 20 cm ou inox triplo 30 cm: qual vale mais a pena?",
+      "problema": "Decidir entre antiaderente e inox fundo triplo na hora de comprar uma frigideira da Tramontina",
+      "palavras_chave": [
+        "frigideira antiaderente ou inox",
+        "tramontina professional frigideira",
+        "frigideira inox fundo triplo vale a pena",
+        "frigideira tramontina 20 cm",
+        "qual frigideira comprar"
+      ],
+      "produtos_candidatos": [
+        "Tramontina Professional Frigideira Antiaderente 20 cm 20890020",
+        "Tramontina Professional Frigideira Inox Fundo Triplo 30 cm 62635300"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-comparativo-023",
+      "tipo": "comparativo",
+      "categoria": "cozinha",
+      "subcategoria": "air-fryer",
+      "funil": "meio",
+      "titulo_sugerido": "Mondial Air Fryer Forno 12L ou Air Fryer Dual 8L: qual vale mais a pena?",
+      "problema": "Escolher entre uma air fryer tipo forno e uma de dois cestos para a rotina da casa",
+      "palavras_chave": [
+        "air fryer forno ou dual",
+        "mondial afon-12l ou afd-01",
+        "air fryer oven 12 litros",
+        "air fryer dois cestos ou forno",
+        "qual air fryer mondial comprar"
+      ],
+      "produtos_candidatos": [
+        "Mondial Air Fryer Forno Oven 12L AFON-12L-BI",
+        "Mondial Air Fryer Dual Duplo Cesto 8L AFD-01-BI"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-review-018",
+      "tipo": "review",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "primeiros-socorros",
+      "funil": "fundo",
+      "titulo_sugerido": "Nebulizador Omron NE-C803 é bom? Review completo: vale a pena em 2026?",
+      "problema": "Saber se o inalador compressor da Omron é silencioso e confiável para uso em casa",
+      "palavras_chave": [
+        "omron ne-c803 é bom",
+        "nebulizador omron review",
+        "inalador omron vale a pena",
+        "melhor nebulizador compressor",
+        "omron ne-c803 silencioso"
+      ],
+      "produtos_candidatos": [
+        "Omron Inalador Nebulizador Compressor Elite NE-C803"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-review-019",
+      "tipo": "review",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "monitoramento-de-saude",
+      "funil": "fundo",
+      "titulo_sugerido": "Oxímetro de dedo G-Tech LED é bom? Review completo: vale a pena em 2026?",
+      "problema": "Entender se um oxímetro de dedo de marca conhecida é prático para acompanhar a saturação em casa",
+      "palavras_chave": [
+        "oxímetro g-tech é bom",
+        "oxímetro de dedo g-tech review",
+        "oxímetro de dedo vale a pena",
+        "melhor oxímetro de dedo",
+        "oxímetro g-tech led"
+      ],
+      "produtos_candidatos": [
+        "Oxímetro de Dedo G-Tech LED com capa e estojo"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-review-020",
+      "tipo": "review",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "monitoramento-de-saude",
+      "funil": "meio",
+      "titulo_sugerido": "Balança de bioimpedância Omron HBF-226 é boa? Review completo: vale a pena em 2026?",
+      "problema": "Quem quer acompanhar gordura e massa muscular em casa sem pagar o preço de modelos topo de linha",
+      "palavras_chave": [
+        "balança omron hbf-226 é boa",
+        "omron hbf-226 review",
+        "balança de bioimpedância omron",
+        "balança de controle corporal omron",
+        "omron hbf-226 vale a pena"
+      ],
+      "produtos_candidatos": [
+        "Omron Balança de Controle Corporal HBF-226"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-review-021",
+      "tipo": "review",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "primeiros-socorros",
+      "funil": "meio",
+      "titulo_sugerido": "Inalador ultrassônico G-Tech Ultraneb é bom? Review completo: vale a pena em 2026?",
+      "problema": "Dúvida sobre o funcionamento e o ruído de um inalador ultrassônico para uso doméstico",
+      "palavras_chave": [
+        "g-tech ultraneb é bom",
+        "inalador ultrassônico g-tech review",
+        "nebulizador ultrassônico vale a pena",
+        "inalador g-tech ultraneb",
+        "melhor inalador para casa"
+      ],
+      "produtos_candidatos": [
+        "G-Tech Inalador Nebulizador Ultraneb"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-review-022",
+      "tipo": "review",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "monitoramento-de-saude",
+      "funil": "fundo",
+      "titulo_sugerido": "Medidor de pressão de pulso Omron HEM-6124 é bom? Review completo: vale a pena em 2026?",
+      "problema": "Saber se um monitor de pressão de pulso simples da Omron é confiável para acompanhar em casa",
+      "palavras_chave": [
+        "omron hem-6124 é bom",
+        "medidor de pressão de pulso omron",
+        "omron hem-6124 review",
+        "aparelho de pressão de pulso vale a pena",
+        "omron control hem-6124"
+      ],
+      "produtos_candidatos": [
+        "Omron Monitor de Pressão Arterial de Pulso Control HEM-6124"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-comparativo-018",
+      "tipo": "comparativo",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "primeiros-socorros",
+      "funil": "meio",
+      "titulo_sugerido": "Omron NE-C803 ou NE-C810: qual nebulizador vale mais a pena?",
+      "problema": "Escolher entre dois inaladores compressores da Omron para uso familiar",
+      "palavras_chave": [
+        "omron ne-c803 ou ne-c810",
+        "nebulizador omron qual comprar",
+        "inalador omron comparativo",
+        "nebulizador compressor silencioso",
+        "melhor nebulizador omron"
+      ],
+      "produtos_candidatos": [
+        "Omron Inalador Nebulizador Compressor Elite NE-C803",
+        "Omron Inalador Nebulizador Compressor NE-C810"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-comparativo-019",
+      "tipo": "comparativo",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "primeiros-socorros",
+      "funil": "fundo",
+      "titulo_sugerido": "G-Tech Ultraneb ou Omron NE-C803: qual inalador vale mais a pena?",
+      "problema": "Decidir entre inalador ultrassônico e compressor para usar em casa",
+      "palavras_chave": [
+        "g-tech ultraneb ou omron ne-c803",
+        "inalador ultrassônico ou compressor",
+        "nebulizador qual comprar",
+        "inalador g-tech ou omron",
+        "melhor inalador para casa"
+      ],
+      "produtos_candidatos": [
+        "G-Tech Inalador Nebulizador Ultraneb",
+        "Omron Inalador Nebulizador Compressor Elite NE-C803"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-comparativo-020",
+      "tipo": "comparativo",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "monitoramento-de-saude",
+      "funil": "fundo",
+      "titulo_sugerido": "Omron HEM-6124 ou HEM-6232T: qual medidor de pressão de pulso vale mais a pena?",
+      "problema": "Escolher entre o monitor de pulso básico e o com Bluetooth e mais memórias",
+      "palavras_chave": [
+        "omron hem-6124 ou hem-6232t",
+        "medidor de pressão de pulso qual comprar",
+        "omron bluetooth pulso",
+        "aparelho de pressão de pulso comparativo",
+        "omron hem-6232t vale a pena"
+      ],
+      "produtos_candidatos": [
+        "Omron Monitor de Pressão Arterial de Pulso Control HEM-6124",
+        "Omron Monitor de Pressão Arterial de Pulso HEM-6232T Bluetooth"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-comparativo-021",
+      "tipo": "comparativo",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "monitoramento-de-saude",
+      "funil": "meio",
+      "titulo_sugerido": "Omron HEM-6232T ou HEM-6127: qual monitor de pulso vale mais a pena?",
+      "problema": "Comparar dois monitores de pressão de pulso da Omron antes de comprar",
+      "palavras_chave": [
+        "omron hem-6232t ou hem-6127",
+        "monitor de pressão de pulso omron",
+        "omron hem-6127 é bom",
+        "medidor de pressão de pulso bluetooth",
+        "qual medidor de pulso comprar"
+      ],
+      "produtos_candidatos": [
+        "Omron Monitor de Pressão Arterial de Pulso HEM-6232T Bluetooth",
+        "Omron Monitor de Pressão Arterial de Pulso Control HEM-6127"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-review-021",
+      "tipo": "review",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "pele-e-skincare",
+      "funil": "fundo",
+      "titulo_sugerido": "ISDIN Fusion Water FPS 60 é bom? Review completo: vale a pena em 2026?",
+      "problema": "Quem tem pele oleosa e quer um protetor solar facial leve que não pese nem brilhe sob a maquiagem",
+      "palavras_chave": [
+        "isdin fusion water é bom",
+        "isdin fusion water review",
+        "isdin fusion water vale a pena",
+        "protetor solar isdin fps 60",
+        "isdin fusion water pele oleosa"
+      ],
+      "produtos_candidatos": [
+        "ISDIN Fusion Water FPS 60 Protetor Solar Facial 30ml"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-review-022",
+      "tipo": "review",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "cabelo",
+      "funil": "meio",
+      "titulo_sugerido": "Elseve Hidra Hialurônico shampoo é bom? Review completo: vale a pena em 2026?",
+      "problema": "Cabelo ressecado que precisa de hidratação já na lavagem e dúvida se o shampoo com ácido hialurônico entrega o que promete",
+      "palavras_chave": [
+        "elseve hidra hialurônico é bom",
+        "shampoo elseve hialurônico review",
+        "elseve hidra hialurônico vale a pena",
+        "shampoo para cabelo ressecado",
+        "shampoo elseve ácido hialurônico"
+      ],
+      "produtos_candidatos": [
+        "Elseve L'Oréal Paris Hidra Hialurônico Shampoo 400ml"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-review-023",
+      "tipo": "review",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "cabelo",
+      "funil": "meio",
+      "titulo_sugerido": "Seda Cachos Definidos shampoo é bom? Review completo: vale a pena em 2026?",
+      "problema": "Cabelo ondulado ou cacheado que quer um shampoo barato para o dia a dia sem perder a definição",
+      "palavras_chave": [
+        "seda cachos definidos é bom",
+        "shampoo seda cachos review",
+        "seda cachos definidos vale a pena",
+        "shampoo barato para cabelo cacheado",
+        "shampoo seda cachos definidos"
+      ],
+      "produtos_candidatos": [
+        "Seda Shampoo Cachos Definidos 325ml"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-review-024",
+      "tipo": "review",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "perfumes",
+      "funil": "fundo",
+      "titulo_sugerido": "Invictus Paco Rabanne é bom? Review completo: vale a pena em 2026?",
+      "problema": "Homem em dúvida se o perfume masculino aquático e amadeirado mais famoso justifica o investimento",
+      "palavras_chave": [
+        "invictus paco rabanne é bom",
+        "invictus review",
+        "invictus vale a pena",
+        "perfume invictus fixação",
+        "perfume masculino paco rabanne"
+      ],
+      "produtos_candidatos": [
+        "Paco Rabanne Invictus Eau de Toilette 100ml"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-review-025",
+      "tipo": "review",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "barbear-e-depilacao",
+      "funil": "fundo",
+      "titulo_sugerido": "Gillette Fusion5 é bom? Review completo: vale a pena em 2026?",
+      "problema": "Quem quer um barbear mais rente e confortável e avalia se o aparelho de 5 lâminas compensa frente aos mais simples",
+      "palavras_chave": [
+        "gillette fusion5 é bom",
+        "gillette fusion5 review",
+        "gillette fusion5 vale a pena",
+        "aparelho de barbear 5 lâminas",
+        "melhor aparelho de barbear gillette"
+      ],
+      "produtos_candidatos": [
+        "Gillette Fusion5 Aparelho de Barbear"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-comparativo-019",
+      "tipo": "comparativo",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "maquiagem",
+      "funil": "fundo",
+      "titulo_sugerido": "Maybelline Fit Me ou L'Oréal True Match: qual base vale mais a pena?",
+      "problema": "Escolher entre duas bases líquidas populares pensando em cobertura, acabamento e variedade de tons",
+      "palavras_chave": [
+        "maybelline fit me ou loreal true match",
+        "fit me vs true match",
+        "base fit me é boa",
+        "base true match é boa",
+        "melhor base líquida custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Maybelline Fit Me Matte + Poreless Base Líquida",
+        "L'Oréal Paris True Match Base Líquida"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-comparativo-020",
+      "tipo": "comparativo",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "pele-e-skincare",
+      "funil": "meio",
+      "titulo_sugerido": "Garnier Uniform & Matte ou Vichy Liftactiv Supreme: qual sérum de vitamina C vale mais a pena?",
+      "problema": "Decidir entre um sérum de vitamina C acessível e um de farmácia mais caro para manchas e viço da pele",
+      "palavras_chave": [
+        "garnier uniform matte ou vichy liftactiv supreme",
+        "sérum vitamina c garnier ou vichy",
+        "garnier uniform matte vs liftactiv supreme",
+        "melhor sérum de vitamina c",
+        "sérum vitamina c vale a pena"
+      ],
+      "produtos_candidatos": [
+        "Garnier Uniform & Matte Sérum Vitamina C 30ml",
+        "Vichy Liftactiv Supreme Sérum Vitamina C 20ml"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-comparativo-021",
+      "tipo": "comparativo",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "pele-e-skincare",
+      "funil": "fundo",
+      "titulo_sugerido": "Eucerin DermoPure Gel de Limpeza Gentil ou Concentrado: qual vale mais a pena?",
+      "problema": "Pele oleosa ou com acne que precisa escolher entre as duas versões do gel de limpeza da linha DermoPure",
+      "palavras_chave": [
+        "eucerin dermopure gentil ou concentrado",
+        "eucerin dermopure gel de limpeza é bom",
+        "gel de limpeza para pele acneica",
+        "eucerin gentil vs concentrado",
+        "melhor gel de limpeza facial pele oleosa"
+      ],
+      "produtos_candidatos": [
+        "Eucerin Dermopure Clinical Gel de Limpeza Gentil 200ml",
+        "Eucerin Dermopure Clinical Gel de Limpeza Concentrado 150ml"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-comparativo-022",
+      "tipo": "comparativo",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "perfumes",
+      "funil": "fundo",
+      "titulo_sugerido": "Dior Sauvage ou 212 VIP Men: qual perfume masculino vale mais a pena?",
+      "problema": "Escolher entre dois perfumes masculinos importados muito citados para presente e para o dia a dia",
+      "palavras_chave": [
+        "dior sauvage ou 212 vip men",
+        "sauvage vs 212 vip men",
+        "sauvage é bom",
+        "212 vip men é bom",
+        "melhor perfume masculino importado"
+      ],
+      "produtos_candidatos": [
+        "Dior Sauvage Eau de Toilette 100ml",
+        "Carolina Herrera 212 VIP Men Eau de Toilette 100ml"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-comparativo-023",
+      "tipo": "comparativo",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "barbear-e-depilacao",
+      "funil": "meio",
+      "titulo_sugerido": "Gillette Venus Deluxe Smooth ou Venus descartável: qual vale mais a pena?",
+      "problema": "Mulher que decide entre investir em um aparelho com refis ou manter o descartável na hora de depilar",
+      "palavras_chave": [
+        "gillette venus deluxe smooth ou descartável",
+        "venus deluxe smooth vale a pena",
+        "aparelho de depilar feminino",
+        "venus descartável é bom",
+        "melhor aparelho de depilar mulher"
+      ],
+      "produtos_candidatos": [
+        "Gillette Venus Deluxe Smooth Swirl com 4 refis",
+        "Gillette Venus Suave com Aloe Descartável 6 unidades"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-review-020",
+      "tipo": "review",
+      "categoria": "pets",
+      "subcategoria": "caminhas-e-casinhas",
+      "funil": "topo",
+      "titulo_sugerido": "Chalesco Cama Nuvem é boa? Review completo: vale a pena em 2026?",
+      "problema": "Dono de cachorro ou gato pequeno que quer uma caminha macia e lavável sem gastar muito",
+      "palavras_chave": [
+        "chalesco cama nuvem é boa",
+        "cama nuvem chalesco review",
+        "cama nuvem pet vale a pena",
+        "caminha para cachorro pequeno",
+        "cama redonda para gato"
+      ],
+      "produtos_candidatos": [
+        "Chalesco Cama Nuvem Bege para Cães e Gatos Pequenos 40cm"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-review-021",
+      "tipo": "review",
+      "categoria": "pets",
+      "subcategoria": "alimentacao-e-comedouros",
+      "funil": "topo",
+      "titulo_sugerido": "Comedouro Chalesco Inox 960 ml é bom? Review completo: vale a pena em 2026?",
+      "problema": "Quem procura um pote de inox durável e higiênico para ração ou água do cachorro",
+      "palavras_chave": [
+        "comedouro chalesco inox é bom",
+        "comedouro inox chalesco review",
+        "comedouro inox para cachorro vale a pena",
+        "melhor comedouro para cachorro",
+        "pote de inox para pet"
+      ],
+      "produtos_candidatos": [
+        "Chalesco Comedouro Inox para Cães e Gatos 960 ml"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-review-022",
+      "tipo": "review",
+      "categoria": "pets",
+      "subcategoria": "higiene-e-cuidados",
+      "funil": "meio",
+      "titulo_sugerido": "Pedigree Dentastix raças médias é bom? Review completo: vale a pena em 2026?",
+      "problema": "Dono de cão de porte médio que quer cuidar do tártaro e do mau hálito com um petisco do dia a dia",
+      "palavras_chave": [
+        "pedigree dentastix raças médias é bom",
+        "dentastix raças médias review",
+        "dentastix vale a pena",
+        "petisco para tártaro cachorro",
+        "como cuidar dos dentes do cachorro"
+      ],
+      "produtos_candidatos": [
+        "Pedigree Dentastix Cuidado Oral Cães Adultos Raças Médias 7 unidades"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-review-023",
+      "tipo": "review",
+      "categoria": "pets",
+      "subcategoria": "alimentacao-e-comedouros",
+      "funil": "fundo",
+      "titulo_sugerido": "Dog Chow Extralife raças médias e grandes é bom? Review completo: vale a pena em 2026?",
+      "problema": "Escolher uma ração de custo acessível para cão adulto de porte médio ou grande sem abrir mão de uma marca conhecida",
+      "palavras_chave": [
+        "dog chow extralife é bom",
+        "dog chow extralife review",
+        "dog chow raças médias e grandes vale a pena",
+        "ração dog chow é boa",
+        "ração custo-benefício para cachorro"
+      ],
+      "produtos_candidatos": [
+        "Purina Dog Chow Extralife Adultos Médios e Grandes 10,1kg"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-review-024",
+      "tipo": "review",
+      "categoria": "pets",
+      "subcategoria": "higiene-e-cuidados",
+      "funil": "meio",
+      "titulo_sugerido": "Chalesco Eliminador de Pelos Pro S é bom? Review completo: vale a pena em 2026?",
+      "problema": "Casa cheia de pelos de cachorro no sofá e na roupa e dúvida se um removedor manual resolve",
+      "palavras_chave": [
+        "chalesco eliminador de pelos é bom",
+        "eliminador de pelos pro s review",
+        "removedor de pelos de pet vale a pena",
+        "como tirar pelo de cachorro do sofá",
+        "escova para pelos de cachorro"
+      ],
+      "produtos_candidatos": [
+        "Chalesco Eliminador de Pelos Pro S para Cães"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-comparativo-020",
+      "tipo": "comparativo",
+      "categoria": "pets",
+      "subcategoria": "alimentacao-e-comedouros",
+      "funil": "fundo",
+      "titulo_sugerido": "Cat Chow ou Whiskas Castrados: qual ração vale mais a pena para gatos castrados?",
+      "problema": "Escolher entre duas rações populares de 10,1 kg para gatos castrados pensando em ingredientes e custo mensal",
+      "palavras_chave": [
+        "cat chow ou whiskas castrados",
+        "cat chow vs whiskas",
+        "ração cat chow castrados é boa",
+        "ração whiskas castrados é boa",
+        "melhor ração para gato castrado"
+      ],
+      "produtos_candidatos": [
+        "Purina Cat Chow Castrados Frango 10,1kg",
+        "Whiskas Gatos Adultos Castrados Carne 10,1kg"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-comparativo-021",
+      "tipo": "comparativo",
+      "categoria": "pets",
+      "subcategoria": "alimentacao-e-comedouros",
+      "funil": "meio",
+      "titulo_sugerido": "Guabi Natural Frango e Lentilha ou Frango e Arroz: qual vale mais a pena para cães médios?",
+      "problema": "Dúvida entre a versão grain free e a versão com arroz da ração Guabi Natural para cães adultos de porte médio",
+      "palavras_chave": [
+        "guabi natural frango e lentilha ou frango e arroz",
+        "guabi natural grain free vale a pena",
+        "guabi natural é boa",
+        "ração grain free é melhor",
+        "ração para cães raças médias"
+      ],
+      "produtos_candidatos": [
+        "Guabi Natural Cães Adultos Raças Médias Frango e Lentilha 12kg",
+        "Guabi Natural Cães Adultos Raças Médias Frango e Arroz 12kg"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-comparativo-022",
+      "tipo": "comparativo",
+      "categoria": "pets",
+      "subcategoria": "passeio-e-transporte",
+      "funil": "meio",
+      "titulo_sugerido": "Furacão Pet Luxo ou Joy Nº 2: qual caixa de transporte vale mais a pena?",
+      "problema": "Escolher entre dois modelos da mesma marca para levar gato ou cão pequeno ao veterinário e em viagens",
+      "palavras_chave": [
+        "furacão pet luxo ou joy",
+        "caixa de transporte furacão pet n2",
+        "furacão pet luxo vs joy",
+        "melhor caixa de transporte para gato",
+        "caixa de transporte nº 2"
+      ],
+      "produtos_candidatos": [
+        "Furacão Pet Caixa de Transporte Luxo Nº 2",
+        "Furacão Pet Caixa de Transporte Joy Nº 2"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-comparativo-024",
+      "tipo": "comparativo",
+      "categoria": "pets",
+      "subcategoria": "brinquedos-e-enriquecimento",
+      "funil": "topo",
+      "titulo_sugerido": "Chalesco Torre Dupla com Toca ou Toca Veneza: qual arranhador vale mais a pena?",
+      "problema": "Gato que arranha o sofá e dono em dúvida entre o arranhador torre compacto e o modelo mais alto com toca",
+      "palavras_chave": [
+        "chalesco torre dupla ou toca veneza",
+        "arranhador chalesco é bom",
+        "arranhador torre para gato",
+        "melhor arranhador para gato",
+        "arranhador com toca"
+      ],
+      "produtos_candidatos": [
+        "Chalesco Arranhador Torre Dupla com Toca",
+        "Chalesco Arranhador Torre Dupla com Toca Veneza"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-review-019",
+      "tipo": "review",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "fitness-e-musculacao",
+      "funil": "fundo",
+      "titulo_sugerido": "Stanley Quencher H2.0 FlowState 1,18 L é bom? Review completo: vale a pena em 2026?",
+      "problema": "Escolher um copo térmico com canudo para levar água gelada ao treino e ao dia a dia",
+      "palavras_chave": [
+        "stanley quencher h2.0 flowstate 1,18 l é bom",
+        "stanley quencher h2.0 flowstate 1,18 l vale a pena",
+        "stanley quencher h2.0 flowstate 1,18 l review",
+        "stanley quencher h2.0 flowstate 1,18 l opinião",
+        "stanley quencher h2.0 flowstate 1,18 l custo benefício"
+      ],
+      "produtos_candidatos": [
+        "Copo Térmico Stanley Quencher H2.0 FlowState 1,18 L"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-review-020",
+      "tipo": "review",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "corrida-e-caminhada",
+      "funil": "meio",
+      "titulo_sugerido": "Huawei Band 10 é bom? Review completo: vale a pena em 2026?",
+      "problema": "Escolher uma pulseira fitness leve para acompanhar corrida, caminhada e sono",
+      "palavras_chave": [
+        "huawei band 10 é bom",
+        "huawei band 10 vale a pena",
+        "huawei band 10 review",
+        "huawei band 10 opinião",
+        "huawei band 10 custo benefício"
+      ],
+      "produtos_candidatos": [
+        "Smartband Huawei Band 10"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-review-021",
+      "tipo": "review",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "corrida-e-caminhada",
+      "funil": "fundo",
+      "titulo_sugerido": "Mizuno Wave Rider 27 é bom? Review completo: vale a pena em 2026?",
+      "problema": "Escolher um tênis de corrida neutro e amortecido para treinos diários",
+      "palavras_chave": [
+        "mizuno wave rider 27 é bom",
+        "mizuno wave rider 27 vale a pena",
+        "mizuno wave rider 27 review",
+        "mizuno wave rider 27 opinião",
+        "mizuno wave rider 27 custo benefício"
+      ],
+      "produtos_candidatos": [
+        "Tênis Mizuno Wave Rider 27 Masculino"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-review-022",
+      "tipo": "review",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "corrida-e-caminhada",
+      "funil": "meio",
+      "titulo_sugerido": "Asics Gel-Cumulus 27 é bom? Review completo: vale a pena em 2026?",
+      "problema": "Escolher um tênis de corrida versátil para rodagens e treinos de longa distância",
+      "palavras_chave": [
+        "asics gel-cumulus 27 é bom",
+        "asics gel-cumulus 27 vale a pena",
+        "asics gel-cumulus 27 review",
+        "asics gel-cumulus 27 opinião",
+        "asics gel-cumulus 27 custo benefício"
+      ],
+      "produtos_candidatos": [
+        "Tênis Asics Gel-Cumulus 27 Masculino"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-review-023",
+      "tipo": "review",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "corrida-e-caminhada",
+      "funil": "fundo",
+      "titulo_sugerido": "Garmin Vivoactive 5 é bom? Review completo: vale a pena em 2026?",
+      "problema": "Escolher um smartwatch com GPS para treinar, monitorar saúde e usar no dia a dia",
+      "palavras_chave": [
+        "garmin vivoactive 5 é bom",
+        "garmin vivoactive 5 vale a pena",
+        "garmin vivoactive 5 review",
+        "garmin vivoactive 5 opinião",
+        "garmin vivoactive 5 custo benefício"
+      ],
+      "produtos_candidatos": [
+        "Relógio Garmin Vivoactive 5"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-comparativo-019",
+      "tipo": "comparativo",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "corrida-e-caminhada",
+      "funil": "fundo",
+      "titulo_sugerido": "Mizuno Wave Rider 27 ou Asics Gel-Cumulus 27: qual vale mais a pena?",
+      "problema": "Decidir entre dois tênis de corrida amortecidos para treino diário",
+      "palavras_chave": [
+        "mizuno wave rider 27 ou asics gel-cumulus 27",
+        "mizuno wave rider 27 vs asics gel-cumulus 27",
+        "mizuno wave rider 27 ou asics gel-cumulus 27 qual é melhor",
+        "melhor tênis de corrida amortecido",
+        "mizuno wave rider 27 ou asics gel-cumulus 27 vale a pena"
+      ],
+      "produtos_candidatos": [
+        "Tênis Mizuno Wave Rider 27 Masculino",
+        "Tênis Asics Gel-Cumulus 27 Masculino"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-comparativo-020",
+      "tipo": "comparativo",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "corrida-e-caminhada",
+      "funil": "meio",
+      "titulo_sugerido": "Garmin Forerunner 165 ou Garmin Vivoactive 5: qual vale mais a pena?",
+      "problema": "Decidir entre um relógio GPS focado em corrida e um smartwatch esportivo mais geral",
+      "palavras_chave": [
+        "garmin forerunner 165 ou garmin vivoactive 5",
+        "garmin forerunner 165 vs garmin vivoactive 5",
+        "garmin forerunner 165 ou garmin vivoactive 5 qual é melhor",
+        "melhor relógio garmin para correr",
+        "garmin forerunner 165 ou garmin vivoactive 5 vale a pena"
+      ],
+      "produtos_candidatos": [
+        "Relógio Garmin Forerunner 165",
+        "Relógio Garmin Vivoactive 5"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-comparativo-021",
+      "tipo": "comparativo",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "corrida-e-caminhada",
+      "funil": "meio",
+      "titulo_sugerido": "Huawei Band 10 ou Samsung Galaxy Fit3: qual vale mais a pena?",
+      "problema": "Escolher uma pulseira fitness com boa tela e bateria para o dia a dia",
+      "palavras_chave": [
+        "huawei band 10 ou samsung galaxy fit3",
+        "huawei band 10 vs samsung galaxy fit3",
+        "huawei band 10 ou samsung galaxy fit3 qual é melhor",
+        "melhor pulseira fitness",
+        "huawei band 10 ou samsung galaxy fit3 vale a pena"
+      ],
+      "produtos_candidatos": [
+        "Smartband Huawei Band 10",
+        "Smartwatch Samsung Galaxy Fit3"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-comparativo-022",
+      "tipo": "comparativo",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "corrida-e-caminhada",
+      "funil": "fundo",
+      "titulo_sugerido": "Amazfit Bip 6 ou Huawei Band 10: qual vale mais a pena?",
+      "problema": "Decidir entre um smartwatch leve com GPS e uma pulseira fitness compacta",
+      "palavras_chave": [
+        "amazfit bip 6 ou huawei band 10",
+        "amazfit bip 6 vs huawei band 10",
+        "amazfit bip 6 ou huawei band 10 qual é melhor",
+        "melhor smartband custo benefício",
+        "amazfit bip 6 ou huawei band 10 vale a pena"
+      ],
+      "produtos_candidatos": [
+        "Smartwatch Amazfit Bip 6",
+        "Smartband Huawei Band 10"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-review-020",
+      "tipo": "review",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "teclados-e-mouses",
+      "funil": "fundo",
+      "titulo_sugerido": "Logitech Signature M650 é bom? Review completo: vale a pena em 2026?",
+      "problema": "Escolher um mouse sem fio silencioso e confortável para trabalhar e estudar",
+      "palavras_chave": [
+        "logitech signature m650 é bom",
+        "logitech signature m650 vale a pena",
+        "logitech signature m650 review",
+        "logitech signature m650 opinião",
+        "logitech signature m650 custo benefício"
+      ],
+      "produtos_candidatos": [
+        "Mouse Sem Fio Logitech Signature M650"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-review-021",
+      "tipo": "review",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "impressoras-e-suprimentos",
+      "funil": "fundo",
+      "titulo_sugerido": "Epson EcoTank L4360 é bom? Review completo: vale a pena em 2026?",
+      "problema": "Escolher uma impressora tanque de tinta com impressão frente e verso e Wi-Fi para casa e escritório",
+      "palavras_chave": [
+        "epson ecotank l4360 é bom",
+        "epson ecotank l4360 vale a pena",
+        "epson ecotank l4360 review",
+        "epson ecotank l4360 opinião",
+        "epson ecotank l4360 custo benefício"
+      ],
+      "produtos_candidatos": [
+        "Multifuncional Epson EcoTank L4360"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-review-022",
+      "tipo": "review",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "monitores",
+      "funil": "meio",
+      "titulo_sugerido": "Monitor Dell P2425H é bom? Review completo: vale a pena em 2026?",
+      "problema": "Escolher um monitor Full HD de 24 polegadas confortável para home office",
+      "palavras_chave": [
+        "monitor dell p2425h é bom",
+        "monitor dell p2425h vale a pena",
+        "monitor dell p2425h review",
+        "monitor dell p2425h opinião",
+        "monitor dell p2425h custo benefício"
+      ],
+      "produtos_candidatos": [
+        "Monitor Dell Pro 24 Plus P2425H"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-review-023",
+      "tipo": "review",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "teclados-e-mouses",
+      "funil": "meio",
+      "titulo_sugerido": "Logitech Lift é bom? Review completo: vale a pena em 2026?",
+      "problema": "Escolher um mouse vertical para reduzir o desconforto no pulso no uso diário",
+      "palavras_chave": [
+        "logitech lift é bom",
+        "logitech lift vale a pena",
+        "logitech lift review",
+        "logitech lift opinião",
+        "logitech lift custo benefício"
+      ],
+      "produtos_candidatos": [
+        "Mouse Vertical Logitech Lift"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-review-024",
+      "tipo": "review",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "teclados-e-mouses",
+      "funil": "fundo",
+      "titulo_sugerido": "Logitech M330 Silent é bom? Review completo: vale a pena em 2026?",
+      "problema": "Escolher um mouse sem fio de clique silencioso para trabalhar sem barulho",
+      "palavras_chave": [
+        "logitech m330 silent é bom",
+        "logitech m330 silent vale a pena",
+        "logitech m330 silent review",
+        "logitech m330 silent opinião",
+        "logitech m330 silent custo benefício"
+      ],
+      "produtos_candidatos": [
+        "Mouse Sem Fio Logitech M330 Silent"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-comparativo-020",
+      "tipo": "comparativo",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "teclados-e-mouses",
+      "funil": "fundo",
+      "titulo_sugerido": "Logitech Lift ou Logitech Signature M650: qual vale mais a pena?",
+      "problema": "Decidir entre um mouse vertical ergonômico e um mouse sem fio silencioso tradicional",
+      "palavras_chave": [
+        "logitech lift ou logitech signature m650",
+        "logitech lift vs logitech signature m650",
+        "logitech lift ou logitech signature m650 qual é melhor",
+        "melhor mouse ergonômico",
+        "logitech lift ou logitech signature m650 vale a pena"
+      ],
+      "produtos_candidatos": [
+        "Mouse Vertical Logitech Lift",
+        "Mouse Sem Fio Logitech Signature M650"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-comparativo-021",
+      "tipo": "comparativo",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "impressoras-e-suprimentos",
+      "funil": "fundo",
+      "titulo_sugerido": "Epson EcoTank L4360 ou Brother DCP-T730DW: qual vale mais a pena?",
+      "problema": "Decidir entre duas multifuncionais tanque de tinta com Wi-Fi para casa e escritório",
+      "palavras_chave": [
+        "epson ecotank l4360 ou brother dcp-t730dw",
+        "epson ecotank l4360 vs brother dcp-t730dw",
+        "epson ecotank l4360 ou brother dcp-t730dw qual é melhor",
+        "melhor impressora tanque de tinta",
+        "epson ecotank l4360 ou brother dcp-t730dw vale a pena"
+      ],
+      "produtos_candidatos": [
+        "Multifuncional Epson EcoTank L4360",
+        "Multifuncional Brother DCP-T730DW"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-comparativo-022",
+      "tipo": "comparativo",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "teclados-e-mouses",
+      "funil": "meio",
+      "titulo_sugerido": "Logitech Zone Vibe 100 ou Logitech Zone 300: qual vale mais a pena?",
+      "problema": "Escolher um headset sem fio com microfone para reuniões e aulas online",
+      "palavras_chave": [
+        "logitech zone vibe 100 ou logitech zone 300",
+        "logitech zone vibe 100 vs logitech zone 300",
+        "logitech zone vibe 100 ou logitech zone 300 qual é melhor",
+        "melhor headset para home office",
+        "logitech zone vibe 100 ou logitech zone 300 vale a pena"
+      ],
+      "produtos_candidatos": [
+        "Headset Sem Fio Logitech Zone Vibe 100",
+        "Headset Sem Fio Logitech Zone 300"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-comparativo-023",
+      "tipo": "comparativo",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "teclados-e-mouses",
+      "funil": "meio",
+      "titulo_sugerido": "Logitech M280 ou Logitech M330 Silent: qual vale mais a pena?",
+      "problema": "Escolher um mouse sem fio simples e barato para o dia a dia",
+      "palavras_chave": [
+        "logitech m280 ou logitech m330 silent",
+        "logitech m280 vs logitech m330 silent",
+        "logitech m280 ou logitech m330 silent qual é melhor",
+        "melhor mouse sem fio custo benefício",
+        "logitech m280 ou logitech m330 silent vale a pena"
+      ],
+      "produtos_candidatos": [
+        "Mouse Sem Fio Logitech M280",
+        "Mouse Sem Fio Logitech M330 Silent"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-review-019",
+      "tipo": "review",
+      "categoria": "automotivo",
+      "subcategoria": "limpeza-e-estetica",
+      "funil": "fundo",
+      "titulo_sugerido": "Lavadora Kärcher K3 Force Car é boa? Review completo: vale a pena em 2026?",
+      "problema": "Querer lavar o carro em casa com pressão suficiente sem gastar demais nem errar na potência",
+      "palavras_chave": [
+        "kärcher k3 force car é boa",
+        "kärcher k3 force car review",
+        "kärcher k3 force car vale a pena",
+        "lavadora de alta pressão para carro",
+        "melhor lavadora kärcher para carro"
+      ],
+      "produtos_candidatos": [
+        "Kärcher K3 Force Car"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-review-020",
+      "tipo": "review",
+      "categoria": "automotivo",
+      "subcategoria": "eletronicos-automotivos",
+      "funil": "meio",
+      "titulo_sugerido": "Aspirador Black+Decker APB12000 é bom para carro? Review completo em 2026",
+      "problema": "Manter o interior do carro limpo sem fio e sem arrastar aspirador de casa",
+      "palavras_chave": [
+        "black+decker apb12000 é bom",
+        "aspirador apb12000 review",
+        "aspirador portátil para carro",
+        "aspirador black+decker carro vale a pena",
+        "aspirador de carro sem fio"
+      ],
+      "produtos_candidatos": [
+        "Black+Decker Aspirador Portátil à Bateria APB12000"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-review-021",
+      "tipo": "review",
+      "categoria": "automotivo",
+      "subcategoria": "ferramentas-e-emergencia",
+      "funil": "fundo",
+      "titulo_sugerido": "Medidor digital de pressão Tramontina para pneus é bom? Review completo em 2026",
+      "problema": "Conferir a calibragem dos pneus com precisão sem depender do calibrador do posto",
+      "palavras_chave": [
+        "medidor de pressão tramontina é bom",
+        "medidor digital tramontina review",
+        "calibrador digital de pneus",
+        "como medir pressão do pneu",
+        "medidor de pneu vale a pena"
+      ],
+      "produtos_candidatos": [
+        "Tramontina Medidor Digital de Pressão para Pneus"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-review-022",
+      "tipo": "review",
+      "categoria": "automotivo",
+      "subcategoria": "limpeza-e-estetica",
+      "funil": "meio",
+      "titulo_sugerido": "Rejuvex Black Vonixx funciona? Review do revitalizador de plásticos externos em 2026",
+      "problema": "Recuperar plásticos externos desbotados do carro sem trocar a peça",
+      "palavras_chave": [
+        "rejuvex black vonixx funciona",
+        "rejuvex black review",
+        "revitalizador de plásticos",
+        "como recuperar plástico desbotado do carro",
+        "vonixx rejuvex vale a pena"
+      ],
+      "produtos_candidatos": [
+        "Vonixx Rejuvex Black Revitalizador de Plásticos Pretos 400g"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-review-023",
+      "tipo": "review",
+      "categoria": "automotivo",
+      "subcategoria": "limpeza-e-estetica",
+      "funil": "topo",
+      "titulo_sugerido": "Vonixx Sintra Fast é bom? Review completo do limpador multiuso para carro em 2026",
+      "problema": "Limpar painel, bancos e portas com um único produto, sem estragar o acabamento",
+      "palavras_chave": [
+        "vonixx sintra fast é bom",
+        "sintra fast review",
+        "sintra fast vale a pena",
+        "limpador multiuso automotivo",
+        "como limpar interior do carro"
+      ],
+      "produtos_candidatos": [
+        "Vonixx Sintra Fast 500 ml"
+      ],
+      "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-comparativo-019",
+      "tipo": "comparativo",
+      "categoria": "automotivo",
+      "subcategoria": "eletronicos-automotivos",
+      "funil": "fundo",
+      "titulo_sugerido": "Black+Decker BDCV370 ou BDCV610: qual aspirador de carro vale mais a pena?",
+      "problema": "Escolher entre dois aspiradores 12V da mesma marca pensando em capacidade e uso no dia a dia",
+      "palavras_chave": [
+        "bdcv370 ou bdcv610",
+        "black+decker bdcv370 vs bdcv610",
+        "aspirador black+decker para carro",
+        "melhor aspirador 12v para carro",
+        "bdcv610 é bom"
+      ],
+      "produtos_candidatos": [
+        "Black+Decker BDCV370",
+        "Black+Decker BDCV610"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-comparativo-020",
+      "tipo": "comparativo",
+      "categoria": "automotivo",
+      "subcategoria": "limpeza-e-estetica",
+      "funil": "fundo",
+      "titulo_sugerido": "Kärcher K3 Force Car ou Black+Decker BEPW1750: qual lavadora vale mais a pena?",
+      "problema": "Decidir qual lavadora de alta pressão compensa para lavar o carro em casa",
+      "palavras_chave": [
+        "kärcher k3 force car ou black+decker bepw1750",
+        "kärcher vs black+decker lavadora",
+        "lavadora de alta pressão custo-benefício",
+        "melhor lavadora para lavar carro",
+        "bepw1750 é boa"
+      ],
+      "produtos_candidatos": [
+        "Kärcher K3 Force Car",
+        "Black+Decker BEPW1750"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-comparativo-021",
+      "tipo": "comparativo",
+      "categoria": "automotivo",
+      "subcategoria": "limpeza-e-estetica",
+      "funil": "meio",
+      "titulo_sugerido": "Meguiar's Endurance ou Vonixx Pretinho: qual pretinho de pneu vale mais a pena?",
+      "problema": "Deixar os pneus bonitos por mais tempo sem gastar à toa com o produto errado",
+      "palavras_chave": [
+        "meguiar's endurance ou vonixx pretinho",
+        "pretinho vonixx é bom",
+        "meguiar's endurance vale a pena",
+        "melhor pretinho para pneu",
+        "brilho de pneu qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Meguiar's Endurance Brilha Pneu 473 ml",
+        "Vonixx Pneu Pretinho 500 ml"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-review-015",
+      "tipo": "review",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "relogios-e-oculos",
+      "funil": "fundo",
+      "titulo_sugerido": "Relógio Timex Weekender é bom? Review completo: vale a pena em 2026?",
+      "problema": "Querer um relógio analógico discreto e barato para o dia a dia sem cair em modelo genérico",
+      "palavras_chave": [
+        "timex weekender é bom",
+        "timex weekender review",
+        "timex weekender vale a pena",
+        "relógio timex weekender 40mm",
+        "relógio analógico barato e bonito"
+      ],
+      "produtos_candidatos": [
+        "Timex Weekender 40 mm"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-review-016",
+      "tipo": "review",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "tenis-e-calcados",
+      "funil": "fundo",
+      "titulo_sugerido": "Tênis Puma Softride Symmetry Fuzion é bom? Review completo: vale a pena em 2026?",
+      "problema": "Escolher um tênis de corrida neutro com bom amortecimento sem errar na compra",
+      "palavras_chave": [
+        "puma softride symmetry fuzion é bom",
+        "puma softride symmetry fuzion review",
+        "softride symmetry vale a pena",
+        "tênis puma para corrida",
+        "tênis puma masculino confortável"
+      ],
+      "produtos_candidatos": [
+        "Puma Softride Symmetry Fuzion"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-review-017",
+      "tipo": "review",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "relogios-e-oculos",
+      "funil": "meio",
+      "titulo_sugerido": "Casio Edifice EFR-526 é bom? Review completo: vale a pena em 2026?",
+      "problema": "Procurar um relógio com cronógrafo e visual esportivo-elegante sem pagar preço de marca de luxo",
+      "palavras_chave": [
+        "casio edifice efr-526 é bom",
+        "edifice efr-526 review",
+        "casio edifice vale a pena",
+        "relógio casio edifice cronógrafo",
+        "relógio esportivo social masculino"
+      ],
+      "produtos_candidatos": [
+        "Casio Edifice EFR-526"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-review-018",
+      "tipo": "review",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "tenis-e-calcados",
+      "funil": "fundo",
+      "titulo_sugerido": "Tênis Adidas Runfalcon 5 é bom? Review completo: vale a pena em 2026?",
+      "problema": "Comprar um tênis de entrada da Adidas para caminhar e treinar leve sem se arrepender",
+      "palavras_chave": [
+        "adidas runfalcon 5 é bom",
+        "adidas runfalcon 5 review",
+        "runfalcon 5 vale a pena",
+        "tênis adidas barato para corrida",
+        "tênis adidas masculino confortável"
+      ],
+      "produtos_candidatos": [
+        "Adidas Runfalcon 5"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-review-019",
+      "tipo": "review",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "tenis-e-calcados",
+      "funil": "topo",
+      "titulo_sugerido": "Tênis Nike Downshifter 13 é bom? Review completo: vale a pena em 2026?",
+      "problema": "Saber se um tênis de corrida de entrada da Nike serve para quem está começando a treinar",
+      "palavras_chave": [
+        "nike downshifter 13 é bom",
+        "nike downshifter 13 review",
+        "downshifter 13 vale a pena",
+        "tênis nike para iniciantes na corrida",
+        "tênis nike corrida masculino"
+      ],
+      "produtos_candidatos": [
+        "Nike Downshifter 13"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-comparativo-015",
+      "tipo": "comparativo",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "mochilas-e-bolsas",
+      "funil": "fundo",
+      "titulo_sugerido": "Targus Intellect Plus ou Targus Intellect: qual mochila para notebook vale mais a pena?",
+      "problema": "Decidir qual mochila Targus protege melhor o notebook sem pagar por espaço que não vai usar",
+      "palavras_chave": [
+        "targus intellect plus ou intellect",
+        "mochila targus intellect plus é boa",
+        "mochila targus tsb967",
+        "mochila targus notebook 15.6",
+        "melhor mochila para notebook"
+      ],
+      "produtos_candidatos": [
+        "Targus Intellect Plus TSB967",
+        "Targus Intellect TBB565"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-comparativo-016",
+      "tipo": "comparativo",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "relogios-e-oculos",
+      "funil": "fundo",
+      "titulo_sugerido": "Casio MTP-1183 ou Timex Weekender: qual relógio analógico vale mais a pena?",
+      "problema": "Escolher entre um relógio social japonês e um clássico casual americano pensando em uso diário",
+      "palavras_chave": [
+        "casio mtp-1183 ou timex weekender",
+        "casio mtp-1183 é bom",
+        "timex weekender vs casio",
+        "melhor relógio analógico barato",
+        "relógio social masculino custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Casio MTP-1183",
+        "Timex Weekender T2N651"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-comparativo-017",
+      "tipo": "comparativo",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "tenis-e-calcados",
+      "funil": "fundo",
+      "titulo_sugerido": "Nike Downshifter 13 ou Adidas Runfalcon 5: qual tênis de entrada vale mais a pena?",
+      "problema": "Escolher entre dois tênis populares de corrida de entrada sem pagar por tecnologia que não vai usar",
+      "palavras_chave": [
+        "nike downshifter 13 ou adidas runfalcon 5",
+        "downshifter vs runfalcon",
+        "melhor tênis de corrida de entrada",
+        "tênis nike ou adidas qual escolher",
+        "tênis para começar a correr"
+      ],
+      "produtos_candidatos": [
+        "Nike Downshifter 13",
+        "Adidas Runfalcon 5"
+      ],
+      "prioridade": 1,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-comparativo-018",
+      "tipo": "comparativo",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "tenis-e-calcados",
+      "funil": "meio",
+      "titulo_sugerido": "Havaianas Brasil Logo ou Rider R1: qual chinelo vale mais a pena?",
+      "problema": "Escolher um chinelo de dedo para o dia a dia pensando em conforto e durabilidade",
+      "palavras_chave": [
+        "havaianas brasil logo ou rider r1",
+        "chinelo havaianas ou rider",
+        "rider r1 é bom",
+        "havaianas brasil logo vale a pena",
+        "melhor chinelo de dedo"
+      ],
+      "produtos_candidatos": [
+        "Havaianas Brasil Logo",
+        "Rider R1"
+      ],
+      "prioridade": 2,
       "sazonal": null,
       "status": "pending"
     }
