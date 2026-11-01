@@ -11838,7 +11838,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "soundcore-p20i-e-bom",
+      "published_at": "2026-11-01"
     },
     {
       "id": "tecnologia-review-023",
@@ -11972,7 +11974,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "tecnologia-comparativo-022",
@@ -12422,7 +12424,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mondial-afn-60-ou-afn-80",
+      "published_at": "2026-11-01"
     },
     {
       "id": "cozinha-comparativo-021",
@@ -12940,7 +12944,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "pets-review-021",
@@ -13276,7 +13280,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "garmin-forerunner-165-ou-vivoactive-5",
+      "published_at": "2026-11-01"
     },
     {
       "id": "esportes-e-lazer-comparativo-021",
@@ -13366,7 +13372,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "epson-ecotank-l4360-e-boa",
+      "published_at": "2026-11-01"
     },
     {
       "id": "escritorio-e-estudos-review-022",
