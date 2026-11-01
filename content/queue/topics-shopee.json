@@ -1048,7 +1048,7 @@
       ],
       "prioridade": 2,
       "sazonal": "verao",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-s003",
@@ -2708,7 +2708,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "logitech-m190-ou-m280",
+      "published_at": "2026-11-01"
     },
     {
       "id": "tecnologia-comparativo-s010",
@@ -2828,7 +2830,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "casa-e-jardim-review-s010",
@@ -2851,7 +2853,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "intelbras-espi-360-a-e-bom",
+      "published_at": "2026-11-01"
     },
     {
       "id": "casa-e-jardim-comparativo-s006",
@@ -2977,7 +2981,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "britania-bas1295p-ou-philco-pas4000v",
+      "published_at": "2026-11-01"
     },
     {
       "id": "cozinha-review-s006",
@@ -3050,7 +3056,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "chaleira-eletrica-britania-bch12i-e-boa",
+      "published_at": "2026-11-01"
     },
     {
       "id": "cozinha-review-s009",
@@ -3098,7 +3106,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "cozinha-comparativo-s006",
