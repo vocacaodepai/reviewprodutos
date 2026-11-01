@@ -102,13 +102,16 @@ produtos:
       "Garantia": "Legal de 90 dias"
     faixaPreco: "$"
     precoMercado:
-      min: 180
-      max: 210
-      referencia: "2026-10"
+      min: 160
+      max: 200
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 180, max: 210 }
+      tendencia: caindo
       fontes:
         - { nome: "Santa Apolônia — Almofada para Cóccix Theva Copespuma", url: "https://www.santaapolonia.com.br/produtos/almofada-para-coccix-theva-viscoelastica-copespuma-2587000" }
         - { nome: "Saúde Store — Almofada Anatômica Viscoelástico Cóccix", url: "https://www.saudestore.com.br/almofada-anatomica-viscoelastico-coccix-saude-store" }
-        - { nome: "Magazine Luiza — Almofada Cóccix Viscoelástico Theva", url: "https://www.magazineluiza.com.br/almofada-coccix-viscoelastico-theva-copespuma/p/hkk9aack4h/cm/alcm/" }
+        - { nome: "Pague Menos — Almofada Cóccix Viscoelástica Theva", url: "https://www.paguemenos.com.br/almofada-coccix-viscoelastica-theva-v1698436m70833h0/p" }
     idealPara: "Quem sente dor no cóccix, no quadril ou formigamento na perna e tem banco que afunda para trás"
     naoIndicadoPara: "Motoristas altos em carros com pouco espaço para a cabeça"
     notasCriterios:

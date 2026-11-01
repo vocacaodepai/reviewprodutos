@@ -398,7 +398,7 @@ fontes:
 testadoFisicamente: false
 rascunho: true
 destaque: false
-relacionados: ["robo-aspirador-wap-robot-w100-vale-a-pena", "melhor-ventilador-de-coluna"]
+relacionados: ["melhor-ventilador-de-coluna"]
 ---
 
 ## Resposta rápida

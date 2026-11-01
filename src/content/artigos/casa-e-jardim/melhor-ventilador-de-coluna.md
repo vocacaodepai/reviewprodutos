@@ -406,7 +406,7 @@ fontes:
 testadoFisicamente: false
 rascunho: false
 destaque: false
-relacionados: ["calor-para-dormir-refrescar-quarto-sem-ar-condicionado", "robo-aspirador-wap-robot-w100-vale-a-pena"]
+relacionados: ["calor-para-dormir-refrescar-quarto-sem-ar-condicionado"]
 ---
 
 ## Resposta rápida

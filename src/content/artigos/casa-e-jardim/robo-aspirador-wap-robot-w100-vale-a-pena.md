@@ -126,7 +126,7 @@ fontes:
   - nome: "Amazon.com.br — Ficha técnica do fabricante (WAP Robot W100)"
     url: "https://www.amazon.com.br/dp/B0849PHXW1"
 testadoFisicamente: false
-rascunho: false
+rascunho: true
 destaque: false
 relacionados: []
 ---
