@@ -55,12 +55,15 @@ produtos:
       "Garantia": "Garantia legal de 90 dias; confirme prazo contratual com a Duoflex"
     faixaPreco: "$$"
     precoMercado:
-      min: 170
+      min: 150
       max: 190
-      referencia: "2026-10"
+      referencia: "2026-11"
+      tendencia: "caindo"
+      historico:
+        - { periodo: "2026-10", min: 170, max: 190 }
       fontes:
-        - { nome: "Buscapé — Duoflex NN2100", url: "https://www.buscape.com.br/travesseiro/travesseiro-nasa-cervical-ortopedico-p-dormir-de-lado-e-costas-duoflex-nn2100" }
-        - { nome: "Zoom — Duoflex NN2100", url: "https://www.zoom.com.br/travesseiro/travesseiro-nasa-cervical-ortopedico-p-dormir-de-lado-e-costas-duoflex-nn2100" }
+        - { nome: "Buscapé — Duoflex NN2100 (oferta da Magazine Luiza)", url: "https://www.buscape.com.br/travesseiro/travesseiro-nasa-cervical-ortopedico-p-dormir-de-lado-e-costas-duoflex-nn2100" }
+        - { nome: "Cirúrgica Lucena — Duoflex NN2100", url: "https://www.cirurgicalucena.com.br/prod,idproduto,8767135,colchoes-e-travesseiros-travesseiro-nasa-cervical-nn2100-duoflex---loja" }
     idealPara: "Quem dorme de costas ou de lado e quer apoio firme e constante na curva do pescoço"
     naoIndicadoPara: "Quem dorme de bruços, sente muito calor à noite ou prefere travesseiro fofo"
     notasCriterios:
