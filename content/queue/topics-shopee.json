@@ -1912,7 +1912,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "schulz-csi-6-6-e-bom",
+      "published_at": "2026-11-01"
     },
     {
       "id": "automotivo-comparativo-s001",
@@ -2085,7 +2087,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "brother-hl-l1232w-vale-a-pena",
+      "published_at": "2026-11-01"
     },
     {
       "id": "escritorio-e-estudos-review-s004",
@@ -2734,7 +2738,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped",
+      "published_slug": "positivo-smart-plug-10a-ou-max-16a",
+      "published_at": "2026-11-01"
     },
     {
       "id": "casa-e-jardim-review-s006",
@@ -2957,7 +2963,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mondial-cl-03-ou-cl-7l-climatizador",
+      "published_at": "2026-11-01"
     },
     {
       "id": "casa-e-jardim-comparativo-s010",
@@ -3539,7 +3547,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-s009",
@@ -4115,7 +4123,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "magnus-todo-dia-ou-premier-formula-racas-pequenas",
+      "published_at": "2026-11-01"
     },
     {
       "id": "pets-comparativo-s007",
