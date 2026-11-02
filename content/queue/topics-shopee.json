@@ -2189,7 +2189,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "escritorio-e-estudos-comparativo-s003",
@@ -3216,7 +3216,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "philco-pch20a-ou-britania-bche01",
+      "published_at": "2026-11-02"
     },
     {
       "id": "cozinha-comparativo-s010",
@@ -3595,7 +3597,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "skala-frutastica-melancia-e-bom",
+      "published_at": "2026-11-02"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-s005",
@@ -3933,7 +3937,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "jenga-ou-uno-jogo-para-animar-a-familia",
+      "published_at": "2026-11-02"
     },
     {
       "id": "bebes-e-criancas-comparativo-s009",
@@ -4153,7 +4159,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "viva-verde-ou-kadi-areia-biodegradavel-gatos",
+      "published_at": "2026-11-02"
     },
     {
       "id": "pets-comparativo-s008",
@@ -4437,7 +4445,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "automotivo-review-s005",
@@ -4481,7 +4489,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "automotivo-review-s007",
@@ -4651,7 +4659,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "hp-smart-tank-584-e-boa",
+      "published_at": "2026-11-02"
     },
     {
       "id": "escritorio-e-estudos-review-s009",
