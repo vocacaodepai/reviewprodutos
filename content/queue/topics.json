@@ -12024,7 +12024,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "redragon-cobra-v3-ou-logitech-g203",
+      "published_at": "2026-11-02"
     },
     {
       "id": "tecnologia-comparativo-024",
@@ -12507,7 +12509,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mondial-air-fryer-forno-12l-ou-dual-8l",
+      "published_at": "2026-11-02"
     },
     {
       "id": "saude-e-bem-estar-review-018",
@@ -13002,7 +13006,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "pedigree-dentastix-racas-medias-e-bom",
+      "published_at": "2026-11-02"
     },
     {
       "id": "pets-review-023",
@@ -13186,7 +13192,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "huawei-band-10-e-boa",
+      "published_at": "2026-11-02"
     },
     {
       "id": "esportes-e-lazer-review-021",
@@ -13416,7 +13424,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "dell-p2425h-e-bom",
+      "published_at": "2026-11-02"
     },
     {
       "id": "escritorio-e-estudos-review-023",

@@ -66,18 +66,19 @@ produtos:
       "Garantia": "12 meses (Samsung Brasil)"
     faixaPreco: "$$"
     precoMercado:
-      min: 1900
-      max: 2450
-      referencia: "2026-10"
+      min: 2000
+      max: 2570
+      referencia: "2026-11"
+      tendencia: estavel
       historico:
         - { periodo: "2025-10", min: 1800, max: 1800 }
-      observacao: "Faixa da versão 128 GB. A de 256 GB aparece entre R$ 2.300 e R$ 2.350 em grandes lojas, às vezes perto da de 128 GB. Compare com o Galaxy A57."
+        - { periodo: "2026-10", min: 1900, max: 2450 }
+      observacao: "Faixa da versão 128 GB, com a parte baixa em marketplaces e a alta em grande varejista. A versão de 256 GB custa mais. Compare com o Galaxy A57."
       fontes:
         - { nome: "Zoom — Galaxy A56 5G 128GB", url: "https://www.zoom.com.br/celular/celular-samsung-galaxy-a56-5g-128gb-8-gb" }
         - { nome: "Buscapé — Galaxy A56 5G 128GB", url: "https://www.buscape.com.br/celular/celular-samsung-galaxy-a56-5g-128gb-8-gb" }
         - { nome: "Buscapé — Galaxy A56 5G 256GB", url: "https://www.buscape.com.br/celular/celular-samsung-galaxy-a56-5g-256gb-8-gb" }
         - { nome: "Oficina da Net — preços do Galaxy A56", url: "https://www.oficinadanet.com.br/smartphones/samsung-galaxy-a56/precos" }
-        - { nome: "Buscapé — Galaxy A56 na Black Friday (out/2025)", url: "https://www.buscape.com.br/celular/conteudo/galaxy-a56-na-black-friday" }
     idealPara: "Quem quer um Samsung intermediário para usar 4 anos ou mais, com tela boa, resistência à água e atualizações garantidas"
     naoIndicadoPara: "Quem joga títulos pesados, quer carregador rápido na caixa ou encontra o Galaxy A57 pelo mesmo preço"
     notasCriterios:
