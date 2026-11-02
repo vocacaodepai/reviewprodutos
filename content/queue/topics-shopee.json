@@ -1025,7 +1025,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "principia-vc-10-e-bom",
+      "published_at": "2026-11-02"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-s002",
@@ -2336,7 +2338,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mormaii-urban-free-skate-e-bom",
+      "published_at": "2026-11-02"
     },
     {
       "id": "moda-e-acessorios-review-s004",
@@ -4189,7 +4193,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "biofresh-ou-nd-prime-gatos-castrados",
+      "published_at": "2026-11-02"
     },
     {
       "id": "pets-comparativo-s009",
@@ -4427,7 +4433,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mizuno-cool-ride-3-ou-asics-gel-excite-11",
+      "published_at": "2026-11-02"
     },
     {
       "id": "esportes-e-lazer-comparativo-s009",
@@ -4765,7 +4773,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "redragon-sindri-k671-ou-lakshmi-k606r",
+      "published_at": "2026-11-02"
     },
     {
       "id": "escritorio-e-estudos-comparativo-s009",
