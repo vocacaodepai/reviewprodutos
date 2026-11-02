@@ -12199,7 +12199,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "electrolux-stk12-ou-stk14",
+      "published_at": "2026-11-02"
     },
     {
       "id": "casa-e-jardim-comparativo-021",
@@ -12290,7 +12292,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "air-fryer-mondial-dual-afd-01-bi-e-boa",
+      "published_at": "2026-11-02"
     },
     {
       "id": "cozinha-review-023",
@@ -12741,7 +12745,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "elseve-hidra-hialuronico-shampoo-e-bom",
+      "published_at": "2026-11-02"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-023",
@@ -13055,7 +13061,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "cat-chow-ou-whiskas-castrados-10-kg",
+      "published_at": "2026-11-02"
     },
     {
       "id": "pets-comparativo-021",
@@ -13190,7 +13198,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mizuno-wave-rider-27-e-bom",
+      "published_at": "2026-11-02"
     },
     {
       "id": "esportes-e-lazer-review-022",

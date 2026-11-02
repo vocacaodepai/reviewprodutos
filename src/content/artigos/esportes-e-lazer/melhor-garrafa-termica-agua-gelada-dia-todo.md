@@ -57,12 +57,14 @@ produtos:
       "Garantia": "Vitalícia (revendedores autorizados; não cobre amassados)"
     faixaPreco: "$$$"
     precoMercado:
-      min: 200
-      max: 300
-      referencia: "2026-10"
+      min: 190
+      max: 330
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 200, max: 300 }
+      tendencia: estavel
       observacao: "O preço muda conforme a cor, e algumas lojas estavam sem estoque na consulta."
       fontes:
-        - { nome: "Mercado Livre — Stanley Flip Straw", url: "https://lista.mercadolivre.com.br/stanley-flip-straw" }
         - { nome: "Empório da Garrafa — Stanley Flip Straw 887 ml", url: "https://emporiodagarrafa.com.br/products/tumbler-termico-flip-straw-stanley-887ml" }
         - { nome: "Ciclone Magazine — Stanley Flip Straw 887 ml", url: "https://www.ciclonemagazine.com/tumbler-termico-stanley-flip-straw-887ml-cores-variadas" }
     idealPara: "Treino, trânsito e escritório: quem bebe o dia todo e quer abrir com uma mão"
@@ -160,13 +162,15 @@ produtos:
       "Garantia": "Vitalícia (revendedores autorizados; não cobre amassados)"
     faixaPreco: "$$$"
     precoMercado:
-      min: 290
-      max: 350
-      referencia: "2026-10"
+      min: 350
+      max: 370
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 290, max: 350 }
+      tendencia: subindo
       fontes:
         - { nome: "Stanley 1913 — loja oficial, Classic Hammertone Green 0,95 L", url: "https://www.stanley1913.com.br/products/garrafa-termica-classic-hammertone-green-0-95l" }
-        - { nome: "Mercado Livre — Stanley Classic 950 ml Hammertone Green", url: "https://www.mercadolivre.com.br/garrafa-termica-stanley-classic-950-ml-de-aco-inoxidavel-hammertone-green/p/MLB15543619" }
-        - { nome: "Sulpec — Stanley Classic 950 ml Hammertone Green", url: "https://www.sulpec.com/garrafa-termica-classic-950ml-stanley-hammertone-green" }
+        - { nome: "Buscapé — Stanley Classic 0,95 L Hammertone Green (oferta da Magazine Luiza)", url: "https://www.buscape.com.br/busca/stanley+classic+950ml+hammertone+green" }
     idealPara: "Trabalho de campo, trilha, acampamento e quem alterna água gelada e café"
     naoIndicadoPara: "Quem quer beber com uma mão no treino ou no carro"
     notasCriterios:

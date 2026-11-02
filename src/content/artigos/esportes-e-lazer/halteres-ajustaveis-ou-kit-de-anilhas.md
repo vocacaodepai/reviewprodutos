@@ -58,13 +58,15 @@ produtos:
       "Garantia": "Não informada (90 dias legais)"
     faixaPreco: "$$$"
     precoMercado:
-      min: 2000
+      min: 2300
       max: 2500
-      referencia: "2026-10"
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 2000, max: 2500 }
+      tendencia: estavel
       fontes:
-        - { nome: "Yangfit — loja oficial (Kit Halter Ajustável 50 kg)", url: "https://www.yangfit.com.br/halter-anilha-barra-kettlebell-kit-50kg-ajuste-rapido-yangfit" }
         - { nome: "Decathlon — Halter Ajustável Yangfit 50 kg", url: "https://www.decathlon.com.br/halter-ajustavel-com-barra-anilha-kettlebell-yangfit---50kg-2145817511/p" }
-        - { nome: "Centauro — Halter Ajustável Yangfit 50 kg", url: "https://www.centauro.com.br/halter-ajustavel-com-barra-anilha-kettlebell-yangfit-50kg-m174p8-mktp.html" }
+        - { nome: "Buscapé — Halter Ajustável Yangfit 50 kg (oferta da Magazine Luiza)", url: "https://www.buscape.com.br/busca/halter+ajustavel+yangfit+50kg" }
     idealPara: "Quem treina força em apartamento, quer progredir até 24 kg por mão e detesta trocar anilha"
     naoIndicadoPara: "Quem faz exercícios que exigem soltar o peso no chão ou quer gastar o mínimo"
     notasCriterios:
