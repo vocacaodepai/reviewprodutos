@@ -65,12 +65,15 @@ produtos:
       "Garantia": "12 meses"
     faixaPreco: "$"
     precoMercado:
-      min: 300
-      max: 470
-      referencia: "2026-10"
-      observacao: "Faixa da versão preta com inox; kits e anúncios de marketplace muito acima da faixa foram desconsiderados."
+      min: 490
+      max: 570
+      referencia: "2026-11"
+      tendencia: subindo
+      observacao: "Faixa da versão preta com inox nas lojas Magazine Luiza e Webcontinental; anúncios de marketplace muito fora da faixa foram desconsiderados."
+      historico:
+        - { periodo: "2026-10", min: 300, max: 470 }
       fontes:
-        - { nome: "Zoom — Mondial Grand Family AFN-50-BI (comparação de lojas)", url: "https://www.zoom.com.br/fritadeira/fritadeira-eletrica-sem-oleo-mondial-grand-family-inox-af-50-capacidade-total-5l-timer-com-desligamento-automatico" }
+        - { nome: "Zoom — ofertas da Mondial AFN-50-BI", url: "https://www.zoom.com.br/busca/air+fryer+mondial+afn-50-bi" }
         - { nome: "Buscapé — ofertas da Mondial AFN-50-BI", url: "https://www.buscape.com.br/busca/air%20fryer%20mondial%20afn-50-bi" }
     idealPara: "Famílias de 3 a 5 pessoas que usam a air fryer para batata, empanados, carnes em pedaços e pão de queijo"
     naoIndicadoPara: "Quem quer assar frango inteiro, cozinhar em dois níveis ou substituir o forno do fogão"
@@ -124,11 +127,13 @@ produtos:
       "Garantia": "12 meses (3 legais + 9 da Electrolux)"
     faixaPreco: "$$$"
     precoMercado:
-      min: 520
-      max: 800
-      referencia: "2026-10"
-      tendencia: estavel
+      min: 490
+      max: 750
+      referencia: "2026-11"
+      tendencia: caindo
       observacao: "Inclui a variante vermelha (EAF86), que às vezes sai por menos; comparadores indicam preço próximo da média dos últimos 40 dias."
+      historico:
+        - { periodo: "2026-10", min: 520, max: 800 }
       fontes:
         - { nome: "Buscapé — Electrolux EAF90 (ofertas e média de preço)", url: "https://www.buscape.com.br/fritadeira/fritadeira-eletrica-sem-oleo-electrolux-eaf90-3-5l-painel-digital" }
         - { nome: "Zoom — Electrolux EAF90 (comparação de lojas)", url: "https://www.zoom.com.br/fritadeira/fritadeira-eletrica-sem-oleo-electrolux-eaf90-3-5l-painel-digital" }
