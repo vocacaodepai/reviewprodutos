@@ -58,9 +58,11 @@ produtos:
     precoMercado:
       min: 120
       max: 170
-      referencia: "2026-10"
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 120, max: 170 }
+      tendencia: estavel
       fontes:
-        - { nome: "Drogasil — Tapete Higiênico Chalesco 50 unidades 60 x 90 cm", url: "https://www.drogasil.com.br/tapete-higienico-chalesco-c-50-unidades-60cm-x-90cm-1313610.html" }
         - { nome: "Drogaria São Paulo — Tapete Higiênico Chalesco 50 unidades", url: "https://www.drogariasaopaulo.com.br/tapete-higienico-para-caes-chalesco-c-50-unidades-178956c213006yd6/p" }
         - { nome: "Buscapé — Tapete Higiênico Chalesco 50 unidades", url: "https://www.buscape.com.br/higiene-perfumaria-caes-gatos/tapete-higienico-chalesco-para-caes-com-50-unidades" }
     idealPara: "Filhotes em adestramento, cães médios e grandes, tutores que passam o dia fora"
