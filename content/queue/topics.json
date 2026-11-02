@@ -5240,7 +5240,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "bebes-e-criancas-review-007",
@@ -8001,7 +8001,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "saude-e-bem-estar-comparativo-013",
@@ -11541,7 +11541,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "ls2-ff353-ou-norisk-ff302",
+      "published_at": "2026-11-02"
     },
     {
       "id": "saude-e-bem-estar-review-016",
@@ -11951,7 +11953,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "soundcore-p20i-ou-redmi-buds-6-play",
+      "published_at": "2026-11-02"
     },
     {
       "id": "tecnologia-comparativo-021",
@@ -12065,7 +12069,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "lampada-philips-ledbulb-9w-e-boa",
+      "published_at": "2026-11-02"
     },
     {
       "id": "casa-e-jardim-review-022",
@@ -12360,7 +12366,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "chaleira-philips-walita-serie-3000-e-boa",
+      "published_at": "2026-11-02"
     },
     {
       "id": "cozinha-review-026",
@@ -12836,7 +12844,7 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-020",
@@ -13109,7 +13117,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "furacao-pet-luxo-ou-joy-n2",
+      "published_at": "2026-11-02"
     },
     {
       "id": "pets-comparativo-024",
