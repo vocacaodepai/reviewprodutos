@@ -55,13 +55,16 @@ produtos:
       "Garantia": "12 meses"
     faixaPreco: "$$"
     precoMercado:
-      min: 550
+      min: 640
       max: 710
-      referencia: "2026-10"
+      referencia: "2026-11"
+      tendencia: subindo
+      historico:
+        - { periodo: "2026-10", min: 550, max: 710 }
       observacao: "A faixa varia conforme a voltagem e a loja; confira a versão exata (127V ou 220V)."
       fontes:
-        - { nome: "Buscapé — ofertas do micro-ondas LG 30 litros MS3091BC", url: "https://www.buscape.com.br/microondas/micro-ondas-lg-30-litros-ms3091bc" }
         - { nome: "Zoom — ofertas do micro-ondas LG 30 litros MS3091BC", url: "https://www.zoom.com.br/microondas/micro-ondas-lg-30-litros-ms3091bc" }
+        - { nome: "Buscapé — ofertas do micro-ondas LG 30 litros MS3091BC", url: "https://www.buscape.com.br/microondas/micro-ondas-lg-30-litros-ms3091bc" }
     idealPara: "Famílias de 3 a 5 pessoas que querem um 30 litros simples, eficiente e fácil de limpar"
     naoIndicadoPara: "Quem precisa de grill ou tem bancada pequena"
     notasCriterios:
@@ -108,9 +111,13 @@ produtos:
     precoMercado:
       min: 700
       max: 800
-      referencia: "2026-10"
+      referencia: "2026-11"
+      tendencia: estavel
+      historico:
+        - { periodo: "2026-10", min: 700, max: 800 }
       fontes:
         - { nome: "Buscapé — ofertas do micro-ondas Electrolux 31 litros MI41S", url: "https://www.buscape.com.br/microondas/microondas-electrolux-31-litros-mi41s" }
+        - { nome: "Zoom — ofertas do micro-ondas Electrolux 31 litros MI41S", url: "https://www.zoom.com.br/microondas/microondas-electrolux-31-litros-mi41s" }
     idealPara: "Quem valoriza o visual e quer um 31 litros com Tira Odor e Manter Aquecido"
     naoIndicadoPara: "Quem quer o menor preço ou prefere botões simples e visíveis"
     notasCriterios:
@@ -153,11 +160,15 @@ produtos:
     faixaPreco: "$$"
     precoMercado:
       min: 640
-      max: 810
-      referencia: "2026-10"
+      max: 820
+      referencia: "2026-11"
+      tendencia: estavel
+      historico:
+        - { periodo: "2026-10", min: 640, max: 810 }
       observacao: "O CMS46AR aparece em mais de uma versão (110V e 220V) e com preços bem diferentes entre lojas."
       fontes:
         - { nome: "Zoom — ofertas do micro-ondas Consul CMS46AR 32 litros", url: "https://www.zoom.com.br/search?q=micro-ondas+consul+cms46ar" }
+        - { nome: "Buscapé — ofertas do micro-ondas Consul CMS46AR 32 litros", url: "https://www.buscape.com.br/search?q=micro-ondas+consul+cms46ar" }
     idealPara: "Famílias grandes que fazem pratos largos e querem a maior capacidade da lista"
     naoIndicadoPara: "Cozinhas pequenas e quem quer um aparelho leve"
     notasCriterios:
@@ -204,8 +215,11 @@ produtos:
     faixaPreco: "$"
     precoMercado:
       min: 440
-      max: 520
-      referencia: "2026-10"
+      max: 580
+      referencia: "2026-11"
+      tendencia: subindo
+      historico:
+        - { periodo: "2026-10", min: 440, max: 520 }
       observacao: "A versão 220V (NN-ST25LWRUK) costuma ter preço próprio, diferente do 127V."
       fontes:
         - { nome: "Buscapé — ofertas do micro-ondas Panasonic 21 litros NN-ST25LWRU", url: "https://www.buscape.com.br/microondas/micro-ondas-panasonic-21-litros-nn-st25l" }
@@ -255,10 +269,13 @@ produtos:
       "Garantia": "12 meses"
     faixaPreco: "$"
     precoMercado:
-      min: 550
-      max: 640
-      referencia: "2026-10"
-      observacao: "O preço oscila bastante entre semanas; o Zoom indicava preço acima do normal dos últimos 40 dias."
+      min: 450
+      max: 570
+      referencia: "2026-11"
+      tendencia: caindo
+      historico:
+        - { periodo: "2026-10", min: 550, max: 640 }
+      observacao: "A faixa varia conforme a voltagem e a loja; confira a versão exata (127V ou 220V)."
       fontes:
         - { nome: "Buscapé — ofertas do micro-ondas Philco 20 litros PMO23EB", url: "https://www.buscape.com.br/microondas/micro-ondas-philco-20-litros-pmo23eb" }
         - { nome: "Zoom — ofertas do micro-ondas Philco 20 litros PMO23EB", url: "https://www.zoom.com.br/microondas/micro-ondas-philco-20-litros-pmo23eb" }

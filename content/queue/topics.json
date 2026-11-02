@@ -11930,7 +11930,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "anker-power-bank-10000-30w-e-bom",
+      "published_at": "2026-11-02"
     },
     {
       "id": "tecnologia-comparativo-020",
@@ -12278,7 +12280,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "dustbuster-hhvi320-ou-quickclean",
+      "published_at": "2026-11-02"
     },
     {
       "id": "cozinha-review-022",
@@ -13030,7 +13034,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "dog-chow-extralife-racas-medias-e-grandes-e-bom",
+      "published_at": "2026-11-02"
     },
     {
       "id": "pets-review-024",
@@ -13562,7 +13568,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "logitech-m280-ou-m330-silent",
+      "published_at": "2026-11-02"
     },
     {
       "id": "automotivo-review-019",
@@ -13920,7 +13928,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "nike-downshifter-13-ou-adidas-runfalcon-5",
+      "published_at": "2026-11-02"
     },
     {
       "id": "moda-e-acessorios-comparativo-018",

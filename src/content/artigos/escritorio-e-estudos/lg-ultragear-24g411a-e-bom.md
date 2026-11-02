@@ -63,9 +63,12 @@ produtos:
     voltagem: "Bivolt"
     faixaPreco: "$$"
     precoMercado:
-      min: 700
-      max: 790
-      referencia: "2026-10"
+      min: 610
+      max: 830
+      referencia: "2026-11"
+      tendencia: caindo
+      historico:
+        - { periodo: "2026-10", min: 700, max: 790 }
       observacao: "Anúncios de vendedores terceiros chegam a valores bem maiores; compare lojas e confira se o anúncio é de loja oficial."
       fontes:
         - { nome: "Zoom — LG UltraGear 24G411A-B (comparação de lojas)", url: "https://www.zoom.com.br/busca/monitor+lg+ultragear%E2%84%A2+24g411a-b" }
