@@ -3240,7 +3240,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "electrolux-ecm20-ou-britania-cp28",
+      "published_at": "2026-11-02"
     },
     {
       "id": "saude-e-bem-estar-review-s006",
@@ -4073,7 +4075,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "golden-formula-gatos-filhotes-e-boa",
+      "published_at": "2026-11-02"
     },
     {
       "id": "pets-comparativo-s005",
@@ -4309,7 +4313,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "nautika-cherokee-gt-barraca-e-boa",
+      "published_at": "2026-11-02"
     },
     {
       "id": "esportes-e-lazer-comparativo-s005",
@@ -4497,7 +4503,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "wd-40-multiuso-300-ml-e-bom",
+      "published_at": "2026-11-02"
     },
     {
       "id": "automotivo-comparativo-s005",
@@ -4665,7 +4673,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "escritorio-e-estudos-comparativo-s006",
@@ -4715,7 +4723,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "logitech-brio-100-ou-brio-500",
+      "published_at": "2026-11-02"
     },
     {
       "id": "escritorio-e-estudos-comparativo-s008",
