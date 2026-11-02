@@ -66,8 +66,11 @@ produtos:
     faixaPreco: "$$"
     precoMercado:
       min: 480
-      max: 520
-      referencia: "2026-10"
+      max: 500
+      referencia: "2026-11"
+      tendencia: estavel
+      historico:
+        - { periodo: "2026-10", min: 480, max: 520 }
       observacao: "Faixa da versão de 127 V (110 V nas lojas) em Fast Shop e Magazine Luiza. A versão 220 V costuma custar um pouco menos. Confira a voltagem antes de comprar."
       fontes:
         - { nome: "Zoom — Kärcher K2 Plus 1.740 lb/pol²", url: "https://www.zoom.com.br/lavadora-alta-pressao-lava-jato/lavadora-de-alta-pressao-karcher-1-740-lb-pol-k2-plus" }

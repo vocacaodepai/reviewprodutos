@@ -96,9 +96,12 @@ produtos:
       "Garantia": "90 dias"
     faixaPreco: "$"
     precoMercado:
-      min: 80
-      max: 110
-      referencia: "2026-10"
+      min: 85
+      max: 105
+      referencia: "2026-11"
+      tendencia: estavel
+      historico:
+        - { periodo: "2026-10", min: 80, max: 110 }
       observacao: "A faixa varia conforme a cor (vermelha, grafite) e a loja; confira a cor e o tamanho exatos."
       fontes:
         - { nome: "Buscapé — ofertas da Tramontina Loreto Funda 24 cm 2,2 L", url: "https://www.buscape.com.br/search?q=frigideira+funda+tramontina+loreto+24+cm+2%2C2+l" }
@@ -144,9 +147,12 @@ produtos:
       "Garantia": "Não informada na ficha consultada"
     faixaPreco: "$$"
     precoMercado:
-      min: 140
-      max: 170
-      referencia: "2026-10"
+      min: 130
+      max: 160
+      referencia: "2026-11"
+      tendencia: caindo
+      historico:
+        - { periodo: "2026-10", min: 140, max: 170 }
       fontes:
         - { nome: "Buscapé — ofertas da Brinox Sirius 24 cm 1,6 L", url: "https://www.buscape.com.br/search?q=frigideira+brinox+sirius+24+1%2C6" }
         - { nome: "Zoom — ofertas da Brinox Sirius 24 cm 1,6 L", url: "https://www.zoom.com.br/search?q=frigideira+brinox+sirius+24+1%2C6" }
