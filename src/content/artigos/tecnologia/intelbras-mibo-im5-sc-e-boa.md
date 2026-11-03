@@ -66,11 +66,13 @@ produtos:
     precoMercado:
       min: 220
       max: 330
-      referencia: "2026-10"
-      observacao: "Faixa da câmera avulsa nos comparadores; alguns anúncios, em especial os com cartão microSD incluído, custam bem mais que a faixa."
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 220, max: 330 }
+      tendencia: estavel
+      observacao: "Faixa da câmera avulsa nos comparadores (Fast Shop e Magazine Luiza); anúncios em kit ou com cartão microSD incluído custam bem mais que a faixa."
       fontes:
         - { nome: "Zoom — Intelbras iM5 SC", url: "https://www.zoom.com.br/search?q=intelbras%20im5%20sc" }
-        - { nome: "Buscapé — Intelbras iM5 SC", url: "https://www.buscape.com.br/search?q=intelbras+im5+sc" }
     idealPara: "Quem quer vigiar quintal, garagem, entrada ou fundos com uma câmera de marca nacional e gravação em cartão, sem mensalidade"
     naoIndicadoPara: "Quem precisa falar pela câmera, tem só Wi-Fi 5 GHz ou quer gravação contínua em nuvem sem pagar plano"
     notasCriterios:

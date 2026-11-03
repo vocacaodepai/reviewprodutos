@@ -62,14 +62,15 @@ produtos:
     voltagem: "220V"
     faixaPreco: "$$$"
     precoMercado:
-      min: 2350
-      max: 3150
-      referencia: "2026-10"
+      min: 2200
+      max: 3050
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 2350, max: 3150 }
+      tendencia: caindo
       observacao: "Os preços variam bastante entre lojas e entre pagamento à vista e parcelado. Confira se a oferta inclui a instalação, que a ficha da Gree não menciona."
       fontes:
-        - { nome: "Loja oficial Gree — G-Side Auto Inverter 12.000 BTUs Frio 220V", url: "https://loja.gree.com.br/ar-condicionado-split-inverter-12-000-btus-gree-g-side-auto-inverter-r-32-frio-220v-12000-frio.html" }
-        - { nome: "Catral — Gree G-Side Auto Inverter 12.000 BTUs Frio 220V", url: "https://www.catral.com.br/ar-condicionado-split-gree-g-side-auto-inverter-12000btu-frio-gree-220v/p" }
-        - { nome: "Zoom — busca pelo GWC12ATCXB-D6DNA3C", url: "https://www.zoom.com.br/busca/gree+g-side+12000+btus+frio+GWC12ATCXB-D6DNA3C" }
+        - { nome: "Zoom — busca pelo GWC12ATCXB-D6DNA3C (Fast Shop e Magazine Luiza)", url: "https://www.zoom.com.br/busca/gree+g-side+12000+btus+frio+GWC12ATCXB-D6DNA3C" }
     idealPara: "Quarto ou sala de 16 a 24 m² em casa ou apartamento com tomada e circuito 220 V, para quem quer só resfriar"
     naoIndicadoPara: "Quem precisa de aquecimento no inverno, mora em imóvel 127 V sem pretensão de adaptar a rede ou quer comprar sem instalador credenciado"
     notasCriterios:

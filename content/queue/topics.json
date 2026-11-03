@@ -12190,7 +12190,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mondial-vtx-40-8p-ou-vtx-40c-8p",
+      "published_at": "2026-11-03"
     },
     {
       "id": "casa-e-jardim-comparativo-020",
@@ -12797,7 +12799,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "seda-cachos-definidos-shampoo-e-bom",
+      "published_at": "2026-11-03"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-024",
@@ -13307,7 +13311,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mizuno-wave-rider-27-ou-asics-gel-cumulus-27",
+      "published_at": "2026-11-03"
     },
     {
       "id": "esportes-e-lazer-comparativo-020",
@@ -13565,7 +13571,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "logitech-zone-vibe-100-ou-zone-300",
+      "published_at": "2026-11-03"
     },
     {
       "id": "escritorio-e-estudos-comparativo-023",
@@ -13773,7 +13781,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "moda-e-acessorios-review-015",
@@ -13839,7 +13847,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "casio-edifice-efr-526-e-bom",
+      "published_at": "2026-11-03"
     },
     {
       "id": "moda-e-acessorios-review-018",
