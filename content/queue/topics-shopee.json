@@ -1770,7 +1770,7 @@
       ],
       "prioridade": 3,
       "sazonal": "verao",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "esportes-e-lazer-comparativo-s003",
@@ -1944,7 +1944,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "automotivo-comparativo-s002",
@@ -2219,7 +2219,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "escritorio-e-estudos-comparativo-s004",
@@ -3713,7 +3713,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "dove-original-ou-dove-karite-e-baunilha-sabonete-em-barra",
+      "published_at": "2026-11-03"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-s009",
@@ -5141,7 +5143,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "aparador-de-grama-black-decker-gl350-e-bom",
+      "published_at": "2026-11-03"
     },
     {
       "id": "casa-e-jardim-review-s012",
@@ -5885,7 +5889,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "puma-phase-backpack-e-boa",
+      "published_at": "2026-11-03"
     },
     {
       "id": "moda-e-acessorios-review-s010",
@@ -6163,7 +6169,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "redragon-zeus-pro-h510-ou-hyperx-stinger-2-core",
+      "published_at": "2026-11-03"
     },
     {
       "id": "tecnologia-comparativo-s013",
@@ -6407,7 +6415,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "oster-omix570-ou-britania-bmx400p-mixer",
+      "published_at": "2026-11-03"
     },
     {
       "id": "cozinha-comparativo-s013",
