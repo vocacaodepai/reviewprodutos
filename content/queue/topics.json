@@ -11864,7 +11864,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "samsung-t7-1tb-e-bom",
+      "published_at": "2026-11-03"
     },
     {
       "id": "tecnologia-review-024",
@@ -12473,7 +12475,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "chaleira-philips-walita-serie-3000-ou-britania-bch12v",
+      "published_at": "2026-11-03"
     },
     {
       "id": "cozinha-comparativo-022",
@@ -13530,7 +13534,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "epson-l4360-ou-brother-dcp-t730dw",
+      "published_at": "2026-11-03"
     },
     {
       "id": "escritorio-e-estudos-comparativo-022",
@@ -13915,7 +13921,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "casio-mtp-1183-ou-timex-weekender",
+      "published_at": "2026-11-03"
     },
     {
       "id": "moda-e-acessorios-comparativo-017",

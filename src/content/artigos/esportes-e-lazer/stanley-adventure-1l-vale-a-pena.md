@@ -57,12 +57,14 @@ produtos:
       "Garantia": "Vitalícia Stanley (defeitos de fabricação; não cobre amassados)"
     faixaPreco: "$$$"
     precoMercado:
-      min: 290
+      min: 295
       max: 380
-      referencia: "2026-10"
-      observacao: "A loja oficial Stanley serve de referência no meio da faixa; algumas grandes lojas anunciam a mesma garrafa acima dela, e cores especiais custam mais."
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 290, max: 380 }
+      tendencia: estavel
+      observacao: "Cores especiais e edições com acabamento diferente custam mais; algumas grandes lojas anunciam a mesma garrafa acima da faixa."
       fontes:
-        - { nome: "Stanley 1913 Brasil — loja oficial, Adventure 2.0 Matte Black 1L", url: "https://www.stanley1913.com.br/products/garrafa-termica-adventure-2-0-matte-black-1l" }
         - { nome: "Buscapé — ofertas da Stanley Adventure 2.0 1L", url: "https://www.buscape.com.br/search?q=stanley%20adventure%202.0%201l" }
         - { nome: "Zoom — ofertas da Stanley Adventure 2.0 1L", url: "https://www.zoom.com.br/search?q=stanley%20adventure%202.0%201l" }
     idealPara: "Quem leva café ou água gelada para o dia inteiro de trabalho, viagem, pescaria ou acampamento e serve no copo"

@@ -59,12 +59,14 @@ produtos:
       "Garantia": "6 meses na loja oficial (varia por vendedor)"
     faixaPreco: "$$"
     precoMercado:
-      min: 1000
-      max: 1250
-      referencia: "2026-10"
-      observacao: "O valor muda conforme a cor e a loja: a branca fica no piso da faixa na loja oficial e as cores com detalhes coloridos, no topo. Anúncios de marketplace fora da faixa foram desconsiderados."
+      min: 980
+      max: 1050
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 1000, max: 1250 }
+      tendencia: caindo
+      observacao: "O valor muda conforme a cor e a loja: a versão preta e verde aparece no topo da faixa. Anúncios de marketplace fora da faixa foram desconsiderados."
       fontes:
-        - { nome: "Loja oficial ThunderX3 — TGC12 (todas as cores)", url: "https://loja.tx3brasil.com.br/busca/?q=tgc12" }
         - { nome: "Zoom — Cadeira Gamer Reclinável TGC12 (ofertas)", url: "https://www.zoom.com.br/cadeira-gamer/cadeira-gamer-reclinavel-tgc12-thunder-x3" }
         - { nome: "Buscapé — Cadeira Gamer Reclinável TGC12 (ofertas)", url: "https://www.buscape.com.br/cadeira-gamer/cadeira-gamer-reclinavel-tgc12-thunder-x3" }
     idealPara: "Quem joga bastante, trabalha poucas horas por dia sentado e quer uma cadeira de visual gamer sem pagar o preço de uma ergonômica"
