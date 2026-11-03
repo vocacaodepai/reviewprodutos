@@ -61,10 +61,13 @@ produtos:
     voltagem: "220V"
     faixaPreco: "$$"
     precoMercado:
-      min: 2100
-      max: 2250
-      referencia: "2026-10"
-      observacao: "Faixa à vista em duas lojas (Magazine Luiza e Fast Shop) nos comparadores. A média de 40 dias fica perto do piso da faixa. Confira a voltagem do anúncio."
+      min: 2000
+      max: 2300
+      referencia: "2026-11"
+      tendencia: estavel
+      historico:
+        - { periodo: "2026-10", min: 2100, max: 2250 }
+      observacao: "Faixa à vista em duas lojas (Magazine Luiza e Fast Shop) nos comparadores, somando as versões 110V/127V e 220V. A média de 40 dias fica perto do piso da faixa. Confira a voltagem do anúncio."
       fontes:
         - { nome: "Zoom — Geladeira Consul CRM40MB Frost Free Duplex 333 Litros", url: "https://www.zoom.com.br/geladeira/geladeira-consul-crm40mb-frost-free-duplex-333-litros" }
         - { nome: "Buscapé — Geladeira Consul CRM40MB Frost Free Duplex 333 Litros", url: "https://www.buscape.com.br/geladeira/geladeira-consul-crm40mb-frost-free-duplex-333-litros" }
