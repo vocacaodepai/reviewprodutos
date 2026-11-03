@@ -66,12 +66,14 @@ produtos:
     voltagem: "Bivolt"
     faixaPreco: "$$"
     precoMercado:
-      min: 840
-      max: 1050
-      referencia: "2026-10"
-      observacao: "A faixa vem de ofertas de lojas diferentes no mesmo dia e varia bastante entre elas. Compare antes de comprar."
+      min: 820
+      max: 990
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 840, max: 1050 }
+      tendencia: caindo
+      observacao: "A faixa vem de ofertas de lojas diferentes (Magazine Luiza, Webcontinental, Oficina dos Bits) e varia bastante entre elas. Compare antes de comprar."
       fontes:
-        - { nome: "Buscapé — Monitor Samsung Essential S3 27 IPS", url: "https://www.buscape.com.br/monitor/monitor-ips-27-samsung-essential-s3" }
         - { nome: "Zoom — Monitor Samsung Essential S3 27 IPS", url: "https://www.zoom.com.br/monitor/monitor-ips-27-samsung-essential-s3" }
     idealPara: "Quem trabalha ou estuda em casa, quer mais espaço de tela que um 24 polegadas e aceita regular a altura com um braço ou apoio"
     naoIndicadoPara: "Quem precisa de ajuste de altura de fábrica, USB-C, DisplayPort, cores precisas para edição ou nitidez de texto em QHD"

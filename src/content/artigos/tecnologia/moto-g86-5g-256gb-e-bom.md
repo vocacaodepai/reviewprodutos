@@ -64,12 +64,14 @@ produtos:
     faixaPreco: "$$"
     precoMercado:
       min: 1800
-      max: 2000
-      referencia: "2026-10"
-      observacao: "Segundo o Buscapé, o preço do momento está acima da média dos últimos 40 dias; ofertas pontuais costumam ficar abaixo da faixa."
+      max: 1800
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 1800, max: 2000 }
+      tendencia: caindo
+      observacao: "Segundo o Buscapé, o preço do momento está no menor nível dos últimos 40 dias; Magazine Luiza e KaBuM! apareciam com o mesmo valor, e ofertas pontuais podem ficar abaixo."
       fontes:
-        - { nome: "Buscapé — Motorola Moto G86 5G 256GB 8 GB", url: "https://www.buscape.com.br/celular/celular-motorola-moto-g86-5g-256gb-8-gb" }
-        - { nome: "Zoom — Motorola Moto G86 5G 256GB 8 GB", url: "https://www.zoom.com.br/celular/celular-motorola-moto-g86-5g-256gb-8-gb" }
+        - { nome: "Buscapé — Motorola Moto G86 5G 256GB 8 GB (Magazine Luiza e KaBuM!)", url: "https://www.buscape.com.br/celular/celular-motorola-moto-g86-5g-256gb-8-gb" }
     idealPara: "Quem quer tela boa, bateria que dura o dia e resistência a água sem pagar preço de aparelho de linha alta"
     naoIndicadoPara: "Quem joga títulos pesados com frequência ou quer carregamento muito rápido e sem fio"
     notasCriterios:
