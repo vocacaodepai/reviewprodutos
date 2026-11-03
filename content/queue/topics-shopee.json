@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-27",
+  "gerado_em": "2026-11-03",
   "instrucoes": "Fila dos artigos de produtos da Shopee. Mesmo formato de topics.json (sem 'lista'). Reponha com 100 temas (50 review + 50 comparativo) quando houver menos de 40 pendentes, conforme docs/rotinas/lote-shopee.md. Atualize com: QUEUE_FILE=content/queue/topics-shopee.json node scripts/update-queue.mjs <id> <status> [slug].",
   "temas": [
     {
@@ -834,7 +834,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "balanca-digital-multilaser-hc021-e-boa",
+      "published_at": "2026-11-03"
     },
     {
       "id": "saude-e-bem-estar-review-s004",
@@ -1619,7 +1621,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "whiskas-sache-ou-granplus-gourmet-sache-gatos",
+      "published_at": "2026-11-03"
     },
     {
       "id": "esportes-e-lazer-review-s001",
@@ -2239,7 +2243,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "agenda-tilibra-pepper-ou-napoli",
+      "published_at": "2026-11-03"
     },
     {
       "id": "escritorio-e-estudos-comparativo-s005",
@@ -3294,7 +3300,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "balanca-relaxmedic-infit-200kg-e-boa",
+      "published_at": "2026-11-03"
     },
     {
       "id": "saude-e-bem-estar-review-s008",
@@ -3730,7 +3738,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "bebes-e-criancas-review-s005",
@@ -3753,7 +3761,7 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "bebes-e-criancas-review-s006",
@@ -3776,7 +3784,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "shampoo-johnsons-baby-regular-750ml-e-bom",
+      "published_at": "2026-11-03"
     },
     {
       "id": "bebes-e-criancas-review-s007",
@@ -4944,6 +4954,2356 @@
         "Adidas Mochila Tiro Backpack"
       ],
       "prioridade": 3,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-review-s011",
+      "tipo": "review",
+      "categoria": "tecnologia",
+      "subcategoria": "smartwatches-e-wearables",
+      "funil": "meio",
+      "titulo_sugerido": "Amazfit Balance 2 é bom? Review completo: vale a pena?",
+      "problema": "Escolher um smartwatch premium com GPS e bateria longa para treinar e usar no dia a dia",
+      "palavras_chave": [
+        "amazfit balance 2 é bom",
+        "amazfit balance 2 review",
+        "amazfit balance 2 vale a pena",
+        "amazfit balance 2 preço",
+        "amazfit balance 2 opinião",
+        "amazfit balance 2 custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Amazfit Balance 2"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-review-s012",
+      "tipo": "review",
+      "categoria": "tecnologia",
+      "subcategoria": "casa-inteligente",
+      "funil": "fundo",
+      "titulo_sugerido": "Mercusys MR30G é bom? Review completo: vale a pena?",
+      "problema": "Trocar o roteador da operadora por um dual band gigabit barato para casa pequena",
+      "palavras_chave": [
+        "mercusys mr30g é bom",
+        "mercusys mr30g review",
+        "mercusys mr30g vale a pena",
+        "mercusys mr30g preço",
+        "mercusys mr30g opinião",
+        "mercusys mr30g custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Mercusys MR30G"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-review-s013",
+      "tipo": "review",
+      "categoria": "tecnologia",
+      "subcategoria": "celulares-e-acessorios",
+      "funil": "meio",
+      "titulo_sugerido": "Samsung Galaxy A26 5G 256GB é bom? Review completo: vale a pena?",
+      "problema": "Escolher um celular Samsung intermediário com 5G e bateria que dura o dia",
+      "palavras_chave": [
+        "samsung galaxy a26 5g 256gb é bom",
+        "samsung galaxy a26 5g 256gb review",
+        "samsung galaxy a26 5g 256gb vale a pena",
+        "samsung galaxy a26 5g 256gb preço",
+        "samsung galaxy a26 5g 256gb opinião",
+        "samsung galaxy a26 5g 256gb custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Samsung Galaxy A26 5G 256GB"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-review-s014",
+      "tipo": "review",
+      "categoria": "tecnologia",
+      "subcategoria": "audio-e-caixas-de-som",
+      "funil": "meio",
+      "titulo_sugerido": "Edifier MR4 é bom? Review completo: vale a pena?",
+      "problema": "Escolher monitores de áudio de estúdio para produzir música e conteúdo em casa",
+      "palavras_chave": [
+        "edifier mr4 é bom",
+        "edifier mr4 review",
+        "edifier mr4 vale a pena",
+        "edifier mr4 preço",
+        "edifier mr4 opinião",
+        "edifier mr4 custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Edifier MR4"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-review-s015",
+      "tipo": "review",
+      "categoria": "tecnologia",
+      "subcategoria": "notebooks-e-computadores",
+      "funil": "meio",
+      "titulo_sugerido": "Notebook Acer Aspire Go 15 AG15-51P é bom? Review completo: vale a pena?",
+      "problema": "Escolher um notebook de entrada com Core i3 para uso diário",
+      "palavras_chave": [
+        "notebook acer aspire go 15 ag15-51p é bom",
+        "notebook acer aspire go 15 ag15-51p review",
+        "notebook acer aspire go 15 ag15-51p vale a pena",
+        "notebook acer aspire go 15 ag15-51p preço",
+        "notebook acer aspire go 15 ag15-51p opinião",
+        "notebook acer aspire go 15 ag15-51p custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Notebook Acer Aspire Go 15 AG15-51P"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-review-s016",
+      "tipo": "review",
+      "categoria": "tecnologia",
+      "subcategoria": "celulares-e-acessorios",
+      "funil": "fundo",
+      "titulo_sugerido": "Cartão de Memória Kingston Canvas Select Plus 64GB é bom? Review completo: vale a pena?",
+      "problema": "Escolher um cartão microSD confiável para celular, câmera e drone",
+      "palavras_chave": [
+        "cartão de memória kingston canvas select plus 64gb é bom",
+        "cartão de memória kingston canvas select plus 64gb review",
+        "cartão de memória kingston canvas select plus 64gb vale a pena",
+        "cartão de memória kingston canvas select plus 64gb preço",
+        "cartão de memória kingston canvas select plus 64gb opinião",
+        "cartão de memória kingston canvas select plus 64gb custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Cartão de Memória Kingston Canvas Select Plus 64GB"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-review-s017",
+      "tipo": "review",
+      "categoria": "tecnologia",
+      "subcategoria": "casa-inteligente",
+      "funil": "fundo",
+      "titulo_sugerido": "Smart Plug Positivo Casa Inteligente 10A Wi-Fi é bom? Review completo: vale a pena?",
+      "problema": "Ligar e programar aparelhos pelo celular e pela Alexa com uma tomada inteligente barata",
+      "palavras_chave": [
+        "smart plug positivo casa inteligente 10a wi-fi é bom",
+        "smart plug positivo casa inteligente 10a wi-fi review",
+        "smart plug positivo casa inteligente 10a wi-fi vale a pena",
+        "smart plug positivo casa inteligente 10a wi-fi preço",
+        "smart plug positivo casa inteligente 10a wi-fi opinião",
+        "smart plug positivo casa inteligente 10a wi-fi custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Smart Plug Positivo Casa Inteligente 10A Wi-Fi"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-review-s011",
+      "tipo": "review",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "jardinagem",
+      "funil": "fundo",
+      "titulo_sugerido": "Aparador de Grama Black+Decker GL350 é bom? Review completo: vale a pena?",
+      "problema": "Aparar a grama do jardim pequeno de forma rápida e barata",
+      "palavras_chave": [
+        "aparador de grama black+decker gl350 é bom",
+        "aparador de grama black+decker gl350 review",
+        "aparador de grama black+decker gl350 vale a pena",
+        "aparador de grama black+decker gl350 preço",
+        "aparador de grama black+decker gl350 opinião",
+        "aparador de grama black+decker gl350 custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Aparador de Grama Black+Decker GL350"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-review-s012",
+      "tipo": "review",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "cama-mesa-e-banho",
+      "funil": "fundo",
+      "titulo_sugerido": "Manta Microfibra Camesa Queen é bom? Review completo: vale a pena?",
+      "problema": "Escolher uma manta macia e quentinha para o inverno sem gastar muito",
+      "palavras_chave": [
+        "manta microfibra camesa queen é bom",
+        "manta microfibra camesa queen review",
+        "manta microfibra camesa queen vale a pena",
+        "manta microfibra camesa queen preço",
+        "manta microfibra camesa queen opinião",
+        "manta microfibra camesa queen custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Manta Microfibra Camesa Queen"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-review-s013",
+      "tipo": "review",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "climatizacao",
+      "funil": "meio",
+      "titulo_sugerido": "Climatizador Philco PCL10QF é bom? Review completo: vale a pena?",
+      "problema": "Refrescar um quarto pequeno sem ar-condicionado",
+      "palavras_chave": [
+        "climatizador philco pcl10qf é bom",
+        "climatizador philco pcl10qf review",
+        "climatizador philco pcl10qf vale a pena",
+        "climatizador philco pcl10qf preço",
+        "climatizador philco pcl10qf opinião",
+        "climatizador philco pcl10qf custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Climatizador Philco PCL10QF"
+      ],
+      "prioridade": 2,
+      "sazonal": "verao",
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-review-s014",
+      "tipo": "review",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "ferramentas",
+      "funil": "fundo",
+      "titulo_sugerido": "Serra Tico-Tico Black+Decker BES603 é bom? Review completo: vale a pena?",
+      "problema": "Escolher uma serra tico-tico de 400W para cortes em madeira e MDF em casa",
+      "palavras_chave": [
+        "serra tico-tico black+decker bes603 é bom",
+        "serra tico-tico black+decker bes603 review",
+        "serra tico-tico black+decker bes603 vale a pena",
+        "serra tico-tico black+decker bes603 preço",
+        "serra tico-tico black+decker bes603 opinião",
+        "serra tico-tico black+decker bes603 custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Serra Tico-Tico Black+Decker BES603"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-review-s015",
+      "tipo": "review",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "ferramentas",
+      "funil": "fundo",
+      "titulo_sugerido": "Esmerilhadeira Angular Black+Decker G650K5 é bom? Review completo: vale a pena?",
+      "problema": "Escolher uma esmerilhadeira de 650W para cortar e desbastar metal em casa",
+      "palavras_chave": [
+        "esmerilhadeira angular black+decker g650k5 é bom",
+        "esmerilhadeira angular black+decker g650k5 review",
+        "esmerilhadeira angular black+decker g650k5 vale a pena",
+        "esmerilhadeira angular black+decker g650k5 preço",
+        "esmerilhadeira angular black+decker g650k5 opinião",
+        "esmerilhadeira angular black+decker g650k5 custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Esmerilhadeira Angular Black+Decker G650K5"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-review-s011",
+      "tipo": "review",
+      "categoria": "cozinha",
+      "subcategoria": "air-fryer",
+      "funil": "meio",
+      "titulo_sugerido": "Air Fryer Philips Walita Série 3000 NA341 é bom? Review completo: vale a pena?",
+      "problema": "Escolher uma air fryer digital de marca conhecida com cesto grande",
+      "palavras_chave": [
+        "air fryer philips walita série 3000 na341 é bom",
+        "air fryer philips walita série 3000 na341 review",
+        "air fryer philips walita série 3000 na341 vale a pena",
+        "air fryer philips walita série 3000 na341 preço",
+        "air fryer philips walita série 3000 na341 opinião",
+        "air fryer philips walita série 3000 na341 custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Air Fryer Philips Walita Série 3000 NA341"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-review-s012",
+      "tipo": "review",
+      "categoria": "cozinha",
+      "subcategoria": "air-fryer",
+      "funil": "fundo",
+      "titulo_sugerido": "Air Fryer Arno Mega AFM7 7,5L é bom? Review completo: vale a pena?",
+      "problema": "Escolher uma air fryer grande para famílias de 4 a 6 pessoas",
+      "palavras_chave": [
+        "air fryer arno mega afm7 7,5l é bom",
+        "air fryer arno mega afm7 7,5l review",
+        "air fryer arno mega afm7 7,5l vale a pena",
+        "air fryer arno mega afm7 7,5l preço",
+        "air fryer arno mega afm7 7,5l opinião",
+        "air fryer arno mega afm7 7,5l custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Air Fryer Arno Mega AFM7 7,5L"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-review-s013",
+      "tipo": "review",
+      "categoria": "cozinha",
+      "subcategoria": "liquidificadores-e-processadores",
+      "funil": "fundo",
+      "titulo_sugerido": "Liquidificador Electrolux Efficient EBL1500 3,2L é bom? Review completo: vale a pena?",
+      "problema": "Escolher um liquidificador potente e silencioso para a rotina da casa",
+      "palavras_chave": [
+        "liquidificador electrolux efficient ebl1500 3,2l é bom",
+        "liquidificador electrolux efficient ebl1500 3,2l review",
+        "liquidificador electrolux efficient ebl1500 3,2l vale a pena",
+        "liquidificador electrolux efficient ebl1500 3,2l preço",
+        "liquidificador electrolux efficient ebl1500 3,2l opinião",
+        "liquidificador electrolux efficient ebl1500 3,2l custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Liquidificador Electrolux Efficient EBL1500 3,2L"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-review-s014",
+      "tipo": "review",
+      "categoria": "cozinha",
+      "subcategoria": "eletroportateis",
+      "funil": "fundo",
+      "titulo_sugerido": "Torradeira Britânia Tosta Pane 3 em 1 é bom? Review completo: vale a pena?",
+      "problema": "Fazer torradas e esquentar pães rapidamente de manhã",
+      "palavras_chave": [
+        "torradeira britânia tosta pane 3 em 1 é bom",
+        "torradeira britânia tosta pane 3 em 1 review",
+        "torradeira britânia tosta pane 3 em 1 vale a pena",
+        "torradeira britânia tosta pane 3 em 1 preço",
+        "torradeira britânia tosta pane 3 em 1 opinião",
+        "torradeira britânia tosta pane 3 em 1 custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Torradeira Britânia Tosta Pane 3 em 1"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-review-s015",
+      "tipo": "review",
+      "categoria": "cozinha",
+      "subcategoria": "cafeteiras",
+      "funil": "fundo",
+      "titulo_sugerido": "Cafeteira Philco PCF40A 40 Cafezinhos é bom? Review completo: vale a pena?",
+      "problema": "Escolher uma cafeteira elétrica de jarra grande para casa ou escritório",
+      "palavras_chave": [
+        "cafeteira philco pcf40a 40 cafezinhos é bom",
+        "cafeteira philco pcf40a 40 cafezinhos review",
+        "cafeteira philco pcf40a 40 cafezinhos vale a pena",
+        "cafeteira philco pcf40a 40 cafezinhos preço",
+        "cafeteira philco pcf40a 40 cafezinhos opinião",
+        "cafeteira philco pcf40a 40 cafezinhos custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Cafeteira Philco PCF40A 40 Cafezinhos"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-review-s016",
+      "tipo": "review",
+      "categoria": "cozinha",
+      "subcategoria": "eletroportateis",
+      "funil": "fundo",
+      "titulo_sugerido": "Batedeira Planetária Philco PBP90A 5L é bom? Review completo: vale a pena?",
+      "problema": "Escolher uma batedeira planetária de 5 litros para bolos e massas",
+      "palavras_chave": [
+        "batedeira planetária philco pbp90a 5l é bom",
+        "batedeira planetária philco pbp90a 5l review",
+        "batedeira planetária philco pbp90a 5l vale a pena",
+        "batedeira planetária philco pbp90a 5l preço",
+        "batedeira planetária philco pbp90a 5l opinião",
+        "batedeira planetária philco pbp90a 5l custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Batedeira Planetária Philco PBP90A 5L"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-review-s017",
+      "tipo": "review",
+      "categoria": "cozinha",
+      "subcategoria": "geladeiras-fogoes-e-micro-ondas",
+      "funil": "fundo",
+      "titulo_sugerido": "Frigobar Philco PFG50 47L é bom? Review completo: vale a pena?",
+      "problema": "Escolher um frigobar compacto para quarto, escritório ou área de lazer",
+      "palavras_chave": [
+        "frigobar philco pfg50 47l é bom",
+        "frigobar philco pfg50 47l review",
+        "frigobar philco pfg50 47l vale a pena",
+        "frigobar philco pfg50 47l preço",
+        "frigobar philco pfg50 47l opinião",
+        "frigobar philco pfg50 47l custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Frigobar Philco PFG50 47L"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-review-s011",
+      "tipo": "review",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "cabelo",
+      "funil": "fundo",
+      "titulo_sugerido": "Prancha Taiff Style Pro Titanium é bom? Review completo: vale a pena?",
+      "problema": "Escolher uma prancha alisadora de titânio com bom aquecimento e bivolt",
+      "palavras_chave": [
+        "prancha taiff style pro titanium é bom",
+        "prancha taiff style pro titanium review",
+        "prancha taiff style pro titanium vale a pena",
+        "prancha taiff style pro titanium preço",
+        "prancha taiff style pro titanium opinião",
+        "prancha taiff style pro titanium custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Prancha Taiff Style Pro Titanium"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-review-s012",
+      "tipo": "review",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "barbear-e-depilacao",
+      "funil": "fundo",
+      "titulo_sugerido": "Gillette Prestobarba3 Sensitive é bom? Review completo: vale a pena?",
+      "problema": "Escolher um aparelho de barbear descartável de boa qualidade",
+      "palavras_chave": [
+        "gillette prestobarba3 sensitive é bom",
+        "gillette prestobarba3 sensitive review",
+        "gillette prestobarba3 sensitive vale a pena",
+        "gillette prestobarba3 sensitive preço",
+        "gillette prestobarba3 sensitive opinião",
+        "gillette prestobarba3 sensitive custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Gillette Prestobarba3 Sensitive"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-review-s013",
+      "tipo": "review",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "maquiagem",
+      "funil": "fundo",
+      "titulo_sugerido": "Base Maybelline Fit Me Fresh Tint FPS 50 é bom? Review completo: vale a pena?",
+      "problema": "Escolher uma base leve com cor e proteção solar para o dia a dia",
+      "palavras_chave": [
+        "base maybelline fit me fresh tint fps 50 é bom",
+        "base maybelline fit me fresh tint fps 50 review",
+        "base maybelline fit me fresh tint fps 50 vale a pena",
+        "base maybelline fit me fresh tint fps 50 preço",
+        "base maybelline fit me fresh tint fps 50 opinião",
+        "base maybelline fit me fresh tint fps 50 custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Base Maybelline Fit Me Fresh Tint FPS 50"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-review-s014",
+      "tipo": "review",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "barbear-e-depilacao",
+      "funil": "fundo",
+      "titulo_sugerido": "Espuma de Barbear Nivea Men Original Protect é bom? Review completo: vale a pena?",
+      "problema": "Escolher uma espuma de barbear que não irrita a pele",
+      "palavras_chave": [
+        "espuma de barbear nivea men original protect é bom",
+        "espuma de barbear nivea men original protect review",
+        "espuma de barbear nivea men original protect vale a pena",
+        "espuma de barbear nivea men original protect preço",
+        "espuma de barbear nivea men original protect opinião",
+        "espuma de barbear nivea men original protect custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Espuma de Barbear Nivea Men Original Protect"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-review-s015",
+      "tipo": "review",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "maquiagem",
+      "funil": "fundo",
+      "titulo_sugerido": "Corretivo Maybelline Instant Age Rewind Eraser 140 Honey é bom? Review completo: vale a pena?",
+      "problema": "Escolher um corretivo líquido de alta cobertura para olheiras",
+      "palavras_chave": [
+        "corretivo maybelline instant age rewind eraser 140 honey é bom",
+        "corretivo maybelline instant age rewind eraser 140 honey review",
+        "corretivo maybelline instant age rewind eraser 140 honey vale a pena",
+        "corretivo maybelline instant age rewind eraser 140 honey preço",
+        "corretivo maybelline instant age rewind eraser 140 honey opinião",
+        "corretivo maybelline instant age rewind eraser 140 honey custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Corretivo Maybelline Instant Age Rewind Eraser 140 Honey"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-review-s010",
+      "tipo": "review",
+      "categoria": "pets",
+      "subcategoria": "alimentacao-e-comedouros",
+      "funil": "fundo",
+      "titulo_sugerido": "Ração Farmina N&D Ancestral Grain Mini é bom? Review completo: vale a pena?",
+      "problema": "Escolher uma ração premium para cães pequenos com cereais ancestrais",
+      "palavras_chave": [
+        "ração farmina n&d ancestral grain mini é bom",
+        "ração farmina n&d ancestral grain mini review",
+        "ração farmina n&d ancestral grain mini vale a pena",
+        "ração farmina n&d ancestral grain mini preço",
+        "ração farmina n&d ancestral grain mini opinião",
+        "ração farmina n&d ancestral grain mini custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Ração Farmina N&D Ancestral Grain Mini"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-review-s011",
+      "tipo": "review",
+      "categoria": "pets",
+      "subcategoria": "passeio-e-transporte",
+      "funil": "fundo",
+      "titulo_sugerido": "Guia de Seda com Peitoral Furacão Pet é bom? Review completo: vale a pena?",
+      "problema": "Escolher uma guia com peitoral confortável para passear com cachorro pequeno",
+      "palavras_chave": [
+        "guia de seda com peitoral furacão pet é bom",
+        "guia de seda com peitoral furacão pet review",
+        "guia de seda com peitoral furacão pet vale a pena",
+        "guia de seda com peitoral furacão pet preço",
+        "guia de seda com peitoral furacão pet opinião",
+        "guia de seda com peitoral furacão pet custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Guia de Seda com Peitoral Furacão Pet"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-review-s012",
+      "tipo": "review",
+      "categoria": "pets",
+      "subcategoria": "alimentacao-e-comedouros",
+      "funil": "fundo",
+      "titulo_sugerido": "Ração Friskies Megamix Gatos Adultos é bom? Review completo: vale a pena?",
+      "problema": "Escolher uma ração econômica para gatos adultos",
+      "palavras_chave": [
+        "ração friskies megamix gatos adultos é bom",
+        "ração friskies megamix gatos adultos review",
+        "ração friskies megamix gatos adultos vale a pena",
+        "ração friskies megamix gatos adultos preço",
+        "ração friskies megamix gatos adultos opinião",
+        "ração friskies megamix gatos adultos custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Ração Friskies Megamix Gatos Adultos"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-review-s013",
+      "tipo": "review",
+      "categoria": "pets",
+      "subcategoria": "alimentacao-e-comedouros",
+      "funil": "fundo",
+      "titulo_sugerido": "Biscoito Premier Cookie Cães Adultos Pequeno Porte é bom? Review completo: vale a pena?",
+      "problema": "Escolher um petisco saudável para cães pequenos",
+      "palavras_chave": [
+        "biscoito premier cookie cães adultos pequeno porte é bom",
+        "biscoito premier cookie cães adultos pequeno porte review",
+        "biscoito premier cookie cães adultos pequeno porte vale a pena",
+        "biscoito premier cookie cães adultos pequeno porte preço",
+        "biscoito premier cookie cães adultos pequeno porte opinião",
+        "biscoito premier cookie cães adultos pequeno porte custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Biscoito Premier Cookie Cães Adultos Pequeno Porte"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-review-s010",
+      "tipo": "review",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "fitness-e-musculacao",
+      "funil": "fundo",
+      "titulo_sugerido": "Corda de Pular Acte Sports T79 é bom? Review completo: vale a pena?",
+      "problema": "Escolher uma corda de pular com rolamento para treinar em casa",
+      "palavras_chave": [
+        "corda de pular acte sports t79 é bom",
+        "corda de pular acte sports t79 review",
+        "corda de pular acte sports t79 vale a pena",
+        "corda de pular acte sports t79 preço",
+        "corda de pular acte sports t79 opinião",
+        "corda de pular acte sports t79 custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Corda de Pular Acte Sports T79"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-review-s011",
+      "tipo": "review",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "fitness-e-musculacao",
+      "funil": "fundo",
+      "titulo_sugerido": "Caneleira Acte Sports 2kg é bom? Review completo: vale a pena?",
+      "problema": "Adicionar carga em treinos de perna e glúteo em casa",
+      "palavras_chave": [
+        "caneleira acte sports 2kg é bom",
+        "caneleira acte sports 2kg review",
+        "caneleira acte sports 2kg vale a pena",
+        "caneleira acte sports 2kg preço",
+        "caneleira acte sports 2kg opinião",
+        "caneleira acte sports 2kg custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Caneleira Acte Sports 2kg"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-review-s012",
+      "tipo": "review",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "fitness-e-musculacao",
+      "funil": "fundo",
+      "titulo_sugerido": "Halter Sextavado Kikos Pro 4kg é bom? Review completo: vale a pena?",
+      "problema": "Treinar braços e ombros em casa com halteres emborrachados",
+      "palavras_chave": [
+        "halter sextavado kikos pro 4kg é bom",
+        "halter sextavado kikos pro 4kg review",
+        "halter sextavado kikos pro 4kg vale a pena",
+        "halter sextavado kikos pro 4kg preço",
+        "halter sextavado kikos pro 4kg opinião",
+        "halter sextavado kikos pro 4kg custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Halter Sextavado Kikos Pro 4kg"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-review-s013",
+      "tipo": "review",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "yoga-e-pilates",
+      "funil": "fundo",
+      "titulo_sugerido": "Bola de Futebol Adidas Trionda Club é bom? Review completo: vale a pena?",
+      "problema": "Escolher uma bola de campo de marca para jogar com os amigos",
+      "palavras_chave": [
+        "bola de futebol adidas trionda club é bom",
+        "bola de futebol adidas trionda club review",
+        "bola de futebol adidas trionda club vale a pena",
+        "bola de futebol adidas trionda club preço",
+        "bola de futebol adidas trionda club opinião",
+        "bola de futebol adidas trionda club custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Bola de Futebol Adidas Trionda Club"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-review-s014",
+      "tipo": "review",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "yoga-e-pilates",
+      "funil": "fundo",
+      "titulo_sugerido": "Tapete Comfort de Yoga Nautika 1,2cm é bom? Review completo: vale a pena?",
+      "problema": "Escolher um tapete de yoga macio e de boa espessura",
+      "palavras_chave": [
+        "tapete comfort de yoga nautika 1,2cm é bom",
+        "tapete comfort de yoga nautika 1,2cm review",
+        "tapete comfort de yoga nautika 1,2cm vale a pena",
+        "tapete comfort de yoga nautika 1,2cm preço",
+        "tapete comfort de yoga nautika 1,2cm opinião",
+        "tapete comfort de yoga nautika 1,2cm custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Tapete Comfort de Yoga Nautika 1,2cm"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-review-s010",
+      "tipo": "review",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "papelaria-e-organizacao",
+      "funil": "fundo",
+      "titulo_sugerido": "Calculadora de Mesa Casio MX-12B é bom? Review completo: vale a pena?",
+      "problema": "Escolher uma calculadora de mesa 12 dígitos para escritório e comércio",
+      "palavras_chave": [
+        "calculadora de mesa casio mx-12b é bom",
+        "calculadora de mesa casio mx-12b review",
+        "calculadora de mesa casio mx-12b vale a pena",
+        "calculadora de mesa casio mx-12b preço",
+        "calculadora de mesa casio mx-12b opinião",
+        "calculadora de mesa casio mx-12b custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Calculadora de Mesa Casio MX-12B"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-review-s011",
+      "tipo": "review",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "papelaria-e-organizacao",
+      "funil": "fundo",
+      "titulo_sugerido": "Marca-texto Stabilo Boss Pastel é bom? Review completo: vale a pena?",
+      "problema": "Escolher um marca-texto de cores suaves para estudar",
+      "palavras_chave": [
+        "marca-texto stabilo boss pastel é bom",
+        "marca-texto stabilo boss pastel review",
+        "marca-texto stabilo boss pastel vale a pena",
+        "marca-texto stabilo boss pastel preço",
+        "marca-texto stabilo boss pastel opinião",
+        "marca-texto stabilo boss pastel custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Marca-texto Stabilo Boss Pastel"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-review-s012",
+      "tipo": "review",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "cadeiras-e-mesas",
+      "funil": "meio",
+      "titulo_sugerido": "Cadeira Gamer ThunderX3 EAZE Loft é bom? Review completo: vale a pena?",
+      "problema": "Escolher uma cadeira ergonômica de tela mesh para longas horas de trabalho",
+      "palavras_chave": [
+        "cadeira gamer thunderx3 eaze loft é bom",
+        "cadeira gamer thunderx3 eaze loft review",
+        "cadeira gamer thunderx3 eaze loft vale a pena",
+        "cadeira gamer thunderx3 eaze loft preço",
+        "cadeira gamer thunderx3 eaze loft opinião",
+        "cadeira gamer thunderx3 eaze loft custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Cadeira Gamer ThunderX3 EAZE Loft"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-review-s013",
+      "tipo": "review",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "papelaria-e-organizacao",
+      "funil": "fundo",
+      "titulo_sugerido": "Lápis de Cor Staedtler Noris 24 cores é bom? Review completo: vale a pena?",
+      "problema": "Escolher lápis de cor de qualidade para desenho e escola",
+      "palavras_chave": [
+        "lápis de cor staedtler noris 24 cores é bom",
+        "lápis de cor staedtler noris 24 cores review",
+        "lápis de cor staedtler noris 24 cores vale a pena",
+        "lápis de cor staedtler noris 24 cores preço",
+        "lápis de cor staedtler noris 24 cores opinião",
+        "lápis de cor staedtler noris 24 cores custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Lápis de Cor Staedtler Noris 24 cores"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-review-s014",
+      "tipo": "review",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "papelaria-e-organizacao",
+      "funil": "fundo",
+      "titulo_sugerido": "Suporte Articulado para Monitor ELG F80 é bom? Review completo: vale a pena?",
+      "problema": "Liberar espaço na mesa e ajustar a altura do monitor com um suporte articulado",
+      "palavras_chave": [
+        "suporte articulado para monitor elg f80 é bom",
+        "suporte articulado para monitor elg f80 review",
+        "suporte articulado para monitor elg f80 vale a pena",
+        "suporte articulado para monitor elg f80 preço",
+        "suporte articulado para monitor elg f80 opinião",
+        "suporte articulado para monitor elg f80 custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Suporte Articulado para Monitor ELG F80"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-review-s008",
+      "tipo": "review",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "tenis-e-calcados",
+      "funil": "fundo",
+      "titulo_sugerido": "Tênis Converse Chuck Taylor All Star é bom? Review completo: vale a pena?",
+      "problema": "Escolher um tênis casual clássico que combina com tudo",
+      "palavras_chave": [
+        "tênis converse chuck taylor all star é bom",
+        "tênis converse chuck taylor all star review",
+        "tênis converse chuck taylor all star vale a pena",
+        "tênis converse chuck taylor all star preço",
+        "tênis converse chuck taylor all star opinião",
+        "tênis converse chuck taylor all star custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Tênis Converse Chuck Taylor All Star"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-review-s009",
+      "tipo": "review",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "mochilas-e-bolsas",
+      "funil": "fundo",
+      "titulo_sugerido": "Mochila Puma Phase Backpack é bom? Review completo: vale a pena?",
+      "problema": "Escolher uma mochila esportiva casual para escola e treino",
+      "palavras_chave": [
+        "mochila puma phase backpack é bom",
+        "mochila puma phase backpack review",
+        "mochila puma phase backpack vale a pena",
+        "mochila puma phase backpack preço",
+        "mochila puma phase backpack opinião",
+        "mochila puma phase backpack custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Mochila Puma Phase Backpack"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-review-s010",
+      "tipo": "review",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "mochilas-e-bolsas",
+      "funil": "fundo",
+      "titulo_sugerido": "Mochila The North Face Vault é bom? Review completo: vale a pena?",
+      "problema": "Escolher uma mochila casual resistente para o dia a dia e a faculdade",
+      "palavras_chave": [
+        "mochila the north face vault é bom",
+        "mochila the north face vault review",
+        "mochila the north face vault vale a pena",
+        "mochila the north face vault preço",
+        "mochila the north face vault opinião",
+        "mochila the north face vault custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Mochila The North Face Vault"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-review-s011",
+      "tipo": "review",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "tenis-e-calcados",
+      "funil": "fundo",
+      "titulo_sugerido": "Tênis Skechers Go Walk Flex é bom? Review completo: vale a pena?",
+      "problema": "Escolher um tênis de caminhada leve e com palmilha macia",
+      "palavras_chave": [
+        "tênis skechers go walk flex é bom",
+        "tênis skechers go walk flex review",
+        "tênis skechers go walk flex vale a pena",
+        "tênis skechers go walk flex preço",
+        "tênis skechers go walk flex opinião",
+        "tênis skechers go walk flex custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Tênis Skechers Go Walk Flex"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-review-s008",
+      "tipo": "review",
+      "categoria": "automotivo",
+      "subcategoria": "limpeza-e-estetica",
+      "funil": "fundo",
+      "titulo_sugerido": "Cera de Carnaúba Autoamerica Triple Paste Wax é bom? Review completo: vale a pena?",
+      "problema": "Dar brilho e proteção na pintura do carro com cera em pasta",
+      "palavras_chave": [
+        "cera de carnaúba autoamerica triple paste wax é bom",
+        "cera de carnaúba autoamerica triple paste wax review",
+        "cera de carnaúba autoamerica triple paste wax vale a pena",
+        "cera de carnaúba autoamerica triple paste wax preço",
+        "cera de carnaúba autoamerica triple paste wax opinião",
+        "cera de carnaúba autoamerica triple paste wax custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Cera de Carnaúba Autoamerica Triple Paste Wax"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-review-s009",
+      "tipo": "review",
+      "categoria": "automotivo",
+      "subcategoria": "limpeza-e-estetica",
+      "funil": "fundo",
+      "titulo_sugerido": "Meguiar's Water Spot Remover é bom? Review completo: vale a pena?",
+      "problema": "Tirar manchas de água dura da pintura e do vidro do carro",
+      "palavras_chave": [
+        "meguiar's water spot remover é bom",
+        "meguiar's water spot remover review",
+        "meguiar's water spot remover vale a pena",
+        "meguiar's water spot remover preço",
+        "meguiar's water spot remover opinião",
+        "meguiar's water spot remover custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Meguiar's Water Spot Remover"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-review-s010",
+      "tipo": "review",
+      "categoria": "automotivo",
+      "subcategoria": "motos",
+      "funil": "fundo",
+      "titulo_sugerido": "Luva de Moto Texx Liberty é bom? Review completo: vale a pena?",
+      "problema": "Escolher uma luva de moto de custo acessível com proteção",
+      "palavras_chave": [
+        "luva de moto texx liberty é bom",
+        "luva de moto texx liberty review",
+        "luva de moto texx liberty vale a pena",
+        "luva de moto texx liberty preço",
+        "luva de moto texx liberty opinião",
+        "luva de moto texx liberty custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Luva de Moto Texx Liberty"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-review-s011",
+      "tipo": "review",
+      "categoria": "automotivo",
+      "subcategoria": "ferramentas-e-emergencia",
+      "funil": "fundo",
+      "titulo_sugerido": "Kit de Ferramentas Tramontina Pro 52 Peças é bom? Review completo: vale a pena?",
+      "problema": "Montar um kit de ferramentas completo para a oficina e o carro",
+      "palavras_chave": [
+        "kit de ferramentas tramontina pro 52 peças é bom",
+        "kit de ferramentas tramontina pro 52 peças review",
+        "kit de ferramentas tramontina pro 52 peças vale a pena",
+        "kit de ferramentas tramontina pro 52 peças preço",
+        "kit de ferramentas tramontina pro 52 peças opinião",
+        "kit de ferramentas tramontina pro 52 peças custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Kit de Ferramentas Tramontina Pro 52 Peças"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "bebes-e-criancas-review-s010",
+      "tipo": "review",
+      "categoria": "bebes-e-criancas",
+      "subcategoria": "brinquedos",
+      "funil": "fundo",
+      "titulo_sugerido": "LEGO Classic Veículos Criativos 11036 é bom? Review completo: vale a pena?",
+      "problema": "Escolher um brinquedo de montar criativo para crianças a partir dos 4 anos",
+      "palavras_chave": [
+        "lego classic veículos criativos 11036 é bom",
+        "lego classic veículos criativos 11036 review",
+        "lego classic veículos criativos 11036 vale a pena",
+        "lego classic veículos criativos 11036 preço",
+        "lego classic veículos criativos 11036 opinião",
+        "lego classic veículos criativos 11036 custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "LEGO Classic Veículos Criativos 11036"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "bebes-e-criancas-review-s011",
+      "tipo": "review",
+      "categoria": "bebes-e-criancas",
+      "subcategoria": "brinquedos",
+      "funil": "fundo",
+      "titulo_sugerido": "Jogo War Grow é bom? Review completo: vale a pena?",
+      "problema": "Escolher um jogo de estratégia para jogar com amigos e a família",
+      "palavras_chave": [
+        "jogo war grow é bom",
+        "jogo war grow review",
+        "jogo war grow vale a pena",
+        "jogo war grow preço",
+        "jogo war grow opinião",
+        "jogo war grow custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Jogo War Grow"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-review-s011",
+      "tipo": "review",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "dor-e-postura",
+      "funil": "meio",
+      "titulo_sugerido": "Joelheira Elástica Mercur é bom? Review completo: vale a pena?",
+      "problema": "Dar sustentação ao joelho em atividades físicas leves",
+      "palavras_chave": [
+        "joelheira elástica mercur é bom",
+        "joelheira elástica mercur review",
+        "joelheira elástica mercur vale a pena",
+        "joelheira elástica mercur preço",
+        "joelheira elástica mercur opinião",
+        "joelheira elástica mercur custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Joelheira Elástica Mercur"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "saude-e-bem-estar-review-s012",
+      "tipo": "review",
+      "categoria": "saude-e-bem-estar",
+      "subcategoria": "massagem-e-relaxamento",
+      "funil": "meio",
+      "titulo_sugerido": "Massageador de Pés Shiatsu Relaxmedic é bom? Review completo: vale a pena?",
+      "problema": "Aliviar o cansaço dos pés depois do dia com um massageador com aquecimento",
+      "palavras_chave": [
+        "massageador de pés shiatsu relaxmedic é bom",
+        "massageador de pés shiatsu relaxmedic review",
+        "massageador de pés shiatsu relaxmedic vale a pena",
+        "massageador de pés shiatsu relaxmedic preço",
+        "massageador de pés shiatsu relaxmedic opinião",
+        "massageador de pés shiatsu relaxmedic custo-benefício"
+      ],
+      "produtos_candidatos": [
+        "Massageador de Pés Shiatsu Relaxmedic"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-comparativo-s011",
+      "tipo": "comparativo",
+      "categoria": "tecnologia",
+      "subcategoria": "audio-e-caixas-de-som",
+      "funil": "fundo",
+      "titulo_sugerido": "JBL Go Essential 2 ou Tribit StormBox Micro 2: qual escolher?",
+      "problema": "Escolher uma caixa de som Bluetooth pequena, resistente à água, para levar para qualquer lugar",
+      "palavras_chave": [
+        "jbl go essential 2 ou tribit stormbox micro 2",
+        "jbl go essential 2 vs tribit stormbox micro 2",
+        "qual melhor jbl go essential 2 ou tribit stormbox micro 2",
+        "jbl go essential 2 é bom",
+        "tribit stormbox micro 2 é bom",
+        "jbl go essential 2 ou tribit stormbox micro 2 qual comprar"
+      ],
+      "produtos_candidatos": [
+        "JBL Go Essential 2",
+        "Tribit StormBox Micro 2"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-comparativo-s012",
+      "tipo": "comparativo",
+      "categoria": "tecnologia",
+      "subcategoria": "games",
+      "funil": "fundo",
+      "titulo_sugerido": "Redragon Zeus Pro H510 ou HyperX Cloud Stinger 2 Core: qual escolher?",
+      "problema": "Escolher um headset gamer para jogar no PC com som e microfone de qualidade",
+      "palavras_chave": [
+        "redragon zeus pro h510 ou hyperx cloud stinger 2 core",
+        "redragon zeus pro h510 vs hyperx cloud stinger 2 core",
+        "qual melhor redragon zeus pro h510 ou hyperx cloud stinger 2 core",
+        "redragon zeus pro h510 é bom",
+        "hyperx cloud stinger 2 core é bom",
+        "redragon zeus pro h510 ou hyperx cloud stinger 2 core qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Redragon Zeus Pro H510",
+        "HyperX Cloud Stinger 2 Core"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-comparativo-s013",
+      "tipo": "comparativo",
+      "categoria": "tecnologia",
+      "subcategoria": "notebooks-e-computadores",
+      "funil": "fundo",
+      "titulo_sugerido": "WD Elements 4TB ou Seagate Expansion 4TB: qual escolher?",
+      "problema": "Escolher um HD externo portátil para fazer backup de fotos, vídeos e documentos",
+      "palavras_chave": [
+        "wd elements 4tb ou seagate expansion 4tb",
+        "wd elements 4tb vs seagate expansion 4tb",
+        "qual melhor wd elements 4tb ou seagate expansion 4tb",
+        "wd elements 4tb é bom",
+        "seagate expansion 4tb é bom",
+        "wd elements 4tb ou seagate expansion 4tb qual comprar"
+      ],
+      "produtos_candidatos": [
+        "WD Elements 4TB",
+        "Seagate Expansion 4TB"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-comparativo-s014",
+      "tipo": "comparativo",
+      "categoria": "tecnologia",
+      "subcategoria": "smartwatches-e-wearables",
+      "funil": "meio",
+      "titulo_sugerido": "Amazfit Active 3 Premium ou Xiaomi Redmi Watch 5 Lite: qual escolher?",
+      "problema": "Escolher um smartwatch com GPS e tela AMOLED de bom custo-benefício",
+      "palavras_chave": [
+        "amazfit active 3 premium ou xiaomi redmi watch 5 lite",
+        "amazfit active 3 premium vs xiaomi redmi watch 5 lite",
+        "qual melhor amazfit active 3 premium ou xiaomi redmi watch 5 lite",
+        "amazfit active 3 premium é bom",
+        "xiaomi redmi watch 5 lite é bom",
+        "amazfit active 3 premium ou xiaomi redmi watch 5 lite qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Amazfit Active 3 Premium",
+        "Xiaomi Redmi Watch 5 Lite"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-comparativo-s015",
+      "tipo": "comparativo",
+      "categoria": "tecnologia",
+      "subcategoria": "audio-e-caixas-de-som",
+      "funil": "meio",
+      "titulo_sugerido": "JBL Xtreme 4 ou JBL PartyBox Encore Essential 2: qual escolher?",
+      "problema": "Escolher entre uma caixa portátil de viagem e uma caixa de festa",
+      "palavras_chave": [
+        "jbl xtreme 4 ou jbl partybox encore essential 2",
+        "jbl xtreme 4 vs jbl partybox encore essential 2",
+        "qual melhor jbl xtreme 4 ou jbl partybox encore essential 2",
+        "jbl xtreme 4 é bom",
+        "jbl partybox encore essential 2 é bom",
+        "jbl xtreme 4 ou jbl partybox encore essential 2 qual comprar"
+      ],
+      "produtos_candidatos": [
+        "JBL Xtreme 4",
+        "JBL PartyBox Encore Essential 2"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-comparativo-s011",
+      "tipo": "comparativo",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "climatizacao",
+      "funil": "fundo",
+      "titulo_sugerido": "Britânia Cerâmico AB1600P ou Cadence MiniConfort: qual escolher?",
+      "problema": "Escolher um aquecedor elétrico para esquentar o quarto no inverno",
+      "palavras_chave": [
+        "britânia cerâmico ab1600p ou cadence miniconfort",
+        "britânia cerâmico ab1600p vs cadence miniconfort",
+        "qual melhor britânia cerâmico ab1600p ou cadence miniconfort",
+        "britânia cerâmico ab1600p é bom",
+        "cadence miniconfort é bom",
+        "britânia cerâmico ab1600p ou cadence miniconfort qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Britânia Cerâmico AB1600P",
+        "Cadence MiniConfort"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-comparativo-s012",
+      "tipo": "comparativo",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "limpeza",
+      "funil": "fundo",
+      "titulo_sugerido": "Ferro de Passar Britânia BFS30 ou Ferro de Passar Philco PFE01P: qual escolher?",
+      "problema": "Escolher um ferro de passar simples e barato para o dia a dia",
+      "palavras_chave": [
+        "ferro de passar britânia bfs30 ou ferro de passar philco pfe01p",
+        "ferro de passar britânia bfs30 vs ferro de passar philco pfe01p",
+        "qual melhor ferro de passar britânia bfs30 ou ferro de passar philco pfe01p",
+        "ferro de passar britânia bfs30 é bom",
+        "ferro de passar philco pfe01p é bom",
+        "ferro de passar britânia bfs30 ou ferro de passar philco pfe01p qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Ferro de Passar Britânia BFS30",
+        "Ferro de Passar Philco PFE01P"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-comparativo-s013",
+      "tipo": "comparativo",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "ferramentas",
+      "funil": "meio",
+      "titulo_sugerido": "Trena Laser Bosch GLM 50-12 ou Trena Laser Stanley STHT77802-LA: qual escolher?",
+      "problema": "Escolher uma trena a laser para medir ambientes, móveis e obras",
+      "palavras_chave": [
+        "trena laser bosch glm 50-12 ou trena laser stanley stht77802-la",
+        "trena laser bosch glm 50-12 vs trena laser stanley stht77802-la",
+        "qual melhor trena laser bosch glm 50-12 ou trena laser stanley stht77802-la",
+        "trena laser bosch glm 50-12 é bom",
+        "trena laser stanley stht77802-la é bom",
+        "trena laser bosch glm 50-12 ou trena laser stanley stht77802-la qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Trena Laser Bosch GLM 50-12",
+        "Trena Laser Stanley STHT77802-LA"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-comparativo-s014",
+      "tipo": "comparativo",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "limpeza",
+      "funil": "fundo",
+      "titulo_sugerido": "Ferro a Vapor Britânia BFVE01A ou Ferro a Vapor Philco Travel Ceramic: qual escolher?",
+      "problema": "Escolher um ferro a vapor prático para tirar amassados das roupas",
+      "palavras_chave": [
+        "ferro a vapor britânia bfve01a ou ferro a vapor philco travel ceramic",
+        "ferro a vapor britânia bfve01a vs ferro a vapor philco travel ceramic",
+        "qual melhor ferro a vapor britânia bfve01a ou ferro a vapor philco travel ceramic",
+        "ferro a vapor britânia bfve01a é bom",
+        "ferro a vapor philco travel ceramic é bom",
+        "ferro a vapor britânia bfve01a ou ferro a vapor philco travel ceramic qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Ferro a Vapor Britânia BFVE01A",
+        "Ferro a Vapor Philco Travel Ceramic"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-comparativo-s015",
+      "tipo": "comparativo",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "climatizacao",
+      "funil": "meio",
+      "titulo_sugerido": "Climatizador Philco PCL14A ou Climatizador Philco PCL22A: qual escolher?",
+      "problema": "Escolher o tamanho certo de climatizador para a sala ou o quarto",
+      "palavras_chave": [
+        "climatizador philco pcl14a ou climatizador philco pcl22a",
+        "climatizador philco pcl14a vs climatizador philco pcl22a",
+        "qual melhor climatizador philco pcl14a ou climatizador philco pcl22a",
+        "climatizador philco pcl14a é bom",
+        "climatizador philco pcl22a é bom",
+        "climatizador philco pcl14a ou climatizador philco pcl22a qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Climatizador Philco PCL14A",
+        "Climatizador Philco PCL22A"
+      ],
+      "prioridade": 2,
+      "sazonal": "verao",
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-comparativo-s011",
+      "tipo": "comparativo",
+      "categoria": "cozinha",
+      "subcategoria": "geladeiras-fogoes-e-micro-ondas",
+      "funil": "fundo",
+      "titulo_sugerido": "Micro-ondas Electrolux MT30S 20L ou Micro-ondas Consul CMA20BB 20L: qual escolher?",
+      "problema": "Escolher um micro-ondas compacto de 20 litros para esquentar, descongelar e cozinhar",
+      "palavras_chave": [
+        "micro-ondas electrolux mt30s 20l ou micro-ondas consul cma20bb 20l",
+        "micro-ondas electrolux mt30s 20l vs micro-ondas consul cma20bb 20l",
+        "qual melhor micro-ondas electrolux mt30s 20l ou micro-ondas consul cma20bb 20l",
+        "micro-ondas electrolux mt30s 20l é bom",
+        "micro-ondas consul cma20bb 20l é bom",
+        "micro-ondas electrolux mt30s 20l ou micro-ondas consul cma20bb 20l qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Micro-ondas Electrolux MT30S 20L",
+        "Micro-ondas Consul CMA20BB 20L"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-comparativo-s012",
+      "tipo": "comparativo",
+      "categoria": "cozinha",
+      "subcategoria": "liquidificadores-e-processadores",
+      "funil": "fundo",
+      "titulo_sugerido": "Mixer Oster OMIX570 ou Mixer Britânia BMX400P: qual escolher?",
+      "problema": "Escolher um mixer 3 em 1 para sopas, vitaminas e molhos",
+      "palavras_chave": [
+        "mixer oster omix570 ou mixer britânia bmx400p",
+        "mixer oster omix570 vs mixer britânia bmx400p",
+        "qual melhor mixer oster omix570 ou mixer britânia bmx400p",
+        "mixer oster omix570 é bom",
+        "mixer britânia bmx400p é bom",
+        "mixer oster omix570 ou mixer britânia bmx400p qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Mixer Oster OMIX570",
+        "Mixer Britânia BMX400P"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-comparativo-s013",
+      "tipo": "comparativo",
+      "categoria": "cozinha",
+      "subcategoria": "eletroportateis",
+      "funil": "fundo",
+      "titulo_sugerido": "Sanduicheira Arno SACB ou Sanduicheira Mondial Fast Grill S12: qual escolher?",
+      "problema": "Escolher uma sanduicheira antiaderente para lanches rápidos",
+      "palavras_chave": [
+        "sanduicheira arno sacb ou sanduicheira mondial fast grill s12",
+        "sanduicheira arno sacb vs sanduicheira mondial fast grill s12",
+        "qual melhor sanduicheira arno sacb ou sanduicheira mondial fast grill s12",
+        "sanduicheira arno sacb é bom",
+        "sanduicheira mondial fast grill s12 é bom",
+        "sanduicheira arno sacb ou sanduicheira mondial fast grill s12 qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Sanduicheira Arno SACB",
+        "Sanduicheira Mondial Fast Grill S12"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-comparativo-s014",
+      "tipo": "comparativo",
+      "categoria": "cozinha",
+      "subcategoria": "air-fryer",
+      "funil": "fundo",
+      "titulo_sugerido": "Air Fryer Midea Widemax FWM85P1 ou Air Fryer Arno Mega AFM7: qual escolher?",
+      "problema": "Escolher uma air fryer grande para famílias de 4 a 6 pessoas",
+      "palavras_chave": [
+        "air fryer midea widemax fwm85p1 ou air fryer arno mega afm7",
+        "air fryer midea widemax fwm85p1 vs air fryer arno mega afm7",
+        "qual melhor air fryer midea widemax fwm85p1 ou air fryer arno mega afm7",
+        "air fryer midea widemax fwm85p1 é bom",
+        "air fryer arno mega afm7 é bom",
+        "air fryer midea widemax fwm85p1 ou air fryer arno mega afm7 qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Air Fryer Midea Widemax FWM85P1",
+        "Air Fryer Arno Mega AFM7"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-comparativo-s015",
+      "tipo": "comparativo",
+      "categoria": "cozinha",
+      "subcategoria": "eletroportateis",
+      "funil": "fundo",
+      "titulo_sugerido": "Panela de Arroz Oster 1L ou Panela Elétrica Britânia PA10 Prime: qual escolher?",
+      "problema": "Escolher uma panela elétrica para fazer arroz e outros preparos",
+      "palavras_chave": [
+        "panela de arroz oster 1l ou panela elétrica britânia pa10 prime",
+        "panela de arroz oster 1l vs panela elétrica britânia pa10 prime",
+        "qual melhor panela de arroz oster 1l ou panela elétrica britânia pa10 prime",
+        "panela de arroz oster 1l é bom",
+        "panela elétrica britânia pa10 prime é bom",
+        "panela de arroz oster 1l ou panela elétrica britânia pa10 prime qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Panela de Arroz Oster 1L",
+        "Panela Elétrica Britânia PA10 Prime"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-comparativo-s010",
+      "tipo": "comparativo",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "cabelo",
+      "funil": "fundo",
+      "titulo_sugerido": "Prancha Taiff Style Pro Titanium ou Escova Secadora Britânia BEC07R: qual escolher?",
+      "problema": "Escolher entre prancha alisadora e escova secadora para alisar em casa",
+      "palavras_chave": [
+        "prancha taiff style pro titanium ou escova secadora britânia bec07r",
+        "prancha taiff style pro titanium vs escova secadora britânia bec07r",
+        "qual melhor prancha taiff style pro titanium ou escova secadora britânia bec07r",
+        "prancha taiff style pro titanium é bom",
+        "escova secadora britânia bec07r é bom",
+        "prancha taiff style pro titanium ou escova secadora britânia bec07r qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Prancha Taiff Style Pro Titanium",
+        "Escova Secadora Britânia BEC07R"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-comparativo-s011",
+      "tipo": "comparativo",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "maquiagem",
+      "funil": "fundo",
+      "titulo_sugerido": "Maybelline Superstay Vinyl Ink ou Océane Tinted Pen: qual escolher?",
+      "problema": "Escolher um batom líquido de longa duração",
+      "palavras_chave": [
+        "maybelline superstay vinyl ink ou océane tinted pen",
+        "maybelline superstay vinyl ink vs océane tinted pen",
+        "qual melhor maybelline superstay vinyl ink ou océane tinted pen",
+        "maybelline superstay vinyl ink é bom",
+        "océane tinted pen é bom",
+        "maybelline superstay vinyl ink ou océane tinted pen qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Maybelline Superstay Vinyl Ink",
+        "Océane Tinted Pen"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "pets-comparativo-s010",
+      "tipo": "comparativo",
+      "categoria": "pets",
+      "subcategoria": "alimentacao-e-comedouros",
+      "funil": "fundo",
+      "titulo_sugerido": "Golden Fórmula Mini Bits ou Royal Canin Mini Indoor Adult: qual escolher?",
+      "problema": "Escolher a ração para cães adultos de raças pequenas",
+      "palavras_chave": [
+        "golden fórmula mini bits ou royal canin mini indoor adult",
+        "golden fórmula mini bits vs royal canin mini indoor adult",
+        "qual melhor golden fórmula mini bits ou royal canin mini indoor adult",
+        "golden fórmula mini bits é bom",
+        "royal canin mini indoor adult é bom",
+        "golden fórmula mini bits ou royal canin mini indoor adult qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Golden Fórmula Mini Bits",
+        "Royal Canin Mini Indoor Adult"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-comparativo-s010",
+      "tipo": "comparativo",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "corrida-e-caminhada",
+      "funil": "fundo",
+      "titulo_sugerido": "Asics Gel-Sparta 2 ou New Balance Fresh Foam 410 V9: qual escolher?",
+      "problema": "Escolher um tênis de corrida de entrada com bom amortecimento",
+      "palavras_chave": [
+        "asics gel-sparta 2 ou new balance fresh foam 410 v9",
+        "asics gel-sparta 2 vs new balance fresh foam 410 v9",
+        "qual melhor asics gel-sparta 2 ou new balance fresh foam 410 v9",
+        "asics gel-sparta 2 é bom",
+        "new balance fresh foam 410 v9 é bom",
+        "asics gel-sparta 2 ou new balance fresh foam 410 v9 qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Asics Gel-Sparta 2",
+        "New Balance Fresh Foam 410 V9"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-comparativo-s011",
+      "tipo": "comparativo",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "corrida-e-caminhada",
+      "funil": "fundo",
+      "titulo_sugerido": "Olympikus Veloz 3 ou Under Armour Charged Slight 3 SE: qual escolher?",
+      "problema": "Escolher um tênis de corrida leve para treinar sem gastar muito",
+      "palavras_chave": [
+        "olympikus veloz 3 ou under armour charged slight 3 se",
+        "olympikus veloz 3 vs under armour charged slight 3 se",
+        "qual melhor olympikus veloz 3 ou under armour charged slight 3 se",
+        "olympikus veloz 3 é bom",
+        "under armour charged slight 3 se é bom",
+        "olympikus veloz 3 ou under armour charged slight 3 se qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Olympikus Veloz 3",
+        "Under Armour Charged Slight 3 SE"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-comparativo-s012",
+      "tipo": "comparativo",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "camping-e-aventura",
+      "funil": "fundo",
+      "titulo_sugerido": "Mochila Nautika Cargo Air X 60+5L ou Mochila Nautika Intruder 45L: qual escolher?",
+      "problema": "Escolher uma mochila para trilhas e viagens de mochilão",
+      "palavras_chave": [
+        "mochila nautika cargo air x 60+5l ou mochila nautika intruder 45l",
+        "mochila nautika cargo air x 60+5l vs mochila nautika intruder 45l",
+        "qual melhor mochila nautika cargo air x 60+5l ou mochila nautika intruder 45l",
+        "mochila nautika cargo air x 60+5l é bom",
+        "mochila nautika intruder 45l é bom",
+        "mochila nautika cargo air x 60+5l ou mochila nautika intruder 45l qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Mochila Nautika Cargo Air X 60+5L",
+        "Mochila Nautika Intruder 45L"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-comparativo-s013",
+      "tipo": "comparativo",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "yoga-e-pilates",
+      "funil": "fundo",
+      "titulo_sugerido": "Bola de Basquete Wilson NBA DRV Pro ou Bola de Basquete Spalding Profissional: qual escolher?",
+      "problema": "Escolher uma bola de basquete resistente para jogar na quadra",
+      "palavras_chave": [
+        "bola de basquete wilson nba drv pro ou bola de basquete spalding profissional",
+        "bola de basquete wilson nba drv pro vs bola de basquete spalding profissional",
+        "qual melhor bola de basquete wilson nba drv pro ou bola de basquete spalding profissional",
+        "bola de basquete wilson nba drv pro é bom",
+        "bola de basquete spalding profissional é bom",
+        "bola de basquete wilson nba drv pro ou bola de basquete spalding profissional qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Bola de Basquete Wilson NBA DRV Pro",
+        "Bola de Basquete Spalding Profissional"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-comparativo-s014",
+      "tipo": "comparativo",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "yoga-e-pilates",
+      "funil": "fundo",
+      "titulo_sugerido": "Bola de Futebol de Campo Penalty Bravo XXIV ou Bola de Campo Topper Maestro Pro: qual escolher?",
+      "problema": "Escolher uma bola de futebol de campo resistente para pelada e treino",
+      "palavras_chave": [
+        "bola de futebol de campo penalty bravo xxiv ou bola de campo topper maestro pro",
+        "bola de futebol de campo penalty bravo xxiv vs bola de campo topper maestro pro",
+        "qual melhor bola de futebol de campo penalty bravo xxiv ou bola de campo topper maestro pro",
+        "bola de futebol de campo penalty bravo xxiv é bom",
+        "bola de campo topper maestro pro é bom",
+        "bola de futebol de campo penalty bravo xxiv ou bola de campo topper maestro pro qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Bola de Futebol de Campo Penalty Bravo XXIV",
+        "Bola de Campo Topper Maestro Pro"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-comparativo-s010",
+      "tipo": "comparativo",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "monitores",
+      "funil": "fundo",
+      "titulo_sugerido": "Monitor Samsung T350 24\" ou Monitor Philips 221V8: qual escolher?",
+      "problema": "Escolher um monitor básico para home office",
+      "palavras_chave": [
+        "monitor samsung t350 24\" ou monitor philips 221v8",
+        "monitor samsung t350 24\" vs monitor philips 221v8",
+        "qual melhor monitor samsung t350 24\" ou monitor philips 221v8",
+        "monitor samsung t350 24\" é bom",
+        "monitor philips 221v8 é bom",
+        "monitor samsung t350 24\" ou monitor philips 221v8 qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Monitor Samsung T350 24\"",
+        "Monitor Philips 221V8"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-comparativo-s009",
+      "tipo": "comparativo",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "tenis-e-calcados",
+      "funil": "fundo",
+      "titulo_sugerido": "Tênis Puma Smash V2 ou Tênis Adidas Grand Court: qual escolher?",
+      "problema": "Escolher um tênis casual branco clássico para o dia a dia",
+      "palavras_chave": [
+        "tênis puma smash v2 ou tênis adidas grand court",
+        "tênis puma smash v2 vs tênis adidas grand court",
+        "qual melhor tênis puma smash v2 ou tênis adidas grand court",
+        "tênis puma smash v2 é bom",
+        "tênis adidas grand court é bom",
+        "tênis puma smash v2 ou tênis adidas grand court qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Tênis Puma Smash V2",
+        "Tênis Adidas Grand Court"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-comparativo-s010",
+      "tipo": "comparativo",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "mochilas-e-bolsas",
+      "funil": "fundo",
+      "titulo_sugerido": "Mochila Kipling Seoul ou Mochila Samsonite Bel-air: qual escolher?",
+      "problema": "Escolher uma mochila de marca para o trabalho e a faculdade",
+      "palavras_chave": [
+        "mochila kipling seoul ou mochila samsonite bel-air",
+        "mochila kipling seoul vs mochila samsonite bel-air",
+        "qual melhor mochila kipling seoul ou mochila samsonite bel-air",
+        "mochila kipling seoul é bom",
+        "mochila samsonite bel-air é bom",
+        "mochila kipling seoul ou mochila samsonite bel-air qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Mochila Kipling Seoul",
+        "Mochila Samsonite Bel-air"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-comparativo-s011",
+      "tipo": "comparativo",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "mochilas-e-bolsas",
+      "funil": "fundo",
+      "titulo_sugerido": "Mochila JanSport Super FX ou Mochila Tommy Hilfiger Flag Backpack: qual escolher?",
+      "problema": "Escolher uma mochila de marca para escola e faculdade",
+      "palavras_chave": [
+        "mochila jansport super fx ou mochila tommy hilfiger flag backpack",
+        "mochila jansport super fx vs mochila tommy hilfiger flag backpack",
+        "qual melhor mochila jansport super fx ou mochila tommy hilfiger flag backpack",
+        "mochila jansport super fx é bom",
+        "mochila tommy hilfiger flag backpack é bom",
+        "mochila jansport super fx ou mochila tommy hilfiger flag backpack qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Mochila JanSport Super FX",
+        "Mochila Tommy Hilfiger Flag Backpack"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-comparativo-s012",
+      "tipo": "comparativo",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "relogios-e-oculos",
+      "funil": "fundo",
+      "titulo_sugerido": "Relógio Casio Vintage A158WEA ou Relógio Casio Standard AW-80D: qual escolher?",
+      "problema": "Escolher um relógio Casio barato e durável",
+      "palavras_chave": [
+        "relógio casio vintage a158wea ou relógio casio standard aw-80d",
+        "relógio casio vintage a158wea vs relógio casio standard aw-80d",
+        "qual melhor relógio casio vintage a158wea ou relógio casio standard aw-80d",
+        "relógio casio vintage a158wea é bom",
+        "relógio casio standard aw-80d é bom",
+        "relógio casio vintage a158wea ou relógio casio standard aw-80d qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Relógio Casio Vintage A158WEA",
+        "Relógio Casio Standard AW-80D"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-comparativo-s008",
+      "tipo": "comparativo",
+      "categoria": "automotivo",
+      "subcategoria": "limpeza-e-estetica",
+      "funil": "fundo",
+      "titulo_sugerido": "Shampoo Autoamerica Extreme ou Shampoo Cadillac High Shine: qual escolher?",
+      "problema": "Escolher um shampoo automotivo para lavar o carro sem tirar a cera",
+      "palavras_chave": [
+        "shampoo autoamerica extreme ou shampoo cadillac high shine",
+        "shampoo autoamerica extreme vs shampoo cadillac high shine",
+        "qual melhor shampoo autoamerica extreme ou shampoo cadillac high shine",
+        "shampoo autoamerica extreme é bom",
+        "shampoo cadillac high shine é bom",
+        "shampoo autoamerica extreme ou shampoo cadillac high shine qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Shampoo Autoamerica Extreme",
+        "Shampoo Cadillac High Shine"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "automotivo-comparativo-s009",
+      "tipo": "comparativo",
+      "categoria": "automotivo",
+      "subcategoria": "ferramentas-e-emergencia",
+      "funil": "fundo",
+      "titulo_sugerido": "Macaco Jacaré Vonder 2T ou Macaco Jacaré Worker 2T: qual escolher?",
+      "problema": "Escolher um macaco hidráulico de 2 toneladas para o carro",
+      "palavras_chave": [
+        "macaco jacaré vonder 2t ou macaco jacaré worker 2t",
+        "macaco jacaré vonder 2t vs macaco jacaré worker 2t",
+        "qual melhor macaco jacaré vonder 2t ou macaco jacaré worker 2t",
+        "macaco jacaré vonder 2t é bom",
+        "macaco jacaré worker 2t é bom",
+        "macaco jacaré vonder 2t ou macaco jacaré worker 2t qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Macaco Jacaré Vonder 2T",
+        "Macaco Jacaré Worker 2T"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "bebes-e-criancas-comparativo-s010",
+      "tipo": "comparativo",
+      "categoria": "bebes-e-criancas",
+      "subcategoria": "brinquedos",
+      "funil": "fundo",
+      "titulo_sugerido": "Jogo Detetive Estrela ou Jogo War Grow: qual escolher?",
+      "problema": "Escolher um jogo de tabuleiro para reunir a família e os amigos",
+      "palavras_chave": [
+        "jogo detetive estrela ou jogo war grow",
+        "jogo detetive estrela vs jogo war grow",
+        "qual melhor jogo detetive estrela ou jogo war grow",
+        "jogo detetive estrela é bom",
+        "jogo war grow é bom",
+        "jogo detetive estrela ou jogo war grow qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Jogo Detetive Estrela",
+        "Jogo War Grow"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-comparativo-s016",
+      "tipo": "comparativo",
+      "categoria": "tecnologia",
+      "subcategoria": "celulares-e-acessorios",
+      "funil": "fundo",
+      "titulo_sugerido": "Pen Drive SanDisk Cruzer Blade 64GB ou Pen Drive Kingston DataTraveler Exodia S 64GB: qual escolher?",
+      "problema": "Escolher um pen drive de 64GB confiável para transportar arquivos",
+      "palavras_chave": [
+        "pen drive sandisk cruzer blade 64gb ou pen drive kingston datatraveler exodia s 64gb",
+        "pen drive sandisk cruzer blade 64gb vs pen drive kingston datatraveler exodia s 64gb",
+        "qual melhor pen drive sandisk cruzer blade 64gb ou pen drive kingston datatraveler exodia s 64gb",
+        "pen drive sandisk cruzer blade 64gb é bom",
+        "pen drive kingston datatraveler exodia s 64gb é bom",
+        "pen drive sandisk cruzer blade 64gb ou pen drive kingston datatraveler exodia s 64gb qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Pen Drive SanDisk Cruzer Blade 64GB",
+        "Pen Drive Kingston DataTraveler Exodia S 64GB"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "casa-e-jardim-comparativo-s016",
+      "tipo": "comparativo",
+      "categoria": "casa-e-jardim",
+      "subcategoria": "limpeza",
+      "funil": "meio",
+      "titulo_sugerido": "Aspirador Electrolux EasyBox EAS40 ou Aspirador Electrolux Ergo Rápido ERG26: qual escolher?",
+      "problema": "Escolher entre aspirador com fio e vertical sem fio para a casa",
+      "palavras_chave": [
+        "aspirador electrolux easybox eas40 ou aspirador electrolux ergo rápido erg26",
+        "aspirador electrolux easybox eas40 vs aspirador electrolux ergo rápido erg26",
+        "qual melhor aspirador electrolux easybox eas40 ou aspirador electrolux ergo rápido erg26",
+        "aspirador electrolux easybox eas40 é bom",
+        "aspirador electrolux ergo rápido erg26 é bom",
+        "aspirador electrolux easybox eas40 ou aspirador electrolux ergo rápido erg26 qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Aspirador Electrolux EasyBox EAS40",
+        "Aspirador Electrolux Ergo Rápido ERG26"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-comparativo-s011",
+      "tipo": "comparativo",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "monitores",
+      "funil": "meio",
+      "titulo_sugerido": "Monitor Gamer LG UltraGear 27G411B ou Monitor Gamer Redragon Aquamarine GM27H2G 27\": qual escolher?",
+      "problema": "Escolher um monitor gamer de 27 polegadas 144-165 Hz de bom custo-benefício",
+      "palavras_chave": [
+        "monitor gamer lg ultragear 27g411b ou monitor gamer redragon aquamarine gm27h2g 27\"",
+        "monitor gamer lg ultragear 27g411b vs monitor gamer redragon aquamarine gm27h2g 27\"",
+        "qual melhor monitor gamer lg ultragear 27g411b ou monitor gamer redragon aquamarine gm27h2g 27\"",
+        "monitor gamer lg ultragear 27g411b é bom",
+        "monitor gamer redragon aquamarine gm27h2g 27\" é bom",
+        "monitor gamer lg ultragear 27g411b ou monitor gamer redragon aquamarine gm27h2g 27\" qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Monitor Gamer LG UltraGear 27G411B",
+        "Monitor Gamer Redragon Aquamarine GM27H2G 27\""
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "escritorio-e-estudos-comparativo-s012",
+      "tipo": "comparativo",
+      "categoria": "escritorio-e-estudos",
+      "subcategoria": "cadeiras-e-mesas",
+      "funil": "fundo",
+      "titulo_sugerido": "Cadeira Gamer Pichau Donek V2 ou Cadeira Gamer Dazz Elite Pro: qual escolher?",
+      "problema": "Escolher uma cadeira gamer de entrada para estudar e jogar",
+      "palavras_chave": [
+        "cadeira gamer pichau donek v2 ou cadeira gamer dazz elite pro",
+        "cadeira gamer pichau donek v2 vs cadeira gamer dazz elite pro",
+        "qual melhor cadeira gamer pichau donek v2 ou cadeira gamer dazz elite pro",
+        "cadeira gamer pichau donek v2 é bom",
+        "cadeira gamer dazz elite pro é bom",
+        "cadeira gamer pichau donek v2 ou cadeira gamer dazz elite pro qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Cadeira Gamer Pichau Donek V2",
+        "Cadeira Gamer Dazz Elite Pro"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-comparativo-s012",
+      "tipo": "comparativo",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "pele-e-skincare",
+      "funil": "fundo",
+      "titulo_sugerido": "Protetor Solar Facial Episol Color FPS 70 Tom 3 ou Protetor Solar Facial La Roche-Posay Anthelios Ultra Cover FPS 60: qual escolher?",
+      "problema": "Escolher um protetor solar facial com cor para usar no lugar da base",
+      "palavras_chave": [
+        "protetor solar facial episol color fps 70 tom 3 ou protetor solar facial la roche-posay anthelios ultra cover fps 60",
+        "protetor solar facial episol color fps 70 tom 3 vs protetor solar facial la roche-posay anthelios ultra cover fps 60",
+        "qual melhor protetor solar facial episol color fps 70 tom 3 ou protetor solar facial la roche-posay anthelios ultra cover fps 60",
+        "protetor solar facial episol color fps 70 tom 3 é bom",
+        "protetor solar facial la roche-posay anthelios ultra cover fps 60 é bom",
+        "protetor solar facial episol color fps 70 tom 3 ou protetor solar facial la roche-posay anthelios ultra cover fps 60 qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Protetor Solar Facial Episol Color FPS 70 Tom 3",
+        "Protetor Solar Facial La Roche-Posay Anthelios Ultra Cover FPS 60"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "esportes-e-lazer-comparativo-s015",
+      "tipo": "comparativo",
+      "categoria": "esportes-e-lazer",
+      "subcategoria": "corrida-e-caminhada",
+      "funil": "meio",
+      "titulo_sugerido": "Tênis Asics Gel-Nimbus 28 ou Tênis Mizuno Wave Prorunner 25: qual escolher?",
+      "problema": "Escolher um tênis de corrida com amortecimento para treinar mais longe",
+      "palavras_chave": [
+        "tênis asics gel-nimbus 28 ou tênis mizuno wave prorunner 25",
+        "tênis asics gel-nimbus 28 vs tênis mizuno wave prorunner 25",
+        "qual melhor tênis asics gel-nimbus 28 ou tênis mizuno wave prorunner 25",
+        "tênis asics gel-nimbus 28 é bom",
+        "tênis mizuno wave prorunner 25 é bom",
+        "tênis asics gel-nimbus 28 ou tênis mizuno wave prorunner 25 qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Tênis Asics Gel-Nimbus 28",
+        "Tênis Mizuno Wave Prorunner 25"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-comparativo-s017",
+      "tipo": "comparativo",
+      "categoria": "tecnologia",
+      "subcategoria": "celulares-e-acessorios",
+      "funil": "fundo",
+      "titulo_sugerido": "Power Bank Baseus PicoGo AM41 10000mAh ou Power Bank Baseus Bipow2 Pro 10000mAh: qual escolher?",
+      "problema": "Escolher um carregador portátil de 10000mAh para o celular",
+      "palavras_chave": [
+        "power bank baseus picogo am41 10000mah ou power bank baseus bipow2 pro 10000mah",
+        "power bank baseus picogo am41 10000mah vs power bank baseus bipow2 pro 10000mah",
+        "qual melhor power bank baseus picogo am41 10000mah ou power bank baseus bipow2 pro 10000mah",
+        "power bank baseus picogo am41 10000mah é bom",
+        "power bank baseus bipow2 pro 10000mah é bom",
+        "power bank baseus picogo am41 10000mah ou power bank baseus bipow2 pro 10000mah qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Power Bank Baseus PicoGo AM41 10000mAh",
+        "Power Bank Baseus Bipow2 Pro 10000mAh"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-comparativo-s016",
+      "tipo": "comparativo",
+      "categoria": "cozinha",
+      "subcategoria": "utensilios",
+      "funil": "fundo",
+      "titulo_sugerido": "Garrafa Térmica Termolar Lumina 1L ou Garrafa Térmica Mor Nobile Inox 1,3L: qual escolher?",
+      "problema": "Escolher uma garrafa térmica de pressão para café e água quente",
+      "palavras_chave": [
+        "garrafa térmica termolar lumina 1l ou garrafa térmica mor nobile inox 1,3l",
+        "garrafa térmica termolar lumina 1l vs garrafa térmica mor nobile inox 1,3l",
+        "qual melhor garrafa térmica termolar lumina 1l ou garrafa térmica mor nobile inox 1,3l",
+        "garrafa térmica termolar lumina 1l é bom",
+        "garrafa térmica mor nobile inox 1,3l é bom",
+        "garrafa térmica termolar lumina 1l ou garrafa térmica mor nobile inox 1,3l qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Garrafa Térmica Termolar Lumina 1L",
+        "Garrafa Térmica Mor Nobile Inox 1,3L"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-comparativo-s013",
+      "tipo": "comparativo",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "perfumes",
+      "funil": "meio",
+      "titulo_sugerido": "Perfume Dolce & Gabbana Light Blue Pour Homme EDT 100ml ou Perfume Giorgio Armani Acqua di Giò Pour Homme EDT 100ml: qual escolher?",
+      "problema": "Escolher um perfume masculino fresco para o calor",
+      "palavras_chave": [
+        "perfume dolce & gabbana light blue pour homme edt 100ml ou perfume giorgio armani acqua di giò pour homme edt 100ml",
+        "perfume dolce & gabbana light blue pour homme edt 100ml vs perfume giorgio armani acqua di giò pour homme edt 100ml",
+        "qual melhor perfume dolce & gabbana light blue pour homme edt 100ml ou perfume giorgio armani acqua di giò pour homme edt 100ml",
+        "perfume dolce & gabbana light blue pour homme edt 100ml é bom",
+        "perfume giorgio armani acqua di giò pour homme edt 100ml é bom",
+        "perfume dolce & gabbana light blue pour homme edt 100ml ou perfume giorgio armani acqua di giò pour homme edt 100ml qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Perfume Dolce & Gabbana Light Blue Pour Homme EDT 100ml",
+        "Perfume Giorgio Armani Acqua di Giò Pour Homme EDT 100ml"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-comparativo-s013",
+      "tipo": "comparativo",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "tenis-e-calcados",
+      "funil": "fundo",
+      "titulo_sugerido": "Tênis Puma Carina 3.0 ou Tênis Adidas Advantage Base 2.0 Feminino: qual escolher?",
+      "problema": "Escolher um tênis casual feminino branco para o dia a dia",
+      "palavras_chave": [
+        "tênis puma carina 3.0 ou tênis adidas advantage base 2.0 feminino",
+        "tênis puma carina 3.0 vs tênis adidas advantage base 2.0 feminino",
+        "qual melhor tênis puma carina 3.0 ou tênis adidas advantage base 2.0 feminino",
+        "tênis puma carina 3.0 é bom",
+        "tênis adidas advantage base 2.0 feminino é bom",
+        "tênis puma carina 3.0 ou tênis adidas advantage base 2.0 feminino qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Tênis Puma Carina 3.0",
+        "Tênis Adidas Advantage Base 2.0 Feminino"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-comparativo-s017",
+      "tipo": "comparativo",
+      "categoria": "cozinha",
+      "subcategoria": "utensilios",
+      "funil": "fundo",
+      "titulo_sugerido": "Jogo de Facas Tramontina Plenus 4 Peças ou Jogo de Facas Tramontina Felice 5 Peças: qual escolher?",
+      "problema": "Escolher um jogo de facas básico para a cozinha de casa",
+      "palavras_chave": [
+        "jogo de facas tramontina plenus 4 peças ou jogo de facas tramontina felice 5 peças",
+        "jogo de facas tramontina plenus 4 peças vs jogo de facas tramontina felice 5 peças",
+        "qual melhor jogo de facas tramontina plenus 4 peças ou jogo de facas tramontina felice 5 peças",
+        "jogo de facas tramontina plenus 4 peças é bom",
+        "jogo de facas tramontina felice 5 peças é bom",
+        "jogo de facas tramontina plenus 4 peças ou jogo de facas tramontina felice 5 peças qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Jogo de Facas Tramontina Plenus 4 Peças",
+        "Jogo de Facas Tramontina Felice 5 Peças"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-comparativo-s018",
+      "tipo": "comparativo",
+      "categoria": "tecnologia",
+      "subcategoria": "tvs-e-video",
+      "funil": "meio",
+      "titulo_sugerido": "Smart TV TCL 43S5K QLED 43\" ou Smart TV LG NanoCell 4K 43\" 43UN85: qual escolher?",
+      "problema": "Escolher uma Smart TV de 43 polegadas para sala ou quarto",
+      "palavras_chave": [
+        "smart tv tcl 43s5k qled 43\" ou smart tv lg nanocell 4k 43\" 43un85",
+        "smart tv tcl 43s5k qled 43\" vs smart tv lg nanocell 4k 43\" 43un85",
+        "qual melhor smart tv tcl 43s5k qled 43\" ou smart tv lg nanocell 4k 43\" 43un85",
+        "smart tv tcl 43s5k qled 43\" é bom",
+        "smart tv lg nanocell 4k 43\" 43un85 é bom",
+        "smart tv tcl 43s5k qled 43\" ou smart tv lg nanocell 4k 43\" 43un85 qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Smart TV TCL 43S5K QLED 43\"",
+        "Smart TV LG NanoCell 4K 43\" 43UN85"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-comparativo-s018",
+      "tipo": "comparativo",
+      "categoria": "cozinha",
+      "subcategoria": "liquidificadores-e-processadores",
+      "funil": "fundo",
+      "titulo_sugerido": "Liquidificador Electrolux Efficient EBL1500 3,2L ou Liquidificador Philco PLQ2100PI 3L: qual escolher?",
+      "problema": "Escolher um liquidificador potente de 3 litros para a rotina da casa",
+      "palavras_chave": [
+        "liquidificador electrolux efficient ebl1500 3,2l ou liquidificador philco plq2100pi 3l",
+        "liquidificador electrolux efficient ebl1500 3,2l vs liquidificador philco plq2100pi 3l",
+        "qual melhor liquidificador electrolux efficient ebl1500 3,2l ou liquidificador philco plq2100pi 3l",
+        "liquidificador electrolux efficient ebl1500 3,2l é bom",
+        "liquidificador philco plq2100pi 3l é bom",
+        "liquidificador electrolux efficient ebl1500 3,2l ou liquidificador philco plq2100pi 3l qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Liquidificador Electrolux Efficient EBL1500 3,2L",
+        "Liquidificador Philco PLQ2100PI 3L"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-comparativo-s019",
+      "tipo": "comparativo",
+      "categoria": "cozinha",
+      "subcategoria": "geladeiras-fogoes-e-micro-ondas",
+      "funil": "fundo",
+      "titulo_sugerido": "Micro-ondas Panasonic NN-ST27 21L ou Micro-ondas Brastemp BMS20 20L: qual escolher?",
+      "problema": "Escolher um micro-ondas compacto de marca conhecida para esquentar e descongelar",
+      "palavras_chave": [
+        "micro-ondas panasonic nn-st27 21l ou micro-ondas brastemp bms20 20l",
+        "micro-ondas panasonic nn-st27 21l vs micro-ondas brastemp bms20 20l",
+        "qual melhor micro-ondas panasonic nn-st27 21l ou micro-ondas brastemp bms20 20l",
+        "micro-ondas panasonic nn-st27 21l é bom",
+        "micro-ondas brastemp bms20 20l é bom",
+        "micro-ondas panasonic nn-st27 21l ou micro-ondas brastemp bms20 20l qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Micro-ondas Panasonic NN-ST27 21L",
+        "Micro-ondas Brastemp BMS20 20L"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-comparativo-s020",
+      "tipo": "comparativo",
+      "categoria": "cozinha",
+      "subcategoria": "air-fryer",
+      "funil": "meio",
+      "titulo_sugerido": "Air Fryer Philips Walita Série 3000 NA341 ou Air Fryer Electrolux Experience 5,6L Digital: qual escolher?",
+      "problema": "Escolher uma air fryer digital de marca conhecida",
+      "palavras_chave": [
+        "air fryer philips walita série 3000 na341 ou air fryer electrolux experience 5,6l digital",
+        "air fryer philips walita série 3000 na341 vs air fryer electrolux experience 5,6l digital",
+        "qual melhor air fryer philips walita série 3000 na341 ou air fryer electrolux experience 5,6l digital",
+        "air fryer philips walita série 3000 na341 é bom",
+        "air fryer electrolux experience 5,6l digital é bom",
+        "air fryer philips walita série 3000 na341 ou air fryer electrolux experience 5,6l digital qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Air Fryer Philips Walita Série 3000 NA341",
+        "Air Fryer Electrolux Experience 5,6L Digital"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "tecnologia-comparativo-s019",
+      "tipo": "comparativo",
+      "categoria": "tecnologia",
+      "subcategoria": "fones-de-ouvido",
+      "funil": "meio",
+      "titulo_sugerido": "Fone JBL Tune Buds 2 ou Fone JBL Wave Buds 2: qual escolher?",
+      "problema": "Escolher entre dois fones Bluetooth com cancelamento de ruído da JBL",
+      "palavras_chave": [
+        "fone jbl tune buds 2 ou fone jbl wave buds 2",
+        "fone jbl tune buds 2 vs fone jbl wave buds 2",
+        "qual melhor fone jbl tune buds 2 ou fone jbl wave buds 2",
+        "fone jbl tune buds 2 é bom",
+        "fone jbl wave buds 2 é bom",
+        "fone jbl tune buds 2 ou fone jbl wave buds 2 qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Fone JBL Tune Buds 2",
+        "Fone JBL Wave Buds 2"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "moda-e-acessorios-comparativo-s014",
+      "tipo": "comparativo",
+      "categoria": "moda-e-acessorios",
+      "subcategoria": "tenis-e-calcados",
+      "funil": "fundo",
+      "titulo_sugerido": "Tênis Kappa Pulse RX ou Tênis Skechers Go Walk Flex: qual escolher?",
+      "problema": "Escolher um tênis casual confortável para o dia a dia",
+      "palavras_chave": [
+        "tênis kappa pulse rx ou tênis skechers go walk flex",
+        "tênis kappa pulse rx vs tênis skechers go walk flex",
+        "qual melhor tênis kappa pulse rx ou tênis skechers go walk flex",
+        "tênis kappa pulse rx é bom",
+        "tênis skechers go walk flex é bom",
+        "tênis kappa pulse rx ou tênis skechers go walk flex qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Tênis Kappa Pulse RX",
+        "Tênis Skechers Go Walk Flex"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "beleza-e-cuidados-pessoais-comparativo-s014",
+      "tipo": "comparativo",
+      "categoria": "beleza-e-cuidados-pessoais",
+      "subcategoria": "perfumes",
+      "funil": "meio",
+      "titulo_sugerido": "Perfume Hugo Boss Bottled EDP 100ml ou Perfume Ralph Lauren Polo Blue EDP 125ml: qual escolher?",
+      "problema": "Escolher um perfume masculino de uso diário que dura o dia todo",
+      "palavras_chave": [
+        "perfume hugo boss bottled edp 100ml ou perfume ralph lauren polo blue edp 125ml",
+        "perfume hugo boss bottled edp 100ml vs perfume ralph lauren polo blue edp 125ml",
+        "qual melhor perfume hugo boss bottled edp 100ml ou perfume ralph lauren polo blue edp 125ml",
+        "perfume hugo boss bottled edp 100ml é bom",
+        "perfume ralph lauren polo blue edp 125ml é bom",
+        "perfume hugo boss bottled edp 100ml ou perfume ralph lauren polo blue edp 125ml qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Perfume Hugo Boss Bottled EDP 100ml",
+        "Perfume Ralph Lauren Polo Blue EDP 125ml"
+      ],
+      "prioridade": 2,
+      "sazonal": null,
+      "status": "pending"
+    },
+    {
+      "id": "cozinha-comparativo-s021",
+      "tipo": "comparativo",
+      "categoria": "cozinha",
+      "subcategoria": "eletroportateis",
+      "funil": "fundo",
+      "titulo_sugerido": "Forno Elétrico Philco PFE52P 50L ou Air Fryer e Forno Digital Black+Decker AFO12G: qual escolher?",
+      "problema": "Escolher entre um forno elétrico e uma air fryer forno para a cozinha",
+      "palavras_chave": [
+        "forno elétrico philco pfe52p 50l ou air fryer e forno digital black+decker afo12g",
+        "forno elétrico philco pfe52p 50l vs air fryer e forno digital black+decker afo12g",
+        "qual melhor forno elétrico philco pfe52p 50l ou air fryer e forno digital black+decker afo12g",
+        "forno elétrico philco pfe52p 50l é bom",
+        "air fryer e forno digital black+decker afo12g é bom",
+        "forno elétrico philco pfe52p 50l ou air fryer e forno digital black+decker afo12g qual comprar"
+      ],
+      "produtos_candidatos": [
+        "Forno Elétrico Philco PFE52P 50L",
+        "Air Fryer e Forno Digital Black+Decker AFO12G"
+      ],
+      "prioridade": 2,
       "sazonal": null,
       "status": "pending"
     }
