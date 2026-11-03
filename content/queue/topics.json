@@ -12356,7 +12356,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "air-fryer-philips-walita-duplo-cesto-na150-vale-a-pena",
+      "published_at": "2026-11-03"
     },
     {
       "id": "cozinha-review-025",
@@ -12839,7 +12841,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "gillette-fusion5-e-bom",
+      "published_at": "2026-11-03"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-019",
@@ -13511,7 +13515,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "logitech-lift-ou-signature-m650",
+      "published_at": "2026-11-03"
     },
     {
       "id": "escritorio-e-estudos-comparativo-021",
@@ -13628,7 +13634,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "aspirador-black-decker-apb12000-e-bom",
+      "published_at": "2026-11-03"
     },
     {
       "id": "automotivo-review-021",
@@ -13971,7 +13979,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "havaianas-brasil-logo-ou-rider-r1",
+      "published_at": "2026-11-03"
     }
   ]
 }
