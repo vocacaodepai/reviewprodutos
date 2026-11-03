@@ -12003,7 +12003,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "tapo-c100-ou-tapo-c200",
+      "published_at": "2026-11-03"
     },
     {
       "id": "tecnologia-comparativo-023",
@@ -12257,7 +12259,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped",
+      "published_slug": "sanremo-42-l-ou-sanremo-56-l",
+      "published_at": "2026-11-03"
     },
     {
       "id": "casa-e-jardim-comparativo-023",
@@ -12396,7 +12400,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "oster-ocaf900-e-boa",
+      "published_at": "2026-11-03"
     },
     {
       "id": "cozinha-comparativo-019",
@@ -12988,7 +12994,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "comedouro-chalesco-inox-960-ml-e-bom",
+      "published_at": "2026-11-03"
     },
     {
       "id": "pets-review-022",
@@ -13636,7 +13644,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "medidor-pressao-tramontina-e-bom",
+      "published_at": "2026-11-03"
     },
     {
       "id": "automotivo-review-022",
