@@ -5047,7 +5047,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "edifier-mr4-e-bom",
+      "published_at": "2026-11-03"
     },
     {
       "id": "tecnologia-review-s015",
@@ -5553,7 +5555,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "guia-de-seda-peitoral-furacao-pet-e-boa",
+      "published_at": "2026-11-03"
     },
     {
       "id": "pets-review-s012",
@@ -5833,7 +5837,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "elg-f80-e-bom",
+      "published_at": "2026-11-03"
     },
     {
       "id": "moda-e-acessorios-review-s008",
@@ -5856,7 +5862,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "moda-e-acessorios-review-s009",
@@ -6133,7 +6139,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "tecnologia-comparativo-s012",
@@ -6545,7 +6551,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "golden-mini-bits-ou-royal-canin-mini-indoor",
+      "published_at": "2026-11-03"
     },
     {
       "id": "esportes-e-lazer-comparativo-s010",
@@ -6667,7 +6675,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "escritorio-e-estudos-comparativo-s010",
@@ -6691,7 +6699,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "samsung-t350-ou-philips-221v8",
+      "published_at": "2026-11-03"
     },
     {
       "id": "moda-e-acessorios-comparativo-s009",
