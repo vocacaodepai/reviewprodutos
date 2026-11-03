@@ -60,10 +60,13 @@ produtos:
       "Peso e medidas": "197 g; 163,3 x 76,6 x 8,2 mm"
     faixaPreco: "$$"
     precoMercado:
-      min: 1250
+      min: 1330
       max: 1500
-      referencia: "2026-10"
+      referencia: "2026-11"
+      tendencia: subindo
       observacao: "A variação entre lojas é grande e os comparadores indicam preço acima da média recente. Confira a versão (RAM, armazenamento e NFC) antes de comparar valores."
+      historico:
+        - { periodo: "2026-10", min: 1250, max: 1500 }
       fontes:
         - { nome: "Buscapé — Redmi Note 14 128GB 6GB", url: "https://www.buscape.com.br/celular/celular-xiaomi-redmi-note-14-128gb-6-gb" }
         - { nome: "Zoom — Redmi Note 14 128GB 6GB", url: "https://www.zoom.com.br/celular/celular-xiaomi-redmi-note-14-128gb-6-gb" }

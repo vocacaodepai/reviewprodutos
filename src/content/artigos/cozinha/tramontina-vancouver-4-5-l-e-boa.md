@@ -62,10 +62,13 @@ produtos:
       "Garantia": "1 ano (9 meses contratuais + 90 dias legais)"
     faixaPreco: "$"
     precoMercado:
-      min: 180
-      max: 300
-      referencia: "2026-10"
-      observacao: "Faixa do modelo 20591/420 (Vancouver Effect, 4,5 L) em comparadores; a cor e a loja mudam o valor."
+      min: 185
+      max: 285
+      referencia: "2026-11"
+      tendencia: estavel
+      observacao: "Faixa do modelo 20591/420 (Vancouver Effect, 4,5 L) em Magazine Luiza e Angeloni; a cor e a loja mudam o valor."
+      historico:
+        - { periodo: "2026-10", min: 180, max: 300 }
       fontes:
         - { nome: "Buscapé — Tramontina Vancouver Effect 20591/420 (ofertas)", url: "https://www.buscape.com.br/panela-pressao/panela-de-pressao-tramontina-4-5-l-vancouver-effect-20591-420" }
         - { nome: "Zoom — Tramontina Vancouver Effect 20591/420 (ofertas)", url: "https://www.zoom.com.br/panela-pressao/panela-de-pressao-tramontina-4-5-l-vancouver-effect-20591-420" }

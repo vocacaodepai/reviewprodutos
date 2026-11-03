@@ -60,10 +60,13 @@ produtos:
       "Garantia": "12 meses (informada na página do produto)"
     faixaPreco: "$"
     precoMercado:
-      min: 210
-      max: 240
-      referencia: "2026-10"
-      observacao: "Faixa observada em lojas como KaBuM! e Magazine Luiza. Os preços mudam com frequência e variam entre as cores."
+      min: 205
+      max: 210
+      referencia: "2026-11"
+      tendencia: caindo
+      observacao: "Faixa observada em KaBuM! e Want Import. Os preços mudam com frequência e variam entre as cores."
+      historico:
+        - { periodo: "2026-10", min: 210, max: 240 }
       fontes:
         - { nome: "Buscapé — Headphone Bluetooth com Microfone JBL Tune 520BT", url: "https://www.buscape.com.br/fone-de-ouvido-e-headset/headphone-bluetooth-com-microfone-jbl-tune-520bt" }
         - { nome: "Zoom — Headphone Bluetooth com Microfone JBL Tune 520BT", url: "https://www.zoom.com.br/fone-de-ouvido-e-headset/headphone-bluetooth-com-microfone-jbl-tune-520bt" }
