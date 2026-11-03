@@ -5714,7 +5714,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "tapete-yoga-acte-t54-comfort-e-bom",
+      "published_at": "2026-11-03"
     },
     {
       "id": "escritorio-e-estudos-review-s010",
@@ -5760,7 +5762,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "stabilo-boss-pastel-vale-a-pena",
+      "published_at": "2026-11-03"
     },
     {
       "id": "escritorio-e-estudos-review-s012",
@@ -6177,7 +6181,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped",
+      "published_slug": "wd-elements-ou-seagate-expansion-4tb",
+      "published_at": "2026-11-03"
     },
     {
       "id": "tecnologia-comparativo-s014",
@@ -6273,7 +6279,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "ferro-britania-bfs30-ou-philco-pfe01p",
+      "published_at": "2026-11-03"
     },
     {
       "id": "casa-e-jardim-comparativo-s013",
@@ -6369,7 +6377,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "cozinha-comparativo-s012",
@@ -6633,7 +6641,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "bola-basquete-wilson-drv-pro-ou-spalding-downtown",
+      "published_at": "2026-11-03"
     },
     {
       "id": "esportes-e-lazer-comparativo-s014",
