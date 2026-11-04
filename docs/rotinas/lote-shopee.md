@@ -1,6 +1,6 @@
 # Rotina de lote da Shopee: 5 artigos por rodada
 
-Mesma estrutura, volume e qualidade da rotina da Amazon (`docs/rotinas/lote.md`), mas com produtos vendidos na **Shopee Brasil**. Roda como uma segunda **Routine do Claude Code**, 4 vezes por dia (07:52, 10:52, 19:52 e 22:52 de Brasília, uma hora depois das rodadas da Amazon para nunca disputarem a `main`), 5 artigos por rodada, **20 por dia**. Mesma divisão de formatos da Amazon: rodadas das 07:52 e 19:52 com 3 comparativos + 2 reviews, as das 10:52 e 22:52 com 2 comparativos + 3 reviews. Sem listas.
+Mesma estrutura, volume e qualidade da rotina da Amazon (`docs/rotinas/lote.md`), mas com produtos vendidos na **Shopee Brasil**. Roda como uma segunda **Routine do Claude Code**, 5 vezes por dia, às 08:22, 11:22, 14:22, 17:22 e 20:22 de Brasília (30 minutos antes das rodadas da Amazon para nunca disputarem a `main`), **1 artigo por rodada**: comparativo às 08:22, 14:22 e 20:22; review às 11:22 e 17:22. São **3 comparativos + 2 reviews**, 5 por dia, e 10 por dia somando a Amazon. Onde este roteiro fala em 5 artigos/5 redatores por rodada, leia 1 artigo/1 redator. Limite diário: se já houver 5 temas com `published_at` igual a hoje (UTC) na fila, a rodada encerra sem publicar. Sem listas.
 
 Trabalhe sozinho até o fim, sem perguntar nada ao usuário.
 
