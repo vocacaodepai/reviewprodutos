@@ -25,12 +25,9 @@ export function websiteSchema(): JsonLd {
     name: SITE.name,
     description: SITE.description,
     inLanguage: 'pt-BR',
+    // Sem SearchAction: o Google aposentou a caixa de busca nos sitelinks e /busca/ é bloqueada no robots.txt;
+    // anunciar a URL de busca só convidava o rastreador a descobrir milhares de /busca/?q=.
     publisher: { '@id': `${SITE.url}/#organization` },
-    potentialAction: {
-      '@type': 'SearchAction',
-      target: { '@type': 'EntryPoint', urlTemplate: `${SITE.url}/busca/?q={search_term_string}` },
-      'query-input': 'required name=search_term_string',
-    },
   };
 }
 
