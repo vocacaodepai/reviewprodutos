@@ -69,13 +69,17 @@ produtos:
       "Durabilidade": 6.5
       "Custo-benefício": 8.0
     precoMercado:
-      min: 150
-      max: 180
-      referencia: "2026-10"
+      min: 140
+      max: 170
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 150, max: 180 }
+      tendencia: caindo
       observacao: "A média dos últimos 40 dias nos comparadores fica estável; a diferença entre 127 V e 220 V pode mexer no valor. Confira a voltagem antes de comprar."
       fontes:
         - { nome: "Buscapé — Philco PAS1550C 220V", url: "https://www.buscape.com.br/aspirador-po-agua/aspirador-de-po-vertical-2-em-1-1400w-philco-pas1550c-220v" }
         - { nome: "Zoom — Philco PAS1550C 220V", url: "https://www.zoom.com.br/aspirador-po-agua/aspirador-de-po-vertical-2-em-1-1400w-philco-pas1550c-220v" }
+        - { nome: "Fast Shop — Philco PAS1550C 220V", url: "https://site.fastshop.com.br/aspirador-de-po-vertical-philco-ciclone-2-em-1-1400w-pas1550c-112134-118683/p" }
 criterios:
   - nome: "Desempenho"
     peso: 25

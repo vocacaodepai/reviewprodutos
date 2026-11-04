@@ -62,9 +62,11 @@ produtos:
     voltagem: "Bivolt"
     faixaPreco: "$$"
     precoMercado:
-      min: 490
+      min: 500
       max: 510
-      referencia: "2026-10"
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 490, max: 510 }
       tendencia: estavel
       observacao: "Uma loja grande chegou a cotar bem acima da faixa. Compare a oferta antes de fechar e confira que o anúncio é do modelo ERG21."
       fontes:

@@ -61,14 +61,19 @@ produtos:
     voltagem: "220V"
     precoMercado:
       min: 90
-      max: 150
-      referencia: "2026-10"
+      max: 130
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 90, max: 150 }
+      tendencia: caindo
       observacao: "Faixa estimada em comparador e lojas; varia conforme voltagem, cor e vendedor."
       fontes:
         - nome: "Buscapé — Ventilador de Mesa Mondial VSP-30-B 30 cm"
           url: "https://www.buscape.com.br/ventilador-circulador/ventilador-de-mesa-mondial-vsp-30-b-30-cm-6-pas-3-velocidades"
         - nome: "KaBuM! — Ventilador Mondial VSP30 30 cm 6 pás preto"
           url: "https://www.kabum.com.br/produto/314929/ventilador-mondial-vsp30-30cm-6-pas-preto-220v"
+        - nome: "Fast Shop — Ventilador Mondial VSP-30-B 220V"
+          url: "https://site.fastshop.com.br/ventilador-de-mesa-mondial---06-pas---vsp-30-b-vent-30cm-vsp-30-b-220v-60hz-super-power-162337/p"
     faixaPreco: "$"
     idealPara: "Quem quer um ventilador de mesa simples e barato para quarto pequeno, escritório ou cômodo de apoio"
     naoIndicadoPara: "Quem precisa refrescar sala grande ou quer controle remoto, timer e funcionamento muito silencioso"
