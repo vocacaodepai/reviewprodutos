@@ -60,7 +60,9 @@ produtos:
     precoMercado:
       min: 100
       max: 140
-      referencia: "2026-10"
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 100, max: 140 }
       tendencia: estavel
       observacao: "Faixa observada em comparadores e em loja, no mês de referência, para o mesmo modelo; varia com a voltagem e o vendedor."
       fontes:

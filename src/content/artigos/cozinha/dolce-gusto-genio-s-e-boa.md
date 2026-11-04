@@ -64,9 +64,9 @@ produtos:
       "Garantia": "12 meses (Arno)"
     faixaPreco: "$$"
     precoMercado:
-      min: 430
-      max: 500
-      referencia: "2026-10"
+      min: 460
+      max: 490
+      referencia: "2026-11"
       historico:
         - { periodo: "2025-11", min: 340, max: 420 }
         - { periodo: "2026-02", min: 360, max: 400 }
@@ -74,7 +74,7 @@ produtos:
         - { periodo: "2026-08", min: 380, max: 450 }
         - { periodo: "2026-10", min: 430, max: 470 }
       tendencia: subindo
-      observacao: "Histórico: menor preço diário registrado em comparadores de preço (todas as cores)."
+      observacao: "Faixa atual da versão grafite em lojas que não são a Amazon; a versão branca custa mais. Histórico: menor preço diário registrado em comparadores de preço (todas as cores)."
       fontes:
         - { nome: "Buscapé — Arno Dolce Gusto Genio S Basic (ofertas e histórico de preços)", url: "https://www.buscape.com.br/cafeteira-eletrica/cafeteira-expresso-arno-genio-s-basic" }
         - { nome: "Buscapé — ofertas da Genio S Basic 110V", url: "https://www.buscape.com.br/busca/dolce+gusto+genio+s+basic+110v" }
