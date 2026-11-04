@@ -5028,7 +5028,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "tecnologia-review-s014",
@@ -5193,7 +5193,7 @@
       ],
       "prioridade": 2,
       "sazonal": "verao",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "casa-e-jardim-review-s014",
@@ -5262,7 +5262,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "cozinha-review-s012",
@@ -5588,7 +5588,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "pets-review-s013",
@@ -5634,7 +5634,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "esportes-e-lazer-review-s011",
@@ -5751,7 +5751,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "escritorio-e-estudos-review-s011",
@@ -6227,7 +6227,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "amazfit-active-3-premium-ou-redmi-watch-5-lite",
+      "published_at": "2026-11-04"
     },
     {
       "id": "tecnologia-comparativo-s015",
@@ -6349,7 +6351,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "ferro-britania-bfve01a-ou-philco-travel-ceramic",
+      "published_at": "2026-11-04"
     },
     {
       "id": "casa-e-jardim-comparativo-s015",
@@ -6499,7 +6503,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "panela-de-arroz-oster-1l-ou-britania-pa10-prime",
+      "published_at": "2026-11-04"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-s010",
@@ -6913,7 +6919,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "casa-e-jardim-comparativo-s016",
@@ -7081,7 +7087,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-s013",
