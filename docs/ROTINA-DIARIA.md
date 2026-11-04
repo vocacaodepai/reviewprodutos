@@ -1,6 +1,6 @@
-# Rotina diária de publicação (20 artigos/dia em 4 lotes)
+# Rotina diária de publicação (10 artigos/dia: 5 da Amazon + 5 da Shopee)
 
-Meta: **10 artigos de manhã** (2 lotes de 5) e **10 à noite** (2 lotes de 5), todos os dias, seguindo `docs/PADRAO-EDITORIAL.md`.
+Meta: **10 artigos por dia**, todos os dias, seguindo `docs/PADRAO-EDITORIAL.md`: 1 lote de 5 da Amazon (3 comparativos + 2 reviews) e 1 lote de 5 da Shopee (3 comparativos + 2 reviews).
 
 ## Como roda
 
@@ -8,10 +8,8 @@ A rotina é uma **Routine do Claude Code** (claude.ai/code → Routines), chamad
 
 | Lote | Horário (Brasília) |
 | --- | --- |
-| Manhã 1 | 06:52 |
-| Manhã 2 | 09:52 |
-| Noite 1 | 18:52 |
-| Noite 2 | 21:52 |
+| Amazon | 06:52 |
+| Shopee | 07:52 |
 
 Os minutos quebrados evitam o pico de agendamentos na hora cheia.
 

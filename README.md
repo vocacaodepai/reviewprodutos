@@ -12,7 +12,7 @@ Site brasileiro de **reviews, comparativos e listas dos melhores produtos** (com
 | `src/data/categorias.json` / `autores.json` | Taxonomia (11 categorias e subcategorias) e autores. |
 | `src/layouts/ArticleLayout.astro` | Renderiza o artigo: resumo em 30 segundos, tabela comparativa, cards de produto com botão de afiliado, critérios, FAQ, autor, JSON-LD (Article, Product/Review, ItemList, FAQPage, BreadcrumbList). |
 | `scripts/generate-articles.mjs` | Gerador automático (Claude API + busca na web) que consome a fila `content/queue/topics.json`, resolve imagens reais por ASIN e valida tudo antes de gravar. |
-| `docs/rotinas/lote.md` | Rotina diária (Routine do Claude Code): 4 lotes de 5 artigos por dia, com PR e merge automático. |
+| `docs/rotinas/lote.md` | Rotina diária (Routine do Claude Code): 1 lote de 5 artigos por dia (Amazon) e 1 da Shopee, com PR e merge automático. |
 | `.github/workflows/publicar-artigos.yml` | Gerador via Claude API, só para disparo manual (exige `ANTHROPIC_API_KEY`). |
 | `scripts/validate-content.mjs` | Validador de schema, regras editoriais e imagens (usado no CI). |
 
@@ -45,7 +45,7 @@ node scripts/update-queue.mjs <id> published <slug>   # marca um tema da fila (a
 
 ## Publicação automática (20 artigos/dia)
 
-A rotina diária roda como **Routine do Claude Code**, usando a assinatura do Claude (sem chave de API paga), 4 vezes por dia: 06:52, 09:52, 18:52 e 21:52 de Brasília, 5 artigos por rodada. O roteiro completo está em `docs/rotinas/lote.md` e o resumo em `docs/ROTINA-DIARIA.md`.
+A rotina diária roda como **Routine do Claude Code**, usando a assinatura do Claude (sem chave de API paga), 1 vez por dia (Amazon às 06:52 e Shopee às 07:52, horário de Brasília), 5 artigos por rodada, 10 por dia no total. O roteiro completo está em `docs/rotinas/lote.md` e o resumo em `docs/ROTINA-DIARIA.md`.
 
 Cada lote: escolhe os próximos temas da fila por prioridade e diversidade de categoria → pesquisa produtos reais na Amazon.com.br → escreve seguindo `docs/PADRAO-EDITORIAL.md` → resolve e valida imagens reais por ASIN → valida schema/regras → faz build de verificação → abre PR e mescla quando o CI fica verde.
 
@@ -75,7 +75,7 @@ Regras do Contrato Operacional que o site e o gerador seguem (detalhes em `docs/
 
 - **Vercel (recomendado):** importe o repositório, framework *Astro*, defina as variáveis `PUBLIC_*`. `vercel.json` já traz cache e headers de segurança. Aponte o domínio em *Settings → Domains* e crie no [registro.br](https://registro.br) os registros `A 76.76.21.21` (apex) e `CNAME cname.vercel-dns.com` (www), ou use os valores que a Vercel indicar.
 - **Cloudflare Pages / Netlify:** comando `npm run build`, pasta `dist`, Node 22.
-- Cada push em `main` (inclusive os commits do robô) gera um novo deploy, então os 4 lotes diários entram no ar automaticamente.
+- Cada push em `main` (inclusive os commits do robô) gera um novo deploy, então os lotes diários entram no ar automaticamente.
 
 ## Estrutura de URLs
 
