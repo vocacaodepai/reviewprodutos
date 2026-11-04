@@ -5216,7 +5216,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "serra-tico-tico-black-decker-bes603-e-boa",
+      "published_at": "2026-11-04"
     },
     {
       "id": "casa-e-jardim-review-s015",
@@ -5611,7 +5613,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "esportes-e-lazer-review-s010",
@@ -5822,7 +5824,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "escritorio-e-estudos-review-s014",
@@ -7063,7 +7065,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "baseus-picogo-am41-ou-bipow2-pro-10000mah",
+      "published_at": "2026-11-04"
     },
     {
       "id": "cozinha-comparativo-s016",
@@ -7159,7 +7163,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "tramontina-plenus-4-pecas-ou-felice-5-pecas",
+      "published_at": "2026-11-04"
     },
     {
       "id": "tecnologia-comparativo-s018",
