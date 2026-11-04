@@ -1,6 +1,6 @@
 # Rotina de lote: 5 artigos por rodada
 
-Roteiro completo da publicação diária do Review Produtos. É executado por uma **Routine do Claude Code** (assinatura do Claude, sem chave de API paga) 1 vez por dia, às 06:52 de Brasília. Cada rodada publica **5 artigos**: **3 comparativos (2 ou 3 produtos) e 2 reviews de produto único** (a Amazon faz 5 por dia; com a Shopee são 10 por dia). Listas "os N melhores" não entram mais na rotina diária (as já publicadas seguem no ar).
+Roteiro completo da publicação diária do Review Produtos. É executado por uma **Routine do Claude Code** (assinatura do Claude, sem chave de API paga) 5 vezes por dia, às 08:52, 11:52, 14:52, 17:52 e 20:52 de Brasília. Cada rodada publica **1 artigo**, diluído ao longo do dia: **3 comparativos (2 ou 3 produtos) e 2 reviews de produto único por dia** (08:52, 14:52 e 20:52 = comparativo; 11:52 e 17:52 = review). A Amazon faz 5 por dia; com a Shopee são 10 por dia. **Onde este roteiro fala em 5 artigos/5 redatores por rodada, leia 1 artigo/1 redator**, e a etapa 3b atualiza o preço de 1 artigo antigo por rodada. Limite diário: se já houver 5 temas com `published_at` igual a hoje (UTC) na fila, a rodada encerra sem publicar. Listas "os N melhores" não entram mais na rotina diária (as já publicadas seguem no ar).
 
 Ele substitui o antigo agendamento do GitHub Actions (`.github/workflows/publicar-artigos.yml`), que segue disponível só para disparo manual com `ANTHROPIC_API_KEY`. O padrão editorial, a fila, o schema e o validador são os mesmos; nada muda na qualidade.
 
@@ -25,7 +25,7 @@ Leia, no clone, inteiros: `CLAUDE.md`, `docs/PADRAO-EDITORIAL.md`, `src/content.
 Fila: `content/queue/topics.json` (`temas[]`, com `status` pending | in_progress | published | skipped).
 
 1. Considere só `status: "pending"`, menor `prioridade` primeiro, na ordem do arquivo.
-2. Só `tipo: review` ou `tipo: comparativo` (ignore `lista`). Os 5 temas devem ser de **5 categorias diferentes**. A rodada diária tem sempre 3 comparativos + 2 reviews. Se faltar tema de um formato, complete com o outro e avise no informe.
+2. Só `tipo: review` ou `tipo: comparativo` (ignore `lista`). Os 5 temas devem ser de **5 categorias diferentes**. O formato do artigo da rodada segue o horário (comparativo ou review, ver acima). Se faltar tema de um formato, complete com o outro e avise no informe.
 3. Antes de aceitar um tema, confira se o site já não cobre o mesmo produto principal com a mesma intenção (`ls src/content/artigos/*/` e `grep -rl "<modelo>" src/content/artigos`). Review de um produto que já aparece numa lista é permitido (intenções diferentes); dois reviews do mesmo produto não. Se duplicar, marque `skipped` com o motivo e pegue o próximo.
 4. Confira se não há PR aberto de lote anterior ainda não mesclado (`mcp__github__list_pull_requests`, state open, head `claude/lote-*`). Se houver, não repita os temas dele.
 

@@ -12,7 +12,7 @@ Site brasileiro de **reviews, comparativos e listas dos melhores produtos** (com
 | `src/data/categorias.json` / `autores.json` | Taxonomia (11 categorias e subcategorias) e autores. |
 | `src/layouts/ArticleLayout.astro` | Renderiza o artigo: resumo em 30 segundos, tabela comparativa, cards de produto com botão de afiliado, critérios, FAQ, autor, JSON-LD (Article, Product/Review, ItemList, FAQPage, BreadcrumbList). |
 | `scripts/generate-articles.mjs` | Gerador automático (Claude API + busca na web) que consome a fila `content/queue/topics.json`, resolve imagens reais por ASIN e valida tudo antes de gravar. |
-| `docs/rotinas/lote.md` | Rotina diária (Routine do Claude Code): 1 lote de 5 artigos por dia (Amazon) e 1 da Shopee, com PR e merge automático. |
+| `docs/rotinas/lote.md` | Rotina diária (Routine do Claude Code): 5 rodadas por dia (1 artigo cada) na Amazon e 5 na Shopee, com PR e merge automático. |
 | `.github/workflows/publicar-artigos.yml` | Gerador via Claude API, só para disparo manual (exige `ANTHROPIC_API_KEY`). |
 | `scripts/validate-content.mjs` | Validador de schema, regras editoriais e imagens (usado no CI). |
 
@@ -45,7 +45,7 @@ node scripts/update-queue.mjs <id> published <slug>   # marca um tema da fila (a
 
 ## Publicação automática (20 artigos/dia)
 
-A rotina diária roda como **Routine do Claude Code**, usando a assinatura do Claude (sem chave de API paga), 1 vez por dia (Amazon às 06:52 e Shopee às 07:52, horário de Brasília), 5 artigos por rodada, 10 por dia no total. O roteiro completo está em `docs/rotinas/lote.md` e o resumo em `docs/ROTINA-DIARIA.md`.
+A rotina diária roda como **Routine do Claude Code**, usando a assinatura do Claude (sem chave de API paga), 5 vezes por dia (Amazon às 08:52, 11:52, 14:52, 17:52 e 20:52; Shopee às 08:22, 11:22, 14:22, 17:22 e 20:22, horário de Brasília), 1 artigo por rodada, 10 por dia no total. O roteiro completo está em `docs/rotinas/lote.md` e o resumo em `docs/ROTINA-DIARIA.md`.
 
 Cada lote: escolhe os próximos temas da fila por prioridade e diversidade de categoria → pesquisa produtos reais na Amazon.com.br → escreve seguindo `docs/PADRAO-EDITORIAL.md` → resolve e valida imagens reais por ASIN → valida schema/regras → faz build de verificação → abre PR e mescla quando o CI fica verde.
 

@@ -16,8 +16,8 @@
 
 ## Rotina diária de publicação
 
-- Roda como **Routine do Claude Code** (assinatura do Claude, sem API paga): 1 lote de 5 artigos por dia (3 comparativos de 2 ou 3 produtos + 2 reviews de produto único; sem listas), às 06:52 de Brasília. Roteiro completo e obrigatório: `docs/rotinas/lote.md`. Toda rodada inclui revisão de erros e segurança (`node scripts/site-health.mjs --live` + revisão do que mudou na `main`).
-- Segunda Routine, da **Shopee**: mesmo volume (1 lote de 5 artigos por dia, 3 comparativos + 2 reviews, às 07:52 de Brasília; 10 por dia somando as duas Routines). Roteiro: `docs/rotinas/lote-shopee.md`, fila `content/queue/topics-shopee.json`.
+- Roda como **Routine do Claude Code** (assinatura do Claude, sem API paga): 5 artigos por dia, 1 por rodada, diluídos ao longo do dia (3 comparativos de 2 ou 3 produtos + 2 reviews de produto único; sem listas), às 08:52, 11:52, 14:52, 17:52 e 20:52 de Brasília (comparativo às 08:52, 14:52 e 20:52; review às 11:52 e 17:52). Roteiro completo e obrigatório: `docs/rotinas/lote.md`. Toda rodada inclui revisão de erros e segurança (`node scripts/site-health.mjs --live` + revisão do que mudou na `main`).
+- Segunda Routine, da **Shopee**: mesmo volume (5 artigos por dia, 1 por rodada, 3 comparativos + 2 reviews, às 08:22, 11:22, 14:22, 17:22 e 20:22 de Brasília; 10 por dia somando as duas Routines; comparativo às 08:22, 14:22 e 20:22; review às 11:22 e 17:22). Roteiro: `docs/rotinas/lote-shopee.md`, fila `content/queue/topics-shopee.json`.
 - O workflow `.github/workflows/publicar-artigos.yml` (Claude API) fica só para disparo manual; não reative o agendamento dele.
 
 ## Antes de commitar

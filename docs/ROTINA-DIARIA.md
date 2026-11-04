@@ -1,15 +1,20 @@
 # Rotina diária de publicação (10 artigos/dia: 5 da Amazon + 5 da Shopee)
 
-Meta: **10 artigos por dia**, todos os dias, seguindo `docs/PADRAO-EDITORIAL.md`: 1 lote de 5 da Amazon (3 comparativos + 2 reviews) e 1 lote de 5 da Shopee (3 comparativos + 2 reviews).
+Meta: **10 artigos por dia**, diluídos ao longo do dia, seguindo `docs/PADRAO-EDITORIAL.md`: 5 da Amazon e 5 da Shopee, 1 artigo por rodada, cada marketplace com 3 comparativos + 2 reviews.
 
 ## Como roda
 
 A rotina é uma **Routine do Claude Code** (claude.ai/code → Routines), chamada "Review Produtos: lote de 5 artigos". Ela usa a assinatura do Claude, sem chave de API paga.
 
-| Lote | Horário (Brasília) |
-| --- | --- |
-| Amazon | 06:52 |
-| Shopee | 07:52 |
+| Rodada | Amazon | Shopee | Formato |
+| --- | --- | --- | --- |
+| 1 | 08:52 | 08:22 | comparativo |
+| 2 | 11:52 | 11:22 | review |
+| 3 | 14:52 | 14:22 | comparativo |
+| 4 | 17:52 | 17:22 | review |
+| 5 | 20:52 | 20:22 | comparativo |
+
+Horários de Brasília. As rodadas da Shopee saem 30 minutos antes das da Amazon para não disputarem a `main`. Cada rodada confere o limite diário (5 por marketplace) antes de publicar.
 
 Os minutos quebrados evitam o pico de agendamentos na hora cheia.
 
