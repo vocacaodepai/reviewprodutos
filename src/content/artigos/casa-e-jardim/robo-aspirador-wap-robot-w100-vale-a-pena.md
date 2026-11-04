@@ -63,8 +63,11 @@ produtos:
     faixaPreco: "$"
     precoMercado:
       min: 570
-      max: 700
-      referencia: "2026-10"
+      max: 750
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 570, max: 700 }
+      tendencia: estavel
       fontes:
         - { nome: "Buscapé — WAP Robot W100 (comparação de lojas)", url: "https://www.buscape.com.br/aspirador-po-agua/aspirador-de-po-robo-wap-robot-w100-fw007429" }
     idealPara: "Apartamentos e casas pequenas de piso frio ou laminado, com pet de pelo curto, para limpeza diária de manutenção"

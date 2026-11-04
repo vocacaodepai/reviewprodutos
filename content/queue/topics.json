@@ -11888,7 +11888,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "tapo-c100-e-boa",
+      "published_at": "2026-11-04"
     },
     {
       "id": "tecnologia-review-025",
@@ -12242,7 +12244,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "lampada-led-luz-amarela-ou-branca",
+      "published_at": "2026-11-04"
     },
     {
       "id": "casa-e-jardim-comparativo-022",
@@ -12506,7 +12510,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped",
+      "published_slug": "frigideira-tramontina-antiaderente-ou-inox",
+      "published_at": "2026-11-04"
     },
     {
       "id": "cozinha-comparativo-023",
@@ -12825,7 +12831,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "invictus-paco-rabanne-e-bom",
+      "published_at": "2026-11-04"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-025",
@@ -13178,7 +13186,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "chalesco-torre-dupla-ou-torre-dupla-veneza",
+      "published_at": "2026-11-04"
     },
     {
       "id": "esportes-e-lazer-review-019",
@@ -13720,7 +13730,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "automotivo-comparativo-019",
@@ -13743,7 +13753,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "bdcv370-ou-bdcv610-aspirador-black-decker",
+      "published_at": "2026-11-04"
     },
     {
       "id": "automotivo-comparativo-020",
@@ -13835,7 +13847,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "moda-e-acessorios-review-017",
@@ -13926,7 +13938,7 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "moda-e-acessorios-comparativo-016",
