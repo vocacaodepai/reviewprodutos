@@ -59,9 +59,12 @@ produtos:
       "Garantia": "2 anos (3 meses legais + 21 meses do fabricante), segundo a KaBuM"
     faixaPreco: "$"
     precoMercado:
-      min: 100
+      min: 110
       max: 120
-      referencia: "2026-10"
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 100, max: 120 }
+      tendencia: estavel
       observacao: "Faixa do G203 Lightsync de 6 botões nas cores preto, azul e branco; varia conforme a cor e a loja, e o preço de tabela costuma ser mais alto. Confira o código (910-005794 é o branco)."
       fontes:
         - { nome: "Zoom: Mouse Gamer Óptico USB G203 Lightsync Logitech", url: "https://www.zoom.com.br/mouse/mouse-gamer-optico-usb-g203-logitech" }

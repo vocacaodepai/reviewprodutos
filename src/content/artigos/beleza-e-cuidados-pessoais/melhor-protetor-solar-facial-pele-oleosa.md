@@ -184,10 +184,10 @@ produtos:
       altura: 1363
       alt: "Frasco branco do protetor solar ISDIN Fusion Water 5 Stars FPS 60, 50 ml, com tampa laranja"
     nota: 8.2
-    resumo: "Base aquosa que pode ser aplicada na pele molhada e não arde nos olhos: o protetor para quem treina, sua e precisa reaplicar no meio do dia."
+    resumo: "Base aquosa de textura leve e que não arde nos olhos: o protetor para quem treina, sua e precisa reaplicar no meio do dia."
     pros:
       - "Fórmula em fase aquosa, oil-free, de absorção imediata e sem resíduo"
-      - "Pode ser aplicado sobre a pele molhada sem perder a proteção, segundo a marca"
+      - "Textura leve de absorção rápida, boa para reaplicar no meio do dia"
       - "Não comedogênico (teste com 32 voluntários de pele oleosa) e oftalmologicamente testado"
       - "Sem álcool na lista de ingredientes; ácido hialurônico para hidratação"
       - "Frasco de 50 ml, o maior do guia; recomendado por duas dermatologistas na ELLE Brasil"
@@ -336,7 +336,7 @@ relacionados: ["melhor-secador-de-cabelo-5-modelos-do-basico-ao-profissional"]
 
 Se a sua pele brilha antes do almoço e todo protetor solar parece pesar uma tonelada, o **La Roche-Posay Anthelios Airlicium+ FPS 80** é a compra mais segura: proteção mais alta do artigo (FPS 80 e PPD 27 declarados) e micropartículas que absorvem sebo ao longo do dia. Para a maioria das peles oleosas, o **Neostrata Minesol Oil Control FPS 70** entrega 12 horas de controle de brilho, fórmula não comedogênica e cinco tons por uma faixa intermediária, e por isso é o melhor custo-benefício.
 
-Quem tem cravos e espinhas ativas deve olhar o **Vichy Capital Soleil UV-Clear FPS 60**, único com niacinamida e ácido salicílico. Quem treina, sua ou reaplica no meio do dia encontra no **ISDIN Fusion Water FPS 60** a textura mais leve, aplicável até na pele molhada. E quem precisa de FPS alto gastando pouco resolve com o **Nivea Sun Toque Seco FPS 70**.
+Quem tem cravos e espinhas ativas deve olhar o **Vichy Capital Soleil UV-Clear FPS 60**, único com niacinamida e ácido salicílico. Quem treina, sua ou reaplica no meio do dia encontra no **ISDIN Fusion Water FPS 60** a textura mais leve. E quem precisa de FPS alto gastando pouco resolve com o **Nivea Sun Toque Seco FPS 70**.
 
 Em todos os casos, a regra que mais pesa não é a marca: é a quantidade aplicada e a reaplicação.
 
@@ -390,9 +390,9 @@ O que pesa contra é a tolerância. A lista de ingredientes traz álcool e fragr
 
 ## 4. ISDIN Fusion Water FPS 60: melhor para quem sua e treina
 
-O Fusion Water é o protetor da leveza. A fórmula em fase aquosa, oil-free, absorve na hora e, segundo a marca, pode ser aplicada sobre a pele molhada sem perder a proteção, o que resolve a reaplicação depois do treino, da corrida ou do mergulho. É não comedogênico (teste com 32 voluntários de pele oleosa), oftalmologicamente testado para não arder nos olhos e sem álcool na lista de ingredientes, com ácido hialurônico para hidratar. O frasco de 50 ml é o maior do artigo, e duas dermatologistas ouvidas pela ELLE Brasil o recomendam para pele oleosa.
+O Fusion Water é o protetor da leveza. A fórmula em fase aquosa, oil-free, absorve na hora e, o que facilita a reaplicação depois do treino ou da corrida; a marca orienta aplicar sobre a pele seca. É não comedogênico (teste com 32 voluntários de pele oleosa), oftalmologicamente testado para não arder nos olhos e sem álcool na lista de ingredientes, com ácido hialurônico para hidratar. O frasco de 50 ml é o maior do artigo, e duas dermatologistas ouvidas pela ELLE Brasil o recomendam para pele oleosa.
 
-Onde ele fica atrás: o controle de oleosidade é declarado sem horas. Ele matifica, mas não é o mais potente contra brilho intenso, e a classificação "5 Stars" de UVA da marca não vem com PPD numérico. Contém fragrância. O preço fica na faixa premium, próximo ao do Anthelios, o que faz sentido para quem precisa da versatilidade da pele molhada e menos para quem só quer controle de brilho.
+Onde ele fica atrás: o controle de oleosidade é declarado sem horas. Ele matifica, mas não é o mais potente contra brilho intenso, e a classificação "5 Stars" de UVA da marca não vem com PPD numérico. Contém fragrância. O preço fica na faixa premium, próximo ao do Anthelios, o que faz sentido para quem busca textura leve e menos para quem só quer controle de brilho.
 
 ## 5. Nivea Sun Toque Seco Antissinais FPS 70: melhor barato
 

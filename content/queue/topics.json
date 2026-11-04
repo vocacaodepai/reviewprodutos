@@ -12055,7 +12055,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "redragon-kumara-k552-ou-kumara-pro",
+      "published_at": "2026-11-04"
     },
     {
       "id": "casa-e-jardim-review-021",
@@ -12753,7 +12755,7 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-022",
@@ -12893,7 +12895,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-021",
@@ -13126,7 +13128,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "guabi-natural-lentilha-ou-arroz-racas-medias",
+      "published_at": "2026-11-04"
     },
     {
       "id": "pets-comparativo-022",
@@ -13196,7 +13200,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "stanley-quencher-h2-flowstate-118-l-e-bom",
+      "published_at": "2026-11-04"
     },
     {
       "id": "esportes-e-lazer-review-020",
@@ -13620,7 +13626,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "lavadora-karcher-k3-force-car-e-boa",
+      "published_at": "2026-11-04"
     },
     {
       "id": "automotivo-review-020",
@@ -13803,7 +13811,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "timex-weekender-40-mm-e-bom",
+      "published_at": "2026-11-04"
     },
     {
       "id": "moda-e-acessorios-review-016",
