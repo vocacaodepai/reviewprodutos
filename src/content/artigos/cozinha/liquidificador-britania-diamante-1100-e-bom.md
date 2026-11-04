@@ -56,9 +56,11 @@ produtos:
       "Garantia": "12 meses (conforme fichas de varejistas)"
     faixaPreco: "$"
     precoMercado:
-      min: 100
-      max: 210
-      referencia: "2026-10"
+      min: 120
+      max: 200
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 100, max: 210 }
       tendencia: estavel
       observacao: "A faixa é ampla porque lojas e voltagens diferentes praticam valores distintos. Compare o mesmo modelo e a mesma voltagem."
       fontes:

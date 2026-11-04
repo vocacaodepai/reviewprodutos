@@ -64,8 +64,11 @@ produtos:
     faixaPreco: "$$"
     precoMercado:
       min: 130
-      max: 160
-      referencia: "2026-10"
+      max: 150
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 130, max: 160 }
+      tendencia: estavel
       observacao: "O preço varia entre lojas e promoções. Confira a voltagem (127 V ou 220 V) antes de comprar."
       fontes:
         - { nome: "Buscapé: Electrolux Efficient TriForce 5 EBL1000 / EBL1010", url: "https://www.buscape.com.br/liquidificador/liquidificador-electrolux-efficient-triforce-5-ebl1000-ebl1010-2-7-litros-5-velocidades-1-000-w" }
