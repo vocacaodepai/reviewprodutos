@@ -59,13 +59,19 @@ produtos:
       "Software": "Logi Tune e Logitech G HUB"
     faixaPreco: "$$"
     precoMercado:
-      min: 400
+      min: 360
       max: 430
-      referencia: "2026-10"
-      observacao: "Os anúncios variam bastante entre lojas e vendedores. Confira se o modelo é a C920s (960-001257) e não a C920 antiga."
+      referencia: "2026-11"
+      tendencia: caindo
+      historico:
+        - { periodo: "2026-10", min: 400, max: 430 }
+      observacao: "Os anúncios variam bastante entre lojas e vendedores, e o preço à vista costuma ser menor que o parcelado. Confira se o modelo é a C920s (960-001257) e não a C920 antiga."
       fontes:
+        - { nome: "KaBuM! — Webcam Logitech C920s 960-001257", url: "https://www.kabum.com.br/produto/103431/webcam-full-hd-logitech-c920s-com-microfone-embutido-protecao-de-privacidade-widescreen-1080p-compativel-logitech-capture-960-001257" }
+        - { nome: "Miranda — Webcam C920S Full HD 960-001257", url: "https://www.miranda.com.br/produto/webcam-c920s-full-hd-960-001257-logitech/4956474" }
+        - { nome: "CiaPC — Webcam Logitech C920s Pro HD 960-001257", url: "https://www.ciapc.com.br/perifericos/webcam/webcam-logitech-c920s-pro-hd-1080p30fps-full-hd-audio-estereo-microfones-duplos-preto-960-001257" }
+        - { nome: "STI Computadores — Webcam Logitech C920s HD Pro 960-001257", url: "https://www.sticomputadores.com.br/webcam-logitech-c920s-hd-pro-1080p-960-001257" }
         - { nome: "Buscapé — Webcam Logitech HD Pro Full HD C920S", url: "https://www.buscape.com.br/webcam/webcam-logitech-hd-pro-filma-em-full-hd-c920s" }
-        - { nome: "Zoom — Webcam Logitech HD Pro Full HD C920S", url: "https://www.zoom.com.br/webcam/webcam-logitech-hd-pro-filma-em-full-hd-c920s" }
     idealPara: "Quem trabalha ou estuda online e quer trocar a câmera do notebook por uma imagem mais nítida, com pouca configuração"
     naoIndicadoPara: "Streamers que querem 60 fps ou 4K, e quem já usa uma C920"
     notasCriterios:
