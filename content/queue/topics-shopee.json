@@ -1298,7 +1298,7 @@
       ],
       "prioridade": 3,
       "sazonal": "natal",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "bebes-e-criancas-review-s004",
@@ -1321,7 +1321,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "bebes-e-criancas-comparativo-s001",
@@ -4980,7 +4980,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "amazfit-balance-2-e-bom",
+      "published_at": "2026-11-05"
     },
     {
       "id": "tecnologia-review-s012",
