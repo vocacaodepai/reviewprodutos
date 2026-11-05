@@ -65,7 +65,10 @@ produtos:
     precoMercado:
       min: 700
       max: 800
-      referencia: "2026-10"
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 700, max: 800 }
+      tendencia: estavel
       observacao: "Faixa à vista em varejistas como Magalu, Fast Shop, Webcontinental e loja da marca. Confira a voltagem do anúncio (127 V ou 220 V) antes de comprar."
       fontes:
         - { nome: "Buscapé — Micro-ondas Electrolux 31 Litros MI41S", url: "https://www.buscape.com.br/microondas/microondas-electrolux-31-litros-mi41s" }
