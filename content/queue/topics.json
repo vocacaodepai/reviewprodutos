@@ -12151,7 +12151,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "lavadora-black-decker-bepw1750-e-boa",
+      "published_at": "2026-11-05"
     },
     {
       "id": "casa-e-jardim-review-025",
@@ -13308,7 +13310,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "esportes-e-lazer-comparativo-019",
