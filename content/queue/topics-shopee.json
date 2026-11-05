@@ -7269,7 +7269,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "philips-walita-na341-ou-electrolux-eaf45-air-fryer",
+      "published_at": "2026-11-05"
     },
     {
       "id": "tecnologia-comparativo-s019",
