@@ -15295,7 +15295,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "casio-ae-1200wh-vale-a-pena",
+      "published_at": "2026-11-05"
     },
     {
       "id": "moda-e-acessorios-review-024",
@@ -15867,7 +15869,7 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-027",
