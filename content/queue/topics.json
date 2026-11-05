@@ -14305,7 +14305,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "instax-mini-12-ou-mini-11",
+      "published_at": "2026-11-05"
     },
     {
       "id": "tecnologia-comparativo-030",
