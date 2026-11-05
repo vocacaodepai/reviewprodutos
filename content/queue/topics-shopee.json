@@ -6657,7 +6657,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "esportes-e-lazer-comparativo-s013",
@@ -6781,7 +6781,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "kipling-seoul-ou-samsonite-bel-air",
+      "published_at": "2026-11-05"
     },
     {
       "id": "moda-e-acessorios-comparativo-s011",
@@ -7241,7 +7243,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "cozinha-comparativo-s020",
