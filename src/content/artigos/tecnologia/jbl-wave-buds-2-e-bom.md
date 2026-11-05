@@ -61,12 +61,15 @@ produtos:
       "Peso": "4,5 g cada fone; 35 g o estojo"
     faixaPreco: "$$"
     precoMercado:
-      min: 220
-      max: 280
-      referencia: "2026-10"
+      min: 210
+      max: 260
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 220, max: 280 }
+      tendencia: caindo
       observacao: "A variação entre lojas depende da cor e do vendedor. Confira o modelo exato e peça nota fiscal."
       fontes:
-        - { nome: "Buscapé — JBL Wave Buds 2", url: "https://www.buscape.com.br/fone-de-ouvido-e-headset/fone-de-ouvido-bluetooth-com-microfone-jbl-wave-buds-2-gerenciamento-de-chamadas" }
+        - { nome: "Buscapé — busca JBL Wave Buds 2", url: "https://www.buscape.com.br/busca/jbl+wave+buds+2" }
         - { nome: "Zoom — busca JBL Wave Buds 2", url: "https://www.zoom.com.br/search?q=jbl%20wave%20buds%202" }
     idealPara: "Quem quer cancelamento de ruído de marca conhecida para transporte, estudo e trabalho, sem entrar na faixa premium"
     naoIndicadoPara: "Quem busca som detalhado de audiófilo, orelhas muito pequenas ou ANC no nível dos fones top de linha"
@@ -114,8 +117,8 @@ faq:
 fontes:
   - nome: "JBL — especificações do Wave Buds 2"
     url: "https://mm.jbl.com/in-ear-headphones/WAVE-BUDS-2.html"
-  - nome: "Buscapé — JBL Wave Buds 2"
-    url: "https://www.buscape.com.br/fone-de-ouvido-e-headset/fone-de-ouvido-bluetooth-com-microfone-jbl-wave-buds-2-gerenciamento-de-chamadas"
+  - nome: "Buscapé — busca JBL Wave Buds 2"
+    url: "https://www.buscape.com.br/busca/jbl+wave+buds+2"
   - nome: "Zoom — busca JBL Wave Buds 2"
     url: "https://www.zoom.com.br/search?q=jbl%20wave%20buds%202"
 testadoFisicamente: false

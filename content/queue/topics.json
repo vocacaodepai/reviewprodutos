@@ -16109,7 +16109,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "galaxy-tab-s9-fe-ou-xiaomi-pad-7",
+      "published_at": "2026-11-05"
     },
     {
       "id": "cozinha-comparativo-028",
