@@ -7295,7 +7295,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "jbl-tune-buds-2-ou-wave-buds-2",
+      "published_at": "2026-11-06"
     },
     {
       "id": "moda-e-acessorios-comparativo-s014",
