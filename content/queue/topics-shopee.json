@@ -7223,7 +7223,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "electrolux-ebl1500-ou-philco-plq2100pi",
+      "published_at": "2026-11-06"
     },
     {
       "id": "cozinha-comparativo-s019",
