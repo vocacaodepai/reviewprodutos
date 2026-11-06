@@ -14043,7 +14043,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "logitech-g435-lightspeed-e-bom",
+      "published_at": "2026-11-06"
     },
     {
       "id": "tecnologia-review-028",
