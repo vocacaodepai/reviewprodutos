@@ -12443,7 +12443,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mondial-afd-01-ou-philips-walita-duplo-cesto",
+      "published_at": "2026-11-06"
     },
     {
       "id": "cozinha-comparativo-020",
@@ -14267,7 +14269,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "tecnologia-comparativo-028",
