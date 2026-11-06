@@ -5124,7 +5124,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "smart-plug-positivo-casa-inteligente-10a-e-bom",
+      "published_at": "2026-11-06"
     },
     {
       "id": "casa-e-jardim-review-s011",
