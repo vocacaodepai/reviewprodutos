@@ -13524,7 +13524,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "logitech-m330-silent-e-bom",
+      "published_at": "2026-11-06"
     },
     {
       "id": "escritorio-e-estudos-comparativo-020",
@@ -14091,7 +14093,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "tecnologia-review-030",
@@ -14135,7 +14137,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "tecnologia-review-032",
