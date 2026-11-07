@@ -13408,7 +13408,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "amazfit-bip-6-ou-huawei-band-10",
+      "published_at": "2026-11-06"
     },
     {
       "id": "escritorio-e-estudos-review-020",
