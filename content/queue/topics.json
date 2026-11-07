@@ -12129,7 +12129,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "dustbuster-hhvi320-e-bom",
+      "published_at": "2026-11-07"
     },
     {
       "id": "casa-e-jardim-review-024",
