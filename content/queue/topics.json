@@ -14831,7 +14831,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "post-it-super-adesivo-76x76-e-bom",
+      "published_at": "2026-11-08"
     },
     {
       "id": "escritorio-e-estudos-review-027",
