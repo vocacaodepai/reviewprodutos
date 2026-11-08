@@ -5387,7 +5387,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "batedeira-philco-pbp90a-e-boa",
+      "published_at": "2026-11-08"
     },
     {
       "id": "cozinha-review-s017",
