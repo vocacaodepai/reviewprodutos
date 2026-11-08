@@ -43,6 +43,12 @@ const produto = z.object({
       loja: z.string().min(2).max(80).optional(),
     })
     .optional(),
+  /**
+   * Controle interno (não aparece para o leitor). false = ASIN aceito por URL real /dp/ASIN da Amazon.com.br mas ainda
+   * não confirmado ao vivo (título e imagem). Enquanto for false, a imagem do produto é a neutra do site
+   * (imagem.fonte = 'propria'). `node scripts/verify-asins.mjs --apply` confirma quando a Amazon responde.
+   */
+  asinVerificado: z.boolean().default(true),
   /** Link alternativo (se vazio, gerado a partir do ASIN + tag de afiliado). */
   url: z.url().optional(),
   imagem,
