@@ -7381,7 +7381,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "philco-pfe52p-ou-black-decker-afo12g",
+      "published_at": "2026-11-08"
     }
   ]
 }
