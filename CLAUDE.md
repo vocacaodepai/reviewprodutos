@@ -3,6 +3,7 @@
 ## Regras do dono (Bruno Danello)
 
 - **Merge automático autorizado:** pull requests abertos pelo Claude para a `main` podem ser mergeados automaticamente, sem pedir confirmação, quando o CI estiver verde, não houver conflitos e não houver comentários de revisão pendentes. Use merge commit (não reescreva histórico). Depois do merge, avise em uma linha.
+- **Lembretes fixos (todo informe):** sempre lembrar o dono dos créditos do Firecrawl e da API da Amazon (itens 5 e 6 de `docs/PENDENCIAS-DONO.md`); só param se o dono pedir.
 - **Fim de toda entrega ou publicação:** terminar a mensagem com as pendências do dono (`docs/PENDENCIAS-DONO.md`, cada uma com o link de onde fazer) e com o link clicável do site: https://reviewprodutos.com.br
 - O domínio oficial é **sem www**: `https://reviewprodutos.com.br`.
 - Tag de afiliado Amazon: `reviewprodutos-20`. Shopee: links de afiliado vêm da API de Afiliados da Shopee (offerLink `https://s.shopee.com.br/...`); credenciais `SHOPEE_APP_ID`/`SHOPEE_SECRET` só como variáveis de ambiente, nunca no repositório. Google Analytics: `G-55940SV53K`.
@@ -12,6 +13,7 @@
 - **Preço:** todo produto leva `precoMercado` (estimativa de preço de mercado em várias lojas + variação nos últimos meses, com fontes de comparadores). Nunca o preço da Amazon, nunca R$ no corpo do texto.
 - Botão de produto da Shopee: "Comprar agora na Shopee" (mesmas regras de afiliado no rodapé e de preço; ver `docs/rotinas/lote-shopee.md`).
 - **Destaque da home:** o artigo em destaque muda a cada 5 dias, automaticamente (`destaqueDaHome` em `src/lib/articles.ts`); o campo `destaque` do frontmatter não é mais usado pela home.
+- **ASIN não verificado (meio-termo aprovado):** com a Amazon bloqueando, vale publicar com `asinVerificado: false` só se: ASIN de URL real amazon.com.br/dp/ASIN com título do modelo exato, imagem neutra até verificar, `node scripts/verify-asins.mjs --apply` confirma depois (divergente: remover botão ou corrigir) e produto de baixo risco (sem voltagem/variantes, sem saúde ou segurança). Detalhes em `docs/rotinas/lote.md` seção 3c.
 - Artigos **não** exibem fontes de pesquisa nem o texto "Como este conteúdo foi produzido"; devem ter vários botões de compra ao longo do texto.
 
 ## Rotina diária de publicação

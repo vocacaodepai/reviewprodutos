@@ -37,9 +37,9 @@ Lance **5 subagentes em paralelo** (ferramenta Agent, um por tema, todos na mesm
 Você é redator do site reviewprodutos.com.br (repositório em <DIR>). Escreva UM artigo novo, completo e publicável, no estilo direto de comparativo/review (resumo em 3 pontos no veredito, uma seção curta por produto com botão de compra logo depois, "Qual comprar" por perfil, FAQ; 1.000 a 1.600 palavras; comparativo com 2 ou 3 produtos de faixas diferentes da mesma categoria), para o tema da fila editorial com id `<ID>` (veja o objeto em content/queue/topics.json: tipo, categoria, subcategoria, funil, titulo_sugerido, problema, palavras_chave, produtos_candidatos).
 
 1. Leia por inteiro docs/PADRAO-EDITORIAL.md (padrão obrigatório, inclusive regras YMYL de saúde e bebês), src/content.config.ts (schema) e CLAUDE.md. Use como modelo de formato um artigo publicado do mesmo tipo em src/content/artigos/ (review: cozinha/liquidificador-philips-walita-daily-e-bom.md; comparativo: cozinha/dolce-gusto-ou-nespresso-cafeteira-de-capsula.md). Veja src/data/categorias.json para subcategorias válidas.
-2. Pesquise na web (WebSearch/WebFetch) produtos REAIS vendidos na Amazon.com.br: ASIN correto (URL /dp/ASIN), especificações oficiais, garantia, assistência, voltagem, relatos de consumidores FORA da Amazon (Reclame Aqui, fóruns, YouTube, veículos especializados). Nunca invente ASIN, nunca cite preço exato, nunca use estrelas/nº de avaliações da Amazon nem parafraseie avaliações da Amazon. Se um candidato não existir mais, escolha o modelo atual equivalente.
+2. Pesquise na web (WebSearch/WebFetch) produtos REAIS vendidos na Amazon.com.br: ASIN correto (URL /dp/ASIN), especificações oficiais, garantia, assistência, voltagem, relatos de consumidores FORA da Amazon (Reclame Aqui, fóruns, YouTube, veículos especializados). Nunca invente ASIN (ASIN só de URL real amazon.com.br/dp/ASIN, ver "ASIN não verificado" abaixo), nunca cite preço exato, nunca use estrelas/nº de avaliações da Amazon nem parafraseie avaliações da Amazon. Se um candidato não existir mais, escolha o modelo atual equivalente.
 3. Para cada produto, preencha `precoMercado` (estimativa de preço de MERCADO, nunca o preço da Amazon): faixa típica atual nas principais lojas (`min`, `max` em reais, `referencia` AAAA-MM), `historico` dos últimos 6 a 12 meses só com pontos que você viu em comparadores (Buscapé, Zoom, Google Shopping, JáCotei, ofertas datadas), `tendencia` se o histórico sustentar, `observacao` opcional e `fontes` (comparadores/outras lojas, não a Amazon). Arredonde (abaixo de R$ 100 inteiro; até R$ 1.000 múltiplos de 10; acima, de 50). Sem dado confiável, deixe sem `precoMercado`. Nunca escreva R$ no corpo do texto.
-4. Rode `node scripts/find-image.mjs ASIN1 ASIN2 ...` e use o resultado em imagem.src (fonte: amazon). O campo title deve confirmar que o ASIN é o produto certo.
+4. Rode `node scripts/find-image.mjs ASIN1 ASIN2 ...` e use o resultado em imagem.src (fonte: amazon). O campo title deve confirmar que o ASIN é o produto certo. Se a Amazon bloquear e o ASIN não puder ser confirmado ao vivo, aplique a política "ASIN não verificado" (seção 3c) em vez de pular o tema.
 5. Grave em src/content/artigos/<categoria>/<slug>.md (slug curto, sem acentos, sem ano). autor: bruno-danello. pubDate e updatedDate: data de hoje em Brasília. Sem rascunho. testadoFisicamente: false e nunca "testamos". Sem seção de fontes, sem parágrafo do tipo "As fontes foram..." (nem em "Como escolhemos") e sem "Como este conteúdo foi produzido" no corpo; fontes só no frontmatter. Sem links no corpo. Use a palavra "artigo", nunca "guia" ("neste artigo", "para quem é este artigo"). Nunca mencione que o texto foi feito com IA (IA só pode aparecer como característica de um produto). Preencha `relacionados` com slugs existentes.
 6. Valide: `node scripts/validate-content.mjs --images` deve passar para o seu arquivo; corrija até passar. NÃO rode npm run build, NÃO faça commit, NÃO altere código do site nem outros artigos.
 7. Ao final: `node scripts/update-queue.mjs <ID> published <slug>`. Se for impossível: `node scripts/update-queue.mjs <ID> skipped --erro "motivo"`.
@@ -48,6 +48,17 @@ Responda só com: caminho do arquivo, ASIN(s), nº de palavras do corpo e result
 ```
 
 Se um subagente falhar ou o tema for pulado, a rodada segue com os artigos que ficaram prontos (não substitua por outro tema na mesma rodada; ele entra na próxima).
+
+## 3c. ASIN não verificado (política do meio-termo, aprovada pelo dono)
+
+Quando a Amazon bloquear (captcha, 503, só miniatura) e não houver artigo publicado com o mesmo ASIN e imagem para reaproveitar, o tema pode seguir **só se as 4 condições valerem**:
+
+1. O ASIN vem de uma URL real `amazon.com.br/dp/ASIN` (por exemplo, num resultado de busca) cujo título bate com o modelo exato. Nunca de agregadores sem URL da Amazon e nunca inventado.
+2. O produto leva `asinVerificado: false` no frontmatter (marca interna, invisível ao leitor). O script `node scripts/verify-asins.mjs --apply` confirma título e imagem quando a Amazon responde: se bater, tira a marca e põe a imagem real; se não bater, aparece como DIVERGENTE e a rodada seguinte remove o botão ou corrige o artigo.
+3. Sem imagem da Amazon até verificar: `imagem.src: https://reviewprodutos.com.br/imagem-neutra.svg`, `fonte: propria`, alt descrevendo o produto. O validador só aceita essa imagem com `asinVerificado: false`.
+4. Só produto de baixo risco: sem variação de voltagem (somente bivolt ou sem elétrica), sem variantes, sem tema de saúde, bebês ou segurança.
+
+Em toda rodada (seção 5), rode `node scripts/verify-asins.mjs --apply`; confirmados entram no PR da rodada e DIVERGENTE vira correção imediata. Cite no informe quantos ASINs seguem pendentes.
 
 ## 3b. Atualizar preços de mercado (toda rodada)
 
@@ -80,6 +91,8 @@ Depois do build do passo 4, ainda no clone:
 ```bash
 node scripts/site-health.mjs --live
 ```
+
+Rode também `node scripts/verify-asins.mjs --apply` (seção 3c). `PENDENTE` não bloqueia; `DIVERGENTE` bloqueia o artigo até corrigir.
 
 O script confere: `relacionados` que apontam para artigos inexistentes, links e recursos internos quebrados no site gerado, links da Amazon sem a tag `reviewprodutos-20` ou sem `rel="sponsored"`, textos proibidos (fontes, menção a IA), arquivos essenciais (sitemap, robots, RSS, busca), segredos versionados no repositório, vulnerabilidades altas ou críticas nas dependências de produção (`npm audit`) e o site no ar (status das páginas principais, cabeçalhos de segurança, redirecionamentos http → https e www → domínio sem www).
 

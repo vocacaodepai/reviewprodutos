@@ -6,6 +6,7 @@
  */
 import { listArticleFiles, validateArticleFile, slugFromPath, loadCategorias, loadAutores, ROOT } from './lib/content-schema.mjs';
 import { validateImage } from './lib/amazon-images.mjs';
+import { IMAGEM_NEUTRA } from './lib/content-schema.mjs';
 import { relative } from 'node:path';
 
 const args = process.argv.slice(2);
@@ -16,6 +17,7 @@ const ctx = { categorias: loadCategorias(), autores: loadAutores() };
 let failed = 0;
 const slugs = new Map();
 const asinTipo = new Map();
+const naoVerificados = [];
 
 for (const f of targets) {
   const rel = relative(ROOT, f);
@@ -30,13 +32,16 @@ for (const f of targets) {
   }
   if (checkImages && data?.imagem?.src) {
     const urls = new Set([data.imagem.src, ...(data.produtos ?? []).map((p) => p?.imagem?.src).filter(Boolean)]);
+    urls.delete(IMAGEM_NEUTRA);
     for (const u of urls) {
       const v = await validateImage(u, { minSide: 150, minBytes: 2500 });
       if (!v.ok) errs.push(`imagem ${u}: ${v.reason}`);
     }
   }
+  for (const p of data?.produtos ?? []) if (p?.asinVerificado === false) naoVerificados.push(`${slug}: ${p.asin}`);
   if (errs.length) { failed++; console.log(`✗ ${rel}`); for (const e of errs) console.log(`   - ${e}`); }
   else console.log(`✓ ${rel}`);
 }
+if (naoVerificados.length) console.log(`\n⚠ ${naoVerificados.length} ASIN(s) ainda não verificados (rode node scripts/verify-asins.mjs):\n  ${naoVerificados.join('\n  ')}`);
 console.log(`\n${targets.length - failed}/${targets.length} artigos válidos`);
 process.exit(failed ? 1 : 0);
