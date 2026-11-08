@@ -6389,7 +6389,9 @@
       ],
       "prioridade": 2,
       "sazonal": "verao",
-      "status": "pending"
+      "status": "published",
+      "published_slug": "philco-pcl14a-ou-pcl22a-climatizador",
+      "published_at": "2026-11-08"
     },
     {
       "id": "cozinha-comparativo-s011",
