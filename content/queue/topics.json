@@ -14563,7 +14563,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "frigideira-tramontina-turim-ou-paris-24-cm",
+      "published_at": "2026-11-08"
     },
     {
       "id": "casa-e-jardim-review-026",
