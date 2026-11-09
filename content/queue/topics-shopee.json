@@ -6623,7 +6623,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "asics-gel-sparta-2-ou-new-balance-410-v9",
+      "published_at": "2026-11-09"
     },
     {
       "id": "esportes-e-lazer-comparativo-s011",
