@@ -3,6 +3,7 @@
 ## Regras do dono (Bruno Danello)
 
 - **Merge automático autorizado:** pull requests abertos pelo Claude para a `main` podem ser mergeados automaticamente, sem pedir confirmação, quando o CI estiver verde, não houver conflitos e não houver comentários de revisão pendentes. Use merge commit (não reescreva histórico). Depois do merge, avise em uma linha.
+- **Entrega diária das 23h (Brasília):** todo dia às 23h, enviar no chat (sem página) a lista de links dos artigos novos do dia, separada em Amazon e Shopee, e o placar "Publicados hoje: X de 10 programados" (meta: 5 por loja, 3 comparativos + 2 reviews), com os temas pulados e os ASINs pendentes. Roda como scheduled task própria da sessão ("Entrega diária às 23h"); se for recriada, manter este formato.
 - **Lembretes fixos (todo informe):** sempre lembrar o dono dos créditos do Firecrawl e da API da Amazon (itens 5 e 6 de `docs/PENDENCIAS-DONO.md`); só param se o dono pedir.
 - **Fim de toda entrega ou publicação:** terminar a mensagem com as pendências do dono (`docs/PENDENCIAS-DONO.md`, cada uma com o link de onde fazer) e com o link clicável do site: https://reviewprodutos.com.br
 - O domínio oficial é **sem www**: `https://reviewprodutos.com.br`.
