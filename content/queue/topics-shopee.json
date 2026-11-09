@@ -4957,7 +4957,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "adidas-classic-foundation-ou-tiro-backpack",
+      "published_at": "2026-11-09"
     },
     {
       "id": "tecnologia-review-s011",
