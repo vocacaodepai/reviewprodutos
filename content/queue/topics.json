@@ -14899,7 +14899,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "logitech-mk470-slim-ou-mk295",
+      "published_at": "2026-11-09"
     },
     {
       "id": "escritorio-e-estudos-comparativo-025",
