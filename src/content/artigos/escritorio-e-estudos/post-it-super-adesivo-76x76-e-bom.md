@@ -10,8 +10,8 @@ pubDate: 2026-11-08
 updatedDate: 2026-11-08
 autor: bruno-danello
 imagem:
-  src: "https://reviewprodutos.com.br/imagem-neutra.svg"
-  fonte: propria
+  src: "https://m.media-amazon.com/images/I/51w1wIfqBCL._AC_SL1500_.jpg"
+  fonte: amazon
   alt: "Bloco de notas adesivas amarelas quadradas de 76 por 76 milímetros, ilustração neutra"
 funil:
   estagio: meio
@@ -24,10 +24,9 @@ produtos:
     marca: "3M Post-it"
     modelo: "Super Adesivas, Amarelo Sol, 76x76 mm, 90 folhas"
     asin: "B09583VM3Z"
-    asinVerificado: false
     imagem:
-      src: "https://reviewprodutos.com.br/imagem-neutra.svg"
-      fonte: propria
+      src: "https://m.media-amazon.com/images/I/51w1wIfqBCL._AC_SL1500_.jpg"
+      fonte: amazon
       alt: "Bloco Post-it Super Adesivo amarelo de 76 por 76 milímetros com 90 folhas, ilustração neutra"
     nota: 7.9
     resumo: "Bloco quadrado amarelo de 90 folhas com cola de adesão dobrada, bom para quem cola em parede, porta, monitor e geladeira e quer nota que não cai."

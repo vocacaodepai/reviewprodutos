@@ -10,8 +10,8 @@ pubDate: 2026-11-08
 updatedDate: 2026-11-08
 autor: bruno-danello
 imagem:
-  src: "https://reviewprodutos.com.br/imagem-neutra.svg"
-  fonte: propria
+  src: "https://m.media-amazon.com/images/I/813LRFs3wbL._AC_SL1500_.jpg"
+  fonte: amazon
   alt: "Frigideira antiaderente de alumínio na cor chumbo com cabo preto, ilustração neutra"
 funil:
   estagio: meio
@@ -24,10 +24,9 @@ produtos:
     marca: "Tramontina"
     modelo: "Turim 24 cm"
     asin: "B077C74HMD"
-    asinVerificado: false
     imagem:
-      src: "https://reviewprodutos.com.br/imagem-neutra.svg"
-      fonte: propria
+      src: "https://m.media-amazon.com/images/I/813LRFs3wbL._AC_SL1500_.jpg"
+      fonte: amazon
       alt: "Frigideira Tramontina Turim 24 cm de alumínio, cor chumbo, com cabo de baquelite"
     nota: 7.4
     selo: melhor-barato
@@ -62,10 +61,9 @@ produtos:
     marca: "Tramontina"
     modelo: "Paris 24 cm"
     asin: "B09Y7CQKBZ"
-    asinVerificado: false
     imagem:
-      src: "https://reviewprodutos.com.br/imagem-neutra.svg"
-      fonte: propria
+      src: "https://m.media-amazon.com/images/I/819FZBuiG4L._AC_SL1500_.jpg"
+      fonte: amazon
       alt: "Frigideira Tramontina Paris 24 cm de alumínio, cor chumbo, acompanhada de espátula de nylon"
     nota: 7.9
     selo: escolha-do-editor

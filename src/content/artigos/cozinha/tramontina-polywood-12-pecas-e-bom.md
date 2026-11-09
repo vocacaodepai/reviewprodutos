@@ -10,8 +10,8 @@ pubDate: 2026-11-08
 updatedDate: 2026-11-08
 autor: bruno-danello
 imagem:
-  src: "https://reviewprodutos.com.br/imagem-neutra.svg"
-  fonte: propria
+  src: "https://m.media-amazon.com/images/I/81MLC0cnJqL._AC_SL1500_.jpg"
+  fonte: amazon
   alt: "Jogo de facas e garfos para churrasco com lâmina de aço inox e cabo de madeira vermelha, ilustração neutra"
 funil:
   estagio: fundo
@@ -24,10 +24,9 @@ produtos:
     marca: "Tramontina"
     modelo: "21199711"
     asin: "B00KD7ANL6"
-    asinVerificado: false
     imagem:
-      src: "https://reviewprodutos.com.br/imagem-neutra.svg"
-      fonte: propria
+      src: "https://m.media-amazon.com/images/I/81MLC0cnJqL._AC_SL1500_.jpg"
+      fonte: amazon
       alt: "Jogo de churrasco Tramontina Polywood de 12 peças com facas e garfos de cabo de madeira vermelha"
     nota: 7.7
     selo: melhor-custo-beneficio
