@@ -24,10 +24,9 @@ produtos:
     marca: "Stanley"
     modelo: "PowerLock 33-158, 5 m x 19 mm"
     asin: "B00002X2GG"
-    asinVerificado: false
     imagem:
-      src: "https://reviewprodutos.com.br/imagem-neutra.svg"
-      fonte: propria
+      src: "https://m.media-amazon.com/images/I/61gB0lO7UzL._AC_SL1500_.jpg"
+      fonte: amazon
       alt: "Trena de bolso de 5 metros com caixa amarela e cromada e fita de aço, ilustração neutra"
     nota: 8.1
     resumo: "Trena clássica de 5 metros e 19 mm com trava, gancho Tru-Zero e fita com Mylar, boa para casa, reforma leve e oficina doméstica."
