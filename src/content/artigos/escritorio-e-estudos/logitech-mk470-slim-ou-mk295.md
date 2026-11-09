@@ -24,10 +24,9 @@ produtos:
     marca: "Logitech"
     modelo: "MK470 Slim"
     asin: "B07Z88XJV2"
-    asinVerificado: false
     imagem:
-      src: "https://reviewprodutos.com.br/imagem-neutra.svg"
-      fonte: propria
+      src: "https://m.media-amazon.com/images/I/61+yOHonHBL._AC_SL1500_.jpg"
+      fonte: amazon
       alt: "Combo Logitech MK470 Slim, teclado ultrafino com teclado numérico e mouse ambidestro sem fio"
     nota: 7.6
     selo: melhor-compacto
@@ -64,10 +63,9 @@ produtos:
     marca: "Logitech"
     modelo: "MK295"
     asin: "B08JD18BD3"
-    asinVerificado: false
     imagem:
-      src: "https://reviewprodutos.com.br/imagem-neutra.svg"
-      fonte: propria
+      src: "https://m.media-amazon.com/images/I/51QntPP0mdL._AC_SL1500_.jpg"
+      fonte: amazon
       alt: "Combo Logitech MK295 SilentTouch, teclado ABNT2 com teclado numérico e mouse sem fio"
     nota: 8.2
     selo: melhor-custo-beneficio

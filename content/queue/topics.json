@@ -14657,7 +14657,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "trena-a-laser-bosch-glm-20-e-boa",
+      "published_at": "2026-11-09"
     },
     {
       "id": "casa-e-jardim-review-030",
