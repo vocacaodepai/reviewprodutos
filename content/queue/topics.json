@@ -15011,7 +15011,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "esportes-e-lazer-review-024",
@@ -16181,7 +16181,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "lixeira-tramontina-loop-ou-brinox-decorline-5-l",
+      "published_at": "2026-11-08"
     },
     {
       "id": "esportes-e-lazer-comparativo-027",

@@ -10,8 +10,8 @@ pubDate: 2026-11-08
 updatedDate: 2026-11-08
 autor: bruno-danello
 imagem:
-  src: "https://reviewprodutos.com.br/imagem-neutra.svg"
-  fonte: propria
+  src: "https://m.media-amazon.com/images/I/61r4OEvVMyL._AC_SL1500_.jpg"
+  fonte: amazon
   alt: "Dois lápis de grafite sextavados lado a lado, ilustração neutra de lápis pretos para estudo"
 funil:
   estagio: fundo
@@ -24,10 +24,9 @@ produtos:
     marca: "Staedtler"
     modelo: "Noris 120 HB"
     asin: "B001F9RA7Q"
-    asinVerificado: false
     imagem:
-      src: "https://reviewprodutos.com.br/imagem-neutra.svg"
-      fonte: propria
+      src: "https://m.media-amazon.com/images/I/61r4OEvVMyL._AC_SL1500_.jpg"
+      fonte: amazon
       alt: "Lápis de grafite Staedtler Noris HB sextavado, corpo amarelo com listras pretas"
     nota: 8.3
     selo: escolha-do-editor
@@ -62,10 +61,9 @@ produtos:
     marca: "Faber-Castell"
     modelo: "EcoLápis Grafite Max 1205"
     asin: "B072PZ99RG"
-    asinVerificado: false
     imagem:
-      src: "https://reviewprodutos.com.br/imagem-neutra.svg"
-      fonte: propria
+      src: "https://m.media-amazon.com/images/I/61dV+ufg+7L._AC_SL1500_.jpg"
+      fonte: amazon
       alt: "Lápis de grafite Faber-Castell EcoLápis Max sextavado, corpo preto"
     nota: 7.9
     selo: melhor-custo-beneficio
