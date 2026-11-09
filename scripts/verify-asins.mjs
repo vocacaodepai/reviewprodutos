@@ -16,16 +16,19 @@ import { resolveProductImage } from './lib/amazon-images.mjs';
 
 const apply = process.argv.includes('--apply');
 const norm = (s) => String(s ?? '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, ' ');
-const tokensDe = (p) => {
-  const base = [p.marca, p.modelo ?? p.nome].filter(Boolean).join(' ');
-  return norm(base).split(' ').filter((t) => t.length > 1);
+const STOP = new Set(['de', 'da', 'do', 'para', 'com', 'em', 'e', 'ou', 'um', 'uma']);
+const toks = (txt) => norm(txt).split(' ').filter((t) => t.length > 1 && !STOP.has(t));
+const razao = (titulo, tokens) => {
+  if (!tokens.length) return 0;
+  const t = norm(titulo);
+  return tokens.filter((k) => t.includes(k)).length / tokens.length;
 };
 const bate = (titulo, p) => {
   const t = norm(titulo);
   const modelo = norm(p.modelo ?? '').replace(/ /g, '');
   if (modelo.length >= 3 && t.replace(/ /g, '').includes(modelo)) return true;
-  const toks = tokensDe(p);
-  return toks.length > 0 && toks.filter((k) => t.includes(k)).length / toks.length >= 0.8;
+  // título do produto OU marca + modelo precisam aparecer (>= 70% dos termos) no título da Amazon
+  return razao(titulo, toks(p.nome)) >= 0.7 || razao(titulo, toks([p.marca, p.modelo].filter(Boolean).join(' '))) >= 0.7;
 };
 
 let divergentes = 0, pendentes = 0, confirmados = 0;
