@@ -14521,7 +14521,7 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "cozinha-comparativo-026",
@@ -14969,7 +14969,7 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "escritorio-e-estudos-comparativo-028",
@@ -15853,7 +15853,7 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "pets-comparativo-029",
