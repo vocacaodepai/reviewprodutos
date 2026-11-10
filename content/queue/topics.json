@@ -15575,7 +15575,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "vonixx-350gsm-ou-meguiars-supreme-shine",
+      "published_at": "2026-11-10"
     },
     {
       "id": "automotivo-comparativo-023",

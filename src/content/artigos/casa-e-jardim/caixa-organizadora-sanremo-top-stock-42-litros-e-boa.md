@@ -10,9 +10,9 @@ pubDate: 2026-11-10
 updatedDate: 2026-11-10
 autor: bruno-danello
 imagem:
-  src: "https://reviewprodutos.com.br/imagem-neutra.svg"
-  fonte: propria
-  alt: "Caixa organizadora plástica transparente Sanremo Top Stock de 42 litros com tampa e travas laterais"
+  src: "https://m.media-amazon.com/images/I/91xqx4+-0gL._AC_SL1500_.jpg"
+  fonte: amazon
+  alt: "Caixa organizadora transparente Sanremo Top Stock de 42 litros com tampa e travas"
 funil:
   estagio: meio
   problema: "organizar armário e despensa com caixas empilháveis com tampa"
@@ -24,10 +24,9 @@ produtos:
     marca: "Sanremo"
     modelo: "Top Stock 42 L (Ref. 980)"
     asin: "B078J361M2"
-    asinVerificado: false
     imagem:
-      src: "https://reviewprodutos.com.br/imagem-neutra.svg"
-      fonte: propria
+      src: "https://m.media-amazon.com/images/I/91xqx4+-0gL._AC_SL1500_.jpg"
+      fonte: amazon
       alt: "Caixa organizadora transparente Sanremo Top Stock de 42 litros com tampa e quatro travas"
     nota: 7.3
     selo: melhor-para-familias

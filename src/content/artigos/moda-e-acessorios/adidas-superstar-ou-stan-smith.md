@@ -10,9 +10,9 @@ pubDate: 2026-11-09
 updatedDate: 2026-11-09
 autor: bruno-danello
 imagem:
-  src: "https://reviewprodutos.com.br/imagem-neutra.svg"
-  fonte: propria
-  alt: "Ilustração neutra para comparação entre os tênis Adidas Superstar e Adidas Stan Smith"
+  src: "https://m.media-amazon.com/images/I/718WKXoqKTL._AC_SL1500_.jpg"
+  fonte: amazon
+  alt: "Tênis Adidas Superstar masculino branco com preto"
 funil:
   estagio: meio
   problema: "escolher entre dois tênis casuais clássicos da Adidas sem errar no estilo, no calce e na originalidade"
@@ -24,10 +24,9 @@ produtos:
     marca: "Adidas"
     modelo: "Superstar"
     asin: "B07T16LJ6Q"
-    asinVerificado: false
     imagem:
-      src: "https://reviewprodutos.com.br/imagem-neutra.svg"
-      fonte: propria
+      src: "https://m.media-amazon.com/images/I/718WKXoqKTL._AC_SL1500_.jpg"
+      fonte: amazon
       alt: "Tênis Adidas Originals Superstar masculino branco com três listras pretas e biqueira de borracha"
     nota: 8.0
     selo: escolha-do-editor
@@ -62,10 +61,9 @@ produtos:
     marca: "Adidas"
     modelo: "Stan Smith"
     asin: "B087F1NWL9"
-    asinVerificado: false
     imagem:
-      src: "https://reviewprodutos.com.br/imagem-neutra.svg"
-      fonte: propria
+      src: "https://m.media-amazon.com/images/I/61sZZo0-pZL._AC_SL1500_.jpg"
+      fonte: amazon
       alt: "Tênis Adidas Originals Stan Smith masculino branco com detalhe verde no calcanhar e perfurações laterais"
     nota: 7.7
     selo: melhor-custo-beneficio
