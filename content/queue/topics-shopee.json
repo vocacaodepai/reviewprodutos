@@ -6779,7 +6779,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "puma-smash-v2-ou-adidas-grand-court",
+      "published_at": "2026-11-10"
     },
     {
       "id": "moda-e-acessorios-comparativo-s010",
