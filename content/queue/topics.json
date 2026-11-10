@@ -15371,7 +15371,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "adidas-superstar-ou-stan-smith",
+      "published_at": "2026-11-09"
     },
     {
       "id": "moda-e-acessorios-comparativo-020",
