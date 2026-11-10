@@ -10,9 +10,9 @@ pubDate: 2026-11-09
 updatedDate: 2026-11-09
 autor: bruno-danello
 imagem:
-  src: "https://reviewprodutos.com.br/imagem-neutra.svg"
-  fonte: propria
-  alt: "Ilustração neutra de uma trena de bolso com caixa amarela e fita metálica estendida"
+  src: "https://m.media-amazon.com/images/I/61gB0lO7UzL._AC_SL1500_.jpg"
+  fonte: amazon
+  alt: "Trena Stanley PowerLock de 5 metros com caixa amarela e fita de aço"
 funil:
   estagio: fundo
   problema: "ter uma trena resistente que não perde a precisão nem trava com o uso"

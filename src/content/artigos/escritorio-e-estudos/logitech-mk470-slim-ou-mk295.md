@@ -10,9 +10,9 @@ pubDate: 2026-11-09
 updatedDate: 2026-11-09
 autor: bruno-danello
 imagem:
-  src: "https://reviewprodutos.com.br/imagem-neutra.svg"
-  fonte: propria
-  alt: "Ilustração neutra de combo de teclado e mouse sem fio para escritório e estudos"
+  src: "https://m.media-amazon.com/images/I/61+yOHonHBL._AC_SL1500_.jpg"
+  fonte: amazon
+  alt: "Combo de teclado e mouse sem fio Logitech MK470 Slim na cor grafite"
 funil:
   estagio: topo
   problema: "escolher entre dois combos de teclado e mouse sem fio da Logitech"

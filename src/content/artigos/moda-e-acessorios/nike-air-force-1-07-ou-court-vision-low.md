@@ -10,9 +10,9 @@ pubDate: 2026-11-10
 updatedDate: 2026-11-10
 autor: bruno-danello
 imagem:
-  src: "https://reviewprodutos.com.br/imagem-neutra.svg"
-  fonte: propria
-  alt: "Ilustração neutra para comparação entre os tênis Nike Air Force 1 07 e Nike Court Vision Low masculinos brancos"
+  src: "https://m.media-amazon.com/images/I/51e66z1yKYL._AC_SL1500_.jpg"
+  fonte: amazon
+  alt: "Tênis Nike Air Force 1 07 masculino todo branco, cano baixo"
 funil:
   estagio: meio
   problema: "escolher entre dois tênis brancos casuais da Nike que parecem parecidos sem pagar a mais pelo que não vai usar"
@@ -24,10 +24,9 @@ produtos:
     marca: "Nike"
     modelo: "Air Force 1 '07"
     asin: "B0DHLGL4F8"
-    asinVerificado: false
     imagem:
-      src: "https://reviewprodutos.com.br/imagem-neutra.svg"
-      fonte: propria
+      src: "https://m.media-amazon.com/images/I/51e66z1yKYL._AC_SL1500_.jpg"
+      fonte: amazon
       alt: "Tênis Nike Air Force 1 07 masculino todo branco, cano baixo, com swoosh lateral e solado cupsole"
     nota: 8.4
     selo: escolha-do-editor
@@ -61,10 +60,9 @@ produtos:
     marca: "Nike"
     modelo: "Court Vision Low Next Nature"
     asin: "B0FC8RSKTJ"
-    asinVerificado: false
     imagem:
-      src: "https://reviewprodutos.com.br/imagem-neutra.svg"
-      fonte: propria
+      src: "https://m.media-amazon.com/images/I/51yw0T1XtTL._AC_SL1500_.jpg"
+      fonte: amazon
       alt: "Tênis Nike Court Vision Low Next Nature masculino todo branco, cano baixo, com swoosh lateral"
     nota: 7.6
     selo: melhor-custo-beneficio
