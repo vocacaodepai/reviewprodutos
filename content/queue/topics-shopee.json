@@ -5723,7 +5723,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "bola-adidas-trionda-club-e-boa",
+      "published_at": "2026-11-10"
     },
     {
       "id": "esportes-e-lazer-review-s014",
