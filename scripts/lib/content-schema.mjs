@@ -57,6 +57,7 @@ export function validateFrontmatter(data, { categorias = loadCategorias(), autor
   if (!data.autor) errs.push('autor: obrigatório (ex.: equipe)');
   else if (!autores.some((a) => a.id === data.autor)) errs.push(`autor: "${data.autor}" não existe`);
   validateImagem(data.imagem, 'imagem', errs);
+  if (data.imagem?.src === IMAGEM_NEUTRA) errs.push('imagem: capa neutra é proibida; use foto real (Amazon ou do mesmo produto na Shopee)');
   if (!data.funil || typeof data.funil !== 'object') errs.push('funil: objeto obrigatório');
   else {
     if (!['topo', 'meio', 'fundo'].includes(data.funil.estagio)) errs.push('funil.estagio: topo | meio | fundo');
@@ -93,9 +94,9 @@ export function validateFrontmatter(data, { categorias = loadCategorias(), autor
       if (p.asinVerificado !== undefined && typeof p.asinVerificado !== 'boolean') errs.push(`${path}.asinVerificado: true | false`);
       if (p.asinVerificado === false) {
         if (p.loja === 'shopee') errs.push(`${path}.asinVerificado: só vale para produtos da Amazon`);
-        if (p.imagem?.src !== IMAGEM_NEUTRA) errs.push(`${path}.imagem: ASIN não verificado usa só a imagem neutra (${IMAGEM_NEUTRA})`);
         if ((p.voltagem && !/bivolt/i.test(p.voltagem)) || (p.variantes ?? []).length) errs.push(`${path}: ASIN não verificado só para produto de baixo risco (sem variações de voltagem/variantes)`);
-      } else if (p.imagem?.src === IMAGEM_NEUTRA) errs.push(`${path}.imagem: imagem neutra só com asinVerificado: false`);
+      }
+      if (p.imagem?.src === IMAGEM_NEUTRA) errs.push(`${path}.imagem: imagem neutra é proibida; use foto real (Amazon ou do mesmo produto na Shopee)`);
       if (!isNum(p.nota, 0, 10)) errs.push(`${path}.nota: número 0-10`);
       if (p.selo !== undefined && !SELOS.includes(p.selo)) errs.push(`${path}.selo: inválido (${SELOS.join(' | ')})`);
       if (!isStr(p.resumo, 20, 260)) errs.push(`${path}.resumo: 20-260 caracteres`);
