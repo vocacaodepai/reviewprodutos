@@ -14369,7 +14369,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "jbl-quantum-100-ou-logitech-g335",
+      "published_at": "2026-11-11"
     },
     {
       "id": "cozinha-review-027",
