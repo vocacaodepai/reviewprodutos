@@ -4423,7 +4423,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped",
+      "published_slug": "bestway-4678-litros-ou-6473-litros",
+      "published_at": "2026-11-11"
     },
     {
       "id": "esportes-e-lazer-comparativo-s008",
@@ -6943,7 +6945,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "detetive-estrela-ou-war-grow",
+      "published_at": "2026-11-11"
     },
     {
       "id": "tecnologia-comparativo-s016",
