@@ -17,8 +17,8 @@ export const SITE = {
   // Tag de afiliado Amazon Associados Brasil
   amazonTag: import.meta.env.PUBLIC_AMAZON_TAG || 'reviewprodutos-20',
   amazonHost: 'https://www.amazon.com.br',
-  // AdSense (vazio = desativado)
-  adsenseClient: import.meta.env.PUBLIC_ADSENSE_CLIENT || '',
+  // AdSense (ID público do editor; PUBLIC_ADSENSE_CLIENT sobrescreve, vazio desativa)
+  adsenseClient: import.meta.env.PUBLIC_ADSENSE_CLIENT ?? 'ca-pub-5212610948635761',
   gscVerification: import.meta.env.PUBLIC_GSC_VERIFICATION || '',
   ga4Id: import.meta.env.PUBLIC_GA4_ID || 'G-55940SV53K',
   social: {
