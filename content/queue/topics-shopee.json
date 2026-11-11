@@ -5994,7 +5994,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "cera-autoamerica-triple-paste-wax-e-boa",
+      "published_at": "2026-11-11"
     },
     {
       "id": "automotivo-review-s009",
