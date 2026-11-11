@@ -6891,7 +6891,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "autoamerica-extreme-ou-cadillac-high-shine",
+      "published_at": "2026-11-11"
     },
     {
       "id": "automotivo-comparativo-s009",
