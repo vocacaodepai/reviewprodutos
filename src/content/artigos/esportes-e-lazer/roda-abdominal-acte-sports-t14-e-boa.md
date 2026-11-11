@@ -10,11 +10,11 @@ pubDate: 2026-11-11
 updatedDate: 2026-11-11
 autor: bruno-danello
 imagem:
-  src: "https://cf.shopee.com.br/file/sg-11134201-8259y-mtqprznun5z6d0"
-  fonte: shopee
-  largura: 1000
-  altura: 1000
-  alt: "Roda abdominal Acte Sports T14 de roda dupla escura com cabos pretos"
+  src: "https://m.media-amazon.com/images/I/519rWIBMPHL._AC_SL1500_.jpg"
+  fonte: amazon
+  largura: 973
+  altura: 895
+  alt: "Roda abdominal Acte Sports T14 de roda dupla escura com cabo preto e logotipo da marca"
 funil:
   estagio: meio
   problema: "treinar abdômen em casa com pouco espaço e pouco dinheiro"
@@ -26,13 +26,12 @@ produtos:
     marca: "Acte Sports"
     modelo: "T14"
     asin: "B0779LV6QB"
-    asinVerificado: false
     imagem:
-      src: "https://cf.shopee.com.br/file/sg-11134201-8259y-mtqprznun5z6d0"
-      fonte: shopee
-      largura: 1000
-      altura: 1000
-      alt: "Roda abdominal Acte Sports T14 de roda dupla escura com cabos pretos, vista em perspectiva"
+      src: "https://m.media-amazon.com/images/I/519rWIBMPHL._AC_SL1500_.jpg"
+      fonte: amazon
+      largura: 973
+      altura: 895
+      alt: "Roda abdominal Acte Sports T14 de roda dupla escura com cabo preto e logotipo da marca"
     nota: 7.5
     selo: melhor-barato
     resumo: "Roda dupla de 19 cm com pegada anatômica, leve e compacta, para trabalhar abdômen e core em casa sem ocupar espaço."

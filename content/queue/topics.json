@@ -15201,7 +15201,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "nautika-fenix-ou-vonder-lcv-032-lanterna-de-cabeca",
+      "published_at": "2026-11-11"
     },
     {
       "id": "esportes-e-lazer-comparativo-025",
@@ -15673,7 +15675,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "pets-review-025",
