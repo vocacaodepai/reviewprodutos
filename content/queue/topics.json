@@ -15219,7 +15219,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "colchonete-acte-sports-ou-mor",
+      "published_at": "2026-11-10"
     },
     {
       "id": "esportes-e-lazer-comparativo-026",
