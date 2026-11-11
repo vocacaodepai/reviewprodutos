@@ -14077,7 +14077,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "anker-nano-30w-e-bom",
+      "published_at": "2026-11-11"
     },
     {
       "id": "tecnologia-review-029",
