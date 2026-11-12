@@ -6090,7 +6090,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "lego-classic-11036-vale-a-pena",
+      "published_at": "2026-11-12"
     },
     {
       "id": "bebes-e-criancas-review-s011",
