@@ -6999,7 +6999,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "electrolux-easybox-eas40-ou-ergorapido-erg26",
+      "published_at": "2026-11-12"
     },
     {
       "id": "escritorio-e-estudos-comparativo-s011",
