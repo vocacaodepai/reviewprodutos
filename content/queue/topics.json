@@ -14755,7 +14755,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "casa-e-jardim-comparativo-027",
@@ -16185,7 +16185,7 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "casa-e-jardim-comparativo-029",
@@ -16231,7 +16231,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "luva-de-boxe-everlast-pro-style-ou-venum-challenger",
+      "published_at": "2026-11-12"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-028",
