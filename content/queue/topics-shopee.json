@@ -5084,7 +5084,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "acer-aspire-go-15-ag15-51p-e-bom",
+      "published_at": "2026-11-12"
     },
     {
       "id": "tecnologia-review-s016",
@@ -5182,7 +5184,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "casa-e-jardim-review-s013",
@@ -5253,7 +5255,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "cozinha-review-s011",
