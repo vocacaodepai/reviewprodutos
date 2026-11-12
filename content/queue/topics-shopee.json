@@ -7045,7 +7045,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "pichau-donek-v2-ou-dazz-elite-pro",
+      "published_at": "2026-11-12"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-s012",
