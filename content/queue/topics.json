@@ -15853,7 +15853,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "chuckit-paraflight-ou-kong-flyer",
+      "published_at": "2026-11-12"
     },
     {
       "id": "pets-comparativo-028",
