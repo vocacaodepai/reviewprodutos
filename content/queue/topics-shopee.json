@@ -7365,7 +7365,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "kappa-pulse-rx-ou-skechers-go-walk-flex",
+      "published_at": "2026-11-12"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-s014",
