@@ -14237,7 +14237,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "galaxy-a26-ou-moto-g56",
+      "published_at": "2026-11-12"
     },
     {
       "id": "tecnologia-comparativo-026",
@@ -14553,7 +14555,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "cozinha-comparativo-027",
