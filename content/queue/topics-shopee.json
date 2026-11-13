@@ -3933,7 +3933,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "bebes-e-criancas-comparativo-s008",
@@ -7103,7 +7103,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "asics-gel-nimbus-28-ou-mizuno-wave-prorunner-25",
+      "published_at": "2026-11-13"
     },
     {
       "id": "tecnologia-comparativo-s017",
@@ -7203,7 +7205,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "cozinha-comparativo-s017",
