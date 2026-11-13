@@ -1419,7 +1419,9 @@
       ],
       "prioridade": 3,
       "sazonal": "natal",
-      "status": "pending"
+      "status": "published",
+      "published_slug": "hot-wheels-t-rex-ou-giro-veloz",
+      "published_at": "2026-11-13"
     },
     {
       "id": "pets-review-s001",
