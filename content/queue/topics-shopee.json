@@ -7173,7 +7173,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "light-blue-homme-ou-acqua-di-gio-homme",
+      "published_at": "2026-11-13"
     },
     {
       "id": "moda-e-acessorios-comparativo-s013",
