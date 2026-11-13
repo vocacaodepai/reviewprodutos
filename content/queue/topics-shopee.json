@@ -6313,7 +6313,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "britania-ab1600p-ou-cadence-miniconfort",
+      "published_at": "2026-11-13"
     },
     {
       "id": "casa-e-jardim-comparativo-s012",
@@ -7249,7 +7251,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "cozinha-comparativo-s018",
