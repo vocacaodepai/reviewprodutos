@@ -5520,7 +5520,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "nivea-men-espuma-barbear-original-protect-e-boa",
+      "published_at": "2026-11-13"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-s015",
@@ -5831,7 +5833,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "escritorio-e-estudos-review-s013",
@@ -6069,7 +6071,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "bebes-e-criancas-review-s010",
