@@ -3985,7 +3985,7 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "pets-review-s005",
@@ -6931,7 +6931,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "bebes-e-criancas-comparativo-s010",
@@ -7409,7 +7409,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "boss-bottled-edp-ou-polo-blue-edp",
+      "published_at": "2026-11-14"
     },
     {
       "id": "cozinha-comparativo-s021",
