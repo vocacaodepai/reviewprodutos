@@ -7934,7 +7934,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "electrolux-eaf85-e-boa",
+      "published_at": "2026-11-14"
     },
     {
       "id": "cozinha-review-s023",
