@@ -3422,7 +3422,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "relaxmedic-mini-deep-therapy-ou-deep-therapy-flex",
+      "published_at": "2026-11-14"
     },
     {
       "id": "saude-e-bem-estar-comparativo-s008",
