@@ -7462,7 +7462,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "intelbras-w5-1200gs-e-bom",
+      "published_at": "2026-11-14"
     },
     {
       "id": "tecnologia-review-s023",
