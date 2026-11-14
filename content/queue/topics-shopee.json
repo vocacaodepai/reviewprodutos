@@ -7815,7 +7815,9 @@
       ],
       "prioridade": 2,
       "sazonal": "verao",
-      "status": "pending"
+      "status": "published",
+      "published_slug": "arno-essential-ve2c-ou-electrolux-efs40",
+      "published_at": "2026-11-14"
     },
     {
       "id": "casa-e-jardim-comparativo-s023",
