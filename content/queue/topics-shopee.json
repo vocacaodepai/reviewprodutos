@@ -8430,7 +8430,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "philips-mg3941-ou-mondial-bg-04",
+      "published_at": "2026-11-15"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-s023",
