@@ -7801,7 +7801,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "mondial-nua-02-e-bom",
+      "published_at": "2026-11-16"
     },
     {
       "id": "casa-e-jardim-comparativo-s022",
@@ -7996,7 +7998,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "cozinha-review-s025",
