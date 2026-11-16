@@ -14169,7 +14169,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "jbl-tune-buds-e-bom",
+      "published_at": "2026-11-16"
     },
     {
       "id": "tecnologia-review-033",
