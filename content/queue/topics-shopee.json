@@ -7510,7 +7510,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "jbl-boombox-4-e-boa",
+      "published_at": "2026-11-16"
     },
     {
       "id": "tecnologia-review-s025",
