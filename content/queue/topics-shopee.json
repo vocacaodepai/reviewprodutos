@@ -7580,7 +7580,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "intelbras-elw-1001-ou-positivo-smart-lampada-spot",
+      "published_at": "2026-11-16"
     },
     {
       "id": "tecnologia-comparativo-s023",
@@ -7845,7 +7847,7 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "casa-e-jardim-comparativo-s024",
