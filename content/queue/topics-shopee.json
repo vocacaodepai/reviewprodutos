@@ -7680,7 +7680,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "anker-maggo-10k-ou-anker-nano-5k",
+      "published_at": "2026-11-16"
     },
     {
       "id": "casa-e-jardim-review-s022",
