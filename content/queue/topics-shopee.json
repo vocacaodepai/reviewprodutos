@@ -5981,7 +5981,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "skechers-go-walk-flex-e-bom",
+      "published_at": "2026-11-17"
     },
     {
       "id": "automotivo-review-s008",
