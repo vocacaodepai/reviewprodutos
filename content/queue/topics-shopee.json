@@ -932,7 +932,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "relaxmedic-orbital-ou-shiatsu-pillow",
+      "published_at": "2026-11-17"
     },
     {
       "id": "saude-e-bem-estar-comparativo-s003",
