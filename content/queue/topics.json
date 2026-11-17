@@ -15493,7 +15493,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "meguiars-quik-detailer-e-bom",
+      "published_at": "2026-11-17"
     },
     {
       "id": "automotivo-review-025",
@@ -15537,7 +15539,7 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "automotivo-review-027",
