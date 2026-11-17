@@ -26,7 +26,6 @@ produtos:
     marca: "Casio"
     modelo: "AE-1200WH-1AVDF"
     asin: "B0094B79PA"
-    asinVerificado: false
     imagem:
       src: "https://cf.shopee.com.br/file/sg-11134201-8261f-mkcf2ynfo7pjb3"
       fonte: shopee
@@ -67,7 +66,6 @@ produtos:
     marca: "Casio"
     modelo: "MQ-24-7B"
     asin: "B000JNKABW"
-    asinVerificado: false
     imagem:
       src: "https://images-na.ssl-images-amazon.com/images/P/B000JNKABW.01._SL500_.jpg"
       fonte: amazon
