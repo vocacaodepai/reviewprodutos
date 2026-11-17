@@ -8142,7 +8142,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "tramontina-turim-10-pecas-ou-solar-inox-6-pecas",
+      "published_at": "2026-11-17"
     },
     {
       "id": "cozinha-comparativo-s026",
