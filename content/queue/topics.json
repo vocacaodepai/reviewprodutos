@@ -14125,7 +14125,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "samsung-crystal-uhd-u8100f-50-e-boa",
+      "published_at": "2026-11-20"
     },
     {
       "id": "tecnologia-review-031",
@@ -14719,7 +14721,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "lg-dual-inverter-ou-samsung-windfree-12000-btus",
+      "published_at": "2026-11-20"
     },
     {
       "id": "casa-e-jardim-comparativo-025",
@@ -15081,7 +15085,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "piscina-intex-easy-set-1942-litros-e-boa",
+      "published_at": "2026-11-20"
     },
     {
       "id": "esportes-e-lazer-review-026",
@@ -15629,7 +15635,7 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "automotivo-comparativo-024",
