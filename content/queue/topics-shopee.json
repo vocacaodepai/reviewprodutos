@@ -5309,7 +5309,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "arno-mega-afm7-e-boa",
+      "published_at": "2026-11-20"
     },
     {
       "id": "cozinha-review-s013",
