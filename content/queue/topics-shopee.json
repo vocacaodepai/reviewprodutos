@@ -1399,7 +1399,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "motorola-vm482anxl-ou-vm50g-baba-eletronica",
+      "published_at": "2026-11-20"
     },
     {
       "id": "bebes-e-criancas-comparativo-s004",
