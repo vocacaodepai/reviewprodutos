@@ -3478,7 +3478,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "relaxmedic-smart-ou-bodyscan-pro-balanca-bioimpedancia",
+      "published_at": "2026-11-21"
     },
     {
       "id": "saude-e-bem-estar-comparativo-s010",
