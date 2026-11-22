@@ -4513,7 +4513,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "capacete-pro-tork-new-liberty-4-e-bom",
+      "published_at": "2026-11-22"
     },
     {
       "id": "automotivo-review-s006",
