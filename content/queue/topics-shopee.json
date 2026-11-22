@@ -1729,7 +1729,8 @@
       ],
       "prioridade": 3,
       "sazonal": "verao",
-      "status": "pending"
+      "status": "skipped",
+      "ultimo_erro": "duplicado: cadeira de praia Mor já coberta no site"
     },
     {
       "id": "esportes-e-lazer-comparativo-s001",
@@ -3379,7 +3380,8 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped",
+      "ultimo_erro": "duplicado: review da Mini Deep Therapy já publicado"
     },
     {
       "id": "saude-e-bem-estar-comparativo-s006",
@@ -9454,7 +9456,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "logitech-m240-silent-e-bom",
+      "published_at": "2026-11-22"
     },
     {
       "id": "escritorio-e-estudos-review-s024",
