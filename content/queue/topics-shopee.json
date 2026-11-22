@@ -1008,7 +1008,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "creatina-growth-ou-soldiers",
+      "published_at": "2026-11-22"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-s001",
