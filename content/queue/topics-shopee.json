@@ -7580,7 +7580,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "controle-xbox-carbon-black-e-bom",
+      "published_at": "2026-11-23"
     },
     {
       "id": "tecnologia-comparativo-s022",
