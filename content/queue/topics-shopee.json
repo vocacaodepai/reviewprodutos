@@ -7652,7 +7652,8 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped",
+      "erro": "sem ficha oficial da Philips Brasil para o TAT1320 e anúncios Shopee com dados inconsistentes"
     },
     {
       "id": "tecnologia-comparativo-s025",
@@ -8138,7 +8139,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "electrolux-eib10-ou-eib21-mixer",
+      "published_at": "2026-11-23"
     },
     {
       "id": "cozinha-comparativo-s025",
