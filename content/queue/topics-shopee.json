@@ -7683,7 +7683,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "jbl-cinema-sb180-vs-tcl-s55h",
+      "published_at": "2026-11-23"
     },
     {
       "id": "tecnologia-comparativo-s026",
