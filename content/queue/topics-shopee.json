@@ -5469,7 +5469,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "prancha-taiff-style-pro-titanium-e-boa",
+      "published_at": "2026-11-23"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-s012",
