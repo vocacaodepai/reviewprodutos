@@ -12179,7 +12179,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "electrolux-stk15-e-bom",
+      "published_at": "2026-11-23"
     },
     {
       "id": "casa-e-jardim-comparativo-019",
@@ -12728,7 +12730,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "omron-hem-6124-ou-hem-6232t",
+      "published_at": "2026-11-23"
     },
     {
       "id": "saude-e-bem-estar-comparativo-021",
@@ -15771,7 +15775,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "cortador-de-unhas-chalesco-e-bom",
+      "published_at": "2026-11-23"
     },
     {
       "id": "pets-review-028",
