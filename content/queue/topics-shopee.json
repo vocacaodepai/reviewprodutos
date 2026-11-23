@@ -958,7 +958,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "whey-growth-ou-max-titanium-whey-pro",
+      "published_at": "2026-11-23"
     },
     {
       "id": "saude-e-bem-estar-comparativo-s004",
