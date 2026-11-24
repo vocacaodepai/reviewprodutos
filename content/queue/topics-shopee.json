@@ -1380,7 +1380,8 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped",
+      "ultimo_erro": "sem ficha oficial do kit Lillo Primeiros Passos (site do fabricante sem dados); tema de bebe exige fonte confiavel"
     },
     {
       "id": "bebes-e-criancas-comparativo-s003",
@@ -2008,7 +2009,8 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped",
+      "ultimo_erro": "sem ficha oficial confiavel do Ipiranga F1 Master 5W30 API SQ nem da linha exata do Selenia"
     },
     {
       "id": "automotivo-comparativo-s004",
@@ -4616,7 +4618,8 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped",
+      "ultimo_erro": "sem anuncio Shopee Mall do Pro Tork Sport Moto 788 e anuncios com descricao conflitante"
     },
     {
       "id": "automotivo-comparativo-s007",
