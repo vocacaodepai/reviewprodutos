@@ -5527,7 +5527,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "maybelline-fit-me-fresh-tint-e-boa",
+      "published_at": "2026-11-24"
     },
     {
       "id": "beleza-e-cuidados-pessoais-review-s014",
