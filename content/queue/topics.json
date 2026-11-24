@@ -14225,7 +14225,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "apple-airtag-2-e-bom",
+      "published_at": "2026-11-24"
     },
     {
       "id": "tecnologia-comparativo-025",
@@ -14799,7 +14801,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "black-decker-tm500-ou-makita-m0801",
+      "published_at": "2026-11-24"
     },
     {
       "id": "casa-e-jardim-comparativo-028",
@@ -15207,7 +15211,9 @@
       ],
       "prioridade": 3,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "puma-velocity-nitro-3-ou-adidas-adizero-sl",
+      "published_at": "2026-11-24"
     },
     {
       "id": "esportes-e-lazer-comparativo-024",
@@ -15821,7 +15827,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "nd-prime-caes-adultos-racas-medias-e-boa",
+      "published_at": "2026-11-24"
     },
     {
       "id": "pets-comparativo-025",
