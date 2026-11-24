@@ -9590,7 +9590,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "samsung-odyssey-g5-27-ou-aoc-agon-g50-27g50f",
+      "published_at": "2026-11-24"
     },
     {
       "id": "escritorio-e-estudos-comparativo-s024",
