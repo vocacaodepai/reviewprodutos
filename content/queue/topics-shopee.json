@@ -8703,7 +8703,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "lego-city-60481-ou-60508-policia",
+      "published_at": "2026-11-24"
     },
     {
       "id": "bebes-e-criancas-comparativo-s023",
