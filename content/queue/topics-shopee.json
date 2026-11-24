@@ -882,7 +882,8 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "skipped",
+      "erro": "sem anúncio Shopee Mall do Growth multivitamínico 120 cápsulas (só revendedor genérico)"
     },
     {
       "id": "saude-e-bem-estar-comparativo-s001",
@@ -3338,7 +3339,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "lavitan-cabelos-e-unhas-e-bom",
+      "published_at": "2026-11-24"
     },
     {
       "id": "saude-e-bem-estar-review-s009",
