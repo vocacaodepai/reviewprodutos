@@ -202,5 +202,23 @@
       { "slug": "malas-e-viagem", "nome": "Malas e viagem" },
       { "slug": "relogios-e-oculos", "nome": "Relógios e óculos" }
     ]
+  },
+  {
+    "id": "guias-e-dicas",
+    "nome": "Guias e Dicas",
+    "descricao": "Um blog dentro do site: como comprar com segurança, escolher, usar e cuidar dos produtos, receitas práticas e saídas para problemas do dia a dia.",
+    "seoTitle": "Guias e Dicas de Compra, Uso e Cuidados",
+    "seoDescription": "Artigos práticos sobre compra segura, como escolher, usar e cuidar de produtos, receitas e soluções para o dia a dia, com links para reviews e comparativos.",
+    "icone": "info",
+    "cor": "#0369A1",
+    "ordem": 12,
+    "subcategorias": [
+      { "slug": "compras-seguras", "nome": "Compras seguras" },
+      { "slug": "como-escolher", "nome": "Como escolher" },
+      { "slug": "uso-e-cuidados", "nome": "Uso e cuidados" },
+      { "slug": "receitas-praticas", "nome": "Receitas práticas" },
+      { "slug": "bem-estar", "nome": "Bem-estar no uso" },
+      { "slug": "problemas-do-dia-a-dia", "nome": "Problemas do dia a dia" }
+    ]
   }
 ]

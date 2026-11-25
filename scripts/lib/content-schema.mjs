@@ -47,7 +47,7 @@ export function validateFrontmatter(data, { categorias = loadCategorias(), autor
   if (!isStr(data.title, 20, 100)) errs.push('title: 20-100 caracteres');
   if (data.seoTitle !== undefined && !isStr(data.seoTitle, 1, 62)) errs.push('seoTitle: até 62 caracteres');
   if (!isStr(data.description, 100, 170)) errs.push('description: 100-170 caracteres');
-  if (!['review', 'comparativo', 'lista'].includes(data.tipo)) errs.push('tipo: review | comparativo | lista');
+  if (!['review', 'comparativo', 'lista', 'guia'].includes(data.tipo)) errs.push('tipo: review | comparativo | lista | guia');
   const cat = categorias.find((c) => c.id === data.categoria);
   if (!cat) errs.push(`categoria: "${data.categoria}" não existe`);
   else if (!cat.subcategorias.some((s) => s.slug === data.subcategoria)) errs.push(`subcategoria: "${data.subcategoria}" não existe em ${cat.id} (válidas: ${cat.subcategorias.map((s) => s.slug).join(', ')})`);
@@ -65,7 +65,7 @@ export function validateFrontmatter(data, { categorias = loadCategorias(), autor
     if (data.funil.estagio === 'topo' && !isStr(data.funil.problema, 5)) errs.push('funil.problema: obrigatório para topo de funil');
   }
   if (!isStr(data.veredito, 120, 600)) errs.push('veredito: 120-600 caracteres');
-  if (!Array.isArray(data.produtos) || data.produtos.length < 1) errs.push('produtos: lista com pelo menos 1 item');
+  if (!Array.isArray(data.produtos) || (data.tipo !== 'guia' && data.produtos.length < 1)) errs.push('produtos: lista com pelo menos 1 item (no tipo guia pode ser [])');
   else {
     const n = data.produtos.length;
     if (data.tipo === 'review' && n !== 1) errs.push('review exige exatamente 1 produto');
@@ -136,8 +136,9 @@ export function validateFrontmatter(data, { categorias = loadCategorias(), autor
 export function validateBody(body, data) {
   const errs = [];
   const words = body.trim().split(/\s+/).filter(Boolean).length;
-  const min = data?.tipo === 'review' ? 900 : data?.tipo === 'comparativo' ? 1000 : 1200;
+  const min = data?.tipo === 'guia' ? 700 : data?.tipo === 'review' ? 900 : data?.tipo === 'comparativo' ? 1000 : 1200;
   if (words < min) errs.push(`corpo: ${words} palavras (mínimo ${min} para ${data?.tipo})`);
+  if (data?.tipo === 'guia' && !/\]\(\/(reviews|comparativos)\/[a-z0-9-]+\/\)/.test(body)) errs.push('corpo: o tipo guia precisa de pelo menos 1 link interno para uma review ou comparativo');
   if (words > 4500) errs.push(`corpo: ${words} palavras (máximo 4500)`);
   const h2 = (body.match(/^## /gm) || []).length;
   if (h2 < 4) errs.push(`corpo: apenas ${h2} seções H2 (mínimo 4)`);

@@ -26,7 +26,8 @@ for (const f of targets) {
   const { errs, data } = result;
   const slug = slugFromPath(f);
   if (slugs.has(slug)) errs.push(`slug duplicado com ${relative(ROOT, slugs.get(slug))}`); else slugs.set(slug, f);
-  if (data?.produtos && data.tipo) {
+  // Guias podem citar o mesmo produto (ou nenhum): a checagem de duplicata vale para os outros tipos.
+  if (data?.produtos && data.tipo && data.tipo !== 'guia') {
     const key = `${data.tipo}:${[...data.produtos.map((p) => p.asin ?? `shopee:${p.shopee?.itemId}`)].sort().join(',')}`;
     if (asinTipo.has(key)) errs.push(`mesmo conjunto de ASINs e tipo que ${relative(ROOT, asinTipo.get(key))} (conteúdo duplicado?)`); else asinTipo.set(key, f);
   }

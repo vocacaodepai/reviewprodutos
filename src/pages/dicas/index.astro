@@ -1,0 +1,11 @@
+---
+import ListingPage from '@/components/ListingPage.astro';
+import { getArtigos, paginate, categoriaUrl, PER_PAGE } from '@/lib/articles';
+import { ARTICLE_TYPES } from '@/site.config';
+const t = ARTICLE_TYPES['guia'];
+const all = await getArtigos((a) => a.data.tipo === 'guia');
+const pg = paginate(all, 1, PER_PAGE);
+---
+<ListingPage title={t.labelPlural} seoTitle="Guias e Dicas de compra, uso e cuidados" description={`${t.description} Compra segura, receitas, cuidados e como escolher, com links para reviews e comparativos.`} base={`/dicas/`} page={1} totalPages={pg.totalPages} items={pg.items} total={pg.total} crumbs={[{ name: t.labelPlural }]}>
+  <p class="mt-8 text-sm"><a href={categoriaUrl('guias-e-dicas')} class="underline">Ver por assunto na categoria Guias e Dicas</a></p>
+</ListingPage>

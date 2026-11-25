@@ -112,7 +112,7 @@ export function articleSchema(artigo: Artigo, autor: Autor, categoria: Categoria
 
   if (d.tipo === 'review') {
     graph.push(productSchema(d.produtos[0], autor, artigo));
-  } else {
+  } else if (d.tipo !== 'guia') {
     graph.push({
       '@type': 'ItemList',
       '@id': `${url}#lista`,

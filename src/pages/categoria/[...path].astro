@@ -36,9 +36,12 @@ const pg = paginate(all, page, PER_PAGE);
 const counts: Record<string, number> = {};
 for (const a of await getArtigos((a) => a.data.categoria.id === catId)) counts[a.data.subcategoria] = (counts[a.data.subcategoria] ?? 0) + 1;
 const base = categoriaUrl(catId, sub ?? undefined);
-const title = subObj ? `${subObj.nome}: reviews e melhores produtos` : (cat.data.seoTitle ?? cat.data.nome);
+const isGuias = catId === 'guias-e-dicas';
+const title = subObj ? (isGuias ? `${subObj.nome}: guias e dicas` : `${subObj.nome}: reviews e melhores produtos`) : (cat.data.seoTitle ?? cat.data.nome);
 const description = subObj
-  ? `Reviews, comparativos e listas dos melhores produtos de ${subObj.nome.toLowerCase()} (${cat.data.nome}) vendidos no Brasil, com notas, prós e contras e links para comprar.`
+  ? (isGuias
+    ? `Artigos práticos de ${subObj.nome.toLowerCase()} na categoria ${cat.data.nome} do Review Produtos, com orientações diretas e links para reviews e comparativos.`
+    : `Reviews, comparativos e listas dos melhores produtos de ${subObj.nome.toLowerCase()} (${cat.data.nome}) vendidos no Brasil, com notas, prós e contras e links para comprar.`)
   : (cat.data.seoDescription ?? cat.data.descricao);
 const crumbs = subObj ? [{ name: cat.data.nome, url: categoriaUrl(catId) }, { name: subObj.nome }] : [{ name: cat.data.nome }];
 // Subcategorias vazias ficam noindex até terem conteúdo (evita páginas finas no índice)

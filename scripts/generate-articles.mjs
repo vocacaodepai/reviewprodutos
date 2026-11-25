@@ -65,7 +65,7 @@ function existingIndex() {
   }
   return { slugs, asinKeys, titles, artigos };
 }
-const TIPO_PATH = { review: 'reviews', comparativo: 'comparativos', lista: 'melhores' };
+const TIPO_PATH = { review: 'reviews', comparativo: 'comparativos', lista: 'melhores', guia: 'dicas' };
 
 function pickTopics(queue, n) {
   const pend = queue.temas.filter((t) => t.status === 'pending' && (!ONLY_TOPIC || t.id === ONLY_TOPIC));

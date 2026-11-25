@@ -15,7 +15,7 @@
 - Botão de produto da Shopee: "Comprar agora na Shopee" (mesmas regras de afiliado no rodapé e de preço; ver `docs/rotinas/lote-shopee.md`).
 - **Destaque da home:** o artigo em destaque muda a cada 5 dias, automaticamente (`destaqueDaHome` em `src/lib/articles.ts`); o campo `destaque` do frontmatter não é mais usado pela home.
 - **Capa e fotos sempre reais:** nenhum artigo pode ter capa ou produto sem foto (proibida a imagem neutra). Sem foto da Amazon, use a foto do MESMO produto exato na Shopee (`fonte: shopee`), podendo colá-la no artigo da Amazon. Se não houver foto real do produto em lugar nenhum, ou se o artigo da Amazon não puder ser produzido por qualquer motivo, substitua por um artigo da Shopee do mesmo formato, para manter a quantidade e a qualidade completa do dia. ASIN ainda não confirmado ao vivo só entra (`asinVerificado: false`) com foto real e demais condições em `docs/rotinas/lote.md` seção 3c.
-- Artigos **não** exibem fontes de pesquisa nem o texto "Como este conteúdo foi produzido"; devem ter vários botões de compra ao longo do texto.
+- Artigos **não** exibem fontes de pesquisa nem o texto "Como este conteúdo foi produzido"; devem ter vários botões de compra ao longo do texto. Exceção: a categoria **Guias e Dicas** (`tipo: guia`, desde 25/11/2026, 3 por dia), em que os links de afiliado são opcionais e só no fim (padrão editorial, seção 3.4).
 
 ## Rotina diária de publicação
 

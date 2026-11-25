@@ -11,6 +11,7 @@ const nav = [
   { href: '/reviews/', label: 'Reviews', short: 'Reviews' },
   { href: '/comparativos/', label: 'Comparativos', short: 'Comparativos' },
   { href: '/solucoes/', label: 'Soluções', short: 'Soluções' },
+  { href: '/dicas/', label: 'Guias e Dicas', short: 'Dicas' },
 ];
 const isActive = (href: string) => path === href || (href !== '/' && path.startsWith(href));
 ---
@@ -50,7 +51,7 @@ const isActive = (href: string) => path === href || (href !== '/' && path.starts
         <label for="q-header" class="sr-only">Buscar produto ou review</label>
         <div class="relative">
           <input id="q-header" name="q" type="search" placeholder="Buscar produto, marca ou problema…" autocomplete="off"
-            class="w-64 rounded-xl border border-soft bg-soft py-2 pl-9 pr-3 text-sm outline-none transition focus:w-80 focus:border-brand-400 focus:bg-[var(--bg)]" />
+            class="w-64 rounded-xl border border-soft bg-soft py-2 pl-9 pr-3 text-sm outline-none transition focus:w-80 focus:border-brand-400 focus:bg-[var(--bg)] lg:w-40 lg:focus:w-56 xl:w-64 xl:focus:w-80" />
           <span class="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 muted"><Icon name="search" size={16} /></span>
         </div>
       </form>

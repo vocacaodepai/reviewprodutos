@@ -107,7 +107,8 @@ const artigos = defineCollection({
       seoTitle: z.string().max(62).optional(),
       /** Meta description (120-160 caracteres). */
       description: z.string().min(100).max(170),
-      tipo: z.enum(['review', 'comparativo', 'lista']),
+      /** guia = artigo útil que não é review (categoria Guias e Dicas, URL /dicas/): produtos opcionais, mostrados só no fim. */
+      tipo: z.enum(['review', 'comparativo', 'lista', 'guia']),
       categoria: reference('categorias'),
       /** Slug da subcategoria (precisa existir na categoria). */
       subcategoria: z.string().min(2),
@@ -127,7 +128,7 @@ const artigos = defineCollection({
       }),
       /** Veredito rápido (resumo em 30 segundos), 120-500 caracteres. */
       veredito: z.string().min(120).max(600),
-      produtos: z.array(produto).min(1).max(12),
+      produtos: z.array(produto).max(12).default([]),
       /** Critérios de avaliação com pesos (soma ≈ 100). */
       criterios: z.array(z.object({ nome: z.string(), peso: z.number().min(0).max(100), descricao: z.string().optional() })).optional(),
       /** Chaves de especificações exibidas na tabela comparativa (na ordem). */
@@ -143,6 +144,7 @@ const artigos = defineCollection({
     })
     .superRefine((data, ctx) => {
       const n = data.produtos.length;
+      if (data.tipo !== 'guia' && n < 1) ctx.addIssue({ code: 'custom', message: 'Artigo precisa de pelo menos 1 produto (só o tipo guia pode não ter)', path: ['produtos'] });
       if (data.tipo === 'review' && n !== 1) ctx.addIssue({ code: 'custom', message: 'Review individual precisa de exatamente 1 produto', path: ['produtos'] });
       if (data.tipo === 'comparativo' && (n < 2 || n > 3)) ctx.addIssue({ code: 'custom', message: 'Comparativo precisa de 2 ou 3 produtos', path: ['produtos'] });
       if (data.tipo === 'lista' && n < 3) ctx.addIssue({ code: 'custom', message: 'Lista precisa de 3 ou mais produtos', path: ['produtos'] });
