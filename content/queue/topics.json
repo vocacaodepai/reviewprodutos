@@ -12573,7 +12573,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "nebulizador-omron-ne-c803-e-bom",
+      "published_at": "2026-11-25"
     },
     {
       "id": "saude-e-bem-estar-review-019",
