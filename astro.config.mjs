@@ -8,7 +8,7 @@ import matter from 'gray-matter';
 
 const SITE = 'https://reviewprodutos.com.br';
 /** @type {Record<string, string>} */
-const TIPO_SLUG = { review: 'reviews', comparativo: 'comparativos', lista: 'melhores' };
+const TIPO_SLUG = { review: 'reviews', comparativo: 'comparativos', lista: 'melhores', guia: 'dicas' };
 
 /** Mapa URL -> lastmod (ISO) lido do frontmatter dos artigos, para o sitemap. */
 function articleLastmod() {

@@ -14,6 +14,7 @@ const recentes = artigos.filter((a) => a.id !== destaque?.id).slice(0, 6);
 const melhores = artigos.filter((a) => a.data.tipo === 'lista').slice(0, 4);
 const reviews = artigos.filter((a) => a.data.tipo === 'review').slice(0, 4);
 const comparativos = artigos.filter((a) => a.data.tipo === 'comparativo').slice(0, 4);
+const guias = artigos.filter((a) => a.data.tipo === 'guia').slice(0, 4);
 const solucoes = artigos.filter((a) => a.data.funil.estagio !== 'fundo' && a.data.funil.problema).slice(0, 6);
 const countByCat = (id: string) => artigos.filter((a) => a.data.categoria.id === id).length;
 const totalProdutos = artigos.reduce((n, a) => n + a.data.produtos.length, 0);
@@ -106,7 +107,7 @@ const totalProdutos = artigos.reduce((n, a) => n + a.data.produtos.length, 0);
 
   <!-- Por formato -->
   <section class="container-site py-12 space-y-12">
-    {[{ key: 'lista', items: melhores }, { key: 'review', items: reviews }, { key: 'comparativo', items: comparativos }].map(({ key, items }) => items.length > 0 && (
+    {[{ key: 'guia', items: guias }, { key: 'lista', items: melhores }, { key: 'review', items: reviews }, { key: 'comparativo', items: comparativos }].map(({ key, items }) => items.length > 0 && (
       <div>
         <div class="flex items-end justify-between gap-4">
           <div>

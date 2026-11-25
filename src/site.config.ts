@@ -39,6 +39,7 @@ export const ARTICLE_TYPES = {
   review: { slug: 'reviews', label: 'Review', labelPlural: 'Reviews', description: 'Análise completa de um produto: vale a pena ou não?' },
   comparativo: { slug: 'comparativos', label: 'Comparativo', labelPlural: 'Comparativos', description: 'Dois produtos frente a frente: qual comprar?' },
   lista: { slug: 'melhores', label: 'Melhores', labelPlural: 'Listas dos melhores', description: 'Os melhores produtos de cada categoria, ranqueados.' },
+  guia: { slug: 'dicas', label: 'Dicas', labelPlural: 'Guias e Dicas', description: 'Artigos úteis para escolher, usar e cuidar melhor das coisas do dia a dia.' },
 } as const;
 
 export type ArticleType = keyof typeof ARTICLE_TYPES;

@@ -38,10 +38,13 @@ const minutos = readingTime(artigo.body, extraWords);
 const tipo = ARTICLE_TYPES[d.tipo];
 const isLista = d.tipo === 'lista';
 const isComparativo = d.tipo === 'comparativo';
+// Guias e Dicas: artigo informativo. Produtos são opcionais e aparecem só no fim, sem caixas de compra no meio.
+const isGuia = d.tipo === 'guia';
+const avisoSaude = ['saude-e-bem-estar', 'bebes-e-criancas'].includes(categoria.id) || (isGuia && d.subcategoria === 'bem-estar');
 const produtosOrdenados = isLista ? [...d.produtos].sort((a, b) => b.nota - a.nota) : d.produtos;
 const topPick = produtoDestaque(artigo, produtosOrdenados);
 const tituloDestaque = d.tipo === 'review' ? 'Onde comprar' : 'Em destaque';
-const valuePick = produtosOrdenados.find((p) => p.selo === 'melhor-custo-beneficio' && produtoId(p) !== produtoId(topPick));
+const valuePick = isGuia ? undefined : produtosOrdenados.find((p) => p.selo === 'melhor-custo-beneficio' && produtoId(p) !== produtoId(topPick));
 const norm = (t: string) => t.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 const GENERIC = new Set(['air', 'fryer', 'fritadeira', 'sem', 'oleo', 'com', 'para', 'preto', 'preta', 'branco', 'branca', 'inox', 'litros', 'mala', 'bordo', 'kit', 'fone', 'bluetooth', 'monitor', 'garrafa', 'termica', 'travesseiro', 'protetor', 'solar', 'secador', 'cabelo', 'polegadas', 'versao', 'modelo', 'serie', 'unidades', 'pet', 'para', 'and', 'the']);
 const ctaKeys = (p: (typeof produtosOrdenados)[number]) => {
@@ -50,11 +53,16 @@ const ctaKeys = (p: (typeof produtosOrdenados)[number]) => {
   return { marca, words: Array.from(new Set(words)).slice(0, 8).join(' ') };
 };
 const jsonLd = graph(articleSchema(artigo, autor, categoria, bodyWords + extraWords));
-const tocExtras = [
-  ...(d.produtos.length > 1 ? [{ slug: 'tabela-comparativa', text: 'Comparativo rápido' }] : []),
-  { slug: 'produtos', text: isLista ? 'Ranking completo' : isComparativo ? 'Os dois produtos em detalhe' : 'Análise detalhada' },
-  { slug: 'faq', text: 'Perguntas frequentes' },
-];
+const tocExtras = isGuia
+  ? [
+    { slug: 'faq', text: 'Perguntas frequentes' },
+    ...(d.produtos.length ? [{ slug: 'produtos', text: 'Produtos citados' }] : []),
+  ]
+  : [
+    ...(d.produtos.length > 1 ? [{ slug: 'tabela-comparativa', text: 'Comparativo rápido' }] : []),
+    { slug: 'produtos', text: isLista ? 'Ranking completo' : isComparativo ? 'Os dois produtos em detalhe' : 'Análise detalhada' },
+    { slug: 'faq', text: 'Perguntas frequentes' },
+  ];
 ---
 <BaseLayout
   title={d.seoTitle ?? d.title}
@@ -90,11 +98,13 @@ const tocExtras = [
         </span>
         <span class="inline-flex items-center gap-1"><Icon name="calendar" size={15} /> {d.updatedDate ? `Atualizado em ${formatDate(d.updatedDate)}` : `Publicado em ${formatDate(d.pubDate)}`}</span>
         <span class="inline-flex items-center gap-1"><Icon name="clock" size={15} /> {minutos} min de leitura</span>
-        <a href="/metodologia/" class="inline-flex items-center gap-1 underline decoration-dotted underline-offset-2" title="Como avaliamos"><Icon name="info" size={15} /> {d.testadoFisicamente ? 'Testado por nós' : 'Análise de especificações e dados verificados'}</a>
+        {isGuia
+          ? <a href="/politica-editorial/" class="inline-flex items-center gap-1 underline decoration-dotted underline-offset-2" title="Política editorial"><Icon name="info" size={15} /> Artigo informativo</a>
+          : <a href="/metodologia/" class="inline-flex items-center gap-1 underline decoration-dotted underline-offset-2" title="Como avaliamos"><Icon name="info" size={15} /> {d.testadoFisicamente ? 'Testado por nós' : 'Análise de especificações e dados verificados'}</a>}
       </div>
     </header>
 
-    {['saude-e-bem-estar', 'bebes-e-criancas'].includes(categoria.id) && (
+    {avisoSaude && (
       <aside class="mt-3 flex items-start gap-3 rounded-xl border border-star-500/40 bg-star-400/10 p-4 text-sm" role="note" aria-label="Aviso de saúde">
         <Icon name="shield" size={18} class="mt-0.5 shrink-0 text-star-600" />
         <p><strong>Este conteúdo é informativo e não substitui avaliação médica ou profissional.</strong> Produtos para dor, sono, postura ou cuidados com bebês devem ser usados conforme orientação do fabricante; em caso de sintomas persistentes, procure um profissional de saúde.</p>
@@ -111,10 +121,10 @@ const tocExtras = [
         ) : (
           <>
             <figure class="card overflow-hidden bg-white">
-              <ProductImage src={d.imagem.src} alt={d.imagem.alt} width={d.imagem.largura} height={d.imagem.altura} class="mx-auto max-h-[420px] w-full object-contain p-6" sizes="(min-width: 1024px) 800px, 100vw" loading="eager" fetchpriority="high" data-pagefind-meta="image[src], image_alt[alt]" />
+              <ProductImage src={d.imagem.src} alt={d.imagem.alt} width={d.imagem.largura} height={d.imagem.altura} class={isGuia ? 'max-h-[420px] w-full object-cover' : 'mx-auto max-h-[420px] w-full object-contain p-6'} sizes="(min-width: 1024px) 800px, 100vw" loading="eager" fetchpriority="high" data-pagefind-meta="image[src], image_alt[alt]" />
               {d.imagem.credito && <figcaption class="border-t border-soft px-4 py-2 text-xs muted">{d.imagem.credito}</figcaption>}
             </figure>
-            <BuyBox produto={topPick} titulo={tituloDestaque} />
+            {!isGuia && <BuyBox produto={topPick} titulo={tituloDestaque} />}
           </>
         )}
 
@@ -124,26 +134,28 @@ const tocExtras = [
           <Content />
         </div>
         <div hidden data-pagefind-ignore>
-          {produtosOrdenados.map((p) => {
+          {!isGuia && produtosOrdenados.map((p) => {
             const k = ctaKeys(p);
             return <template data-cta-produto data-asin={p.asin} data-marca={k.marca} data-words={k.words} data-top={p.asin === topPick.asin ? '1' : ''}><BuyBox produto={p} /></template>;
           })}
         </div>
 
-        {valuePick ? <BuyBox produto={valuePick} titulo="Quer gastar menos? Melhor custo-benefício" /> : <BuyBox produto={topPick} titulo={d.tipo === 'review' ? 'Gostou? Garanta o seu' : 'Em destaque'} />}
+        {!isGuia && (valuePick ? <BuyBox produto={valuePick} titulo="Quer gastar menos? Melhor custo-benefício" /> : <BuyBox produto={topPick} titulo={d.tipo === 'review' ? 'Gostou? Garanta o seu' : 'Em destaque'} />)}
 
         <AdSlot />
 
-        {d.produtos.length > 1 && <ComparisonTable produtos={produtosOrdenados} chaves={d.tabelaComparativa} titulo={isComparativo ? 'Frente a frente' : 'Comparativo rápido'} />}
+        {!isGuia && d.produtos.length > 1 && <ComparisonTable produtos={produtosOrdenados} chaves={d.tabelaComparativa} titulo={isComparativo ? 'Frente a frente' : 'Comparativo rápido'} />}
 
-        {d.produtos.length > 1 && <ComparativoPrecos produtos={produtosOrdenados} />}
+        {!isGuia && d.produtos.length > 1 && <ComparativoPrecos produtos={produtosOrdenados} />}
 
-        <section id="produtos" class="mt-12 scroll-mt-24" aria-labelledby="produtos-h">
-          <h2 id="produtos-h" class="mb-6 text-2xl font-bold sm:text-3xl">{isLista ? 'Ranking completo: produto por produto' : isComparativo ? 'Os dois produtos em detalhe' : 'Análise detalhada'}</h2>
-          <div class="space-y-8">
-            {produtosOrdenados.map((p, i) => <ProductCard produto={p} posicao={isLista ? i + 1 : undefined} />)}
-          </div>
-        </section>
+        {!isGuia && (
+          <section id="produtos" class="mt-12 scroll-mt-24" aria-labelledby="produtos-h">
+            <h2 id="produtos-h" class="mb-6 text-2xl font-bold sm:text-3xl">{isLista ? 'Ranking completo: produto por produto' : isComparativo ? 'Os dois produtos em detalhe' : 'Análise detalhada'}</h2>
+            <div class="space-y-8">
+              {produtosOrdenados.map((p, i) => <ProductCard produto={p} posicao={isLista ? i + 1 : undefined} />)}
+            </div>
+          </section>
+        )}
 
         {d.criterios && d.criterios.length > 0 && (
           <section class="mt-12" aria-labelledby="criterios">
@@ -162,10 +174,16 @@ const tocExtras = [
 
         <FAQ itens={d.faq} />
 
-        {isComparativo
+        {isGuia ? (
+          d.produtos.length > 0 && (
+            <section id="produtos" class="mt-12 scroll-mt-24" aria-labelledby="produtos-h">
+              <h2 id="produtos-h" class="text-2xl font-bold">Produtos citados neste artigo</h2>
+              {produtosOrdenados.map((p) => <BuyBox produto={p} />)}
+            </section>
+          )
+        ) : isComparativo
           ? <div class="mt-10"><ComparativoCapa produtos={produtosOrdenados} destaqueAsin={produtoId(topPick)} titulo="Já decidiu? Compre o seu" variant="final" /></div>
           : <BuyBox produto={topPick} titulo={d.tipo === 'review' ? 'Pronto para decidir?' : 'Ainda em dúvida? Em destaque'} />}
-
 
         <div class="mt-6"><Share url={absUrl} title={d.title} /></div>
         <div class="mt-8"><AuthorBox autor={autor} /></div>
@@ -175,7 +193,7 @@ const tocExtras = [
 
       <aside class="hidden lg:block">
         <div class="sticky top-24 space-y-6">
-          <BuyBox produto={topPick} variant="sidebar" titulo={tituloDestaque} />
+          {!isGuia && <BuyBox produto={topPick} variant="sidebar" titulo={tituloDestaque} />}
           <TOC headings={headings} extras={tocExtras} />
           <div class="card p-5 text-sm">
             <p class="text-xs font-bold uppercase tracking-wider muted">Para quem é este artigo</p>
@@ -191,12 +209,14 @@ const tocExtras = [
     <RelatedArticles artigos={relacionados} />
   </article>
 
-  <div class="fixed inset-x-0 bottom-0 z-40 border-t border-soft bg-[var(--bg)]/95 px-3 py-2 backdrop-blur lg:hidden" data-barra-compra hidden>
-    <div class="mx-auto flex max-w-xl items-center gap-3">
-      <span class="min-w-0 flex-1 truncate text-sm font-semibold">{topPick.nome}</span>
-      <a href={produtoUrl(topPick)} rel="sponsored nofollow noopener" target="_blank" class="btn-buy shrink-0 px-4 py-2 text-sm" data-asin={produtoId(topPick)} data-track="affiliate-click">Comprar agora</a>
+  {!isGuia && (
+    <div class="fixed inset-x-0 bottom-0 z-40 border-t border-soft bg-[var(--bg)]/95 px-3 py-2 backdrop-blur lg:hidden" data-barra-compra hidden>
+      <div class="mx-auto flex max-w-xl items-center gap-3">
+        <span class="min-w-0 flex-1 truncate text-sm font-semibold">{topPick.nome}</span>
+        <a href={produtoUrl(topPick)} rel="sponsored nofollow noopener" target="_blank" class="btn-buy shrink-0 px-4 py-2 text-sm" data-asin={produtoId(topPick)} data-track="affiliate-click">Comprar agora</a>
+      </div>
     </div>
-  </div>
+  )}
 
   <script>
     // Tags abrem a busca interna sem expor URLs /busca/?q= como links rastreáveis (o robots.txt bloqueia /busca/).
