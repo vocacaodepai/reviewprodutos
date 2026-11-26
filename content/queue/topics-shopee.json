@@ -1259,7 +1259,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "cadeirinha-galzerano-maximus-e-boa",
+      "published_at": "2026-11-26"
     },
     {
       "id": "bebes-e-criancas-review-s002",
