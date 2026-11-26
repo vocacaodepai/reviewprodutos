@@ -62,9 +62,12 @@ produtos:
       "Garantia": "12 meses"
     faixaPreco: "$"
     precoMercado:
-      min: 330
-      max: 390
-      referencia: "2026-10"
+      min: 350
+      max: 400
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 330, max: 390 }
+      tendencia: estavel
       observacao: "Costuma ficar mais barato em datas promocionais como Black Friday."
       fontes:
         - { nome: "Buscapé — comparador de preços", url: "https://www.buscape.com.br/smart-speaker/smart-speaker-amazon-echo-pop-alexa" }

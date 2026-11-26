@@ -16053,7 +16053,9 @@
       ],
       "prioridade": 1,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "le-male-ou-azzaro-wanted",
+      "published_at": "2026-11-26"
     },
     {
       "id": "beleza-e-cuidados-pessoais-comparativo-025",
