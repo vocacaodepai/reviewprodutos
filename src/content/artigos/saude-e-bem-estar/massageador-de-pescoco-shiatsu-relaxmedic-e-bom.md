@@ -57,10 +57,17 @@ produtos:
       "Garantia": "12 meses com assistência técnica própria"
     faixaPreco: "$$"
     precoMercado:
-      min: 550
+      min: 380
       max: 580
-      referencia: "2026-10"
+      referencia: "2026-11"
+      historico:
+        - { periodo: "2026-10", min: 550, max: 580 }
+      tendencia: estavel
+      observacao: "Marketplaces e farmácias seguem perto do topo da faixa; o valor mais baixo apareceu em oferta na loja da própria marca em novembro de 2026."
       fontes:
+        - { nome: "Relaxmedic — Massageador Pescoço Blue 6D", url: "https://relaxmedic.com.br/products/massageador-de-pescoco-blue-6d-azul-1" }
+        - { nome: "Santa Apolônia — Massageador Blue 6D Relaxmedic", url: "https://www.santaapolonia.com.br/produtos/massageador-de-pescoco-e-ombros-shiatsu-blue-6d-relaxmedic-3160600" }
+        - { nome: "Boutique Saúde — Massageador Blue 6D Relaxmedic", url: "https://www.boutiquesaude.com.br/massageador-de-pescoo-shiatu-com-wireless-6d-blue-relaxmedic" }
         - { nome: "Buscapé — Massageador Pescoço Wireless 6D Blue Relaxmedic", url: "https://www.buscape.com.br/massageador-corporal/massageador-pescoco-wireless-6d-blue-relaxmedic" }
         - { nome: "Drogasil — Massageador de Pescoço 6D Blue Relaxmedic", url: "https://www.drogasil.com.br/massageador-de-pescoco-shiatu-com-wireless-6d-blue-relaxmedic-1468941.html" }
     idealPara: "Quem trabalha sentado, chega em casa com pescoço e ombros tensos e quer 10 a 15 minutos de alívio sem fio"
