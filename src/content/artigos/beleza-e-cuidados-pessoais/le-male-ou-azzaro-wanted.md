@@ -16,7 +16,7 @@ tags:
   - perfume masculino doce
   - eau de toilette
 pubDate: 2026-11-26T00:00:00.000Z
-updatedDate: 2026-11-26T00:00:00.000Z
+updatedDate: 2026-11-27T00:00:00.000Z
 autor: bruno-danello
 imagem:
   src: 'https://m.media-amazon.com/images/I/51KlpNWd+aL._AC_SL1500_.jpg'
@@ -98,8 +98,8 @@ produtos:
       Frasco: Torso listrado em lata de metal
     faixaPreco: $$$
     precoMercado:
-      min: 460
-      max: 660
+      min: 450
+      max: 770
       referencia: 2026-11
       observacao: >-
         Faixa do frasco de 125 ml eau de toilette em comparadores e lojas; varia
@@ -107,8 +107,10 @@ produtos:
       fontes:
         - nome: 'Buscapé: Jean Paul Gaultier Le Male 125 ml'
           url: 'https://www.buscape.com.br/busca/jean+paul+gaultier+le+male+125ml'
-        - nome: 'Buscapé: Le Male 125'
-          url: 'https://www.buscape.com.br/busca/le+male+125'
+        - nome: 'Zoom: Le Male Eau de Toilette 125 ml'
+          url: 'https://www.zoom.com.br/busca/le+male+eau+de+toilette+125ml'
+        - nome: 'Magazine Luiza: ofertas Le Male 125 ml'
+          url: 'https://www.magazineluiza.com.br/busca/le+male+125ml/'
     idealPara: >-
       Quem gosta de perfume doce e marcante para encontros, saídas à noite e
       dias frescos
@@ -168,19 +170,19 @@ produtos:
       Frasco: 'Formato de tambor, descrito como recarregável'
     faixaPreco: $$$
     precoMercado:
-      min: 450
-      max: 550
+      min: 490
+      max: 750
       referencia: 2026-11
       observacao: >-
         Faixa do frasco de 100 ml eau de toilette em lojas e comparadores;
         marketplaces mostram valores fora dela.
       fontes:
-        - nome: 'Buscapé: Azzaro Wanted Eau de Toilette 100 ml'
+        - nome: 'Buscapé: Azzaro Wanted Eau de Toilette'
           url: 'https://www.buscape.com.br/busca/azzaro+wanted+eau+de+toilette'
+        - nome: 'Zoom: Azzaro Wanted Eau de Toilette 100 ml'
+          url: 'https://www.zoom.com.br/busca/azzaro+wanted+eau+de+toilette+100ml'
         - nome: 'Magazine Luiza: ofertas Azzaro Wanted'
           url: 'https://www.magazineluiza.com.br/busca/azzaro+wanted/'
-        - nome: 'Mercado Livre: Azzaro Wanted 100 ml'
-          url: 'https://lista.mercadolivre.com.br/perfume-azzaro-wanted-100ml'
     idealPara: >-
       Quem está comprando o primeiro perfume de grife e quer algo cítrico e
       especiado para sair
@@ -350,12 +352,11 @@ Os dois frascos são decorativos e pouco práticos para levar na mochila. O Le M
 
 - Abertura cítrica e picante, menos adocicada.
 - Perfil mais fácil para quem está começando nos perfumes de grife.
-- Faixa de preço do frasco um pouco mais concentrada, com teto menor.
 - Proposta de frasco recarregável, segundo as lojas.
 
 ## Preço e custo-benefício
 
-Os dois ficam na faixa premium dos perfumes importados populares, com valores que se sobrepõem. Pela estimativa de mercado mostrada nos cartões, o custo por mililitro no meio da faixa tende a ser um pouco menor no Le Male, graças aos 25 ml extras. Como a variação entre vendedores é grande, compare sempre o mesmo volume, a mesma concentração e o mesmo nome completo.
+Os dois ficam na faixa premium dos perfumes importados populares, com valores que se sobrepõem. Pela estimativa de mercado mostrada nos cartões, o custo por mililitro no meio da faixa tende a ser menor no Le Male, graças aos 25 ml extras. Como a variação entre vendedores é grande, compare sempre o mesmo volume, a mesma concentração e o mesmo nome completo.
 
 Antes de pagar, confira quatro pontos: o vendedor, o lacre da caixa, o código de lote igual na embalagem e no frasco, e o rótulo em português com os dados do importador. Anúncios de teste, sem caixa ou sem tampa, são outro tipo de produto e precisam dizer isso com clareza. Em compras pela internet, o Código de Defesa do Consumidor dá sete dias para desistir, contados do recebimento; guarde a nota e a embalagem.
 

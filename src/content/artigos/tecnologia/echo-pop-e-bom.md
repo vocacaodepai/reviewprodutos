@@ -7,6 +7,7 @@ categoria: tecnologia
 subcategoria: casa-inteligente
 tags: ["echo pop", "alexa", "smart speaker", "casa inteligente", "amazon echo"]
 pubDate: 2026-10-07
+updatedDate: 2026-11-27
 autor: bruno-danello
 imagem:
   src: "https://m.media-amazon.com/images/I/8120tVg3AcL._AC_SL1500_.jpg"
@@ -62,12 +63,12 @@ produtos:
       "Garantia": "12 meses"
     faixaPreco: "$"
     precoMercado:
-      min: 350
-      max: 400
+      min: 395
+      max: 460
       referencia: "2026-11"
       historico:
         - { periodo: "2026-10", min: 330, max: 390 }
-      tendencia: estavel
+      tendencia: subindo
       observacao: "Costuma ficar mais barato em datas promocionais como Black Friday."
       fontes:
         - { nome: "Buscapé — comparador de preços", url: "https://www.buscape.com.br/smart-speaker/smart-speaker-amazon-echo-pop-alexa" }
