@@ -3295,7 +3295,9 @@
       ],
       "prioridade": 2,
       "sazonal": null,
-      "status": "pending"
+      "status": "published",
+      "published_slug": "termometro-relaxmedic-clean-view-e-bom",
+      "published_at": "2026-11-28"
     },
     {
       "id": "saude-e-bem-estar-review-s007",
